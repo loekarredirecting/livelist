@@ -3,7 +3,7 @@
 {
 "league": "AFF Mitsubishi Electric Cup Final",
 "date": "16.1.2022",
-"time": "7:00 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
 "teams": "Thailand Vs Vietnam",
@@ -17,7 +17,7 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=55cb81efaad566e3d9f9547c88faa44e&txTime=63c58e49"
 },
 {
 "type": "China HD",
