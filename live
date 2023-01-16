@@ -45,24 +45,16 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "China SD",
-"livelink": "0"
+"type": "Soco1080 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=b74b9235da187b70e76eb28e37a52a53&txTime=63c5a6a9"
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type": "Soco720 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=4b6d7867ccd63230dd04896e49f07ebd&txTime=63c5a505"
 },
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type": "HD",
-"livelink": "0"
-},
-{
-"type": "FHD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=b74b9235da187b70e76eb28e37a52a53&txTime=63c5a6a9"
 }
 ]
 },
@@ -78,24 +70,16 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "China SD",
-"livelink": "0"
+"type": "Soco1080 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da867a7778d2f4ad084ba880bcc36dfe&txTime=63c5a8c5"
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type": "Soco720 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da867a7778d2f4ad084ba880bcc36dfe&txTime=63c5a8c5"
 },
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type": "HD",
-"livelink": "0"
-},
-{
-"type": "FHD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da867a7778d2f4ad084ba880bcc36dfe&txTime=63c5a8c5"
 }
 ]
 }
