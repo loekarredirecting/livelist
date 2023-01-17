@@ -1,52 +1,125 @@
 [
-
 {
-"league": "Serie A",
-"date": "17.1.2022",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-"teams": "Empoli Vs Sampdoria",
-"ateam": "Empoli",
-"hteam": "Sampdoria",
-"hotmat": "yes",
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
+"hteam": "Mallorca",
+"time": " 12:30 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
+"ateam": "Real Sociedad",
 "link": [
 {
-"type": "Soco1080 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=b74b9235da187b70e76eb28e37a52a53&txTime=63c5a6a9"
+"type": "China SD",
+"livelink": "0"
 },
 {
-"type": "Soco720 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=4b6d7867ccd63230dd04896e49f07ebd&txTime=63c5a505"
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=b74b9235da187b70e76eb28e37a52a53&txTime=63c5a6a9"
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type": "HD",
+"livelink": "0"
+},
+{
+"type": "FHD",
+"livelink": ""
 }
 ]
 },
 {
-"league": " Laliga",
-"date": "17.1.2022",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-"teams": "Cadiz Vs Elche",
-"ateam": "Cadiz",
-"hteam": "Elche",
-"hotmat": "yes",
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
+"hteam": "Liverpool",
+"time": "2:15 AM",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/liverpool.png",
+"ateam": "Wolverhampton",
 "link": [
 {
-"type": "Soco1080 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da867a7778d2f4ad084ba880bcc36dfe&txTime=63c5a8c5"
+"type": "China SD",
+"livelink": "0"
 },
 {
-"type": "Soco720 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da867a7778d2f4ad084ba880bcc36dfe&txTime=63c5a8c5"
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da867a7778d2f4ad084ba880bcc36dfe&txTime=63c5a8c5"
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type": "HD",
+"livelink": "0"
+},
+{
+"type": "FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": " Coppa Italia ",
+"himg": "https://mygoaltv.xyz//team/napoli.png",
+"hteam": "Cremonese",
+"time": " 2:30 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/cremonese.png",
+"ateam": "Napoli",
+"link": [
+{
+"type": "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type": "HD",
+"livelink": "0"
+},
+{
+"type": "FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://mygoaltv.xyz//team/Alaves.png",
+"hteam": "Sevilla",
+"time": " 2:30 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
+"ateam": "Alaves",
+"link": [
+{
+"type": "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type": "HD",
+"livelink": "0"
+},
+{
+"type": "FHD",
+"livelink": ""
 }
 ]
 }
