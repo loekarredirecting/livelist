@@ -37,19 +37,19 @@
 },
 {
 "type": "Soco 720 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=308200cdd05c5875452b3b64476e3027&txTime=63c733b1"
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=bc5d1bdd80f37693c8f3716c94efe880&txTime=63c82e9a"
 },
 {
 "type": "Khmar HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
 },
 {
-"type": "FHD",
-"livelink": ""
+"type": "bein SD",
+"livelink": "http://192.248.160.67:8080/bein_p_1_sd/index.m3u8"
 }
 ]
 },
