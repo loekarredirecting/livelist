@@ -3,7 +3,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "hteam": "Mallorca",
-"time": " live ",
+"time": " 12:30 AM ",
 "date": "2023-01-18",
 "aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "ateam": "Real Sociedad",
@@ -32,11 +32,11 @@
 "ateam": "Wolverhampton",
 "link": [
 {
-"type": "China SD",
-"livelink": "0"
+"type": "Soco 1080 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=af3394d5a58e28d46c2299d197f106da&txTime=63c70c15"
 },
 {
-"type": "Soco HD",
+"type": "Soco 720 HD",
 "livelink": "0"
 },
 {
@@ -63,16 +63,16 @@
 "ateam": "Napoli",
 "link": [
 {
-"type": "China SD",
-"livelink": "0"
+"type": "Soco 1080 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=5415c1193599748c432dbf3cdfa939a3&txTime=63c70d41"
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type": "Soco 720 HD",
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1673989801-0-0-a276a73c192ca4bd7c30a7ef5c56d277&user_session_id=fa68585d1d7bd479c6b6b9edea0f3f2a&sub_m3u8=true&edge_slice=true"
 },
 {
-"type": "China HD",
-"livelink": "0"
+"type": "Soco SD",
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1673989801-0-0-a276a73c192ca4bd7c30a7ef5c56d277&user_session_id=fa68585d1d7bd479c6b6b9edea0f3f2a&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "HD",
