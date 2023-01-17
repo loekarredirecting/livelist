@@ -57,7 +57,7 @@
 "league": " Coppa Italia ",
 "himg": "https://mygoaltv.xyz//team/napoli.png",
 "hteam": "Cremonese",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-18",
 "aimg": "https://mygoaltv.xyz//team/cremonese.png",
 "ateam": "Napoli",
@@ -75,12 +75,12 @@
 "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1673989801-0-0-a276a73c192ca4bd7c30a7ef5c56d277&user_session_id=fa68585d1d7bd479c6b6b9edea0f3f2a&sub_m3u8=true&edge_slice=true"
 },
 {
-"type": "HD",
-"livelink": "0"
+"type": "China HD",
+"livelink": "https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?auth_key=1673998774-0-0-999636bd38b591ac49e92a36e9e5b307&sub_m3u8=true&user_session_id=c880a1eed3c3cd1013dbafc68ab208e7&edge_slice=true"
 },
 {
 "type": "FHD",
-"livelink": ""
+"livelink": "http://192.248.160.67:8080/ad_p_1_hd/index.m3u8"
 }
 ]
 },
