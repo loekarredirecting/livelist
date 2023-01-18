@@ -86,20 +86,12 @@
 "livelink": "https://pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674017581-0-0-4419b103501893e5a3ff07a0854642ae"
 },
 {
-"type": "Khmar HD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1674088595-0-0-0e82c1f99c8b84747fecf09e1f62b984"
 },
 {
-"type": "Bein HD",
-"livelink": "0"
-},
-{
-"type": "Bein SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1674088595-0-0-8b876a0003d9db52457f14804cb21299"
 }
 ]
 },
