@@ -67,16 +67,20 @@
 "ateam": "AC Milan",
 "link": [
 {
-"type": "Soco 1080 HD",
+"type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=83959042b21a342e8a4bd72121c3657d&txTime=63c84805"
-},
-{
-"type": "Soco 720 HD",
-"livelink": "https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1674061201-0-0-e6b7f22b7e863cc8ec94b00c6184046d"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=83959042b21a342e8a4bd72121c3657d&txTime=63c84805"
+"livelink": "https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1674061201-0-0-e6b7f22b7e863cc8ec94b00c6184046d"
+},
+{
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1674088355-0-0-d3812a2a76b2650201693b85ea75773f"
+},
+{
+"type": "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1674088355-0-0-d3812a2a76b2650201693b85ea75773f"
 }
 ]
 },
