@@ -125,8 +125,12 @@
 "livelink": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1674088475-0-0-9c705e559905ca55067cb7a31356837f"
 },
 {
+"type": "Bein HD",
+"livelink": "http://n2.yacinelivetv.com/live/61616000/index.m3u8?t=1yt0uHGIqWit1vc9CpvKdw&e=1674075525"
+},
+{
 "type": "Bein SD",
-"livelink": "0"
+"livelink": "http://n3.yacinelivetv.com/live/97848000/index.m3u8?t=sLaF8KJB33uQzbWT0VBaTA&e=1674075813"
 }
 ]
 },
