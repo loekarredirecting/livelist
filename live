@@ -7,6 +7,19 @@
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/osasuna.png",
 "ateam": "Betis",
-"link": "Paste Here.."
+"link": [
+{
+"type": "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1673998834-0-0-a97ad870a8930387c14717229c9665d2"
+},
+{
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1673998834-0-0-8c3c9953b7c924248f95784e24aa7652"
+},
+{
+"type": "FHD",
+"livelink": "http://go.iptvhn.net:25461/Denis/Denis123/7674"
+}
+]
 }
 ]
