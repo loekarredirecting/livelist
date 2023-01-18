@@ -1,110 +1,72 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
-"hteam": "Mallorca",
-"time": " live ",
+"league": " Copa del Rey ",
+"himg": "https://mygoaltv.xyz//team/Sporting-Gijon.gif",
+"hteam": "Valencia",
+"time": " 12:30 AM ",
 "date": "2023-01-18",
-"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
-"ateam": "Real Sociedad",
-"link": [
-{
-"type": "Soco 1080 HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?auth_key=1673988421-0-0-53880ab28991bd47d8459308033d6f70&sub_m3u8=true&user_session_id=87a18b19320e3ce1c4b729734e30a802&edge_slice=true"
-},
-{
-"type": "Soco 720 HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?auth_key=1673988421-0-0-53880ab28991bd47d8459308033d6f70&sub_m3u8=true&user_session_id=87a18b19320e3ce1c4b729734e30a802&edge_slice=true"
-},
-{
-"type": "Soco 360 SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?auth_key=1673988421-0-0-53880ab28991bd47d8459308033d6f70&sub_m3u8=true&user_session_id=87a18b19320e3ce1c4b729734e30a802&edge_slice=true"
-}
-]
-},
-{
-"league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
-"hteam": "Liverpool",
-"time": "live",
-"date": "2023-01-18",
-"aimg": "https://mygoaltv.xyz//team/liverpool.png",
-"ateam": "Wolverhampton",
-"link": [
-{
-"type": "Soco 1080 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=af3394d5a58e28d46c2299d197f106da&txTime=63c70c15"
-},
-{
-"type": "Soco 720 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=308200cdd05c5875452b3b64476e3027&txTime=63c733b1"
-},
-{
-"type": "China HD",
-"livelink": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=bc5d1bdd80f37693c8f3716c94efe880&txTime=63c82e9a"
-},
-{
-"type": "Khmar HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
-},
-{
-"type": "bein SD",
-"livelink": "http://192.248.160.67:8080/bein_p_1_sd/index.m3u8"
-}
-]
-},
-{
-"league": " Coppa Italia ",
-"himg": "https://mygoaltv.xyz//team/napoli.png",
-"hteam": "Cremonese",
-"time": " live ",
-"date": "2023-01-18",
-"aimg": "https://mygoaltv.xyz//team/cremonese.png",
-"ateam": "Napoli",
-"link": [
-{
-"type": "Soco 1080 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=5415c1193599748c432dbf3cdfa939a3&txTime=63c70d41"
-},
-{
-"type": "Soco 720 HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1673989801-0-0-a276a73c192ca4bd7c30a7ef5c56d277&user_session_id=fa68585d1d7bd479c6b6b9edea0f3f2a&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco 360 SD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1673989801-0-0-a276a73c192ca4bd7c30a7ef5c56d277&user_session_id=fa68585d1d7bd479c6b6b9edea0f3f2a&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "China HD",
-"livelink": "https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?auth_key=1673998774-0-0-999636bd38b591ac49e92a36e9e5b307&sub_m3u8=true&user_session_id=c880a1eed3c3cd1013dbafc68ab208e7&edge_slice=true"
-},
-{
-"type": "FHD",
-"livelink": "http://192.248.160.67:8080/ad_p_1_hd/index.m3u8"
-}
-]
+"aimg": "https://mygoaltv.xyz//team/Valencia.png",
+"ateam": "Sporting Gijon",
+"link": "Paste Here.."
 },
 {
 "league": " Copa del Rey ",
-"himg": "https://mygoaltv.xyz//team/Alaves.png",
-"hteam": "Sevilla",
-"time": " live ",
+"himg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
+"hteam": "Espanyol",
+"time": " 1:30 AM ",
 "date": "2023-01-18",
-"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
-"ateam": "Alaves",
-"link": [
-{
-"type": "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1673998834-0-0-a97ad870a8930387c14717229c9665d2"
+"aimg": "https://mygoaltv.xyz//team/Espanyol.png",
+"ateam": "Athletic Bilbao",
+"link": "Paste Here.."
 },
 {
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1673998834-0-0-8c3c9953b7c924248f95784e24aa7652"
+"league": " Super Cup Italian ",
+"himg": "https://mygoaltv.xyz//team/acmilan.png",
+"hteam": "Inter Milan",
+"time": " 1:30 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
+"ateam": "AC Milan",
+"link": "Paste Here.."
 },
 {
-"type": "FHD",
-"livelink": "http://go.iptvhn.net:25461/Denis/Denis123/7674"
-}
-]
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
+"hteam": "Cardiff City",
+"time": " 2:15 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/cardiff.png",
+"ateam": "Leeds",
+"link": "Paste Here.."
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
+"hteam": "Manchester United",
+"time": " 2:30 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"ateam": "Crystal Palace",
+"link": "Paste Here.."
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://mygoaltv.xyz//team/Levante.png",
+"hteam": "Atletico Madrid",
+"time": " 2:30 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
+"ateam": "Levante",
+"link": "Paste Here.."
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://mygoaltv.xyz//team/betis.png",
+"hteam": "Osasuna",
+"time": " 2:30 AM ",
+"date": "2023-01-18",
+"aimg": "https://mygoaltv.xyz//team/osasuna.png",
+"ateam": "Betis",
+"link": "Paste Here.."
 }
 ]
