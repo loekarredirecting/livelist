@@ -9,16 +9,12 @@
 "ateam": "Athletic Bilbao",
 "link": [
 {
-"type": "Soco 1080 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=643008def56cf83e80f8efe2e3cfe72f&txTime=63c84751"
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1674090095-0-0-913e2ae1d3a337cedcf1848608f81068"
 },
 {
-"type": "Soco 720 HD",
-"livelink": "https://pullalilive.livnvess.com/live/stream-112565_ld.m3u8?auth_key=1674069901-0-0-77904885736c750090acdf44fb31dcba"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=643008def56cf83e80f8efe2e3cfe72f&txTime=63c84751"
+"type": "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1674090095-0-0-0a248cb411b532fa6181d2a3bfa0fd69"
 }
 ]
 },
