@@ -3,34 +3,22 @@
 "league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/Sporting-Gijon.gif",
 "hteam": "Valencia",
-"time": " 12:30 AM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/Valencia.png",
 "ateam": "Sporting Gijon",
 "link": [
 {
-"type": "Soco HD",
+"type": "Soco 1080 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=de87ff22987084e48c8b510c0b30063e&txTime=63c845e9"
+},
+{
+"type": "Soco 720  HD",
 "livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=de87ff22987084e48c8b510c0b30063e&txTime=63c845e9"
 },
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=de87ff22987084e48c8b510c0b30063e&txTime=63c845e9"
-},
-{
-"type": "Khmar HD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type": "Bein HD",
-"livelink": "0"
-},
-{
-"type": "Bein SD",
-"livelink": "0"
 }
 ]
 },
@@ -38,34 +26,22 @@
 "league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
 "hteam": "Espanyol",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/Espanyol.png",
 "ateam": "Athletic Bilbao",
 "link": [
 {
-"type": "Soco HD",
+"type": "Soco 1080 HD",
 "livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=643008def56cf83e80f8efe2e3cfe72f&txTime=63c84751"
 },
 {
-"type": "Soco SD",
+"type": "Soco 720 HD",
 "livelink": "https://pullalilive.livnvess.com/live/stream-112565_ld.m3u8?auth_key=1674069901-0-0-77904885736c750090acdf44fb31dcba"
 },
 {
-"type": "Khmar HD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type": "Bein HD",
-"livelink": "0"
-},
-{
-"type": "Bein SD",
-"livelink": "0"
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=643008def56cf83e80f8efe2e3cfe72f&txTime=63c84751"
 }
 ]
 },
@@ -73,34 +49,22 @@
 "league": " Super Cup Italian ",
 "himg": "https://mygoaltv.xyz//team/acmilan.png",
 "hteam": "Inter Milan",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "AC Milan",
 "link": [
 {
-"type": "Soco HD",
+"type": "Soco 1080 HD",
 "livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=83959042b21a342e8a4bd72121c3657d&txTime=63c84805"
 },
 {
-"type": "Soco SD",
+"type": "Soco 720 HD",
 "livelink": "https://pullalilive.livnvess.com/live/stream-100684_ld.m3u8?auth_key=1674061201-0-0-e6b7f22b7e863cc8ec94b00c6184046d"
 },
 {
-"type": "Khmar HD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type": "Bein HD",
-"livelink": "0"
-},
-{
-"type": "Bein SD",
-"livelink": "0"
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=83959042b21a342e8a4bd72121c3657d&txTime=63c84805"
 }
 ]
 },
