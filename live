@@ -99,7 +99,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "hteam": "Manchester United",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Crystal Palace",
@@ -114,15 +114,15 @@
 },
 {
 "type": "Khmar HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674088475-0-0-f005c16da9a0bdad73ecd076f236c18a"
 },
 {
-"type": "Bein HD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1674088475-0-0-9c705e559905ca55067cb7a31356837f"
 },
 {
 "type": "Bein SD",
