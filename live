@@ -134,7 +134,7 @@
 "league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/Levante.png",
 "hteam": "Atletico Madrid",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "Levante",
@@ -148,20 +148,12 @@
 "livelink": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=34ab7ea5b3f5d3545c9f91e13ef22c64&txTime=63c84a99"
 },
 {
-"type": "Khmar HD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1674088775-0-0-de1c8dd96cde00bae7cd3ef66d7f5be1"
 },
 {
-"type": "Bein HD",
-"livelink": "0"
-},
-{
-"type": "Bein SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1674088775-0-0-c7fabbd3e380033eab3d8c5f066673b4"
 }
 ]
 },
@@ -169,7 +161,7 @@
 "league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/betis.png",
 "hteam": "Osasuna",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/osasuna.png",
 "ateam": "Betis",
