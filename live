@@ -1,29 +1,6 @@
 [
 {
 "league": " Copa del Rey ",
-"himg": "https://mygoaltv.xyz//team/Sporting-Gijon.gif",
-"hteam": "Valencia",
-"time": " live ",
-"date": "2023-01-19",
-"aimg": "https://mygoaltv.xyz//team/Valencia.png",
-"ateam": "Sporting Gijon",
-"link": [
-{
-"type": "Soco 1080 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=de87ff22987084e48c8b510c0b30063e&txTime=63c845e9"
-},
-{
-"type": "Soco 720  HD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=de87ff22987084e48c8b510c0b30063e&txTime=63c845e9"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=de87ff22987084e48c8b510c0b30063e&txTime=63c845e9"
-}
-]
-},
-{
-"league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
 "hteam": "Espanyol",
 "time": " live ",
