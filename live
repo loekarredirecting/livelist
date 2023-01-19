@@ -3,22 +3,22 @@
 "league": " Coppa Italia ",
 "himg": "https://mygoaltv.xyz//team/Atalanta.png",
 "hteam": "Spezia",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/Spezia.gif",
 "ateam": "Atalanta",
 "link": [
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pullalilive.livnvess.com/live/stream-158841_ld.m3u8?auth_key=1674156541-0-0-9d2e5ba8d6ba8c0026b307dc1b223f34"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=b73f419294b698dcba92d3277962b006&txTime=63c99b65"
 },
 {
 "type": "Khmar HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
 },
 {
 "type": "China HD",
@@ -26,7 +26,7 @@
 },
 {
 "type": "Bein HD",
-"livelink": "0"
+"livelink": "http://n3.yacinelivetv.com/live/61616000/index.m3u8?t=IG_lZvf9PC-xu0esgs2bIg&e=1674139409"
 },
 {
 "type": "Bein SD",
@@ -154,7 +154,7 @@
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=329432141882ea9aff27a8ba095ba31c&txTime=63c9990d"
+"livelink": "https://pullalilive.livnvess.com/live/stream-158841_ld.m3u8?auth_key=1674156541-0-0-9d2e5ba8d6ba8c0026b307dc1b223f34"
 },
 {
 "type": "Khmar HD",
