@@ -19,14 +19,41 @@
 {
 "type": "Khmar HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/no-logo.png",
+"hteam": "Paris Saint-Germain",
+"time": " 11:30 PM ",
+"date": "2023-01-19",
+"aimg": "https://mygoaltv.xyz//team/psg.png",
+"ateam": "Riyadh All-Star",
+"link": [
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Khmar HD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
 },
 {
 "type": "Bein HD",
-"livelink": "http://192.248.160.67:8080/ad_p_2_hd/index.m3u8"
+"livelink": "0"
 },
 {
 "type": "Bein SD",
-"livelink": "http://192.248.160.67:8080/ad_p_2_sd/index.m3u8"
+"livelink": "0"
 }
 ]
 },
