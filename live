@@ -69,7 +69,7 @@
 "league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/no-logo.png",
 "hteam": "Barcelona",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-01-20",
 "aimg": "https://mygoaltv.xyz//team/Barcelona.png",
 "ateam": "AD Ceuta",
@@ -80,23 +80,15 @@
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=a6c55a1f4e6804b95c7fd1d572566407&txTime=63c9ab92"
+"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=aa42c60a8dbc37d13feb1c8639e6f03c&txTime=63c9c7b2"
 },
 {
 "type": "Khmar HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may036FHD/playlist.m3u8"
 },
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type": "Bein HD",
-"livelink": "0"
-},
-{
-"type": "Bein SD",
-"livelink": "0"
+"type": "Khmar SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
 }
 ]
 },
