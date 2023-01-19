@@ -25,12 +25,12 @@
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
-"type": "Ad Sports HD",
-"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+"type": "Bein HD",
+"livelink": "http://157.245.222.231:8080/bein_2_hd/index.m3u8"
 },
 {
-"type": "Ad Sports SD",
-"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+"type": "Bein SD",
+"livelink": "http://157.245.222.231:8080/bein_2_sd/index.m3u8"
 }
 ]
 },
@@ -56,16 +56,12 @@
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
 },
 {
-"type": "China HD",
-"livelink": "0"
+"type": "Ad Sports HD",
+"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
 },
 {
-"type": "Bein HD",
-"livelink": "0"
-},
-{
-"type": "Bein SD",
-"livelink": "0"
+"type": "Ad Sports SD",
+"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
 }
 ]
 },
