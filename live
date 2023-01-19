@@ -1,40 +1,5 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/no-logo.png",
-"hteam": "Paris Saint-Germain",
-"time": " live ",
-"date": "2023-01-19",
-"aimg": "https://mygoaltv.xyz//team/psg.png",
-"ateam": "Riyadh All-Star",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=34f6d861c145237304d05f142abd436c&txTime=63c9aade"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=6c471ae907a9e5e6743d37da61f56bb3&txTime=63c9ab19"
-},
-{
-"type": "Khmar HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may036FHD/chunklist.m3u8"
-},
-{
-"type": "Khmar SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "Bein HD",
-"livelink": "http://157.245.222.231:8080/bein_2_hd/index.m3u8"
-},
-{
-"type": "Bein SD",
-"livelink": "http://157.245.222.231:8080/bein_2_sd/index.m3u8"
-}
-]
-},
-{
 "league": " Coppa Italia ",
 "himg": "https://mygoaltv.xyz//team/lazio.png",
 "hteam": "Bologna",
@@ -110,12 +75,20 @@
 "livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=32498b97bbc36d550e5c62f30d82b2ad&txTime=63c9ac46"
 },
 {
+"type": "Khmar HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1674176135-0-0-c01dd6ab070d6090d861f9749bb5a240"
 },
 {
 "type": "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1674176135-0-0-eea2ff87773321ac4715c3461ea878ef"
+},
+{
+"type":  "KhmarSD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }
 ]
 },
@@ -171,10 +144,21 @@
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-161243.m3u8?txSecret=389d709af1b2de61beaa550f18f3c779&txTime=63c9bfba"
 },
-
 {
-"type": "English HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-171964_lhd.m3u8?auth_key=1674175322-0-0-d73a0fb05599ad5030d6bb275b1dbf74&sub_m3u8=true&user_session_id=dbc31462894c7edb2ff5d93bc15ccd95&edge_slice=true"
+"type": "Ad Sports HD",
+"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+},
+{
+"type": "Ad sports SD",
+"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
+},
+{
+"type": "Bein HD",
+"livelink": "0"
+},
+{
+"type": "Bein SD",
+"livelink": "0"
 }
 ]
 }
