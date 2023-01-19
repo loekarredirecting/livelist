@@ -3,7 +3,7 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/no-logo.png",
 "hteam": "Paris Saint-Germain",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/psg.png",
 "ateam": "Riyadh All-Star",
@@ -25,12 +25,12 @@
 "livelink": "0"
 },
 {
-"type": "Bein HD",
-"livelink": "0"
+"type": "Ad Sports HD",
+"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
 },
 {
-"type": "Bein SD",
-"livelink": "0"
+"type": "Ad Sports SD",
+"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
 }
 ]
 },
@@ -38,7 +38,7 @@
 "league": " Coppa Italia ",
 "himg": "https://mygoaltv.xyz//team/lazio.png",
 "hteam": "Bologna",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-01-19",
 "aimg": "https://mygoaltv.xyz//team/Bologna.png",
 "ateam": "Lazio",
