@@ -1,28 +1,5 @@
 [
 {
-"league": " Coppa Italia ",
-"himg": "https://mygoaltv.xyz//team/Atalanta.png",
-"hteam": "Spezia",
-"time": " live ",
-"date": "2023-01-19",
-"aimg": "https://mygoaltv.xyz//team/Spezia.gif",
-"ateam": "Atalanta",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=b73f419294b698dcba92d3277962b006&txTime=63c99b65"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=b73f419294b698dcba92d3277962b006&txTime=63c99b65"
-},
-{
-"type": "Khmar HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/no-logo.png",
 "hteam": "Paris Saint-Germain",
@@ -208,11 +185,11 @@
 "link": [
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-161243.m3u8?txSecret=389d709af1b2de61beaa550f18f3c779&txTime=63c9bfba"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-161243.m3u8?txSecret=389d709af1b2de61beaa550f18f3c779&txTime=63c9bfba"
 },
 {
 "type": "Khmar HD",
