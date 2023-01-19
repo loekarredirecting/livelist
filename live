@@ -10,7 +10,7 @@
 "link": [
 {
 "type": "Soco HD",
-"livelink": "https://pullalilive.livnvess.com/live/stream-158841_ld.m3u8?auth_key=1674156541-0-0-9d2e5ba8d6ba8c0026b307dc1b223f34"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=b73f419294b698dcba92d3277962b006&txTime=63c99b65"
 },
 {
 "type": "Soco SD",
@@ -21,16 +21,12 @@
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
 },
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
 "type": "Bein HD",
-"livelink": "http://n3.yacinelivetv.com/live/61616000/index.m3u8?t=IG_lZvf9PC-xu0esgs2bIg&e=1674139409"
+"livelink": "http://192.248.160.67:8080/ad_p_2_hd/index.m3u8"
 },
 {
 "type": "Bein SD",
-"livelink": "0"
+"livelink": "http://192.248.160.67:8080/ad_p_2_sd/index.m3u8"
 }
 ]
 },
