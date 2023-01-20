@@ -9,11 +9,11 @@
 "ateam": "RB Leipzig",
 "link": [
 {
-"type": "Vietnam(VLC) HD",
+"type": "Vietnam(XLAC) HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
 },
 {
-"type": "Vietnam(VLC) SD",
+"type": "Vietnam(XLAC) SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 },
 {
@@ -65,15 +65,15 @@
 },
 {
 "type": "Soco SD",
-"livelink": "https://pullalilive.livnvess.com/live/stream-113906_ld.m3u8?auth_key=1674248403-0-0-8339cf564c832cd41f431b53f3e6c3d8"
+"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=a06a7c4af6a7e0ff8514f45c349d0724&txTime=63cb0096"
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1674257135-0-0-e708ef15d0a92e55ba8d1c788896f80c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1674257135-0-0-692c97724c5380412ce43fce2150a96a"
 },
 {
 "type": "Bein Sports HD",
@@ -89,7 +89,7 @@
 "league": " English Championship ",
 "himg": "https://mygoaltv.xyz//team/Burnley.gif",
 "hteam": "West Brom",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/westbrom.png",
 "ateam": "Burnley",
