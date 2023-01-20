@@ -52,14 +52,6 @@
 "ateam": "Mallorca",
 "link": [
 {
-"type": "Vietnam(VLC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(VLC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=a06a7c4af6a7e0ff8514f45c349d0724&txTime=63cb0096"
 },
@@ -74,14 +66,6 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1674257135-0-0-692c97724c5380412ce43fce2150a96a"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
 }
 ]
 },
@@ -95,28 +79,12 @@
 "ateam": "Burnley",
 "link": [
 {
-"type": "Vietnam(VLC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(VLC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
 "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674248522-0-0-3c17f3c10767669d08c2b44106aeda4e&user_session_id=9f6c0f211828629166578ca2321af5b6&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
 "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674248522-0-0-3c17f3c10767669d08c2b44106aeda4e&user_session_id=9f6c0f211828629166578ca2321af5b6&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
 },
 {
 "type": "Bein Sports HD",
@@ -132,7 +100,7 @@
 "league": " Cup France ",
 "himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
 "hteam": "Rennes",
-"time": " 2:40 AM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/rennes.png",
 "ateam": "Marseille",
