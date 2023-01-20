@@ -1,32 +1,5 @@
 [
 {
-"league": " Copa del Rey ",
-"himg": "https://mygoaltv.xyz//team/no-logo.png",
-"hteam": "Barcelona",
-"time": " live ",
-"date": "2023-01-20",
-"aimg": "https://mygoaltv.xyz//team/Barcelona.png",
-"ateam": "AD Ceuta",
-"link":[
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=a6c55a1f4e6804b95c7fd1d572566407&txTime=63c9ab92"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=aa42c60a8dbc37d13feb1c8639e6f03c&txTime=63c9c7b2"
-},
-{
-"type": "Khmar HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may036FHD/playlist.m3u8"
-},
-{
-"type": "Khmar SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Tottenham",
@@ -58,72 +31,6 @@
 {
 "type":  "China SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " Copa del Rey ",
-"himg": "https://mygoaltv.xyz//team/villarreal.png",
-"hteam": "Real Madrid",
-"time": " live ",
-"date": "2023-01-20",
-"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
-"ateam": "Villarreal",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=329432141882ea9aff27a8ba095ba31c&txTime=63c9990d"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=329432141882ea9aff27a8ba095ba31c&txTime=63c9990d"
-},
-{
-"type": "Khmar HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may037FHD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-486118.m3u8?auth_key=1674176195-0-0-9d106d822a8322498169d50497b7df5d"
-},
-{
-"type": "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-486118_ld.m3u8?auth_key=1674176195-0-0-ec919dd2297feac8962f89b6c9b50eb3"
-},
-{
-"type": "Khmar SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " Coppa Italia ",
-"himg": "https://mygoaltv.xyz//team/Juventus.png",
-"hteam": "Monza",
-"time": " live ",
-"date": "2023-01-20",
-"aimg": "https://mygoaltv.xyz//team/ac-monza.png",
-"ateam": "Juventus",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-161243.m3u8?txSecret=389d709af1b2de61beaa550f18f3c779&txTime=63c9bfba"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-161243.m3u8?txSecret=389d709af1b2de61beaa550f18f3c779&txTime=63c9bfba"
-},
-{
-"type": "Ad Sports HD",
-"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-},
-{
-"type": "Ad sports SD",
-"livelink": "https://admdn5ta.cdn.mgmlcdn.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1674176255-0-0-154ec275cd2fdaddbec7cd722c8ee482"
 }
 ]
 }
