@@ -85,14 +85,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674248522-0-0-3c17f3c10767669d08c2b44106aeda4e&user_session_id=9f6c0f211828629166578ca2321af5b6&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
 }
 ]
 },
@@ -106,36 +98,12 @@
 "ateam": "Marseille",
 "link": [
 {
-"type": "Vietnam(VLC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(VLC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
 "livelink": "https://pullalilive.livnvess.com/live/stream-143449_ld.m3u8?auth_key=1674248642-0-0-2d191e2f2893b3ace3b3f9674352ef5a"
 },
 {
 "type": "Soco SD",
 "livelink": "https://pull06.scstream.net/live/stream-132343_lsd.m3u8?auth_key=1674248702-0-0-00561e95fb73030f80afa6894ec74e64"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
 }
 ]
 }
