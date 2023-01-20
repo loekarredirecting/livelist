@@ -36,27 +36,27 @@
 "ateam": "Manchester City",
 "link": [
 {
-"type": "Soco HD",
+"type": "Khmar(VLC) HD",
 "livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=8db738be50aa21c5d0ca70467b9bf993&txTime=63c99949"
 },
 {
-"type": "Soco SD",
+"type": "Khmar(VLC) SD",
 "livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=32498b97bbc36d550e5c62f30d82b2ad&txTime=63c9ac46"
 },
 {
-"type": "Khmar HD",
+"type": "Soco HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 },
 {
-"type": "China HD",
+"type": "Soco SD",
 "livelink": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1674176135-0-0-c01dd6ab070d6090d861f9749bb5a240"
 },
 {
-"type": "China SD",
+"type": "China HD",
 "livelink": "https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1674176135-0-0-eea2ff87773321ac4715c3461ea878ef"
 },
 {
-"type":  "KhmarSD",
+"type":  "China SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }
 ]
