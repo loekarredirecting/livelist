@@ -1,44 +1,216 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/manchestercity.png",
-"hteam": "Tottenham",
-"time": " live ",
-"date": "2023-01-20",
-"aimg": "https://mygoaltv.xyz//team/tottenham.png",
-"ateam": "Manchester City",
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
+"hteam": "Bayern Munich",
+"time": " 2:00 AM ",
+"date": "2023-01-21",
+"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"ateam": "RB Leipzig",
 "link": [
 {
-"type": "Khmar(VLC) HD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=8db738be50aa21c5d0ca70467b9bf993&txTime=63c99949"
+"type": "Vietnam(VLC) HD",
+"livelink": "0"
 },
 {
-"type": "Khmar(VLC) SD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=32498b97bbc36d550e5c62f30d82b2ad&txTime=63c9ac46"
+"type": "Vietnam(VLC) SD",
+"livelink": "0"
 },
 {
-"type": "Soco(1) HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "Soco(2) HD",
-"livelink": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1674176135-0-0-c01dd6ab070d6090d861f9749bb5a240"
+"type": "Soco SD",
+"livelink": "0"
 },
 {
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1674176135-0-0-eea2ff87773321ac4715c3461ea878ef"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
+"livelink": "0"
 },
 {
 "type": "Bein Sports HD",
-"livelink": "https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1674176135-0-0-eea2ff87773321ac4715c3461ea878ef"
+"livelink": "0"
 },
 {
 "type": "Bein Sports SD",
-"livelink": "https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1674176135-0-0-eea2ff87773321ac4715c3461ea878ef"
+"livelink": "0"
+}
+]
+},
+{
+"league": " English Championship ",
+"himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
+"hteam": "Hull City",
+"time": " 2:15 AM ",
+"date": "2023-01-21",
+"aimg": "https://mygoaltv.xyz//team/hullcity.png",
+"ateam": "Sheffield United",
+"link": [
+{
+"type": "Vietnam(VLC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(VLC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Mallorca.gif",
+"hteam": "Celta Vigo",
+"time": " 2:30 Am ",
+"date": "2023-01-21",
+"aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
+"ateam": "Mallorca",
+"link": [
+{
+"type": "Vietnam(VLC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(VLC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " English Championship ",
+"himg": "https://mygoaltv.xyz//team/Burnley.gif",
+"hteam": "West Brom",
+"time": " 2:30 AM ",
+"date": "2023-01-21",
+"aimg": "https://mygoaltv.xyz//team/westbrom.png",
+"ateam": "Burnley",
+"link": [
+{
+"type": "Vietnam(VLC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(VLC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Cup France ",
+"himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
+"hteam": "Rennes",
+"time": " 2:40 AM ",
+"date": "2023-01-21",
+"aimg": "https://mygoaltv.xyz//team/rennes.png",
+"ateam": "Marseille",
+"link": [
+{
+"type": "Vietnam(VLC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(VLC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
 }
 ]
 }
