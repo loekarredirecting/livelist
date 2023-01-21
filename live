@@ -168,14 +168,6 @@
 "ateam": "Salernitana",
 "link": [
 {
-"type": "Vietnam(XLAC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=07c08bcb75fbf6bb5463536759df0139&txTime=63cc447e"
 },
@@ -185,19 +177,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1674340595-0-0-0e6aea4a9a14603172793b411c70733a"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1674340595-0-0-159d5d3a528e24ea0e5ad5b2fab53e8c"
 }
 ]
 },
