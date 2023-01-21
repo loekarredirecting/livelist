@@ -202,36 +202,12 @@
 "ateam": "Stuttgart",
 "link": [
 {
-"type": "Vietnam(XLAC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
 "livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-106737_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674328982-0-0-762332c7a2b3009486cb00f363cb635a&user_session_id=efb9133a7d91c1e7ee9e305073de186a"
 },
 {
 "type": "Soco SD",
 "livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-106737_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674328982-0-0-762332c7a2b3009486cb00f363cb635a&user_session_id=efb9133a7d91c1e7ee9e305073de186a"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
 }
 ]
 },
