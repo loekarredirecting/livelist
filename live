@@ -212,19 +212,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-956896.m3u8?auth_key=1674340715-0-0-e289284a98bd944179eff1774f777e45"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-956896_ld.m3u8?auth_key=1674340715-0-0-34a34ed6db166ee8d688146ca6fa95dd"
 }
 ]
 },
@@ -255,19 +247,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-491355.m3u8?auth_key=1674340775-0-0-c7336d8599280aa808905f8a16275267"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-491355_ld.m3u8?auth_key=1674340775-0-0-b96f4889e73458110a2031e8e4cc3fcf"
 }
 ]
 },
@@ -303,14 +287,6 @@
 {
 "type":  "China SD",
 "livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
 }
 ]
 },
@@ -341,19 +317,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674340835-0-0-c939149e305a40acade45c93778f76c2"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1674340835-0-0-c304ea664ce22701e883243fa4db6afd"
 }
 ]
 },
@@ -388,14 +356,6 @@
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
 "livelink": "0"
 }
 ]
