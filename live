@@ -1,76 +1,6 @@
 [
 {
 "league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
-"hteam": "Nottingham Forest",
-"time": " live ",
-"date": "2023-01-21",
-"aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
-"ateam": "Bournemouth",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=0d088cc0d6a230e1234fa1e6bbb3829d&txTime=63cc4f46"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=0d088cc0d6a230e1234fa1e6bbb3829d&txTime=63cc4f46"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-431228.m3u8?auth_key=1674332375-0-0-572b2d16426d79c22a97a74439afbafd"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-431228_ld.m3u8?auth_key=1674332375-0-0-8cad2f28d53bd71fcab6a035cbee4ab2"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Leicester-City.gif",
-"hteam": "Brighton",
-"time": " live ",
-"date": "2023-01-21",
-"aimg": "https://mygoaltv.xyz//team/Brighton.gif",
-"ateam": "Leicester City",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=3a25f736b09a1c1b4a9ebd11ac7a630a&txTime=63cc3c86"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=3a25f736b09a1c1b4a9ebd11ac7a630a&txTime=63cc3c86"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-956896.m3u8?auth_key=1674332435-0-0-00e6ae34114ebb6e85e9eb7a41bc2942"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-956896.m3u8?auth_key=1674332435-0-0-00e6ae34114ebb6e85e9eb7a41bc2942"
-}
-]
-},
-{
-"league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/southampton.png",
 "hteam": "Aston Villa",
 "time": " live ",
@@ -101,41 +31,6 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1674333395-0-0-e4acbe0d70b6ba76eabc641d43a08f75"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/westham.png",
-"hteam": "Everton",
-"time": " live ",
-"date": "2023-01-21",
-"aimg": "https://mygoaltv.xyz//team/everton.png",
-"ateam": "West Ham",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may122/chunklist.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may122/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull06.scstream.net/live/stream-141691_lsd.m3u8?auth_key=1674334142-0-0-4d5deb84a971d72742e19bcbc50ae0bf"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull06.scstream.net/live/stream-141691_lsd.m3u8?auth_key=1674334142-0-0-4d5deb84a971d72742e19bcbc50ae0bf"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1674332555-0-0-8b44fc06eb08fe143785c60191066e42"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1674332555-0-0-51b839c41ae29833d0018d4a5e525016"
 }
 ]
 },
