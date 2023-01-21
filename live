@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
-"hteam": "Real Sociedad",
-"time": " live ",
-"date": "2023-01-21",
-"aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
-"ateam": "Rayo Vallecano",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1674390887-0-0-5bdb2ea919dc98322f0940485be9d83a"
-},
-{
-"type":  "China SD",
-"livelink": "https://standard-pull.qcllh.com/sm/10021_831938_lhd.flv?auth_key=1674390887-0-0-5bdb2ea919dc98322f0940485be9d83a"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Verona.png",
 "hteam": "Lecce",
