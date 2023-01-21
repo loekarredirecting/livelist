@@ -133,7 +133,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
 "hteam": "Nottingham Forest",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "ateam": "Bournemouth",
@@ -156,19 +156,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-431228.m3u8?auth_key=1674332375-0-0-572b2d16426d79c22a97a74439afbafd"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-431228_ld.m3u8?auth_key=1674332375-0-0-8cad2f28d53bd71fcab6a035cbee4ab2"
 }
 ]
 },
@@ -176,7 +168,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "hteam": "Brighton",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/Brighton.gif",
 "ateam": "Leicester City",
@@ -199,19 +191,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-956896.m3u8?auth_key=1674332435-0-0-00e6ae34114ebb6e85e9eb7a41bc2942"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-956896.m3u8?auth_key=1674332435-0-0-00e6ae34114ebb6e85e9eb7a41bc2942"
 }
 ]
 },
@@ -219,7 +203,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/southampton.png",
 "hteam": "Aston Villa",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/astonvilla.png",
 "ateam": "Southampton",
@@ -247,14 +231,6 @@
 {
 "type":  "China SD",
 "livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
 }
 ]
 },
@@ -262,7 +238,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/westham.png",
 "hteam": "Everton",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/everton.png",
 "ateam": "West Ham",
@@ -285,19 +261,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1674332555-0-0-8b44fc06eb08fe143785c60191066e42"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1674332555-0-0-51b839c41ae29833d0018d4a5e525016"
 }
 ]
 },
@@ -305,7 +273,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Espanyol.png",
 "hteam": "Betis",
-"time": " 9:45 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Espanyol",
