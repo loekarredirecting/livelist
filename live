@@ -120,6 +120,10 @@
 "ateam": "Bournemouth",
 "link": [
 {
+"type": "Vietnam(XLAC) HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8"
+},
+{
 "type": "Vietnam(XLAC) SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8"
 },
@@ -150,6 +154,10 @@
 "aimg": "https://mygoaltv.xyz//team/Brighton.gif",
 "ateam": "Leicester City",
 "link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
+},
 {
 "type": "Vietnam(XLAC) SD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may9/playlist.m3u8"
@@ -182,6 +190,10 @@
 "ateam": "Southampton",
 "link": [
 {
+"type": "Vietnam(XLAC) HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may111/chunks.m3u8"
+},
+{
 "type": "Vietnam(XLAC) SD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may111/chunks.m3u8"
 },
@@ -212,6 +224,10 @@
 "aimg": "https://mygoaltv.xyz//team/everton.png",
 "ateam": "West Ham",
 "link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may122/chunklist.m3u8"
+},
 {
 "type": "Vietnam(XLAC) SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may122/chunklist.m3u8"
