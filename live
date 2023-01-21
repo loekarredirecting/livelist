@@ -96,7 +96,7 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
 "hteam": "Schalke 04",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/schalke-04.png",
 "ateam": "Frankfurt",
@@ -113,52 +113,9 @@
 },
 {
 "league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Bochum.gif",
-"hteam": "Hertha Berlin",
-"time": " 9:00 PM ",
-"date": "2023-01-21",
-"aimg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
-"ateam": "Bochum",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "0"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "hteam": "Hoffenheim",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "ateam": "Union Berlin",
@@ -177,7 +134,7 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/wolfsburg.png",
 "hteam": "Freiburg",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/freiburg.png",
 "ateam": "Wolfsburg",
@@ -196,7 +153,7 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/stuttgart.png",
 "hteam": "Mainz 05",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/Mainz_05.png",
 "ateam": "Stuttgart",
@@ -421,11 +378,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=07c08bcb75fbf6bb5463536759df0139&txTime=63cc447e"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=07c08bcb75fbf6bb5463536759df0139&txTime=63cc447e"
 },
 {
 "type": "China HD",
