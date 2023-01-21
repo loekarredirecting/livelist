@@ -3,18 +3,18 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/liverpool.png",
 "hteam": "Chelsea",
-"time": " 7:00 PM ",
+"time": " live ",
 "date": "2023-01-21",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "Liverpool",
 "link": [
 {
 "type": "Vietnam(XLAC) HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam(XLAC) SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
@@ -26,11 +26,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-1345860.m3u8?auth_key=1674324215-0-0-ee387ab999c473f12eb364983b2a0ba5"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-1345860_ld.m3u8?auth_key=1674324215-0-0-ce2c2dd37a9888501125052c1b4cb1ea"
 },
 {
 "type": "Bein Sports HD",
