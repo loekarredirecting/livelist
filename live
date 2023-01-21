@@ -1,59 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/southampton.png",
-"hteam": "Aston Villa",
-"time": " live ",
-"date": "2023-01-21",
-"aimg": "https://mygoaltv.xyz//team/astonvilla.png",
-"ateam": "Southampton",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may111/chunks.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may111/chunks.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674329283-0-0-fcca5bd7f33a4901b079ad50d9c31422&sub_m3u8=true&user_session_id=5a7bd48c46c1709e6ef8fe6eaa9a30f0&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674329283-0-0-fcca5bd7f33a4901b079ad50d9c31422&sub_m3u8=true&user_session_id=5a7bd48c46c1709e6ef8fe6eaa9a30f0&edge_slice=true"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1674333395-0-0-185fa3a1fdf50481a60beb660eb7780d"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1674333395-0-0-e4acbe0d70b6ba76eabc641d43a08f75"
-}
-]
-},
-{
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Espanyol.png",
-"hteam": "Betis",
-"time": " live ",
-"date": "2023-01-21",
-"aimg": "https://mygoaltv.xyz//team/betis.png",
-"ateam": "Espanyol",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/salernitana.png",
 "hteam": "Napoli",
@@ -91,11 +37,11 @@
 "link": [
 {
 "type": "Vietnam(XLAC) HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may9/chunks.m3u8"
 },
 {
 "type": "Vietnam(XLAC) SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may9/chunks.m3u8"
 },
 {
 "type": "Soco HD",
@@ -125,14 +71,6 @@
 "ateam": "Atletico Madrid",
 "link": [
 {
-"type": "Vietnam(XLAC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
 "livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674329283-0-0-fcca5bd7f33a4901b079ad50d9c31422&sub_m3u8=true&edge_slice=true&user_session_id=6f5b805466a349c176d7e2071eb93648"
 },
@@ -160,28 +98,12 @@
 "ateam": "Koln",
 "link": [
 {
-"type": "Vietnam(XLAC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull06.scstream.net/live/stream-187579_lsd.m3u8?auth_key=1674342242-0-0-2908e64044ff1915b6107e07f9258475"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull06.scstream.net/live/stream-187579_lsd.m3u8?auth_key=1674342242-0-0-2908e64044ff1915b6107e07f9258475"
 }
 ]
 },
