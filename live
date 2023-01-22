@@ -249,20 +249,12 @@
 "ateam": "Barcelona",
 "link": [
 {
-"type": "Vietnam(XLAC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=95a29a8459a0e4b9e436af6ad8a503df&txTime=63cda757"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=95a29a8459a0e4b9e436af6ad8a503df&txTime=63cda757"
 },
 {
 "type": "China HD",
