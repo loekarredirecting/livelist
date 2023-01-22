@@ -101,10 +101,37 @@
 ]
 },
 {
+"league": " Saudi Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+"hteam": "Al-Ettifaq",
+"time": " live ",
+"date": "2023-01-23",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101915.png",
+"ateam": "Al Nassr FC",
+"link": [
+{
+"type": "Soco HD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1674429784-0-0-a22cb78317dbbfefb0022fae910e78bc&user_session_id=ff23d8313e2c749f73b9854e674c3460"
+},
+{
+"type": "Soco SD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?user_session_id=392f74cc3ba9e272f5349f908b994486&auth_key=1674429784-0-0-fc6a6b1ff5ba380cf51d1461e3393580&sub_m3u8=true&edge_slice=true"
+},
+{
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-6892349.m3u8?auth_key=1674429875-0-0-c2e6469cfcacfd7ae2c8b930f17e44c9"
+},
+{
+"type":  "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1674429875-0-0-7a3d49442a844d18bfe5d222819993f4"
+}
+]
+},
+{
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Getafe",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-01-23",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "ateam": "Barcelona",
