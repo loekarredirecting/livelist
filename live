@@ -1,32 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
-"hteam": "Udinese",
-"time": " live ",
-"date": "2023-01-22",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-"ateam": "Sampdoria",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-104707_lsd.m3u8?edge_slice=true&auth_key=1674407163-0-0-493e6387e6924bdafd06d5985db15a8b&user_session_id=2d64c46a9c1ad9890e3f00ecb338bf78&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-104707_lsd.m3u8?edge_slice=true&user_session_id=c4ee076da877fe1bf18e680bbbab0e66&sub_m3u8=true&auth_key=1674407463-0-0-e3587cf27e904803c5d2167f65741aca"
-}
-]
-},
-{
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "hteam": "Girona",
@@ -65,18 +38,18 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Wolverhampton",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-01-22",
 "aimg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "ateam": "Manchester City",
 "link": [
 {
 "type": "Vietnam(XLAC) HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam(XLAC) SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/live/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
@@ -88,11 +61,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-956896.m3u8?auth_key=1674416075-0-0-dfd8f779be06e110f6803e70d3bd7a29"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-956896_ld.m3u8?auth_key=1674416075-0-0-1469df01953b61b2df0718703397e961"
 }
 ]
 },
@@ -100,7 +73,7 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
 "hteam": "Brentford",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-01-22",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "ateam": "Leeds",
