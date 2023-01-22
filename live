@@ -30,7 +30,7 @@
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "hteam": "Girona",
-"time": " 7:30 PM ",
+"time": " live ",
 "date": "2023-01-22",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Villarreal",
@@ -50,14 +50,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1674407404-0-0-18f485590c95a431573d93f97ade9c83"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
 }
 ]
 },
