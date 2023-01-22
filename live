@@ -3,34 +3,26 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
 "hteam": "Udinese",
-"time": " 6:00 PM ",
+"time": " live ",
 "date": "2023-01-22",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "ateam": "Sampdoria",
 "link": [
 {
 "type": "Vietnam(XLAC) HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
 },
 {
 "type": "Vietnam(XLAC) SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-104707_lsd.m3u8?edge_slice=true&auth_key=1674407163-0-0-493e6387e6924bdafd06d5985db15a8b&user_session_id=2d64c46a9c1ad9890e3f00ecb338bf78&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-104707_lsd.m3u8?edge_slice=true&auth_key=1674407163-0-0-493e6387e6924bdafd06d5985db15a8b&user_session_id=2d64c46a9c1ad9890e3f00ecb338bf78&sub_m3u8=true"
 }
 ]
 },
@@ -53,11 +45,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1674407404-0-0-18f485590c95a431573d93f97ade9c83"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1674407404-0-0-18f485590c95a431573d93f97ade9c83"
 },
 {
 "type": "China HD",
