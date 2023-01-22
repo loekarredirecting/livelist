@@ -1,79 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/arsenal.png",
-"hteam": "Manchester United",
-"time": " live ",
-"date": "2023-01-22",
-"aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"ateam": "Arsenal",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://dn1a2526f316b.cloudfront.net/out/v1/1cc8bb721b9a480ca69e2afe2743824c/index_1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIzIDM6MTg6MDUgUE0maGFzaF92YWx1ZT0zdDhDcmxrTUwzbXdYVzJDOGJCTHlBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xNDAuMjIzLjQmc3RybV9sZW49NQ=="
-},
-{
-"type": "English 2 HD",
-"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
-},
-{
-"type": "Yoyar HD",
-"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=b8fd14ff2c6215c94aa9dc4278889c68&txTime=63cda4ff"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=4bae624dcc1d1cc1a0d379710817283a&txTime=63cdaf8c"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1674424355-0-0-2d580283ec6f5729fbfade6160033c3b"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1674424355-0-0-44e613315315ad1842dc39aae575d97d"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-"hteam": "Leverkusen",
-"time": " live ",
-"date": "2023-01-22",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"ateam": "Monchengladbach",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-101511_lsd.m3u8?auth_key=1674421683-0-0-7b3fc1423d7742b510b998f60dbe252f&sub_m3u8=true&user_session_id=3bc69275c6690d215894cefa039538a3&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-101511_lsd.m3u8?auth_key=1674421683-0-0-7b3fc1423d7742b510b998f60dbe252f&sub_m3u8=true&user_session_id=3bc69275c6690d215894cefa039538a3&edge_slice=true"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-1345860.m3u8?auth_key=1674424415-0-0-008fd854673b76ac05c02686ee40f4cb"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-1345860_ld.m3u8?auth_key=1674424415-0-0-6a77144096b5b678eee49dec54b21f97"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
 "hteam": "Roma",
@@ -158,18 +84,18 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Atalanta",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-01-23",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "ateam": "Juventus",
 "link": [
 {
 "type": "Vietnam(XLAC) HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
 },
 {
 "type": "Vietnam(XLAC) SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/playlist.m3u8"
 },
 {
 "type": "Soco HD",
@@ -178,14 +104,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=601f075894cf48ad8c6b927691ba4bf4&txTime=63cdc954"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
 }
 ]
 },
@@ -193,18 +111,18 @@
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "hteam": "Real Madrid",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-23",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "ateam": "Bilbao",
 "link": [
 {
 "type": "Vietnam(XLAC) HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
 },
 {
 "type": "Vietnam(XLAC) SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8"
 },
 {
 "type": "Soco HD",
@@ -213,14 +131,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=f2827dca69dd81cba057e47149e11386&txTime=63cdc9cd"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
 }
 ]
 }
