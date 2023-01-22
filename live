@@ -153,5 +153,91 @@
 "livelink": "https://yypull.gdsth.com/live/stream-284564_ld.m3u8?auth_key=1674429935-0-0-7ce433022b1741f0931e09d41c201601"
 }
 ]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"hteam": "Atalanta",
+"time": " 2:15 AM ",
+"date": "2023-01-23",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+"ateam": "Juventus",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Laliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+"hteam": "Real Madrid",
+"time": " 2:30 AM ",
+"date": "2023-01-23",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"ateam": "Bilbao",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
 }
 ]
