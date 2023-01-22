@@ -1,32 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-"hteam": "Roma",
-"time": " live ",
-"date": "2023-01-22",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"ateam": "Spezia",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=bb6b1b9c16442cf43250c1e94f2d2fe0&auth_key=1674421863-0-0-c52b32d2f6ad9fe7154a9006e85a8aa7"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=bb6b1b9c16442cf43250c1e94f2d2fe0&auth_key=1674421863-0-0-c52b32d2f6ad9fe7154a9006e85a8aa7"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1674427595-0-0-9c8be537e857f42e408fdd98ffb34804"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1674427595-0-0-3f0608caf43a2e2b3d5e5e374610f615"
-}
-]
-},
-{
 "league": " Saudi Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
 "hteam": "Al-Ettifaq",
