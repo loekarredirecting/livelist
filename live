@@ -1,40 +1,5 @@
 [
 {
-"league": " Laliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"hteam": "Girona",
-"time": " live ",
-"date": "2023-01-22",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"ateam": "Villarreal",
-"link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1674412443-0-0-bca4c366eb52344b3201484ee97b511a&sub_m3u8=true&user_session_id=0731317e8a9ae5c378dffd0dba854ffd&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1674412443-0-0-ad2401fe530f4af423564b552febef41&sub_m3u8=true&user_session_id=10d1cdcc5980c73a005cb95bd2d6556f&edge_slice=true"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-459156.m3u8?auth_key=1674412715-0-0-12e5f10a625cedd9d9061f53861c7ffb"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-459156_ld.m3u8?auth_key=1674412715-0-0-5602cd9d847cb22c3a6e380a471b3a75"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Wolverhampton",
