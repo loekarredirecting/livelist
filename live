@@ -57,34 +57,26 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Manchester United",
-"time": " 11:00 PM ",
+"time": " live ",
 "date": "2023-01-22",
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Arsenal",
 "link": [
-{
-"type": "Vietnam(XLAC) HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam(XLAC) SD",
-"livelink": "0"
-},
 {
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=b8fd14ff2c6215c94aa9dc4278889c68&txTime=63cda4ff"
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1674411783-0-0-39b991f6031e1134517d992c9b675126"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=4bae624dcc1d1cc1a0d379710817283a&txTime=63cdaf8c"
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1674424355-0-0-2d580283ec6f5729fbfade6160033c3b"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1674424355-0-0-44e613315315ad1842dc39aae575d97d"
 }
 ]
 },
