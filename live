@@ -64,6 +64,10 @@
 "link": [
 {
 "type": "English HD",
+"livelink": "https://dn1a2526f316b.cloudfront.net/out/v1/1cc8bb721b9a480ca69e2afe2743824c/index_1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8yMi8yMDIzIDM6MTg6MDUgUE0maGFzaF92YWx1ZT0zdDhDcmxrTUwzbXdYVzJDOGJCTHlBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0zNy4xNDAuMjIzLjQmc3RybV9sZW49NQ=="
+},
+{
+"type": "English 2 HD",
 "livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
 },
 {
