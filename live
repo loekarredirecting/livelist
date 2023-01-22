@@ -1,59 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"hteam": "Augsburg",
-"time": " live ",
-"date": "2023-01-22",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-"ateam": "Dortmund",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=d9eaed203a6175051d089c1567c61cf9&txTime=63cd7ecb"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=d9eaed203a6175051d089c1567c61cf9&txTime=63cd7ecb"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1674418655-0-0-33c3e9c94c433a2d4942e58d8add5f38"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-466758_ld.m3u8?auth_key=1674418655-0-0-c4e795f089ba320784271d5078cc23d8"
-}
-]
-},
-{
-"league": " Laliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-"hteam": "Osasuna",
-"time": " live ",
-"date": "2023-01-22",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-"ateam": "Elche",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1674411783-0-0-39b991f6031e1134517d992c9b675126"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull06.scstream.net/live/stream-107307_lsd.m3u8?auth_key=1674411783-0-0-39b991f6031e1134517d992c9b675126"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-396937.m3u8?auth_key=1674421235-0-0-13f9441b679a39155b1d1d80352b4c5a"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-396937_ld.m3u8?auth_key=1674421235-0-0-f02cb87c832f0461582568f0037798f9"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Manchester United",
@@ -143,6 +89,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=bb6b1b9c16442cf43250c1e94f2d2fe0&auth_key=1674421863-0-0-c52b32d2f6ad9fe7154a9006e85a8aa7"
+},
+{
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1674427595-0-0-9c8be537e857f42e408fdd98ffb34804"
+},
+{
+"type":  "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1674427595-0-0-3f0608caf43a2e2b3d5e5e374610f615"
 }
 ]
 },
