@@ -43,6 +43,49 @@
 ]
 },
 {
+"league": " Laliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+"hteam": "Girona",
+"time": " 7:30 PM ",
+"date": "2023-01-22",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+"ateam": "Villarreal",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Wolverhampton",
@@ -87,12 +130,270 @@
 },
 {
 "league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+"hteam": "Brentford",
+"time": " 8:30 PM ",
+"date": "2023-01-22",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+"ateam": "Leeds",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"hteam": "Augsburg",
+"time": " 9:00 PM ",
+"date": "2023-01-22",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+"ateam": "Dortmund",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Laliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+"hteam": "Osasuna",
+"time": " 9:45 PM ",
+"date": "2023-01-22",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+"ateam": "Elche",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Manchester United",
 "time": " 11:00 PM ",
 "date": "2023-01-22",
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Arsenal",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
+"hteam": "Leverkusen",
+"time": " 11:00 PM ",
+"date": "2023-01-22",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+"ateam": "Borussia",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+"hteam": "Roma",
+"time": " 11:30 PM ",
+"date": "2023-01-22",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+"ateam": "Spezia",
+"link": [
+{
+"type": "Vietnam(XLAC) HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam(XLAC) SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports HD",
+"livelink": "0"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Laliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+"hteam": "Getafe",
+"time": " 12:00 AM ",
+"date": "2023-01-22",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+"ateam": "Barcelona",
 "link": [
 {
 "type": "Vietnam(XLAC) HD",
