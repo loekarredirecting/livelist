@@ -42,6 +42,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674508385-0-0-4d391ba891f6c32889eccf42aa9b7d4b&user_session_id=32bd58da367905625bb35970c7e8562e"
+},
+{
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-697579.m3u8?auth_key=1674515195-0-0-bd70d12f28ed5c73833c41aa9dba3e1b"
+},
+{
+"type":  "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-697579_ld.m3u8?auth_key=1674515195-0-0-4d94ba48287f98f98c7d0d6917ca9a1d"
 }
 ]
 },
@@ -49,26 +57,18 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/fulham.png",
 "hteam": "Tottenham",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-24",
 "aimg": "https://mygoaltv.xyz//team/tottenham.png",
 "ateam": "Fulham",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2bda81b7d5dd58166911d0cf7fec9571&auth_key=1674514806-0-0-aaefb6aa7badd3c801861d9dfaae85c9"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2bda81b7d5dd58166911d0cf7fec9571&auth_key=1674514806-0-0-aaefb6aa7badd3c801861d9dfaae85c9"
 },
 {
 "type": "China HD",
@@ -76,7 +76,7 @@
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674512075-0-0-355a99abc0b1986b7de76e12b2825bc6"
+"livelink": "https://yypull.gdsth.com/live/stream-557735_ld.m3u8?auth_key=1674515255-0-0-5799adab5a0c262dabe462889317a68d"
 }
 ]
 },
@@ -84,26 +84,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Valencia.png",
 "hteam": "Almeria",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-24",
 "aimg": "https://mygoaltv.xyz//team/Almeria.png",
 "ateam": "Valencia",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=337621ebc4b499662272a176b110aa44&sub_m3u8=true&edge_slice=true&auth_key=1674514745-0-0-e0587254acb825fd4f6062a95bca163f"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=337621ebc4b499662272a176b110aa44&sub_m3u8=true&edge_slice=true&auth_key=1674514745-0-0-e0587254acb825fd4f6062a95bca163f"
 },
 {
 "type": "China HD",
