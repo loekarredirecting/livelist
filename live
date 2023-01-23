@@ -1,48 +1,13 @@
 [
 {
 "league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/Bologna.png",
-"hteam": "Cremonese",
-"time": " live ",
-"date": "2023-01-24",
-"aimg": "https://mygoaltv.xyz//team/cremonese.png",
-"ateam": "Bologna",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674511355-0-0-6f711a6bef7d8d90b989e0416235c94d"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1674511775-0-0-9ffa830309d0b99467fbc6fabebebeaa"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=a530155e07e529eaf980db3a1f93b090&txTime=63cef645"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=a530155e07e529eaf980db3a1f93b090&txTime=63cef645"
-}
-]
-},
-{
-"league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/inter_milan.png",
 "hteam": "Empoli",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-01-24",
 "aimg": "https://mygoaltv.xyz//team/Empoli.gif",
 "ateam": "Inter Milan",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=ccc30069e0ebffa23473a7df650950b7&txTime=63cef7e9"
@@ -65,19 +30,11 @@
 "league": " Cup France ",
 "himg": "https://mygoaltv.xyz//team/no-logo.png",
 "hteam": "Paris Saint-Germain",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-01-24",
 "aimg": "https://mygoaltv.xyz//team/psg.png",
 "ateam": "Pays de Cassel",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "Soco HD",
 "livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674508385-0-0-4d391ba891f6c32889eccf42aa9b7d4b&user_session_id=32bd58da367905625bb35970c7e8562e"
@@ -85,14 +42,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674508385-0-0-4d391ba891f6c32889eccf42aa9b7d4b&user_session_id=32bd58da367905625bb35970c7e8562e"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
 }
 ]
 },
