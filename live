@@ -9,6 +9,14 @@
 "ateam": "Bologna",
 "link": [
 {
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674511355-0-0-6f711a6bef7d8d90b989e0416235c94d"
+},
+{
+"type":  "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1674511775-0-0-9ffa830309d0b99467fbc6fabebebeaa"
+},
+{
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=a530155e07e529eaf980db3a1f93b090&txTime=63cef645"
 },
@@ -45,11 +53,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1674511955-0-0-321b8f0d1a81e9a0705df8c5783c1841"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1674511955-0-0-321b8f0d1a81e9a0705df8c5783c1841"
 }
 ]
 },
@@ -115,11 +123,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674512075-0-0-355a99abc0b1986b7de76e12b2825bc6"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674512075-0-0-355a99abc0b1986b7de76e12b2825bc6"
 }
 ]
 },
@@ -150,11 +158,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1674512195-0-0-f6da923071a1761e9a678e1427c80491"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1674512195-0-0-f6da923071a1761e9a678e1427c80491"
 }
 ]
 }
