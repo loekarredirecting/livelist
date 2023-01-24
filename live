@@ -1,109 +1,211 @@
 [
 {
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/schalke-04.png",
+"hteam": "RB Leipzig",
+"time": " 12:00 AM ",
+"date": "2023-01-25",
+"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
+"ateam": "Schalke 04",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"hteam": "Koln",
+"time": " 2:00 AM ",
+"date": "2023-01-25",
+"aimg": "https://mygoaltv.xyz//team/Koln.png",
+"ateam": "Bayern Munich",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
+"hteam": "Wolfsburg",
+"time": " 2:00 AM ",
+"date": "2023-01-25",
+"aimg": "https://mygoaltv.xyz//team/wolfsburg.png",
+"ateam": "Hertha Berlin",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
+"hteam": "Stuttgart",
+"time": " 2:00 AM ",
+"date": "2023-01-25",
+"aimg": "https://mygoaltv.xyz//team/stuttgart.png",
+"ateam": "Hoffenheim",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/inter_milan.png",
-"hteam": "Empoli",
-"time": " live ",
-"date": "2023-01-24",
-"aimg": "https://mygoaltv.xyz//team/Empoli.gif",
-"ateam": "Inter Milan",
+"himg": "https://mygoaltv.xyz//team/lazio.png",
+"hteam": "AC Milan",
+"time": " 2:15 AM ",
+"date": "2023-01-25",
+"aimg": "https://mygoaltv.xyz//team/acmilan.png",
+"ateam": "Lazio",
 "link": [
 {
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=ccc30069e0ebffa23473a7df650950b7&txTime=63cef7e9"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=ccc30069e0ebffa23473a7df650950b7&txTime=63cef7e9"
-},
-{
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1674511955-0-0-321b8f0d1a81e9a0705df8c5783c1841"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1674511955-0-0-321b8f0d1a81e9a0705df8c5783c1841"
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 },
 {
-"league": " Cup France ",
-"himg": "https://mygoaltv.xyz//team/no-logo.png",
-"hteam": "Paris Saint-Germain",
-"time": " live ",
+"league": " League Cup ",
+"himg": "https://mygoaltv.xyz//team/southampton.png",
+"hteam": "Newcastle United",
+"time": " 2:30 AM ",
 "date": "2023-01-24",
-"aimg": "https://mygoaltv.xyz//team/psg.png",
-"ateam": "Pays de Cassel",
+"aimg": "https://mygoaltv.xyz//team/newcastle.png",
+"ateam": "Southampton",
 "link": [
 {
-"type": "Soco HD",
-"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674508385-0-0-4d391ba891f6c32889eccf42aa9b7d4b&user_session_id=32bd58da367905625bb35970c7e8562e"
-},
-{
-"type": "Soco SD",
-"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1674508385-0-0-4d391ba891f6c32889eccf42aa9b7d4b&user_session_id=32bd58da367905625bb35970c7e8562e"
-},
-{
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-697579.m3u8?auth_key=1674515195-0-0-bd70d12f28ed5c73833c41aa9dba3e1b"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-697579_ld.m3u8?auth_key=1674515195-0-0-4d94ba48287f98f98c7d0d6917ca9a1d"
-}
-]
+"livelink": "0"
 },
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/fulham.png",
-"hteam": "Tottenham",
-"time": " live ",
-"date": "2023-01-24",
-"aimg": "https://mygoaltv.xyz//team/tottenham.png",
-"ateam": "Fulham",
-"link": [
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
 {
 "type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2bda81b7d5dd58166911d0cf7fec9571&auth_key=1674514806-0-0-aaefb6aa7badd3c801861d9dfaae85c9"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2bda81b7d5dd58166911d0cf7fec9571&auth_key=1674514806-0-0-aaefb6aa7badd3c801861d9dfaae85c9"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1674515315-0-0-240a5a6f626f12678b2488f6747a979d"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1674515315-0-0-240a5a6f626f12678b2488f6747a979d"
-}
-]
-},
-{
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Valencia.png",
-"hteam": "Almeria",
-"time": " live ",
-"date": "2023-01-24",
-"aimg": "https://mygoaltv.xyz//team/Almeria.png",
-"ateam": "Valencia",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=337621ebc4b499662272a176b110aa44&sub_m3u8=true&edge_slice=true&auth_key=1674514745-0-0-e0587254acb825fd4f6062a95bca163f"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=337621ebc4b499662272a176b110aa44&sub_m3u8=true&edge_slice=true&auth_key=1674514745-0-0-e0587254acb825fd4f6062a95bca163f"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1674512195-0-0-f6da923071a1761e9a678e1427c80491"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1674512195-0-0-f6da923071a1761e9a678e1427c80491"
+"livelink": "0"
 }
 ]
 }
