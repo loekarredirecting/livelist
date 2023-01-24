@@ -17,6 +17,14 @@
 "livelink": "https://yypull.gdsth.com/live/stream-1345860_ld.m3u8?auth_key=1674593195-0-0-105c308db31bd7fe6087cab03d659e87"
 },
 {
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
+},
+{
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=f2210db5ab7fe3bf605b534982e4f0b5&txTime=63d04082"
 },
@@ -118,19 +126,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1674611195-0-0-e5c99129fb62c79eca92e2d77f0c5c15"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1674611195-0-0-34494c4748df89cdd60efce05901be92"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
