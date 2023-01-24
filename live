@@ -1,36 +1,9 @@
 [
 {
 "league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/schalke-04.png",
-"hteam": "RB Leipzig",
-"time": " live ",
-"date": "2023-01-25",
-"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
-"ateam": "Schalke 04",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1674592895-0-0-6f010bb564357d9df63ca07ae2ba7b25"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1674592895-0-0-591811968344d9b5900d52359e96b115"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=59e9f49530ec3f1bf7a544802f3520ae&txTime=63d03f92"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=59e9f49530ec3f1bf7a544802f3520ae&txTime=63d03f92"
-}
-]
-},
-{
-"league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "hteam": "Koln",
-"time": " 2:00 AM ",
+"time": " live ",
 "date": "2023-01-25",
 "aimg": "https://mygoaltv.xyz//team/Koln.png",
 "ateam": "Bayern Munich",
@@ -42,14 +15,6 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-1345860_ld.m3u8?auth_key=1674593195-0-0-105c308db31bd7fe6087cab03d659e87"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 },
 {
 "type": "Soco HD",
@@ -65,7 +30,7 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
 "hteam": "Wolfsburg",
-"time": " 2:00 AM ",
+"time": " live ",
 "date": "2023-01-25",
 "aimg": "https://mygoaltv.xyz//team/wolfsburg.png",
 "ateam": "Hertha Berlin",
@@ -77,22 +42,6 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-288414_ld.m3u8?auth_key=1674593375-0-0-d301c42917cba702bbeeedccfa19e422"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
 }
 ]
 },
@@ -100,7 +49,7 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "hteam": "Stuttgart",
-"time": " 2:00 AM ",
+"time": " live ",
 "date": "2023-01-25",
 "aimg": "https://mygoaltv.xyz//team/stuttgart.png",
 "ateam": "Hoffenheim",
@@ -112,14 +61,6 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-697579_ld.m3u8?auth_key=1674593555-0-0-fc0dcb4da4e9e79cc17eaca6eb428a7d"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 },
 {
 "type": "Soco HD",
@@ -135,7 +76,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/lazio.png",
 "hteam": "AC Milan",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-01-25",
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "Lazio",
@@ -147,14 +88,6 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-4569315_ld.m3u8?auth_key=1674593735-0-0-c46690d188bac01590578818e51ee1bc"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 },
 {
 "type": "Soco HD",
