@@ -3,34 +3,26 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Mainz_05.png",
 "hteam": "Dortmund",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-01-26",
 "aimg": "https://mygoaltv.xyz//team/dortmund.png",
 "ateam": "Mainz 05",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674684935-0-0-c4a92c22a5e7ca4087acbd3e4dba1ae8"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674684935-0-0-c4a92c22a5e7ca4087acbd3e4dba1ae8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=b4548f9214ab03be90e7ac357e2945d9&txTime=63d1ac42"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=b4548f9214ab03be90e7ac357e2945d9&txTime=63d1ac42"
 }
 ]
 },
@@ -80,11 +72,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1674685175-0-0-ccc0d456ac6018aa5c9ba58a7d4f95eb"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1674685175-0-0-ccc0d456ac6018aa5c9ba58a7d4f95eb"
 },
 {
 "type": "Vietnam HD",
@@ -115,27 +107,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674685115-0-0-7b234a276d319cdf8e83cef027ac548c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674685115-0-0-7b234a276d319cdf8e83cef027ac548c"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?user_session_id=df709830ba21397255b073ca1c5daaa1&auth_key=1674685686-0-0-77ff52768d6c2b43920437e7986bd9d7&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?user_session_id=df709830ba21397255b073ca1c5daaa1&auth_key=1674685686-0-0-77ff52768d6c2b43920437e7986bd9d7&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
@@ -150,11 +134,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1674685295-0-0-e888d108b069acf36619ad8dd9f54d6b"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1674685295-0-0-e888d108b069acf36619ad8dd9f54d6b"
 },
 {
 "type": "Vietnam HD",
