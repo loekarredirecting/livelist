@@ -173,34 +173,26 @@
 "league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/osasuna.png",
 "hteam": "Sevilla",
-"time": " 3:30 AM ",
+"time": " live ",
 "date": "2023-01-26",
 "aimg": "https://mygoaltv.xyz//team/Sevilla.png",
 "ateam": "Osasuna",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1674699395-0-0-dcc9e53fdc71d2ea7c331d4771ed4d37"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1674699395-0-0-dcc9e53fdc71d2ea7c331d4771ed4d37"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
 }
 ]
 }
