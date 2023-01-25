@@ -148,6 +148,14 @@
 "livelink": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1674696035-0-0-a0c5832e8991266f93887471f5713bbb"
 },
 {
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8?txt=3"
+},
+{
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=1d19c044ff15a61568925ad55a4080fc&txTime=63d1d547"
 },
