@@ -101,6 +101,10 @@
 "ateam": "Nottingham Forest",
 "link": [
 {
+"type": "English HD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1674696095-0-0-27cda8b1e5065d30a3b39d85b47e355f"
 },
