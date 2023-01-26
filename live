@@ -15,6 +15,14 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1674781115-0-0-2a26d582520098f753affa5001c36794"
+},
+{
+"type": "Soco HD",
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=7fc040a6aa16fbb15eb9acb7292037d9&txTime=63d323bb"
+},
+{
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=7fc040a6aa16fbb15eb9acb7292037d9&txTime=63d323bb"
 }
 ]
 },
@@ -22,34 +30,26 @@
 "league": " Copa del Rey ",
 "himg": "https://mygoaltv.xyz//team/real-madrid.png",
 "hteam": "Atletico Madrid",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-27",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "Real Madrid",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1674781235-0-0-5c1bd2058e4d5094cbe967e39a75c74d"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1674781235-0-0-d501a63493f4a1abd14d24b7d018681f"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 }
