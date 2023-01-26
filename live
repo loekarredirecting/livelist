@@ -1,199 +1,72 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/augsburg.png",
-"hteam": "Monchengladbach",
-"time": " live ",
-"date": "2023-01-26",
-"aimg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
-"ateam": "Augsburg",
+"league": " Copa del Rey ",
+"himg": "https://mygoaltv.xyz//team/Valencia.png",
+"hteam": "Athletic Bilbao",
+"time": " 1:30 AM ",
+"date": "2023-01-27",
+"aimg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
+"ateam": "Valencia",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1674696515-0-0-ac0034f58e6803b162413d9cdc445170"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-466758.m3u8?auth_key=1674696515-0-0-ac0034f58e6803b162413d9cdc445170"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Leverkusen.png",
-"hteam": "Bochum",
-"time": " live ",
-"date": "2023-01-26",
-"aimg": "https://mygoaltv.xyz//team/Bochum.gif",
-"ateam": "Leverkusen",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1674685175-0-0-ccc0d456ac6018aa5c9ba58a7d4f95eb"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1674685175-0-0-ccc0d456ac6018aa5c9ba58a7d4f95eb"
-},
-{
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?edge_slice=true&user_session_id=6d6dc040562b4ae0ebd97f343258195c&auth_key=1674696966-0-0-0bf8090fc45564982580e230976b18f3&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?edge_slice=true&user_session_id=6d6dc040562b4ae0ebd97f343258195c&auth_key=1674696966-0-0-0bf8090fc45564982580e230976b18f3&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/freiburg.png",
-"hteam": "Frankfurt",
-"time": " live ",
-"date": "2023-01-26",
-"aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
-"ateam": "Freiburg",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674685115-0-0-7b234a276d319cdf8e83cef027ac548c"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674685115-0-0-7b234a276d319cdf8e83cef027ac548c"
-},
-{
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?user_session_id=df709830ba21397255b073ca1c5daaa1&auth_key=1674685686-0-0-77ff52768d6c2b43920437e7986bd9d7&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?user_session_id=df709830ba21397255b073ca1c5daaa1&auth_key=1674685686-0-0-77ff52768d6c2b43920437e7986bd9d7&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
-"hteam": "Union Berlin",
-"time": " live ",
-"date": "2023-01-26",
-"aimg": "https://mygoaltv.xyz//team/Union-Berlin.png",
-"ateam": "Werder Bremen",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1674685295-0-0-e888d108b069acf36619ad8dd9f54d6b"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1674685295-0-0-e888d108b069acf36619ad8dd9f54d6b"
-}
-]
-},
-{
-"league": " League Cup ",
-"himg": "https://mygoaltv.xyz//team/nottingham_forest.png",
-"hteam": "Manchester United",
-"time": " live ",
-"date": "2023-01-26",
-"aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"ateam": "Nottingham Forest",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
-},
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-284564.m3u8?auth_key=1674696095-0-0-27cda8b1e5065d30a3b39d85b47e355f"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-284564_ld.m3u8?auth_key=1674696095-0-0-bdf5d9e49e5d890739320012ba42d08e"
+"livelink": "0"
 },
 {
 "type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+"livelink": "0"
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=a70331d8ed659131808e87bffaefb4aa&txTime=63d1b477"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=a75475c5b5f46a3492c450a503213e75&txTime=63d1d50a"
+"livelink": "0"
 }
 ]
 },
 {
 "league": " Copa del Rey ",
-"himg": "https://mygoaltv.xyz//team/Barcelona.png",
-"hteam": "Real Sociedad",
-"time": " live ",
-"date": "2023-01-26",
-"aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
-"ateam": "Barcelona",
+"himg": "https://mygoaltv.xyz//team/real-madrid.png",
+"hteam": "Atletico Madrid",
+"time": " 2:30 AM ",
+"date": "2023-01-27",
+"aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
+"ateam": "Real Madrid",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1674696035-0-0-bd6049259d4ee3b1c870923a69c71b70"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1674696035-0-0-a0c5832e8991266f93887471f5713bbb"
+"livelink": "0"
 },
 {
 "type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+"livelink": "0"
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8?txt=3"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=1d19c044ff15a61568925ad55a4080fc&txTime=63d1d547"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-112310.m3u8?txSecret=1d19c044ff15a61568925ad55a4080fc&txTime=63d1d547"
+"livelink": "0"
 }
 ]
 },
-{
-"league": " Copa del Rey ",
-"himg": "https://mygoaltv.xyz//team/osasuna.png",
-"hteam": "Sevilla",
-"time": " live ",
-"date": "2023-01-26",
-"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
-"ateam": "Osasuna",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1674699395-0-0-dcc9e53fdc71d2ea7c331d4771ed4d37"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1674699395-0-0-dcc9e53fdc71d2ea7c331d4771ed4d37"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
-}
-]
-}
 ]
