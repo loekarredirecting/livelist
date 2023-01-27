@@ -30,7 +30,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/lecce.png",
 "hteam": "Salernitana",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-01-28",
 "aimg": "https://mygoaltv.xyz//team/salernitana.png",
 "ateam": "Lecce",
@@ -57,7 +57,7 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Arsenal",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-28",
 "aimg": "https://mygoaltv.xyz//team/arsenal.png",
 "ateam": "Manchester City",
@@ -72,11 +72,11 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
@@ -84,7 +84,7 @@
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=bad60233e7d2aa9c17310f59df4ec083&txTime=63d47b53"
 }
 ]
 },
@@ -92,18 +92,18 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Lorient.png",
 "hteam": "Rennes",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-28",
 "aimg": "https://mygoaltv.xyz//team/rennes.png",
 "ateam": "Lorient",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1674869916-0-0-16c676aa2b65ba059802650023b25464"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1674869916-0-0-16c676aa2b65ba059802650023b25464"
 },
 {
 "type": "Soco HD",
@@ -119,18 +119,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Espanyol",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-28",
 "aimg": "https://mygoaltv.xyz//team/Espanyol.png",
 "ateam": "Almeria",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?user_session_id=e7f4063ef4534dc1a243a5089d9f8b4d&auth_key=1674869976-0-0-ba81526997b9dfab0a364d7c890e2dcb&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?user_session_id=e7f4063ef4534dc1a243a5089d9f8b4d&auth_key=1674869976-0-0-ba81526997b9dfab0a364d7c890e2dcb&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
