@@ -3,34 +3,26 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Bologna.png",
 "hteam": "Spezia",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-01-28",
 "aimg": "https://mygoaltv.xyz//team/Spezia.gif",
 "ateam": "Bologna",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674860856-0-0-e2bc70b6e714d3a196ba8b346db1ce01"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1674860856-0-0-e2bc70b6e714d3a196ba8b346db1ce01"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=91b0f2b6389869ee5524f73b313b3ec2&txTime=63d459d0"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=91b0f2b6389869ee5524f73b313b3ec2&txTime=63d459d0"
 }
 ]
 },
