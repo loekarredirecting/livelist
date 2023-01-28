@@ -57,7 +57,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
 "hteam": "Monaco",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-29",
 "aimg": "https://mygoaltv.xyz//team/monaco.png",
 "ateam": "Marseille",
@@ -84,7 +84,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Getafe.png",
 "hteam": "Betis",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-29",
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Getafe",
@@ -96,14 +96,6 @@
 {
 "type":  "China SD",
 "livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674947676-0-0-d88f8084869d5866b07b93bdb26ec97c"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
 }
 ]
 }
