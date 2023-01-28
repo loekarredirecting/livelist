@@ -206,5 +206,40 @@
 "livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=887761b699825b30285b056773eabd04&txTime=63d58abc"
 }
 ]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Troyes.gif",
+"hteam": "Lens",
+"time": " 10:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Lens.png",
+"ateam": "Troyes",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
