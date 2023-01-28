@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
-"hteam": "Mallorca",
-"time": " live ",
-"date": "2023-01-28",
-"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
-"ateam": "Cadiz",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1674929796-0-0-498842a68f675143a77242c0fb43319f"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1674929796-0-0-498842a68f675143a77242c0fb43319f"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-173024.m3u8?txSecret=17cbdb428e1aff6a0fe9fda4ed8e6c3f&txTime=63d56488"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-173024.m3u8?txSecret=17cbdb428e1aff6a0fe9fda4ed8e6c3f&txTime=63d56488"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Empoli.gif",
 "hteam": "Torino",
