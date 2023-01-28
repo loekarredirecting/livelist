@@ -1,145 +1,262 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
-"hteam": "Stuttgart",
-"time": " live ",
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Walsall_FC.png",
+"hteam": "Leicester City",
+"time": " 7:00 PM ",
 "date": "2023-01-28",
-"aimg": "https://mygoaltv.xyz//team/stuttgart.png",
-"ateam": "RB Leipzig",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1674861876-0-0-28d60de15166937eb3a322114d477bcb"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-317957.m3u8?auth_key=1674861876-0-0-28d60de15166937eb3a322114d477bcb"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=df272064397e25b5dd390ab6729dbfac&txTime=63d45a83"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=df272064397e25b5dd390ab6729dbfac&txTime=63d45a83"
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/lecce.png",
-"hteam": "Salernitana",
-"time": " live ",
-"date": "2023-01-28",
-"aimg": "https://mygoaltv.xyz//team/salernitana.png",
-"ateam": "Lecce",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674861996-0-0-14214ec2a5118e522dc1f1f931bfcdc1"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1674861996-0-0-14214ec2a5118e522dc1f1f931bfcdc1"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=58aea308fa1311729ca2a08a9e674f10&txTime=63d45abf"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=58aea308fa1311729ca2a08a9e674f10&txTime=63d45abf"
-}
-]
+"aimg": "https://mygoaltv.xyz//team/Leicester-City.gif",
+"ateam": "Walsall",
+"link": "Paste Here.."
 },
 {
 "league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/manchestercity.png",
-"hteam": "Arsenal",
-"time": " live ",
+"himg": "https://mygoaltv.xyz//team/accrington-96x96.png",
+"hteam": "Leeds",
+"time": " 7:00 PM ",
 "date": "2023-01-28",
-"aimg": "https://mygoaltv.xyz//team/arsenal.png",
-"ateam": "Manchester City",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1674862056-0-0-a0e5b6a5752ca91279f5284086b8983e"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1674862056-0-0-1534f281f06492da9eb97dffe512c5b9"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-129184.m3u8?txSecret=d3f4d273b1d5ff99cb27d70786f16d70&txTime=63d45b37"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=bad60233e7d2aa9c17310f59df4ec083&txTime=63d47b53"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Lorient.png",
-"hteam": "Rennes",
-"time": " live ",
-"date": "2023-01-28",
-"aimg": "https://mygoaltv.xyz//team/rennes.png",
-"ateam": "Lorient",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1674869916-0-0-16c676aa2b65ba059802650023b25464"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1674869916-0-0-16c676aa2b65ba059802650023b25464"
-},
-{
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?user_session_id=375feb4feddbff366a5166bbb3a578a9&auth_key=1674861667-0-0-00afb0ceaf089145618e1ab2a9722f9d&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-141691_lsd.m3u8?user_session_id=375feb4feddbff366a5166bbb3a578a9&auth_key=1674861667-0-0-00afb0ceaf089145618e1ab2a9722f9d&edge_slice=true&sub_m3u8=true"
-}
-]
+"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
+"ateam": "Accrington Stanley",
+"link": "Paste Here.."
 },
 {
 "league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Almeria.png",
-"hteam": "Espanyol",
-"time": " live ",
+"himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
+"hteam": "Mallorca",
+"time": " 7:30 PM ",
 "date": "2023-01-28",
-"aimg": "https://mygoaltv.xyz//team/Espanyol.png",
-"ateam": "Almeria",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?user_session_id=e7f4063ef4534dc1a243a5089d9f8b4d&auth_key=1674869976-0-0-ba81526997b9dfab0a364d7c890e2dcb&edge_slice=true&sub_m3u8=true"
+"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
+"ateam": "Cadiz",
+"link": "Paste Here.."
 },
 {
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?user_session_id=e7f4063ef4534dc1a243a5089d9f8b4d&auth_key=1674869976-0-0-ba81526997b9dfab0a364d7c890e2dcb&edge_slice=true&sub_m3u8=true"
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Empoli.gif",
+"hteam": "Torino",
+"time": " 8:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Torino.png",
+"ateam": "Empoli",
+"link": "Paste Here.."
 },
 {
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?auth_key=1674861787-0-0-949cbfdbc1d4e0b155e32bed5576ed44&edge_slice=true&sub_m3u8=true&user_session_id=39af13e7d3da24d0f44ac0c66fe5f052"
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Mainz_05.png",
+"hteam": "Bochum",
+"time": " 9:00 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Bochum.gif",
+"ateam": "Mainz 05",
+"link": "Paste Here.."
 },
 {
-"type": "Soco SD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?auth_key=1674861787-0-0-949cbfdbc1d4e0b155e32bed5576ed44&edge_slice=true&sub_m3u8=true&user_session_id=39af13e7d3da24d0f44ac0c66fe5f052"
-}
-]
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
+"hteam": "Wolfsburg",
+"time": " 9:00 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/wolfsburg.png",
+"ateam": "Werder Bremen",
+"link": "Paste Here.."
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
+"hteam": "Union Berlin",
+"time": " 9:00 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Union-Berlin.png",
+"ateam": "Hertha Berlin",
+"link": "Paste Here.."
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/freiburg.png",
+"hteam": "Augsburg",
+"time": " 9:00 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/augsburg.png",
+"ateam": "Freiburg",
+"link": "Paste Here.."
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
+"hteam": "Monchengladbach",
+"time": " 9:00 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
+"ateam": "Hoffenheim",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Sheffield-Wed.gif",
+"hteam": "Fleetwood Town",
+"time": " 9:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/fleetwood-town.png",
+"ateam": "Sheffield Wed",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Blackburn.gif",
+"hteam": "Birmingham",
+"time": " 9:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Birmingham.gif",
+"ateam": "Blackburn",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/southampton.png",
+"hteam": "Blackpool",
+"time": " 9:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Blackpool.gif",
+"ateam": "Southampton",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Ipswich-town.gif",
+"hteam": "Burnley",
+"time": " 9:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Burnley.gif",
+"ateam": "Ipswich Town",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Bristol-City.gif",
+"hteam": "West Brom",
+"time": " 9:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/westbrom.png",
+"ateam": "Bristol City",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/luton-town-14.png",
+"hteam": "Grimsby Town",
+"time": " 9:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/grimsby-town.png",
+"ateam": "Luton Town",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/fulham.png",
+"hteam": "Sunderland",
+"time": " 9:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/sunderland.png",
+"ateam": "Fulham",
+"link": "Paste Here.."
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Girona.png",
+"hteam": "Barcelona",
+"time": " 9:45 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Barcelona.png",
+"ateam": "Girona",
+"link": "Paste Here.."
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Troyes.gif",
+"hteam": "Lens",
+"time": " 10:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/Lens.png",
+"ateam": "Troyes",
+"link": "Paste Here.."
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/cremonese.png",
+"hteam": "Inter Milan",
+"time": " 11:30 PM ",
+"date": "2023-01-28",
+"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
+"ateam": "Cremonese",
+"link": "Paste Here.."
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"hteam": "Frankfurt",
+"time": " 12:00 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
+"ateam": "Bayern Munich",
+"link": "Paste Here.."
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Sevilla.png",
+"hteam": "Elche",
+"time": " 12:00 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/Elche.png",
+"ateam": "Sevilla",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Preston.gif",
+"hteam": "Tottenham",
+"time": " 12:30 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/tottenham.png",
+"ateam": "Preston",
+"link": "Paste Here.."
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Atalanta.png",
+"hteam": "Sampdoria",
+"time": " 2:15 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/Sampdoria.png",
+"ateam": "Atalanta",
+"link": "Paste Here.."
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
+"hteam": "Monaco",
+"time": " 2:30 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/monaco.png",
+"ateam": "Marseille",
+"link": "Paste Here.."
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Getafe.png",
+"hteam": "Betis",
+"time": " 2:30 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/betis.png",
+"ateam": "Getafe",
+"link": "Paste Here.."
+},
+{
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"hteam": "Reading",
+"time": " 2:30 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/reading.png",
+"ateam": "Manchester United",
+"link": "Paste Here.."
 }
 ]
