@@ -805,6 +805,41 @@
 ]
 },
 {
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"hteam": "Reading",
+"time": " 2:30 AM ",
+"date": "2023-01-29",
+"aimg": "https://mygoaltv.xyz//team/reading.png",
+"ateam": "Manchester United",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
 "hteam": "Monaco",
@@ -847,41 +882,6 @@
 "date": "2023-01-29",
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Getafe",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"hteam": "Reading",
-"time": " 2:30 AM ",
-"date": "2023-01-29",
-"aimg": "https://mygoaltv.xyz//team/reading.png",
-"ateam": "Manchester United",
 "link": [
 {
 "type": "China HD",
