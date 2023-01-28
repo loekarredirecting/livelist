@@ -211,34 +211,18 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Troyes.gif",
 "hteam": "Lens",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "2023-01-28",
 "aimg": "https://mygoaltv.xyz//team/Lens.png",
 "ateam": "Troyes",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may10/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may10/chunks.m3u8"
 }
 ]
 }
