@@ -1,32 +1,5 @@
 [
 {
-"league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/Preston.gif",
-"hteam": "Tottenham",
-"time": " live ",
-"date": "2023-01-29",
-"aimg": "https://mygoaltv.xyz//team/tottenham.png",
-"ateam": "Preston",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1674946956-0-0-19a6d65098eee4716d784d72bd8eace3"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1674946956-0-0-19a6d65098eee4716d784d72bd8eace3"
-},
-{
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?user_session_id=0fe4e95973157ba39b5f9bc99edb8c6d&edge_slice=true&auth_key=1674948128-0-0-5d313558715e735327cee79258c3b299&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?user_session_id=0fe4e95973157ba39b5f9bc99edb8c6d&edge_slice=true&auth_key=1674948128-0-0-5d313558715e735327cee79258c3b299&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Atalanta.png",
 "hteam": "Sampdoria",
@@ -57,7 +30,7 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Reading",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-29",
 "aimg": "https://mygoaltv.xyz//team/reading.png",
 "ateam": "Manchester United",
@@ -71,20 +44,12 @@
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&auth_key=1674947436-0-0-604f8fed4f07d23d148a08d42091cbac&user_session_id=4d80ff57239f2f471d088e7de47d2011&edge_slice=true"
 },
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?user_session_id=edf1a18bdb443482707968883dd9df81&auth_key=1674946088-0-0-4b6643000f61cfea46f5f45185042c85&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?user_session_id=edf1a18bdb443482707968883dd9df81&auth_key=1674946088-0-0-4b6643000f61cfea46f5f45185042c85&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
