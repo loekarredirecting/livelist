@@ -100,22 +100,22 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "Liverpool",
-"time": " 8:00 PM ",
+"time": " live ",
 "date": "2023-01-29",
 "aimg": "https://mygoaltv.xyz//team/liverpool.png",
 "ateam": "Brighton",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?auth_key=1675019676-0-0-98e0b4a44038a9287268fa2267342114&sub_m3u8=true&user_session_id=97260510dc46fa7f195b625eef4eee70&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?auth_key=1675019676-0-0-98e0b4a44038a9287268fa2267342114&sub_m3u8=true&user_session_id=6f5f192ffae6c29859f9c694e2cef0c9&edge_slice=true"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
@@ -123,7 +123,7 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=f45e6026f0a7ac3ff082c4a0b9d3fe07&txTime=63d6c4cc"
 },
 {
 "type": "Soco SD",
