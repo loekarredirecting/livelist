@@ -1,40 +1,5 @@
 [
 {
-"league": " Serie A  ",
-"himg": "https://mygoaltv.xyz//team/acmilan.png",
-"hteam": "Sassuolo",
-"time": " live ",
-"date": "2023-01-29",
-"aimg": "https://mygoaltv.xyz//team/sassuolo.png",
-"ateam": "AC Milan",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1675012116-0-0-637a2ba9377d7aedc5c80d6d6cec277e&user_session_id=e8239c302779af1042c2332183b3feae&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=2d7c1d453feb517841975976ac814900&sub_m3u8=true&edge_slice=true&auth_key=1675012116-0-0-5df4c175797fd8abf14532a5890f1484"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://179314182.global.cdnfastest.com/live/may8/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=eabbe15b522e2f97af0c803d7cf97c88&txTime=63d6a7bc"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=eabbe15b522e2f97af0c803d7cf97c88&txTime=63d6a7bc"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Nice.png",
 "hteam": "Lille",
@@ -111,7 +76,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "https://hdstreamss.club:30443/live/abr_ch5/live/ch5_720p/chunks.m3u8"
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
 },
 {
 "type": "China HD",
@@ -126,8 +91,8 @@
 "livelink": "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
 },
 {
-"type": "Vietnam SD",
-"livelink": "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
+"type": "Yora HD",
+"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
 },
 {
 "type": "Soco HD",
@@ -143,7 +108,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Juventus.png",
 "hteam": "Monza",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-01-29",
 "aimg": "https://mygoaltv.xyz//team/ac-monza.png",
 "ateam": "Juventus",
@@ -201,11 +166,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-102933_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675021148-0-0-d6083b712cd9be6049a22657bca3de12&user_session_id=668112e1924cdb0de5cb0779d939a7a4"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-102933_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675021148-0-0-d6083b712cd9be6049a22657bca3de12&user_session_id=668112e1924cdb0de5cb0779d939a7a4"
 }
 ]
 },
@@ -236,11 +201,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=9e023b0601ddbb3571467238f4c30eae&txTime=63d6cbd4"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=9e023b0601ddbb3571467238f4c30eae&txTime=63d6cbd4"
 }
 ]
 },
