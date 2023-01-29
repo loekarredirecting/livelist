@@ -1,48 +1,5 @@
 [
 {
-"league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/Brighton.gif",
-"hteam": "Liverpool",
-"time": " live ",
-"date": "2023-01-29",
-"aimg": "https://mygoaltv.xyz//team/liverpool.png",
-"ateam": "Brighton",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://wwpyaosopp.azureedge.net/live/s1/chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?auth_key=1675019676-0-0-98e0b4a44038a9287268fa2267342114&sub_m3u8=true&user_session_id=97260510dc46fa7f195b625eef4eee70&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-363344_lhd.m3u8?sub_m3u8=true&user_session_id=20999d1148cdcf0076e0938a320d0289&edge_slice=true&auth_key=1675019976-0-0-cef39511971b208ddead7b0b4a9c9ec6"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://179314182.global.cdnfastest.com/live/may9/chunklist.m3u8"
-},
-{
-"type": "Yora HD",
-"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=f45e6026f0a7ac3ff082c4a0b9d3fe07&txTime=63d6c4cc"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675020096-0-0-539eb7b3463bf8a39367cf8a9d7a4a7c&user_session_id=b71df0f43a4cc6f95eafbff5568137e2"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Juventus.png",
 "hteam": "Monza",
@@ -151,7 +108,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Ajaccio.png",
 "hteam": "Lyon",
-"time": " 10:35 PM ",
+"time": " live ",
 "date": "2023-01-29",
 "aimg": "https://mygoaltv.xyz//team/lyon.png",
 "ateam": "Ajaccio",
