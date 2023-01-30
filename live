@@ -3,7 +3,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Udinese.png",
 "hteam": "Hellas Verona",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-01-31",
 "aimg": "https://mygoaltv.xyz//team/Verona.png",
 "ateam": "Udinese",
@@ -38,34 +38,26 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/Derby-county.gif",
 "hteam": "West Ham",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-01-31",
 "aimg": "https://mygoaltv.xyz//team/westham.png",
 "ateam": "Derby County",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&auth_key=1675120176-0-0-208f76c861cea57955b24e1d5c0601b8&user_session_id=2235f54aced29543b9dc6fb7641a7267&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&auth_key=1675120176-0-0-208f76c861cea57955b24e1d5c0601b8&user_session_id=2235f54aced29543b9dc6fb7641a7267&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-132343.m3u8?txSecret=30d4679113b615edd3f459b6080ae99b&txTime=63d84c71"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-132343.m3u8?txSecret=30d4679113b615edd3f459b6080ae99b&txTime=63d84c71"
 }
 ]
 },
@@ -73,7 +65,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/villarreal.png",
 "hteam": "Rayo Vallecano",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-01-31",
 "aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "ateam": "Villarreal",
@@ -87,20 +79,12 @@
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675116576-0-0-01058ae5acf029944aaf0598e34cd070&user_session_id=6ba190afa65f426be3f1a2aedd2249ec"
 },
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1675119969-0-0-37f872e741c34a3d4e79627a63189f76"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1675119969-0-0-37f872e741c34a3d4e79627a63189f76"
 }
 ]
 }
