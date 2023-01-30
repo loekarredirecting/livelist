@@ -1,83 +1,32 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/psg.png",
-"hteam": "Reims",
-"time": " live ",
-"date": "2023-01-30",
-"aimg": "https://mygoaltv.xyz//team/reims.png",
-"ateam": "Paris Saint-Germain",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&auth_key=1675031796-0-0-675b9511e0b8ef4f041956e5e3d9ff3f&user_session_id=c5623c90b7739f44e248127139b8f96f&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&auth_key=1675031796-0-0-675b9511e0b8ef4f041956e5e3d9ff3f&user_session_id=c5623c90b7739f44e248127139b8f96f&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1675032668-0-0-4a5278c3396e1a970322b4e51bbf258c&sub_m3u8=true&edge_slice=true&user_session_id=9770a098f3e2242ef5a68668d05d919d"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1675032668-0-0-4a5278c3396e1a970322b4e51bbf258c&sub_m3u8=true&edge_slice=true&user_session_id=9770a098f3e2242ef5a68668d05d919d"
-}
-]
-},
-{
 "league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/napoli.png",
-"hteam": "AS Roma",
-"time": " live ",
-"date": "2023-01-30",
-"aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
-"ateam": "Napoli",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1675032036-0-0-c85599e208c52bcf21632d63a3da25c5&sub_m3u8=true&edge_slice=true&user_session_id=595eb7810160beceb96e9e94dc9a3feb"
+"himg": "https://mygoaltv.xyz//team/Udinese.png",
+"hteam": "Hellas Verona",
+"time": " 2:15 AM ",
+"date": "2023-01-31",
+"aimg": "https://mygoaltv.xyz//team/Verona.png",
+"ateam": "Udinese",
+"link": "Paste Here.."
 },
 {
-"type":  "China SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1675032036-0-0-c85599e208c52bcf21632d63a3da25c5&sub_m3u8=true&edge_slice=true&user_session_id=595eb7810160beceb96e9e94dc9a3feb"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull06.scstream.net/live/stream-214855_lsd.m3u8?auth_key=1675032728-0-0-0a13b66fcce74a1eb24517f4eded3282"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull06.scstream.net/live/stream-214855_lsd.m3u8?auth_key=1675032728-0-0-0a13b66fcce74a1eb24517f4eded3282"
-}
-]
+"league": " FA Cup ",
+"himg": "https://mygoaltv.xyz//team/Derby-county.gif",
+"hteam": "West Ham",
+"time": " 2:15 AM ",
+"date": "2023-01-31",
+"aimg": "https://mygoaltv.xyz//team/westham.png",
+"ateam": "Derby County",
+"link": "Paste Here.."
 },
 {
 "league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/real-madrid.png",
-"hteam": "Real Sociedad",
-"time": " live ",
-"date": "2023-01-30",
-"aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
-"ateam": "Real Madrid",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=cdff98e5166456f0e1f79da4328925e5&auth_key=1675032276-0-0-db9144cb515bf6934bb0a65e37fc5631"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=cdff98e5166456f0e1f79da4328925e5&auth_key=1675032276-0-0-db9144cb515bf6934bb0a65e37fc5631"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=a98b87d9494e6ef53eca07d53bac9011&txTime=63d6f910"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=a98b87d9494e6ef53eca07d53bac9011&txTime=63d6f910"
-}
-]
+"himg": "https://mygoaltv.xyz//team/villarreal.png",
+"hteam": "Rayo Vallecano",
+"time": " 2:30 AM ",
+"date": "2023-01-31",
+"aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
+"ateam": "Villarreal",
+"link": "Paste Here.."
 }
 ]
