@@ -7,7 +7,32 @@
 "date": "2023-01-31",
 "aimg": "https://mygoaltv.xyz//team/Verona.png",
 "ateam": "Udinese",
-"link": "Paste Here.."
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
 "league": " FA Cup ",
@@ -17,7 +42,32 @@
 "date": "2023-01-31",
 "aimg": "https://mygoaltv.xyz//team/westham.png",
 "ateam": "Derby County",
-"link": "Paste Here.."
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
 "league": " La Liga ",
@@ -27,6 +77,31 @@
 "date": "2023-01-31",
 "aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "ateam": "Villarreal",
-"link": "Paste Here.."
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
