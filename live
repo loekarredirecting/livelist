@@ -3,34 +3,34 @@
 "league": " Cup Germany ",
 "himg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "hteam": "Hoffenheim",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-02-01",
 "aimg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "ateam": "RB Leipzig",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?user_session_id=08560a7932be4d31ec5a615752e7745e&sub_m3u8=true&auth_key=1675287816-0-0-102ac49be1195f300db6ded03f4b57c2&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?user_session_id=08560a7932be4d31ec5a615752e7745e&sub_m3u8=true&auth_key=1675287816-0-0-102ac49be1195f300db6ded03f4b57c2&edge_slice=true"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=d4f44ab84bbcbb22bee7fc1ab496fdc2&txTime=63dadcb1"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=d4f44ab84bbcbb22bee7fc1ab496fdc2&txTime=63dadcb1"
 }
 ]
 },
@@ -38,139 +38,34 @@
 "league": " Coppa Italia ",
 "himg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "hteam": "Torino",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-02-01",
 "aimg": "https://mygoaltv.xyz//team/Torino.png",
 "ateam": "Fiorentina",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-779421.m3u8?auth_key=1675291716-0-0-a301243ff90ff114c8b73ebbe2e9ddd1"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-779421.m3u8?auth_key=1675291716-0-0-a301243ff90ff114c8b73ebbe2e9ddd1"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?auth_key=1675287789-0-0-b049ad8adc4730fd566ec6b30c6f5900&edge_slice=true&user_session_id=aee2e6cf9e86821d36398cc34f34effb&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/lille.png",
-"hteam": "Clermont",
-"time": " 12:30 AM ",
-"date": "2023-02-02",
-"aimg": "https://mygoaltv.xyz//team/clermont.png",
-"ateam": "Lille",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Nantes.png",
-"hteam": "Marseille",
-"time": " 12:30 AM ",
-"date": "2023-02-02",
-"aimg": "https://mygoaltv.xyz//team/Marseille_logo.png",
-"ateam": "Nantes",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/reims.png",
-"hteam": "Lorient",
-"time": " 12:30 AM ",
-"date": "2023-02-02",
-"aimg": "https://mygoaltv.xyz//team/Lorient.png",
-"ateam": "Reims",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?auth_key=1675287789-0-0-b049ad8adc4730fd566ec6b30c6f5900&edge_slice=true&user_session_id=aee2e6cf9e86821d36398cc34f34effb&sub_m3u8=true"
 }
 ]
 },
