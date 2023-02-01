@@ -100,34 +100,26 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Montpellier.png",
 "hteam": "Paris Saint-Germain",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-02",
 "aimg": "https://mygoaltv.xyz//team/psg.png",
 "ateam": "Montpellier",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?auth_key=1675292316-0-0-4b3bc8b5221ca8ea9aa599e43317d931&edge_slice=true&user_session_id=8128e993767523de02160294c769472e&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://dc1769a42a64a444b68e0fc184768dba.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?user_session_id=871a4b9e23af79cb78b8827f1a0beaa4&sub_m3u8=true&edge_slice=true&auth_key=1675292316-0-0-fe70c77491b7762dae9957fa4ccccc0c"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=5040f06e73723c6ebc52381e5abb4336&txTime=63dadda1"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=5040f06e73723c6ebc52381e5abb4336&txTime=63dadda1"
 }
 ]
 },
@@ -135,7 +127,7 @@
 "league": " Coppa Italia ",
 "himg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "hteam": "Cremonese",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-02",
 "aimg": "https://mygoaltv.xyz//team/cremonese.png",
 "ateam": "AS Roma",
@@ -158,11 +150,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?user_session_id=ea7f5efe95a9eee702b3ac53697161e5&sub_m3u8=true&edge_slice=true&auth_key=1675287969-0-0-9796e77b17aebe8a183f7ca2aee7275e"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?user_session_id=ea7f5efe95a9eee702b3ac53697161e5&sub_m3u8=true&edge_slice=true&auth_key=1675287969-0-0-9796e77b17aebe8a183f7ca2aee7275e"
 }
 ]
 },
@@ -170,7 +162,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Lens.png",
 "hteam": "Nice",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-02",
 "aimg": "https://mygoaltv.xyz//team/Nice.png",
 "ateam": "Lens",
@@ -205,7 +197,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/lyon.png",
 "hteam": "Brestois",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-02",
 "aimg": "https://mygoaltv.xyz//team/Brest.gif",
 "ateam": "Lyon",
@@ -240,7 +232,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/monaco.png",
 "hteam": "Auxerre",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-02",
 "aimg": "https://mygoaltv.xyz//team/Auxerre.gif",
 "ateam": "Monaco",
@@ -275,7 +267,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/rennes.png",
 "hteam": "Strasbourg",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-02",
 "aimg": "https://mygoaltv.xyz//team/strasbourg.png",
 "ateam": "Rennes",
