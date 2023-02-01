@@ -36,6 +36,14 @@
 "ateam": "Manchester United",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
+},
+{
+"type":  "English 2 HD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull.juqihuo.com/live/stream-238362_lhd.m3u8?user_session_id=f947d29ede37430e8bf23ec0e0a61c3b&sub_m3u8=true&edge_slice=true&auth_key=1675303236-0-0-3d91d1b632c768e6645e6cbfb34d2ded"
 },
