@@ -44,6 +44,14 @@
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lsd.m3u8?sub_m3u8=true&auth_key=1675467576-0-0-9c752545c61c6bd444d5ee290fe3ecd0&user_session_id=1fa17ba72154c01da5d004539c3f4631&edge_slice=true"
 },
 {
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
+{
 "type": "Bein Sports HD",
 "livelink": "http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8"
 },
