@@ -36,6 +36,14 @@
 "ateam": "Chelsea",
 "link": [
 {
+"type": "Bein Sports HD",
+"livelink": "http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8"
+},
+{
+"type": "English HD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?sub_m3u8=true&auth_key=1675467576-0-0-89db7c05dc7c8eb80370b0bb9a98c484&user_session_id=66a031957b2f4e2276d1efbb3c68ea72&edge_slice=true"
 },
@@ -50,14 +58,6 @@
 {
 "type": "Vietnam SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "http://167.172.17.19/BeinPremuim1SD/tracks-v1a1/mono.m3u8"
 },
 {
 "type": "Soco HD",
