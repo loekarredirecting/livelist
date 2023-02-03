@@ -1,71 +1,28 @@
 [
 {
-"league": " Saudi Pro League ",
-"himg": "https://mygoaltv.xyz//team/Al-Fateh.gif",
-"hteam": "Al-Nassr",
-"time": " live ",
-"date": "2023-02-03",
-"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
-"ateam": "Al Fateh",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-5487898_lhd.m3u8?edge_slice=true&user_session_id=ffa59502c867243e387ebfde652ead00&sub_m3u8=true&auth_key=1675455756-0-0-31b462353d970e8ababa12b2976a007a"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-5487898_lsd.m3u8?user_session_id=9b7698c3347764ae6a988dadd516b11c&auth_key=1675455756-0-0-1c0c3cf441ecfeaf60df9c8c8c456cbb&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=1834d1a7a56c90f6f57afaf94cc97764&txTime=63dd6ffe"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=1834d1a7a56c90f6f57afaf94cc97764&txTime=63dd6ffe"
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/augsburg.png",
 "hteam": "Leverkusen",
-"time": " 2:00 AM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/Leverkusen.png",
 "ateam": "Augsburg",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lhd.m3u8?sub_m3u8=true&user_session_id=149cf89a30d2e0aa70d4b6fffcda1320&edge_slice=true&auth_key=1675467636-0-0-35aadeee27244e71bbe1c14bcdcc53b9"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-482183_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675467636-0-0-3ad21c2059984e3a4f7338d4b69d8689&user_session_id=f30ac788fc0041226e33df20a35c098f"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=d39d4901c3ee293a53993338b122552e&txTime=63dd38af"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1675442351-0-0-526dea3b59cfcd3b074bf464ea173c19&user_session_id=9007b002d7040c1e3269f27d5b2ad56d&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
