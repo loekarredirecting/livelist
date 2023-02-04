@@ -1,32 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/psg.png",
-"hteam": "Toulouse",
-"time": " live ",
-"date": "2023-02-04",
-"aimg": "https://mygoaltv.xyz//team/Toulouse.png",
-"ateam": "Paris Saint-Germain",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?sub_m3u8=true&user_session_id=6081d8b6781932154eafcc6b426345c9&edge_slice=true&auth_key=1675547797-0-0-07fcbe70de6b37cb98af62001652abff"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?sub_m3u8=true&user_session_id=6081d8b6781932154eafcc6b426345c9&edge_slice=true&auth_key=1675547797-0-0-07fcbe70de6b37cb98af62001652abff"
-},
-{
-"type": "Soco HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?user_session_id=7909e410ecd614cad4605fab7c8e0008&edge_slice=true&sub_m3u8=true&auth_key=1675547111-0-0-cf681e7d0e681e48cfdee4abcbd42ce1"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1675547111-0-0-a4473981c7fcd729b1a85445e81d074a&edge_slice=true&sub_m3u8=true&user_session_id=ac01811e2fe402b529678fe1f09268b0"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "hteam": "Empoli",
@@ -165,7 +138,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/sassuolo.png",
 "hteam": "Atalanta",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/Atalanta.png",
 "ateam": "Sassuolo",
@@ -192,7 +165,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/betis.png",
 "hteam": "Celta Vigo",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "ateam": "Betis",
@@ -219,7 +192,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/rennes.png",
 "hteam": "Lille",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/lille.png",
 "ateam": "Rennes",
