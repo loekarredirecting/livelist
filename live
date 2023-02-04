@@ -3,7 +3,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/everton.png",
 "hteam": "Arsenal",
-"time": " 7:00 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/arsenal.png",
 "ateam": "Everton",
@@ -18,19 +18,19 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?user_session_id=6b686126a62ba4552e6158e380a07bca&sub_m3u8=true&edge_slice=true&auth_key=1675534057-0-0-64e588d2414a8cb9a169470c94f937cd"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?sub_m3u8=true&auth_key=1675534057-0-0-d5184ebfb4a1f3ad0faefbbaf9c91301&user_session_id=ded355a62cbc87079e4aad6a20f06234&edge_slice=true"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
 },
 {
 "type": "Bein Sports HD",
@@ -42,7 +42,7 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=558e8e416d7648455e8fab8d77330599&txTime=63de9e93"
 },
 {
 "type": "Soco SD",
