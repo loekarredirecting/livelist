@@ -54,34 +54,26 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Koln.png",
 "hteam": "RB Leipzig",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "ateam": "Koln",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?user_session_id=d20076ab7d87ac5619d7bbc5a42c396a&sub_m3u8=true&edge_slice=true&auth_key=1675540717-0-0-cef954d4b5727c90be6777d36d51633a"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?user_session_id=c10d38e325cfe061edf9d3f6de90733c&auth_key=1675540717-0-0-44d534e483fb3405690b7621173744ba&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?edge_slice=true&user_session_id=eaf9aaee307e1439517f7d6ab7f6123d&auth_key=1675540151-0-0-ce6b921b62548fd9cb6a1594d4279252&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?auth_key=1675540151-0-0-f92ea3d71bf8f89d5a05458a5f6406e8&edge_slice=true&user_session_id=25756f66d8edfe6f6379dbfe42c6ddfd&sub_m3u8=true"
 }
 ]
 },
@@ -89,34 +81,34 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/dortmund.png",
 "hteam": "Freiburg",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/freiburg.png",
 "ateam": "Dortmund",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lhd.m3u8?auth_key=1675540777-0-0-496108de40f11cf3c4ee252ede168bb3&sub_m3u8=true&edge_slice=true&user_session_id=f404eae9ea6e36de002a59bd56349fd7"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lsd.m3u8?auth_key=1675540777-0-0-1d50b0ce8df8f1dd34a95798b8c94a8e&sub_m3u8=true&edge_slice=true&user_session_id=21f972b75b126ad227bbb535dd89d7cd"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&user_session_id=2b3af9ebc1275573bfef98419135bc13&edge_slice=true&auth_key=1675540091-0-0-0ab1f58d940e0bc6962562ea11521827"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675540091-0-0-69b4fa06eb5d73ff293ad89cefb72c16&user_session_id=1964626e5c32cd610b9fb4141d5ee61f"
 }
 ]
 },
