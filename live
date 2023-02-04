@@ -76,34 +76,34 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/newcastle.png",
 "hteam": "West Ham",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/westham.png",
 "ateam": "Newcastle United",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=959b3b2eb9b2edb1a3cc745f64233cba&auth_key=1675551157-0-0-9b6ccdbdf5d5657bd9d258cd53ba3c21&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1675551157-0-0-a8bf19f0229633e985b239b8aa6f7c8d&user_session_id=877c001660c5e7bd0d0f0ba2f8b9db9d&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da474a964fa7a1deda0b955613e9d504&txTime=63dee19b"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=da474a964fa7a1deda0b955613e9d504&txTime=63dee19b"
 }
 ]
 },
@@ -111,34 +111,26 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
 "hteam": "Schalke 04",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/schalke-04.png",
 "ateam": "Monchengladbach",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?auth_key=1675551277-0-0-2f050ccf1037ab54d8ac6e07089ba31b&edge_slice=true&user_session_id=70e28697f1ac42da776c6047a706618d&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?auth_key=1675551277-0-0-346e684cdaafd1f71d993bc2029c4415&edge_slice=true&user_session_id=4fee0ae535d15ec0523fa7ce43546e2c&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=b65520302ebbf0273c4bdceeab329f02&txTime=63dee123"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=b65520302ebbf0273c4bdceeab329f02&txTime=63dee123"
 }
 ]
 },
@@ -146,34 +138,34 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "hteam": "Getafe",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/Getafe.png",
 "ateam": "Atletico Madrid",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?auth_key=1675551217-0-0-76cc10d2102ea5e5f95ab625e24a637f&user_session_id=86bbfc7d8737a70dddb45221d65718a9&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?auth_key=1675551217-0-0-640695749f6e99a6e5bdd41439a2b6e3&user_session_id=6b4146fe1b781996d475b19b8ecd1ddb&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/live/chunks.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-206851_lhd.m3u8?sub_m3u8=true&auth_key=1675551071-0-0-cd7690e01e2fe5781f893531afbc39d9&edge_slice=true&user_session_id=9ad876bb3d568f3636df8d34b576e948"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-206851_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0e7b14913f8f2b4c4a2d38630bfd5de4&auth_key=1675551071-0-0-494624be528d143764d3ba09bd4eeb20"
 }
 ]
 },
