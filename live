@@ -9,6 +9,14 @@
 "ateam": "Everton",
 "link": [
 {
+"type": "English HD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "0"
 },
