@@ -35,41 +35,6 @@
 ]
 },
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Espanyol.png",
-"hteam": "Osasuna",
-"time": " 7:30 PM ",
-"date": "2023-02-04",
-"aimg": "https://mygoaltv.xyz//team/osasuna.png",
-"ateam": "Espanyol",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Koln.png",
 "hteam": "RB Leipzig",
