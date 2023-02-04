@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Elche.png",
-"hteam": "Villarreal",
-"time": " live ",
-"date": "2023-02-04",
-"aimg": "https://mygoaltv.xyz//team/villarreal.png",
-"ateam": "Elche",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-697579_lhd.m3u8?user_session_id=7efc0227832326de9de44fbb46580ecf&edge_slice=true&sub_m3u8=true&auth_key=1675545037-0-0-8cbdf99dd22c1b0ad1280104b6284f51"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-697579_lhd.m3u8?user_session_id=7efc0227832326de9de44fbb46580ecf&edge_slice=true&sub_m3u8=true&auth_key=1675545037-0-0-8cbdf99dd22c1b0ad1280104b6284f51"
-},
-{
-"type": "Soco HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?auth_key=1675545131-0-0-222dd05294c9bb657bd0e9142eaeec97&user_session_id=17c68a859f8d62b2cffdecfc91c83b02&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?auth_key=1675545131-0-0-222dd05294c9bb657bd0e9142eaeec97&user_session_id=17c68a859f8d62b2cffdecfc91c83b02&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/psg.png",
 "hteam": "Toulouse",
@@ -180,19 +153,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675553257-0-0-f5c662e452600907bd801061f399964a&user_session_id=b89f5f1c0e05f0e43b0ece7135ceb107"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675553257-0-0-f5c662e452600907bd801061f399964a&user_session_id=b89f5f1c0e05f0e43b0ece7135ceb107"
 },
 {
 "type": "Soco HD",
@@ -215,19 +180,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1675553137-0-0-f7c0008769ff4b2109d50763863fa1d4&user_session_id=fd070b96bf8fe7e9e67126fb9367d4d5&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1675553137-0-0-f7c0008769ff4b2109d50763863fa1d4&user_session_id=fd070b96bf8fe7e9e67126fb9367d4d5&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
@@ -250,19 +207,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?user_session_id=cec2ad40f96038a02f52d7216043ba36&edge_slice=true&auth_key=1675553058-0-0-5e53b4671aa2a159680666ea73b3eb84&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?user_session_id=cec2ad40f96038a02f52d7216043ba36&edge_slice=true&auth_key=1675553058-0-0-5e53b4671aa2a159680666ea73b3eb84&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
@@ -285,19 +234,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-284564_lhd.m3u8?auth_key=1675552957-0-0-6ae3d6f69565f16564fe55946802d26a&edge_slice=true&user_session_id=cc4d064a839cd93771d6b322fda5a44d&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-284564_lhd.m3u8?auth_key=1675552957-0-0-6ae3d6f69565f16564fe55946802d26a&edge_slice=true&user_session_id=cc4d064a839cd93771d6b322fda5a44d&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
