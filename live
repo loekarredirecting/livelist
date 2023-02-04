@@ -87,6 +87,14 @@
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
+"type": "Bein Sports HD",
+"livelink": "http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8"
+},
+{
+"type": "Bein Sports SD",
+"livelink": "http://167.172.17.19/BeinSportsPremuim1SD/tracks-v1a1/mono.m3u8"
+},
+{
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=9ff971a1537fae4c760dd748dbed34f0&txTime=63deb72f"
 },
