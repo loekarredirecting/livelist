@@ -1,56 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/everton.png",
-"hteam": "Arsenal",
-"time": " live ",
-"date": "2023-02-04",
-"aimg": "https://mygoaltv.xyz//team/arsenal.png",
-"ateam": "Everton",
-"link": [
-{
-"type": "English HD",
-"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?user_session_id=6b686126a62ba4552e6158e380a07bca&sub_m3u8=true&edge_slice=true&auth_key=1675534057-0-0-64e588d2414a8cb9a169470c94f937cd"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?sub_m3u8=true&auth_key=1675534057-0-0-d5184ebfb4a1f3ad0faefbbaf9c91301&user_session_id=ded355a62cbc87079e4aad6a20f06234&edge_slice=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/playlist.m3u8"
-},
-{
-"type": "Bein Sports HD",
-"livelink": "http://167.172.17.19/BeinPremuim1HD/tracks-v1a1/mono.m3u8"
-},
-{
-"type": "Bein Sports SD",
-"livelink": "http://167.172.17.19/BeinPremuim1SD/tracks-v1a1/mono.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=558e8e416d7648455e8fab8d77330599&txTime=63de9e93"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=966cf23218dce0213a63c70c242492d2&txTime=63dea307"
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Koln.png",
 "hteam": "RB Leipzig",
@@ -116,14 +65,14 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Crystal Palace",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "ateam": "Manchester United",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1675543177-0-0-d0829d145a430dc8c44ad9524ac19115&edge_slice=true&user_session_id=8d8afad1be991c0454c09716e56b3c5b"
 },
 {
 "type":  "China SD",
@@ -131,11 +80,11 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
@@ -151,7 +100,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "hteam": "Liverpool",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/liverpool.png",
 "ateam": "Wolverhampton",
@@ -166,11 +115,11 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
@@ -186,7 +135,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "Bournemouth",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/Bournemouth.gif",
 "ateam": "Brighton",
@@ -221,7 +170,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Brentford.png",
 "hteam": "Southampton",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/southampton.png",
 "ateam": "Brentford",
@@ -248,7 +197,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/astonvilla.png",
 "hteam": "Leicester City",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-04",
 "aimg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "ateam": "Aston Villa",
