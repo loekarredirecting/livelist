@@ -146,7 +146,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Troyes.gif",
 "hteam": "Lyon",
-"time": " 12:30 AM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/lyon.png",
 "ateam": "Troyes",
@@ -158,14 +158,6 @@
 {
 "type":  "China SD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1675553257-0-0-f5c662e452600907bd801061f399964a&user_session_id=b89f5f1c0e05f0e43b0ece7135ceb107"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
 }
 ]
 },
@@ -188,11 +180,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1675553591-0-0-14bbd1872381239e7df9c3c390812809&edge_slice=true&user_session_id=9f3e73bf4667e44eea7a6aa583d5642a&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?auth_key=1675553591-0-0-14bbd1872381239e7df9c3c390812809&edge_slice=true&user_session_id=9f3e73bf4667e44eea7a6aa583d5642a&sub_m3u8=true"
 }
 ]
 },
@@ -215,11 +207,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?user_session_id=0e9cba6ec7a07b315d0a980a48eec0fa&auth_key=1675553651-0-0-08fa1755f4719bef9f1e82c46c260163&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?user_session_id=0e9cba6ec7a07b315d0a980a48eec0fa&auth_key=1675553651-0-0-08fa1755f4719bef9f1e82c46c260163&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
@@ -242,11 +234,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?sub_m3u8=true&auth_key=1675553771-0-0-0add3e1e7da251d07c740dd469bc897f&edge_slice=true&user_session_id=9f89ef0f87e7755cbbc22dc6d7da80ea"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?sub_m3u8=true&auth_key=1675553771-0-0-0add3e1e7da251d07c740dd469bc897f&edge_slice=true&user_session_id=9f89ef0f87e7755cbbc22dc6d7da80ea"
 }
 ]
 }
