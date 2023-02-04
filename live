@@ -211,5 +211,110 @@
 "livelink": "0"
 }
 ]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/sassuolo.png",
+"hteam": "Atalanta",
+"time": " 2:15 AM ",
+"date": "2023-02-05",
+"aimg": "https://mygoaltv.xyz//team/Atalanta.png",
+"ateam": "Sassuolo",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/betis.png",
+"hteam": "Celta Vigo",
+"time": " 2:30 AM ",
+"date": "2023-02-05",
+"aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
+"ateam": "Betis",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/rennes.png",
+"hteam": "Lille",
+"time": " 2:30 AM ",
+"date": "2023-02-05",
+"aimg": "https://mygoaltv.xyz//team/lille.png",
+"ateam": "Rennes",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
