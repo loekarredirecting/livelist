@@ -1,40 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Mallorca.gif",
-"hteam": "Real Madrid",
-"time": " live ",
-"date": "2023-02-05",
-"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
-"ateam": "Mallorca",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lhd.m3u8?user_session_id=1e8346b1a6ffa1412ebedb8ca1fe70b0&sub_m3u8=true&edge_slice=true&auth_key=1675619857-0-0-922c00405066bb37c873a9cb6985c5a3"
-},
-{
-"type":  "China SD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lsd.m3u8?auth_key=1675619857-0-0-7912d223f1474fb44cd596a3aa62a16c&sub_m3u8=true&user_session_id=208c634bb47169e56499060fdf85215b&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=8671851a5ff038db53f7a9599eb31dce&txTime=63dff9af"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=8671851a5ff038db53f7a9599eb31dce&txTime=63dff9af"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "hteam": "Leeds",
@@ -146,7 +111,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Girona.png",
 "hteam": "Valencia",
-"time": " 9:45 PM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/Valencia.png",
 "ateam": "Girona",
@@ -212,6 +177,41 @@
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/manchestercity.png",
 "ateam": "Tottenham",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/wolfsburg.png",
+"hteam": "Bayern Munich",
+"time": " 11:00 PM ",
+"date": "2023-02-05",
+"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"ateam": "Wolfsburg",
 "link": [
 {
 "type": "China HD",
