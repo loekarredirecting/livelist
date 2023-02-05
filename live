@@ -1,32 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/clermont.png",
-"hteam": "Monaco",
-"time": " live ",
-"date": "2023-02-05",
-"aimg": "https://mygoaltv.xyz//team/monaco.png",
-"ateam": "Clermont",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?auth_key=1675619377-0-0-b0566e78d8b6d194f7430ed2c0ca43e4&user_session_id=e00ab9d8ad54d8c87e2217333b71b986&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?auth_key=1675619377-0-0-71bf941d588290c44e496ced7420839b&user_session_id=89b245b79359efffa1ee492075fc7f19&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=11b718b382ffb5b0e61e8e558a192ce3&txTime=63dfebdb"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=11b718b382ffb5b0e61e8e558a192ce3&txTime=63dfebdb"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "hteam": "Real Madrid",
@@ -146,7 +119,7 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/stuttgart.png",
 "hteam": "Werder Bremen",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
 "ateam": "Stuttgart",
@@ -193,6 +166,76 @@
 {
 "type": "Soco SD",
 "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-107307_lsd.m3u8?edge_slice=true&user_session_id=6f67fb07f6128b55f32295cb199f31e4&sub_m3u8=true&auth_key=1675619771-0-0-1eb9ae15726c432f6b2f707c7b68300b"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Brest.gif",
+"hteam": "Lens",
+"time": " 10:35 PM ",
+"date": "2023-02-05",
+"aimg": "https://mygoaltv.xyz//team/Lens.png",
+"ateam": "Brestois",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/tottenham.png",
+"hteam": "Manchester City",
+"time": " 11:00 PM ",
+"date": "2023-02-05",
+"aimg": "https://mygoaltv.xyz//team/manchestercity.png",
+"ateam": "Tottenham",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 }
