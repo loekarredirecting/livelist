@@ -1,32 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/stuttgart.png",
-"hteam": "Werder Bremen",
-"time": " live ",
-"date": "2023-02-05",
-"aimg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
-"ateam": "Stuttgart",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1675620097-0-0-35ac8af08f2c3117a14d333be92ef3a9&user_session_id=4a8f4ef71a9ec2763dadf314359e0474&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=a89bfac1c5fc9c1724f9b6a67e90cbbb&auth_key=1675620097-0-0-167747d17fbabf1779a122a8393731c5&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=edb2db3043fc0b98a786cbf51316ce80&txTime=63dfedbb"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=edb2db3043fc0b98a786cbf51316ce80&txTime=63dfedbb"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Girona.png",
 "hteam": "Valencia",
