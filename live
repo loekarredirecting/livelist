@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Girona.png",
-"hteam": "Valencia",
-"time": " live ",
-"date": "2023-02-05",
-"aimg": "https://mygoaltv.xyz//team/Valencia.png",
-"ateam": "Girona",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?auth_key=1675620157-0-0-aa9aea36d5e432128c063716ca6815d2&user_session_id=2b8a9214f0cee87477058c5a6ad217c7&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lsd.m3u8?auth_key=1675620157-0-0-c74d812440edf7f417779cf9337870bc&user_session_id=a02304a6beb008a9f7fafd4cdfa799a5&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-107307_lhd.m3u8?user_session_id=6a2b7f3c9c8b5d6510f922761683a5e0&edge_slice=true&auth_key=1675619771-0-0-363b5d77815b84bf094905d4d9086182&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-107307_lsd.m3u8?edge_slice=true&user_session_id=6f67fb07f6128b55f32295cb199f31e4&sub_m3u8=true&auth_key=1675619771-0-0-1eb9ae15726c432f6b2f707c7b68300b"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Brest.gif",
 "hteam": "Lens",
@@ -154,7 +127,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "hteam": "Valladolid",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-02-06",
 "aimg": "https://mygoaltv.xyz//team/Valladolid.png",
 "ateam": "Real Sociedad",
@@ -193,6 +166,60 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=04de77d25941d17eacf43504210a4088&txTime=63e031ef"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
+"hteam": "Nice",
+"time": " 2:15 AM ",
+"date": "2023-02-06",
+"aimg": "https://mygoaltv.xyz//team/Nice.png",
+"ateam": "Marseille",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-284564_lhd.m3u8?auth_key=1675638697-0-0-1d959063b3704567ea21ec329b9fe326&user_session_id=4e792a47c3765b1605b13b80c848498f&sub_m3u8=true&edge_slice=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-284564_lhd.m3u8?auth_key=1675638697-0-0-1d959063b3704567ea21ec329b9fe326&user_session_id=4e792a47c3765b1605b13b80c848498f&sub_m3u8=true&edge_slice=true"
+},
+{
+"type": "Soco HD",
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1675637711-0-0-68fd0aa7dc40acb4a4115157495c4ca8&user_session_id=a45296f47997e396fc31094f9d80e162&sub_m3u8=true&edge_slice=true"
+},
+{
+"type": "Soco SD",
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1675637711-0-0-68fd0aa7dc40acb4a4115157495c4ca8&user_session_id=a45296f47997e396fc31094f9d80e162&sub_m3u8=true&edge_slice=true"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Barcelona.png",
+"hteam": "Sevilla",
+"time": " 2:30 AM ",
+"date": "2023-02-06",
+"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
+"ateam": "Barcelona",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&auth_key=1675638517-0-0-5ed5bc957d349444b3fe21d4cfccc416&user_session_id=60f302a2dfccbcc23b6c5236f68fa33b&edge_slice=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&auth_key=1675638517-0-0-5ed5bc957d349444b3fe21d4cfccc416&user_session_id=60f302a2dfccbcc23b6c5236f68fa33b&edge_slice=true"
+},
+{
+"type": "Soco HD",
+"livelink": "https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=58d82f73a03b781faf9ceffea8c199d3&txTime=63e03447"
+},
+{
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=58d82f73a03b781faf9ceffea8c199d3&txTime=63e03447"
 }
 ]
 }
