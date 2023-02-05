@@ -154,34 +154,26 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "hteam": "Bologna",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/Bologna.png",
 "ateam": "Fiorentina",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?user_session_id=4e6251a4ff063762d98f6e5aa97448dd&auth_key=1675636717-0-0-f6161cf6dceb8700d8a86880f935cb2e&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?user_session_id=4e6251a4ff063762d98f6e5aa97448dd&auth_key=1675636717-0-0-f6161cf6dceb8700d8a86880f935cb2e&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?sub_m3u8=true&auth_key=1675636759-0-0-9fa58fe8b3a936f4caa506e90e974d03&edge_slice=true&user_session_id=3d8d74d08fc666e1e13b98c294a1b518"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&auth_key=1675636759-0-0-36f6775853faf710dabef0e461018818&user_session_id=8b9f003f3c3506947315b028fd9316d8&sub_m3u8=true"
 }
 ]
 },
@@ -196,11 +188,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=759424f92d446e00053ef9150855b83c&auth_key=1675636777-0-0-1ff5e635e4515b339088aa724750ab6c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=759424f92d446e00053ef9150855b83c&auth_key=1675636777-0-0-1ff5e635e4515b339088aa724750ab6c"
 },
 {
 "type": "Soco HD",
@@ -231,11 +223,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&user_session_id=13a3983d326a38ca93ced688188b33a6&auth_key=1675636897-0-0-618b4f29a56690b87a8832f7376b599e&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&user_session_id=13a3983d326a38ca93ced688188b33a6&auth_key=1675636897-0-0-618b4f29a56690b87a8832f7376b599e&edge_slice=true"
 },
 {
 "type": "Soco HD",
