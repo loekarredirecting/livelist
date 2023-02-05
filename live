@@ -193,22 +193,6 @@
 {
 "type":  "China SD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=759424f92d446e00053ef9150855b83c&auth_key=1675636777-0-0-1ff5e635e4515b339088aa724750ab6c"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
@@ -231,19 +215,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=04de77d25941d17eacf43504210a4088&txTime=63e031ef"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=04de77d25941d17eacf43504210a4088&txTime=63e031ef"
 }
 ]
 }
