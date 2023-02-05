@@ -138,34 +138,18 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Brest.gif",
 "hteam": "Lens",
-"time": " 10:35 PM ",
+"time": " live ",
 "date": "2023-02-05",
 "aimg": "https://mygoaltv.xyz//team/Lens.png",
 "ateam": "Brestois",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-557735_lhd.m3u8?sub_m3u8=true&auth_key=1675633057-0-0-59f17cd63fced1875d6662ae5e7834d6&edge_slice=true&user_session_id=b60fd5329d4703dc75944a027b1e2c4e"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-557735_lsd.m3u8?sub_m3u8=true&auth_key=1675633057-0-0-e369f1793871a1e6fbe3718a89d52bda&user_session_id=483a790f604dde36a80eded940ee7261&edge_slice=true"
 }
 ]
 },
