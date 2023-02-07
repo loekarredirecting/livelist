@@ -29,19 +29,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=06c02f3a9926bd8b34167b5ad08b043c&sub_m3u8=true&auth_key=1675811137-0-0-1eb1ba1f9b174ff2f2a956ef1d8e9cea&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=06c02f3a9926bd8b34167b5ad08b043c&sub_m3u8=true&auth_key=1675811137-0-0-1eb1ba1f9b174ff2f2a956ef1d8e9cea&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?sub_m3u8=true&user_session_id=d74a2b63710963d9fec2bc63e6aa13b9&auth_key=1675811592-0-0-2c7ce3a915828aff7b5cc2a432e975a8&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?sub_m3u8=true&user_session_id=d74a2b63710963d9fec2bc63e6aa13b9&auth_key=1675811592-0-0-2c7ce3a915828aff7b5cc2a432e975a8&edge_slice=true"
 },
 {
 "type": "Vietnam HD",
@@ -64,27 +64,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&user_session_id=360291203f7c73d3c7bda51cdc2760b9&auth_key=1675811257-0-0-9d59deb085300b9543022c7a263d5887&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&user_session_id=360291203f7c73d3c7bda51cdc2760b9&auth_key=1675811257-0-0-9d59deb085300b9543022c7a263d5887&sub_m3u8=true"
 }
 ]
 },
@@ -99,27 +83,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://8d5c41824a3fb63ec0e202c39481c970.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1675811317-0-0-2d8c0d85ec368476fbdf865f0961d31c&sub_m3u8=true&user_session_id=eca1a20d940355e57be6a70973bfb7c2&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://8d5c41824a3fb63ec0e202c39481c970.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1675811317-0-0-2d8c0d85ec368476fbdf865f0961d31c&sub_m3u8=true&user_session_id=eca1a20d940355e57be6a70973bfb7c2&edge_slice=true"
 }
 ]
 },
@@ -131,41 +99,6 @@
 "date": "2023-02-08",
 "aimg": "https://mygoaltv.xyz//team/Sheffield-Wed.gif",
 "ateam": "Fleetwood Town",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
-"hteam": "Wrexham",
-"time": " 2:15 AM ",
-"date": "2023-02-08",
-"aimg": "https://mygoaltv.xyz//team/Wrexham.gif",
-"ateam": "Sheffield United",
 "link": [
 {
 "type": "China HD",
