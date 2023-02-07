@@ -22,7 +22,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/salernitana.png",
 "hteam": "Juventus",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-02-08",
 "aimg": "https://mygoaltv.xyz//team/Juventus.png",
 "ateam": "Salernitana",
@@ -42,14 +42,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?sub_m3u8=true&user_session_id=d74a2b63710963d9fec2bc63e6aa13b9&auth_key=1675811592-0-0-2c7ce3a915828aff7b5cc2a432e975a8&edge_slice=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
@@ -57,7 +49,7 @@
 "league": " Cup Germany ",
 "himg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
 "hteam": "Darmstadt 98",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-02-08",
 "aimg": "https://mygoaltv.xyz//team/Darmstadt-98.png",
 "ateam": "Frankfurt",
@@ -76,7 +68,7 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/Burnley.gif",
 "hteam": "Ipswich Town",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-02-08",
 "aimg": "https://mygoaltv.xyz//team/Ipswich-town.gif",
 "ateam": "Burnley",
@@ -88,41 +80,6 @@
 {
 "type":  "China SD",
 "livelink": "https://8d5c41824a3fb63ec0e202c39481c970.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1675811317-0-0-2d8c0d85ec368476fbdf865f0961d31c&sub_m3u8=true&user_session_id=eca1a20d940355e57be6a70973bfb7c2&edge_slice=true"
-}
-]
-},
-{
-"league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/fleetwood-town.png",
-"hteam": "Sheffield Wed",
-"time": " 2:15 AM ",
-"date": "2023-02-08",
-"aimg": "https://mygoaltv.xyz//team/Sheffield-Wed.gif",
-"ateam": "Fleetwood Town",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 }
