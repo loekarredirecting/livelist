@@ -3,34 +3,26 @@
 "league": " Cup France ",
 "himg": "https://mygoaltv.xyz//team/lyon.png",
 "hteam": "Lille",
-"time": " 11:45 PM ",
+"time": " live ",
 "date": "2023-02-08",
 "aimg": "https://mygoaltv.xyz//team/lille.png",
 "ateam": "Lyon",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=5acf11abf63053b37608eab3f3f394c3&edge_slice=true&sub_m3u8=true&auth_key=1675897777-0-0-dd3da028b3936a18d77e08537b68b78f"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=5acf11abf63053b37608eab3f3f394c3&edge_slice=true&sub_m3u8=true&auth_key=1675897777-0-0-dd3da028b3936a18d77e08537b68b78f"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=2961ab6e442c3f26936527dcd000bfbc&txTime=63e42aa9"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=2961ab6e442c3f26936527dcd000bfbc&txTime=63e42aa9"
 }
 ]
 },
@@ -38,34 +30,26 @@
 "league": " Cup France ",
 "himg": "https://mygoaltv.xyz//team/Toulouse.png",
 "hteam": "Reims",
-"time": " 11:45 PM ",
+"time": " live ",
 "date": "2023-02-08",
 "aimg": "https://mygoaltv.xyz//team/reims.png",
 "ateam": "Toulouse",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675897897-0-0-2f4589c72a9fe3ddea86b2c06dce13f0&user_session_id=ca173d7867c4ff22c6198c509d930e75"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675897897-0-0-2f4589c72a9fe3ddea86b2c06dce13f0&user_session_id=ca173d7867c4ff22c6198c509d930e75"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?edge_slice=true&auth_key=1675897633-0-0-1d3bfa3903d7084aee8b490fd0c3df7e&sub_m3u8=true&user_session_id=f90e1c61a1275f6062f7c8105ff32385"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?edge_slice=true&auth_key=1675897633-0-0-1d3bfa3903d7084aee8b490fd0c3df7e&sub_m3u8=true&user_session_id=f90e1c61a1275f6062f7c8105ff32385"
 }
 ]
 },
