@@ -1,40 +1,5 @@
 [
 {
-"league": " FIFA Club World Cup ",
-"himg": "https://mygoaltv.xyz//team/Al-Ahly.gif",
-"hteam": "Real Madrid",
-"time": " live ",
-"date": "2023-02-09",
-"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
-"ateam": "Al Ahly",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&user_session_id=76f30ba59a11b48da62f2bdefef8b93f&auth_key=1675907317-0-0-9aeeff31215c7e83a9818292b43fe42a&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&user_session_id=76f30ba59a11b48da62f2bdefef8b93f&auth_key=1675907317-0-0-9aeeff31215c7e83a9818292b43fe42a&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=a8c76035c380a436bf4248ef9281d468&txTime=63e45245"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-118206.m3u8?txSecret=a8c76035c380a436bf4248ef9281d468&txTime=63e45245"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8?Fuck_La_Liga_Canal"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Cup Germany ",
 "himg": "https://mygoaltv.xyz//team/Bochum.gif",
 "hteam": "Dortmund",
