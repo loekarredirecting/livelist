@@ -1,85 +1,246 @@
 [
 {
-"league": " Cup Germany ",
-"himg": "https://mygoaltv.xyz//team/Sandhausen.png",
-"hteam": "Freiburg",
-"time": " live ",
-"date": "2023-02-07",
-"aimg": "https://mygoaltv.xyz//team/freiburg.png",
-"ateam": "Sandhausen",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675811017-0-0-1f736338ffaad871d38564ac17c07558&user_session_id=f82b4f32a78efedeb9a31da465dfebe1"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1675811017-0-0-1f736338ffaad871d38564ac17c07558&user_session_id=f82b4f32a78efedeb9a31da465dfebe1"
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/salernitana.png",
-"hteam": "Juventus",
-"time": " live ",
+"league": " Cup France ",
+"himg": "https://mygoaltv.xyz//team/lyon.png",
+"hteam": "Lille",
+"time": " 11:45 PM ",
 "date": "2023-02-08",
-"aimg": "https://mygoaltv.xyz//team/Juventus.png",
-"ateam": "Salernitana",
+"aimg": "https://mygoaltv.xyz//team/lille.png",
+"ateam": "Lyon",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=06c02f3a9926bd8b34167b5ad08b043c&sub_m3u8=true&auth_key=1675811137-0-0-1eb1ba1f9b174ff2f2a956ef1d8e9cea&edge_slice=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=06c02f3a9926bd8b34167b5ad08b043c&sub_m3u8=true&auth_key=1675811137-0-0-1eb1ba1f9b174ff2f2a956ef1d8e9cea&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?sub_m3u8=true&user_session_id=d74a2b63710963d9fec2bc63e6aa13b9&auth_key=1675811592-0-0-2c7ce3a915828aff7b5cc2a432e975a8&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?sub_m3u8=true&user_session_id=d74a2b63710963d9fec2bc63e6aa13b9&auth_key=1675811592-0-0-2c7ce3a915828aff7b5cc2a432e975a8&edge_slice=true"
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Cup France ",
+"himg": "https://mygoaltv.xyz//team/Toulouse.png",
+"hteam": "Reims",
+"time": " 11:45 PM ",
+"date": "2023-02-08",
+"aimg": "https://mygoaltv.xyz//team/reims.png",
+"ateam": "Toulouse",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Club World Cup ",
+"himg": "https://mygoaltv.xyz//team/Al-Ahly.gif",
+"hteam": "Real Madrid",
+"time": " 1:30 AM ",
+"date": "2023-02-09",
+"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
+"ateam": "Al Ahly",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 },
 {
 "league": " Cup Germany ",
-"himg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
-"hteam": "Darmstadt 98",
-"time": " live ",
-"date": "2023-02-08",
-"aimg": "https://mygoaltv.xyz//team/Darmstadt-98.png",
-"ateam": "Frankfurt",
+"himg": "https://mygoaltv.xyz//team/Bochum.gif",
+"hteam": "Dortmund",
+"time": " 2:15 AM ",
+"date": "2023-02-09",
+"aimg": "https://mygoaltv.xyz//team/dortmund.png",
+"ateam": "Bochum",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&user_session_id=360291203f7c73d3c7bda51cdc2760b9&auth_key=1675811257-0-0-9d59deb085300b9543022c7a263d5887&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&user_session_id=360291203f7c73d3c7bda51cdc2760b9&auth_key=1675811257-0-0-9d59deb085300b9543022c7a263d5887&sub_m3u8=true"
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 },
 {
 "league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/Burnley.gif",
-"hteam": "Ipswich Town",
-"time": " live ",
-"date": "2023-02-08",
-"aimg": "https://mygoaltv.xyz//team/Ipswich-town.gif",
-"ateam": "Burnley",
+"himg": "https://mygoaltv.xyz//team/sunderland.png",
+"hteam": "Fulham",
+"time": " 2:15 AM ",
+"date": "2023-02-09",
+"aimg": "https://mygoaltv.xyz//team/fulham.png",
+"ateam": "Sunderland",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://8d5c41824a3fb63ec0e202c39481c970.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1675811317-0-0-2d8c0d85ec368476fbdf865f0961d31c&sub_m3u8=true&user_session_id=eca1a20d940355e57be6a70973bfb7c2&edge_slice=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://8d5c41824a3fb63ec0e202c39481c970.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1675811317-0-0-2d8c0d85ec368476fbdf865f0961d31c&sub_m3u8=true&user_session_id=eca1a20d940355e57be6a70973bfb7c2&edge_slice=true"
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"hteam": "Leeds",
+"time": " 2:30 AM ",
+"date": "2023-02-09",
+"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
+"ateam": "Manchester United",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Cup France ",
+"himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
+"hteam": "Paris Saint-Germain",
+"time": " 2:40 AM ",
+"date": "2023-02-09",
+"aimg": "https://mygoaltv.xyz//team/psg.png",
+"ateam": "Marseille",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 }
