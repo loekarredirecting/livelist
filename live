@@ -3,7 +3,7 @@
 "league": " Saudi Pro League ",
 "himg": "https://mygoaltv.xyz//team/no-logo.png",
 "hteam": "Al-Nassr",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-02-10",
 "aimg": "https://mygoaltv.xyz//team/al-nassr.png",
 "ateam": "Al Wehda",
@@ -18,19 +18,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1675984573-0-0-71f8cea7227da88c4f358343795b10d1&user_session_id=865b3eba7ea148edf355e40c6000bb31&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1675984573-0-0-71f8cea7227da88c4f358343795b10d1&user_session_id=865b3eba7ea148edf355e40c6000bb31&edge_slice=true&sub_m3u8=true"
 }
 ]
 }
