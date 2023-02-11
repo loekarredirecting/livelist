@@ -81,18 +81,18 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "hteam": "Bochum",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/Bochum.gif",
 "ateam": "Bayern Munich",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1676145998-0-0-fef506b741157bd814031fc4aae66b31"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1676145998-0-0-ffe4b21d11fa5f964d3ee433ca6ffc3d"
 },
 {
 "type": "Soco HD",
@@ -101,14 +101,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=b2571741b546118d3dd2b1b6d339804e&txTime=63e7eea7"
-},
-{
-"type": "Vietnam HD",
-"livelink": "8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
@@ -116,18 +108,18 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
 "hteam": "Dortmund",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/dortmund.png",
 "ateam": "Werder Bremen",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-1345860.m3u8?auth_key=1676145698-0-0-1c966c3a7c6d4bb89da4a5e502557b50"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-1345860.m3u8?auth_key=1676145698-0-0-1c966c3a7c6d4bb89da4a5e502557b50"
 },
 {
 "type": "Soco HD",
@@ -143,7 +135,7 @@
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may122/chunks.m3u8"
 }
 ]
 },
