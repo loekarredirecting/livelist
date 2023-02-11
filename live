@@ -289,5 +289,40 @@
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
 }
 ]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/monaco.png",
+"hteam": "Paris Saint-Germain",
+"time": " live ",
+"date": "2023-02-11",
+"aimg": "https://mygoaltv.xyz//team/psg.png",
+"ateam": "Monaco",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://yypull.gdsth.com/live/stream-3045619.m3u8?auth_key=1676150558-0-0-0f93f75eb6b195632df286d1d120ec43"
+},
+{
+"type":  "China SD",
+"livelink": "https://yypull.gdsth.com/live/stream-3045619_ld.m3u8?auth_key=1676150558-0-0-3028359a260bbef0d74e348e5de70159"
+},
+{
+"type": "Soco HD",
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=8aa7202a920550148b24d88fd7dce778&txTime=63e806cb"
+},
+{
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=8aa7202a920550148b24d88fd7dce778&txTime=63e806cb"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may7/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may7/chunklist.m3u8"
+}
+]
 }
 ]
