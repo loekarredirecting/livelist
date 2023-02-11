@@ -46,34 +46,34 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Empoli.gif",
 "hteam": "Spezia",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/Spezia.gif",
 "ateam": "Empoli",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1676143898-0-0-1d4c57072d7996f8b3d83a4460428f73"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-418311_ld.m3u8?auth_key=1676143898-0-0-6b3bfb49113c0103f2c9dbfc4aa38658"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4d1006beef8970ecf6277d5ae1f62e5c&txTime=63e7eee3"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4d1006beef8970ecf6277d5ae1f62e5c&txTime=63e7eee3"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may7/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may7/chunklist.m3u8"
 }
 ]
 },
