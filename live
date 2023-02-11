@@ -1,48 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/westham.png",
-"hteam": "Chelsea",
-"time": " live ",
-"date": "2023-02-11",
-"aimg": "https://mygoaltv.xyz//team/chelsea.png",
-"ateam": "West Ham",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676138798-0-0-6d0fb6489dfc111bd6909f4b75fc4442"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676138798-0-0-81a4fbf4a91eeca24e34b67764e9350e"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=2cb150f0e9aaf7b88103936a5736c762&txTime=63e7db33"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=2cb150f0e9aaf7b88103936a5736c762&txTime=63e7db33"
-},
-{
-"type": "English HD",
-"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://prod-fastly-us-west-1.video.pscp.tv/Transcoding/v1/hls/uOkecY2WfcYD7PFGjpcNfLwBbDmEjA8KJ_wWqaZhFQmRsNTypmRZs3jCiPgBszIACwUqkCRdUobByjI61wSjTA/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Empoli.gif",
 "hteam": "Spezia",
@@ -143,34 +100,26 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Brentford",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/Brentford.png",
 "ateam": "Arsenal",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676148038-0-0-6cffef15b814833716e72a852f0492a8"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676148038-0-0-bf55ad5cc8cb00294f2c2b6ed1ed5c0e"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=9fce8cd3d9e770c70ba6a79246500932&txTime=63e7fe1f"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-137359.m3u8?txSecret=9fce8cd3d9e770c70ba6a79246500932&txTime=63e7fe1f"
 }
 ]
 },
@@ -178,26 +127,26 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "hteam": "Brighton",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/Brighton.gif",
 "ateam": "Crystal Palace",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1676148218-0-0-f1b65c93e515307bdfc4cb2a951ae727"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1676148218-0-0-f1b65c93e515307bdfc4cb2a951ae727"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?auth_key=1676147715-0-0-c238bfbd61b28566e94b4126efefd7ec&user_session_id=0e61779e3b423021d1b3636dd2bc9177&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1676147715-0-0-e7971a4c3227793050a5dcaecf95e85c&user_session_id=d98a9656925de80b33219973c01bd45f&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Vietnam HD",
@@ -213,34 +162,26 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "hteam": "Tottenham",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/tottenham.png",
 "ateam": "Leicester City",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1676148158-0-0-694e46276da65cb45034b798419f41ad"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551899_ld.m3u8?auth_key=1676148158-0-0-c967f57fe7cd2263dcba633db4259dff"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?sub_m3u8=true&user_session_id=17e2aca3b302421815fb585613b7dda1&edge_slice=true&auth_key=1676147835-0-0-d3160f4b98fe1552c63cdcbd0cde73d4"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?user_session_id=72c1316b14dcb6e9d4e158139223c1be&auth_key=1676147835-0-0-ea19580f2c540f575ae3e7724fb34cdf&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
@@ -248,34 +189,26 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/fulham.png",
 "hteam": "Nottingham Forest",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "ateam": "Fulham",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-375981.m3u8?auth_key=1676148278-0-0-09ba6e14e5fbf2a701888ee9f8e275c4"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-375981.m3u8?auth_key=1676148278-0-0-09ba6e14e5fbf2a701888ee9f8e275c4"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1676147775-0-0-9e2a66131858383e87c6de6601d4135a&user_session_id=3ae630947de24c210d161a196b5373ea&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?user_session_id=06cc545ef302b5c055856f24edd6e72a&sub_m3u8=true&edge_slice=true&auth_key=1676147775-0-0-0e161467582b2c7d14c40a1b79b26507"
 }
 ]
 },
@@ -283,34 +216,26 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/southampton.png",
 "hteam": "Wolverhampton",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "ateam": "Southampton",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-37723410.m3u8?auth_key=1676148278-0-0-c24162b43a8b19725de175d46d8d549c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-37723410_ld.m3u8?auth_key=1676148278-0-0-a52086e3d00e1aa14b8511aa9d0c000d"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?auth_key=1676148375-0-0-cacb0876e3150bb81301d66c2d92d2f7&user_session_id=c489d511b14263651c37a7ac886890fb&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-141691_lhd.m3u8?auth_key=1676148375-0-0-cacb0876e3150bb81301d66c2d92d2f7&user_session_id=c489d511b14263651c37a7ac886890fb&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
