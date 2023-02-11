@@ -259,34 +259,34 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Betis",
-"time": " 9:45 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Almeria",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1676149898-0-0-a18a5242a2ca7ba9850241a5d1da397d"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1676149898-0-0-63547370dd3cd7180f3d773b4346e9b5"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=636f43438541c506a52fb3170fa9ef83&txTime=63e80473"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=636f43438541c506a52fb3170fa9ef83&txTime=63e80473"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may81/chunklist.m3u8"
 }
 ]
 }
