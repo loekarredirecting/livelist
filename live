@@ -3,34 +3,34 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/westham.png",
 "hteam": "Chelsea",
-"time": " 7:00 PM ",
+"time": " live ",
 "date": "2023-02-11",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "West Ham",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676138798-0-0-6d0fb6489dfc111bd6909f4b75fc4442"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676138798-0-0-81a4fbf4a91eeca24e34b67764e9350e"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=2cb150f0e9aaf7b88103936a5736c762&txTime=63e7db33"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=2cb150f0e9aaf7b88103936a5736c762&txTime=63e7db33"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
