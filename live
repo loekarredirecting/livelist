@@ -65,7 +65,7 @@
 "league": " La Liga  ",
 "himg": "https://mygoaltv.xyz//team/Getafe.png",
 "hteam": "Rayo Vallecano",
-"time": " 7:30 PM ",
+"time": " live ",
 "date": "2023-02-12",
 "aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "ateam": "Getafe",
@@ -80,19 +80,19 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=6b715b949ad05f9f22c6d2efb8a21ed8&txTime=63e91c87"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=6b715b949ad05f9f22c6d2efb8a21ed8&txTime=63e91c87"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
 }
 ]
 },
