@@ -84,7 +84,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Aston Villa",
-"time": " 11:00 PM ",
+"time": " live ",
 "date": "2023-02-12",
 "aimg": "https://mygoaltv.xyz//team/astonvilla.png",
 "ateam": "Manchester City",
@@ -106,6 +106,14 @@
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?user_session_id=bdd51da59bfb657f1bcdfe383c9acdf9&auth_key=1676236935-0-0-b0ad81d568a7ebab9a5dea55be63cab4&edge_slice=true&sub_m3u8=true"
 },
 {
+"type": "English HD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 },
@@ -119,18 +127,18 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Koln.png",
 "hteam": "Frankfurt",
-"time": " 11:00 PM ",
+"time": " live ",
 "date": "2023-02-12",
 "aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
 "ateam": "Koln",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1676237438-0-0-23fbb964313cc952fc75407a511c1763"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-466384_ld.m3u8?auth_key=1676237438-0-0-a1a1dabcbd68f7d1bf0c0e7974fdf51a"
 },
 {
 "type": "Soco HD",
@@ -139,14 +147,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=9a0d57b29743f3afb2f96f524dadf5f4&txTime=63e91d3b"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
