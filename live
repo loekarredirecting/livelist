@@ -1,40 +1,5 @@
 [
 {
-"league": " La Liga  ",
-"himg": "https://mygoaltv.xyz//team/Getafe.png",
-"hteam": "Rayo Vallecano",
-"time": " live ",
-"date": "2023-02-12",
-"aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
-"ateam": "Getafe",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-9457891.m3u8?auth_key=1676224658-0-0-41eca3d4d76031bea7599318221b58a2"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-9457891_ld.m3u8?auth_key=1676224658-0-0-5fbc030280587285b9d4eda8a18216b9"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=6b715b949ad05f9f22c6d2efb8a21ed8&txTime=63e91c87"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=6b715b949ad05f9f22c6d2efb8a21ed8&txTime=63e91c87"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
 "hteam": "Manchester United",
@@ -260,6 +225,41 @@
 {
 "type": "Soco SD",
 "livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Koln.png",
+"hteam": "Frankfurt",
+"time": " 11:00 PM ",
+"date": "2023-02-12",
+"aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
+"ateam": "Koln",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=9a0d57b29743f3afb2f96f524dadf5f4&txTime=63e91d3b"
+},
+{
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=9a0d57b29743f3afb2f96f524dadf5f4&txTime=63e91d3b"
 },
 {
 "type": "Vietnam HD",
