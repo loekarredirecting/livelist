@@ -3,34 +3,34 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Udinese.png",
 "hteam": "Sassuolo",
-"time": " 6:00 PM ",
+"time": " live ",
 "date": "2023-02-12",
 "aimg": "https://mygoaltv.xyz//team/sassuolo.png",
 "ateam": "Udinese",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1676221298-0-0-fa896be9aa90dcaa3ac0f3524913a0e9"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-551866_ld.m3u8?auth_key=1676221298-0-0-593c5358bafc9f31bd6757e161a991ed"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=280d4c91df8c196b7a8bb62816086ebb&txTime=63e91b1f"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=280d4c91df8c196b7a8bb62816086ebb&txTime=63e91b1f"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
 }
 ]
 },
