@@ -10,19 +10,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676416058-0-0-5dbb455d2b9237313edbd5ff5a62adf3"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676416058-0-0-54595694a6fef254f458693848e4e6b5"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?edge_slice=true&auth_key=1676415496-0-0-8baa9f48b4ee2b152959dcaa5ceb260b&user_session_id=4ed4a855488a5b8bb110a6f898e14c74&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?user_session_id=71f924d9925ca916c0dcd702204e5065&auth_key=1676415496-0-0-925e9bad81d786f5a5d877b1b02881bd&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Vietnam HD",
@@ -45,15 +45,15 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1676416298-0-0-0b6eaf7200385befcbc0d13520c6632f"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1676416298-0-0-fd8c67f5ec53b2f1cea02f0f7f2ddd66"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=56d0f0063e864a7b30cfc2c647590ed3&txTime=63ec0e84"
 },
 {
 "type": "Soco SD",
