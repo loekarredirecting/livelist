@@ -3,7 +3,7 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/psg.png",
 "hteam": "Bayern Munich",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-15",
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Paris Saint-Germain",
@@ -23,14 +23,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?user_session_id=71f924d9925ca916c0dcd702204e5065&auth_key=1676415496-0-0-925e9bad81d786f5a5d877b1b02881bd&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
@@ -38,7 +30,7 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/acmilan.png",
 "hteam": "Tottenham",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-15",
 "aimg": "https://mygoaltv.xyz//team/tottenham.png",
 "ateam": "AC Milan",
@@ -57,15 +49,15 @@
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=56d0f0063e864a7b30cfc2c647590ed3&txTime=63ec0e84"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 }
 ]
 }
