@@ -1,71 +1,141 @@
 [
 {
-"league": " Champions League ",
-"himg": "https://mygoaltv.xyz//team/psg.png",
-"hteam": "Bayern Munich",
-"time": " live ",
-"date": "2023-02-15",
-"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"ateam": "Paris Saint-Germain",
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/arsenal.png",
+"hteam": "Manchester City",
+"time": " 2:00 AM ",
+"date": "2023-02-16",
+"aimg": "https://mygoaltv.xyz//team/manchestercity.png",
+"ateam": "Arsenal",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1676416058-0-0-5dbb455d2b9237313edbd5ff5a62adf3"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1676416058-0-0-54595694a6fef254f458693848e4e6b5"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lhd.m3u8?edge_slice=true&auth_key=1676415496-0-0-8baa9f48b4ee2b152959dcaa5ceb260b&user_session_id=4ed4a855488a5b8bb110a6f898e14c74&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?user_session_id=71f924d9925ca916c0dcd702204e5065&auth_key=1676415496-0-0-925e9bad81d786f5a5d877b1b02881bd&edge_slice=true&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may081FHD/chunklist.m3u8"
+"livelink": "0"
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"livelink": "0"
+}
+]
+},
+{
+"league": " Champions League  ",
+"himg": "https://mygoaltv.xyz//team/dortmund.png",
+"hteam": "Chelsea",
+"time": " 2:30 AM ",
+"date": "2023-02-16",
+"aimg": "https://mygoaltv.xyz//team/chelsea.png",
+"ateam": "Dortmund",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 },
 {
 "league": " Champions League ",
-"himg": "https://mygoaltv.xyz//team/acmilan.png",
-"hteam": "Tottenham",
-"time": " live ",
-"date": "2023-02-15",
-"aimg": "https://mygoaltv.xyz//team/tottenham.png",
-"ateam": "AC Milan",
+"himg": "https://mygoaltv.xyz//team/Club-Brugge.png",
+"hteam": "Benfica",
+"time": " 2:30 AM ",
+"date": "2023-02-16",
+"aimg": "https://mygoaltv.xyz//team/Benfica.png",
+"ateam": "Club Brugge",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1676416298-0-0-0b6eaf7200385befcbc0d13520c6632f"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-435929_ld.m3u8?auth_key=1676416298-0-0-fd8c67f5ec53b2f1cea02f0f7f2ddd66"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=e5db62305981517776457e155d632c68&txTime=63ec3b84"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=e5db62305981517776457e155d632c68&txTime=63ec3b84"
+"livelink": "0"
 },
 {
 "type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+"livelink": "0"
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/real-madrid.png",
+"hteam": "Elche",
+"time": " 2:30 AM ",
+"date": "2023-02-16",
+"aimg": "https://mygoaltv.xyz//team/Elche.png",
+"ateam": "Real Madrid",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 }
