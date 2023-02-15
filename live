@@ -46,7 +46,7 @@
 "league": " Champions League  ",
 "himg": "https://mygoaltv.xyz//team/dortmund.png",
 "hteam": "Chelsea",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-16",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "Dortmund",
@@ -61,19 +61,19 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=5360dd285d3436dcae957872fcda30bb&txTime=63ed8b25"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=5360dd285d3436dcae957872fcda30bb&txTime=63ed8b25"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
@@ -81,7 +81,7 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/Club-Brugge.png",
 "hteam": "Benfica",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-16",
 "aimg": "https://mygoaltv.xyz//team/Benfica.png",
 "ateam": "Club Brugge",
@@ -104,11 +104,11 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8"
 }
 ]
 },
@@ -116,7 +116,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/real-madrid.png",
 "hteam": "Elche",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-16",
 "aimg": "https://mygoaltv.xyz//team/Elche.png",
 "ateam": "Real Madrid",
@@ -131,19 +131,19 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?auth_key=1676511557-0-0-9e1c09cd58bf763db6f80989c8850aef&edge_slice=true&user_session_id=5df21821c09c69855f1851388da1af95&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-160430_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676511557-0-0-ed4e690fa0aecb69dbee317738f3b116&user_session_id=24d571a5d0569012f44c226b7e60db9f"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
 }
 ]
 }
