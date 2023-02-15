@@ -22,7 +22,15 @@
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=731df7a4a05a7e7b3562fcd24e1ce91a&txTime=63ed81c5"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&auth_key=1676509217-0-0-b82021a6bc60f16ae513b6c19f3666b1&user_session_id=5ad30dbbcb129fd7e8c19fc8c42370a8&edge_slice=true"
+},
+{
+"type": "English HD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/c3hd/tracks-v1a1/mono.m3u8"
 },
 {
 "type": "Vietnam HD",
