@@ -10,11 +10,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1676506238-0-0-a4a911e44b3b2bad8c15d58cda01ee84"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1676513078-0-0-1b8a423d6f390fa70f801a8927690641&user_session_id=b93256c8fe9ed9379c796bfac13e83c1&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-2376781_ld.m3u8?auth_key=1676506238-0-0-7e0bf17722d1e071c6ee0a817ed7d1cd"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1676513078-0-0-80ba7cbb132f0ca11ce6d7635176e045&edge_slice=true&sub_m3u8=true&user_session_id=bdd898892b47b88dbd52a9acf06236df"
 },
 {
 "type": "Soco HD",
@@ -23,14 +23,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?sub_m3u8=true&auth_key=1676509217-0-0-b82021a6bc60f16ae513b6c19f3666b1&user_session_id=5ad30dbbcb129fd7e8c19fc8c42370a8&edge_slice=true"
-},
-{
-"type": "English HD",
-"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://live-ak.vimeocdn.com/exp=1676492469~acl=%2F8922deae-132e-4299-bb63-a0a62ddd8c5c%2F%2A~hmac=8c1de08b73ec9ac06364ca3dbe210045c3264769cd72bb54c99beffdd947fecd/8922deae-132e-4299-bb63-a0a62ddd8c5c/chunklist_b416000.m3u8?max_segments=10"
 },
 {
 "type": "Vietnam HD",
