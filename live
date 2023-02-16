@@ -23,14 +23,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1676587665-0-0-3a9d9cc07c2bdc12e320a0791e755d9f&sub_m3u8=true&edge_slice=true&user_session_id=2f69997e0b4591395c6f3de249e36f8e"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
@@ -61,11 +53,11 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
@@ -93,14 +85,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=89a71d4e2ec8d5c74e98fc092c5675ab&txTime=63eeb291"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
