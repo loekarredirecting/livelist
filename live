@@ -134,54 +134,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-435929.m3u8?auth_key=1676588078-0-0-a07b60698e45a032b700c2f2e935aad5"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676587785-0-0-6e003e33cf48eefa3d3df31bda2873b7&user_session_id=1466fe6d38e0973806cd99208f5e4d71"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?edge_slice=true&auth_key=1676587785-0-0-bcd7e52881c2ba6aa6f6117ad4f36076&user_session_id=321a1c9b1751dfcf838c7b00f6f641e6&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Europa League ",
-"himg": "https://mygoaltv.xyz//team/Sporting.gif",
-"hteam": "Midtjylland",
-"time": " 2:30 AM ",
-"date": "2023-02-17",
-"aimg": "https://mygoaltv.xyz//team/Midtjylland.gif",
-"ateam": "Sporting Lisbon",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?edge_slice=true&auth_key=1676587785-0-0-bcd7e52881c2ba6aa6f6117ad4f36076&user_session_id=321a1c9b1751dfcf838c7b00f6f641e6&sub_m3u8=true"
 },
 {
 "type": "Vietnam HD",
@@ -212,11 +177,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=32eb35147213011d71ac608291a838e8&txTime=63eecf29"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-123226.m3u8?txSecret=32eb35147213011d71ac608291a838e8&txTime=63eecf29"
 },
 {
 "type": "Vietnam HD",
@@ -247,11 +212,46 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lhd.m3u8?user_session_id=4526dc07b517f6f23988b7bc2b9c8062&auth_key=1676587725-0-0-a3be87ec4da639d213ae6e8ee6dad290&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-214855_lsd.m3u8?user_session_id=e8aa6c661a917832b4f0422776a88b0c&auth_key=1676587725-0-0-87057946b85ebcdbb75b3309392cd53d&edge_slice=true&sub_m3u8=true"
+},
+{
+"type": "Vietnam HD",
 "livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/Sporting.gif",
+"hteam": "Midtjylland",
+"time": " 2:30 AM ",
+"date": "2023-02-17",
+"aimg": "https://mygoaltv.xyz//team/Midtjylland.gif",
+"ateam": "Sporting Lisbon",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=3baf216c13d904bf622baba6afd1553c&txTime=63eecfdd"
+},
+{
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=3baf216c13d904bf622baba6afd1553c&txTime=63eecfdd"
 },
 {
 "type": "Vietnam HD",
