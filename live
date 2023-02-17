@@ -30,34 +30,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/sassuolo.png",
 "hteam": "Napoli",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-02-18",
 "aimg": "https://mygoaltv.xyz//team/napoli.png",
 "ateam": "Sassuolo",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=98e421fb4393f03484587e1f4a6ef874&txTime=63f001d6"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2d0cab4e8e9caba7424a963b76645a5d&auth_key=1676673434-0-0-00646e39a2252cf09e06d578fbe00b06"
 }
 ]
 },
@@ -65,34 +49,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Girona.png",
 "hteam": "Almeria",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-18",
 "aimg": "https://mygoaltv.xyz//team/Almeria.png",
 "ateam": "Girona",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c059b831c6f76f386840ecbc3f58f61b&auth_key=1676673278-0-0-86b49b9e4a17713f99d413bd9da931d8"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c059b831c6f76f386840ecbc3f58f61b&auth_key=1676673278-0-0-86b49b9e4a17713f99d413bd9da931d8"
 }
 ]
 },
@@ -100,34 +68,18 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Auxerre.gif",
 "hteam": "Lyon",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-02-18",
 "aimg": "https://mygoaltv.xyz//team/lyon.png",
 "ateam": "Auxerre",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1676673158-0-0-1bcc97072438d37f12fb0a32031b74aa"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-238362.m3u8?auth_key=1676673158-0-0-1bcc97072438d37f12fb0a32031b74aa"
 }
 ]
 }
