@@ -1,40 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/astonvilla.png",
-"hteam": "Arsenal",
-"time": " live ",
-"date": "2023-02-18",
-"aimg": "https://mygoaltv.xyz//team/arsenal.png",
-"ateam": "Aston Villa",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676743539-0-0-070b08b19cc55804548f32f4e156d1ab&user_session_id=0289c52148c5a257c89035acd683c3bc"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=99d38b31375f37163f5055df0fd84e3c&auth_key=1676743539-0-0-ab2edd7df14b84a828c81e1cbb06c1c9"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=d027734e328145b4737a54c632ab222e&txTime=63f12002"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=d027734e328145b4737a54c632ab222e&txTime=63f12002"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may086FHD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "hteam": "Celta Vigo",
@@ -58,59 +23,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=76a7cb38472f212ed7ed93fab3e35ac7&txTime=63f11e5e"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
-"hteam": "Bayern Munich",
-"time": " live ",
-"date": "2023-02-18",
-"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"ateam": "Monchengladbach",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lhd.m3u8?user_session_id=f54d22c737463b505c827b451e739744&auth_key=1676751219-0-0-0f5b519c2c33db518b1d1dcc1a8c99ab&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-651238_lsd.m3u8?auth_key=1676751219-0-0-53e775fce68ab915982b9f48660ab381&user_session_id=a73c5be5137baf794a0b09df27d5c461&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=40535e6ebc9cdbcccd94a2b22fad61d1&txTime=63f131d2"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-190631_lsd.m3u8?sub_m3u8=true&auth_key=1676750894-0-0-8215b19c95e18c8c3c204887a5598efc&user_session_id=e4158abd735ec3641b8fd9dd0248ed71&edge_slice=true"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/wolfsburg.png",
-"hteam": "RB Leipzig",
-"time": " live ",
-"date": "2023-02-18",
-"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
-"ateam": "Wolfsburg",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?auth_key=1676751159-0-0-d822ada61d4d8244393c7d43c05f1b9c&user_session_id=0d7f99bfdf02a283aa52feda935f2c2d&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?auth_key=1676751159-0-0-24a5f5250247db8cc6e38e8dd5d26c93&user_session_id=fbbff54b71fed7d1083046c4189fd48d&sub_m3u8=true&edge_slice=true"
-{
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1676751434-0-0-e2488361bebeccd5d954b17ce728bd5b&edge_slice=true&user_session_id=2cf7c1471d6190b38d7ac52bfb34c854&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?auth_key=1676750954-0-0-4b5e8e1e534d071224cdf6d7a6eb4b23&edge_slice=true&user_session_id=d365a9a2958c69b933b005e2f7820d38&sub_m3u8=true"
 }
 ]
 },
