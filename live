@@ -56,27 +56,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=2b489f31666465d0051455453f5bbea5&auth_key=1676762498-0-0-adf71fa2572a9008793e43db276cb6aa&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=2b489f31666465d0051455453f5bbea5&auth_key=1676762498-0-0-adf71fa2572a9008793e43db276cb6aa&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -91,27 +75,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676762414-0-0-5f5518c508e0b9759bedf3c6ebab648a&user_session_id=879510d340b1713157cda6681a87f437"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676762414-0-0-5f5518c508e0b9759bedf3c6ebab648a&user_session_id=879510d340b1713157cda6681a87f437"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676762414-0-0-37ac693db3e5ad6644ecb534b14ee740&user_session_id=f137c52b34061303d5e88b8aa7ace7ea"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1676762414-0-0-37ac693db3e5ad6644ecb534b14ee740&user_session_id=f137c52b34061303d5e88b8aa7ace7ea"
 }
 ]
 },
