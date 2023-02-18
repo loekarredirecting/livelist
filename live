@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
-"hteam": "Celta Vigo",
-"time": " live ",
-"date": "2023-02-18",
-"aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
-"ateam": "Real Sociedad",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-900003.m3u8?auth_key=1676746419-0-0-636c5b5d66f21b2b787e60d6960d6a95"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-900003_ld.m3u8?auth_key=1676746419-0-0-80a193d4a01b393cb5d5270e84592f42"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=76a7cb38472f212ed7ed93fab3e35ac7&txTime=63f11e5e"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=76a7cb38472f212ed7ed93fab3e35ac7&txTime=63f11e5e"
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
 "hteam": "Bayern Munich",
