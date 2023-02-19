@@ -41,7 +41,7 @@
 },
 {
 "type":  "China SD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?user_session_id=0b2b3c7a04f6640145f196b91f4056cf&edge_slice=true&sub_m3u8=true&auth_key=1676834199-0-0-a85cfc9ace8f60e131a817901708d354"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&auth_key=1676836059-0-0-aee16daba4b5d171296ef70c840a439a&user_session_id=a0708d93e195491804074acd99080e92&edge_slice=true"
 },
 {
 "type": "Soco HD",
@@ -50,6 +50,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1676829134-0-0-24f64c5449c1561302bceaf188e1154f&user_session_id=4fa025a5c5562fc47ffe727fd2a85d86"
+},
+{
+"type": "English HD",
+"livelink": "https://weakshfsyg.azureedge.net/live/usa/chunks.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "http://ovocloud.site/live/abr_s-1/live/s-1_480p/chunks.m3u8"
 },
 {
 "type": "Vietnam HD",
