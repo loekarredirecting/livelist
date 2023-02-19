@@ -1,32 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/psg.png",
-"hteam": "Lille",
-"time": " live ",
-"date": "2023-02-19",
-"aimg": "https://mygoaltv.xyz//team/lille.png",
-"ateam": "Paris Saint-Germain",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?edge_slice=true&auth_key=1676828859-0-0-e5e3cd3d45f9231dcd236eace754c066&sub_m3u8=true&user_session_id=53bd596a8f8ef1f91f7e7c56bdd82445"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?edge_slice=true&auth_key=1676828859-0-0-e5e3cd3d45f9231dcd236eace754c066&sub_m3u8=true&user_session_id=53bd596a8f8ef1f91f7e7c56bdd82445"
-},
-{
-"type": "Soco HD",
-"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-173024_lsd.m3u8?edge_slice=true&auth_key=1676827574-0-0-2853af97167ded7cb6526d34824182bd&sub_m3u8=true&user_session_id=26f0c14e70df64e1a572e3884141c83f"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?sub_m3u8=true&user_session_id=81d9709cb83d0715c7bae516934e5ea8&edge_slice=true&auth_key=1676828774-0-0-e48312fb2f8390798156202095ed8049"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Leicester City",
