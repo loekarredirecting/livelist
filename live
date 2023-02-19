@@ -1,32 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/Atalanta.png",
-"hteam": "Lecce",
-"time": " live ",
-"date": "2023-02-19",
-"aimg": "https://mygoaltv.xyz//team/lecce.png",
-"ateam": "Atalanta",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1676827659-0-0-83c15e9457d70a2854c526bc3234dcf2&sub_m3u8=true&user_session_id=6da3cd7b1777e9864ea8e6daf7d463d1&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1676827659-0-0-83c15e9457d70a2854c526bc3234dcf2&sub_m3u8=true&user_session_id=6da3cd7b1777e9864ea8e6daf7d463d1&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1676827334-0-0-2c223921a7e2642e2de8111a30d3f820&edge_slice=true&user_session_id=448c95d9280ab123da4d4216112cccbc&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1676827334-0-0-2c223921a7e2642e2de8111a30d3f820&edge_slice=true&user_session_id=448c95d9280ab123da4d4216112cccbc&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/psg.png",
 "hteam": "Lille",
@@ -57,7 +30,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Leicester City",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-02-19",
 "aimg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "ateam": "Manchester United",
@@ -68,7 +41,7 @@
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?user_session_id=0b2b3c7a04f6640145f196b91f4056cf&edge_slice=true&sub_m3u8=true&auth_key=1676834199-0-0-a85cfc9ace8f60e131a817901708d354"
 },
 {
 "type": "Soco HD",
@@ -80,11 +53,11 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
@@ -92,7 +65,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/salernitana.png",
 "hteam": "Lazio",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-02-19",
 "aimg": "https://mygoaltv.xyz//team/lazio.png",
 "ateam": "Salernitana",
@@ -111,7 +84,7 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Brest.gif",
 "hteam": "Monaco",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-02-19",
 "aimg": "https://mygoaltv.xyz//team/monaco.png",
 "ateam": "Brestois",
