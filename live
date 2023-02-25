@@ -1,24 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Espanyol.png",
-"hteam": "Mallorca",
-"time": " live ",
-"date": "2023-02-25",
-"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
-"ateam": "Espanyol",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&user_session_id=ec5ce89b8135fb3d88aae36e85bfa1d1&sub_m3u8=true&auth_key=1677349935-0-0-d40e259d724ba72072bed8e74d1dfc32"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?edge_slice=true&user_session_id=cd2a0254a0ab43841e8bdba248f2adb3&sub_m3u8=true&auth_key=1677349935-0-0-690326a608b57eb3bdc163ca1ba212c5"
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "hteam": "Dortmund",
@@ -304,6 +285,25 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-115429.m3u8?txSecret=10cd5ca85ea5bc66135c919821200826&txTime=63fa7b8f"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Angers-SCO.gif",
+"hteam": "Lyon",
+"time": " live ",
+"date": "2023-02-25",
+"aimg": "https://mygoaltv.xyz//team/lyon.png",
+"ateam": "Angers SCO",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?auth_key=1677358977-0-0-957af228e3eeb8997209bcf17267f976&edge_slice=true&user_session_id=ed5edd4e5eb727bd5cfb1ea3506a05f1&sub_m3u8=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?user_session_id=948a5473aeb2f6b1a70f0a73b3dd4238&auth_key=1677358977-0-0-a7ff086fefc8082a94f92ab3961b46f0&sub_m3u8=true&edge_slice=true"
 }
 ]
 }
