@@ -287,5 +287,24 @@
 "livelink": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=b7aec36cb1c4be37871f259420446f4a&txTime=63fa5687"
 }
 ]
+},
+{
+"league": " Saudi Pro League ",
+"himg": "https://mygoaltv.xyz//team/no-logo.png",
+"hteam": "Al-Nassr",
+"time": " live ",
+"date": "2023-02-25",
+"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
+"ateam": "Damac",
+"link": [
+{
+"type": "Soco HD",
+"livelink": "https://sports01.livnvess.com/live/stream-115429.m3u8?txSecret=10cd5ca85ea5bc66135c919821200826&txTime=63fa7b8f"
+},
+{
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-115429.m3u8?txSecret=10cd5ca85ea5bc66135c919821200826&txTime=63fa7b8f"
+}
+]
 }
 ]
