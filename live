@@ -1,24 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Angers-SCO.gif",
-"hteam": "Lyon",
-"time": " live ",
-"date": "2023-02-25",
-"aimg": "https://mygoaltv.xyz//team/lyon.png",
-"ateam": "Angers SCO",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?auth_key=1677358977-0-0-957af228e3eeb8997209bcf17267f976&edge_slice=true&user_session_id=ed5edd4e5eb727bd5cfb1ea3506a05f1&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?user_session_id=948a5473aeb2f6b1a70f0a73b3dd4238&auth_key=1677358977-0-0-a7ff086fefc8082a94f92ab3961b46f0&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Empoli.gif",
 "hteam": "Napoli",
