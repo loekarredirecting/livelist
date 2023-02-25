@@ -252,6 +252,14 @@
 "ateam": "Leeds",
 "link": [
 {
+"type": "China HD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1677358197-0-0-dd6e5fb4133d0b2efb0a23a1436a65be&user_session_id=f7eb76220ad61eee95bc44ae30ec77b7&edge_slice=true&sub_m3u8=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1677358197-0-0-dd6e5fb4133d0b2efb0a23a1436a65be&user_session_id=f7eb76220ad61eee95bc44ae30ec77b7&edge_slice=true&sub_m3u8=true"
+},
+{
 "type": "Soco HD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?user_session_id=70c017e6a467eeedff2d63f30d230e13&edge_slice=true&sub_m3u8=true&auth_key=1677350475-0-0-581813ffcf217a2acdc75b2c62815478"
 },
@@ -265,19 +273,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "hteam": "Rayo Vallecano",
-"time": " 9:45 PM ",
+"time": " live ",
 "date": "2023-02-25",
 "aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "ateam": "Cadiz",
 "link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
 {
 "type": "Soco HD",
 "livelink": "https://sports01.livnvess.com/live/stream-121272.m3u8?txSecret=b7aec36cb1c4be37871f259420446f4a&txTime=63fa5687"
