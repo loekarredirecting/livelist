@@ -68,14 +68,14 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/tottenham.png",
 "hteam": "Chelsea",
-"time": " 8:00 PM ",
+"time": " live ",
 "date": "2023-02-26",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "Tottenham",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=a319da98ddc2657044632bdd2e43325c&auth_key=1677438357-0-0-7fb65ca51ec115f8c0c091674aa91065&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
@@ -83,11 +83,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1677437895-0-0-4ebcbd28a4ba4e59a30ab5d1e6a6e106&user_session_id=c10f263a55c73e442ca1e147971c966f&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1677437895-0-0-ea56591b4986633be5e4a623a1e7464d&user_session_id=3ad9106f78c63953632fe9a94c3ae500&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Vietnam HD",
