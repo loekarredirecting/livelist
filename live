@@ -154,7 +154,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Udinese.png",
 "hteam": "Spezia",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-02-26",
 "aimg": "https://mygoaltv.xyz//team/Spezia.gif",
 "ateam": "Udinese",
@@ -166,22 +166,6 @@
 {
 "type":  "China SD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?user_session_id=9748b28e358bbfa5bdfb33d75ee4ff85&edge_slice=true&auth_key=1677433197-0-0-ba33f9067abe9f3ec074b2f71bfe10fd&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
