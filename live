@@ -3,34 +3,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Bologna.png",
 "hteam": "Inter Milan",
-"time": " 6:00 PM ",
+"time": " live ",
 "date": "2023-02-26",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "Bologna",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1677432375-0-0-73947569a211c524f98be55c6c3df90a&sub_m3u8=true&edge_slice=true&user_session_id=8eac672ed292fd1fd0f1592b6c0f3296"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://ec2daa5dc11a0732e39be1b860940164.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1677432375-0-0-73947569a211c524f98be55c6c3df90a&sub_m3u8=true&edge_slice=true&user_session_id=8eac672ed292fd1fd0f1592b6c0f3296"
 }
 ]
 },
