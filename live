@@ -1,32 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/freiburg.png",
-"hteam": "Leverkusen",
-"time": " live ",
-"date": "2023-02-26",
-"aimg": "https://mygoaltv.xyz//team/Leverkusen.png",
-"ateam": "Freiburg",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?edge_slice=true&user_session_id=0ae67b065b3a8c2a4ee7d9a327a481b2&auth_key=1677440037-0-0-cd370bfae32a9e1fdc430edcdc818c97&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-418311_lsd.m3u8?edge_slice=true&user_session_id=0ae67b065b3a8c2a4ee7d9a327a481b2&auth_key=1677440037-0-0-cd370bfae32a9e1fdc430edcdc818c97&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-213119_lhd.m3u8?user_session_id=b50b27f1fac4e30a554397dd7a68befd&edge_slice=true&sub_m3u8=true&auth_key=1677438075-0-0-81b13399b4fd8b89e8394086f7ea02e6"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-213119_lsd.m3u8?edge_slice=true&user_session_id=fa45a281f99f3387a896cc687f4af92d&sub_m3u8=true&auth_key=1677438075-0-0-ea3519a152728708d976140219f93bb7"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "hteam": "Valladolid",
