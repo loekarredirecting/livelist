@@ -22,34 +22,18 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Lorient.png",
 "hteam": "Auxerre",
-"time": " 6:30 PM ",
+"time": " live ",
 "date": "2023-02-26",
 "aimg": "https://mygoaltv.xyz//team/Auxerre.gif",
 "ateam": "Lorient",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-78951465_lhd.m3u8?user_session_id=9c7f051ef6689661e578630ffd7ea6f4&sub_m3u8=true&auth_key=1677432537-0-0-38765929a262e64e8a62bd0dc6d141c8&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-78951465_lhd.m3u8?user_session_id=9c7f051ef6689661e578630ffd7ea6f4&sub_m3u8=true&auth_key=1677432537-0-0-38765929a262e64e8a62bd0dc6d141c8&edge_slice=true"
 }
 ]
 },
