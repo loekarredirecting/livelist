@@ -146,7 +146,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Barcelona",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-02-27",
 "aimg": "https://mygoaltv.xyz//team/Barcelona.png",
 "ateam": "Almeria",
@@ -158,22 +158,6 @@
 {
 "type":  "China SD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?auth_key=1677433137-0-0-d8beafcb0b276f7b39e67bdac3a3c71e&edge_slice=true&user_session_id=fec7c1045434f88f7210d8908d9bfd3a&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
