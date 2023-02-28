@@ -3,34 +3,26 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/cremonese.png",
 "hteam": "AS Roma",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-02-29",
 "aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "ateam": "Cremonese",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&auth_key=1677626517-0-0-7648f36b4949f1657f1b2d6d28c545ac&user_session_id=3fdfbe5a0a9ba0b523c4fba01d2219dc&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&auth_key=1677626517-0-0-7648f36b4949f1657f1b2d6d28c545ac&user_session_id=3fdfbe5a0a9ba0b523c4fba01d2219dc&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e2edd113f881a67ce7e2e62439efe2d5&auth_key=1677626295-0-0-e7e6b3e753e3aa2ffab968052f25a67b"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=e2edd113f881a67ce7e2e62439efe2d5&auth_key=1677626295-0-0-e7e6b3e753e3aa2ffab968052f25a67b"
 }
 ]
 },
