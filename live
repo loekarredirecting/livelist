@@ -3,34 +3,18 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/southampton.png",
 "hteam": "Grimsby Town",
-"time": " 1:45 AM ",
+"time": " live ",
 "date": "2023-03-02",
 "aimg": "https://mygoaltv.xyz//team/grimsby-town.png",
 "ateam": "Southampton",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-774913_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677718857-0-0-92a60580c274cf44d9ab464894755e62&user_session_id=0102255fab80edd9758755489a59b8af"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-774913_lsd.m3u8?auth_key=1677718857-0-0-ea95dce9d90e73f37e0d46b7df55a8b1&edge_slice=true&user_session_id=7160bfff471352a071c999d75e410dce&sub_m3u8=true"
 }
 ]
 },
