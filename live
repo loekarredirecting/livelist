@@ -79,6 +79,14 @@
 "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677718575-0-0-9dd4cda23c4296f833b9c6a268ac7527&user_session_id=df5e667da9c14699ba85c275cb6d1a53"
 },
 {
+"type": "English HD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=f859b36d0bb0bf83f0487516d436c502b8baaada-5f89c3ca785313eb7d0203a4056c736f-1676579922-1676569122"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=f859b36d0bb0bf83f0487516d436c502b8baaada-5f89c3ca785313eb7d0203a4056c736f-1676579922-1676569122"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
