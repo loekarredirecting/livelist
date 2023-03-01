@@ -22,34 +22,26 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "West Ham",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-03-02",
 "aimg": "https://mygoaltv.xyz//team/westham.png",
 "ateam": "Manchester United",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-698231_lhd.m3u8?user_session_id=c350bb5860f7014ffa20524375e768fd&auth_key=1677718917-0-0-8c59fddd256d804475ed05bd2691106f&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-698231_lsd.m3u8?auth_key=1677718917-0-0-7fc8d6bc15fe499b3b3a64ae52914601&sub_m3u8=true&user_session_id=19cc2d1f617a98078ef84054a60fb014&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lhd.m3u8?auth_key=1677718635-0-0-4fa7594d9975892dc1c5533d6b5735b9&sub_m3u8=true&user_session_id=f662a9ea71f62e5c8cb70952d9d31c92&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?auth_key=1677718695-0-0-77f9d9f5d0df25ccca07e424934422ae&user_session_id=166871928309febc1393bb46d99a0770&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -57,34 +49,34 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Everton",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-03-02",
 "aimg": "https://mygoaltv.xyz//team/everton.png",
 "ateam": "Arsenal",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9da449f9da25d7064d8e8fddbe89ca18&auth_key=1677718977-0-0-19568a768233f84b9a234525ed10b956"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lsd.m3u8?edge_slice=true&auth_key=1677718977-0-0-e7dd871c54c8fae9af81c799d705f575&user_session_id=a60f0a30dbdbaaf2382d75050488eb18&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?auth_key=1677718575-0-0-8de2b8484f71f38d08e5592140cab6aa&edge_slice=true&sub_m3u8=true&user_session_id=d075c11276f8f362c2f2746628738d27"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1677718575-0-0-9dd4cda23c4296f833b9c6a268ac7527&user_session_id=df5e667da9c14699ba85c275cb6d1a53"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 }
 ]
 },
