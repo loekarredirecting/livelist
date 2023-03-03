@@ -30,34 +30,26 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/dortmund.png",
 "hteam": "RB Leipzig",
-"time": " 2:00 AM ",
+"time": " live ",
 "date": "2023-03-04",
 "aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "ateam": "Dortmund",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&auth_key=1677885777-0-0-3a66522f5c9a3710cdf664f858ead2ff&sub_m3u8=true&user_session_id=74219cdefe75f3440b1563ade2d8a948"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1677885777-0-0-b4aad88c305de8480d3303af9d3fb5cb&edge_slice=true&sub_m3u8=true&user_session_id=132cb18da62b3745f6da943a519eac76"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677886695-0-0-422c975290185715add386ff53fc9f6f&user_session_id=9871ff3a47f5a13289547ca9e9e4ca0c"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677886695-0-0-422c975290185715add386ff53fc9f6f&user_session_id=9871ff3a47f5a13289547ca9e9e4ca0c"
 }
 ]
 },
@@ -65,34 +57,26 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/napoli.png",
 "hteam": "Lazio",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-03-04",
 "aimg": "https://mygoaltv.xyz//team/lazio.png",
 "ateam": "Napoli",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1677886017-0-0-9338b09492d94be7c3310f2f862d26e5&user_session_id=0693efadd276c990f26456e0d63a4fbe&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&user_session_id=d7b0b5bb0ae78ff73f1cb130d353ea1c&sub_m3u8=true&auth_key=1677886017-0-0-7486e3b470bccf0b494d0a6e0024371d"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?auth_key=1677886875-0-0-5fcfcc2139fca2dd8efc00164ca165e7&user_session_id=2389505922d7df4688ae64e2162b730a&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-100684_lsd.m3u8?auth_key=1677886875-0-0-5fcfcc2139fca2dd8efc00164ca165e7&user_session_id=2389505922d7df4688ae64e2162b730a&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -100,34 +84,26 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "hteam": "Cadiz",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-03-04",
 "aimg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "ateam": "Real Sociedad",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1677886317-0-0-7fe5d3c2192c9fcb789f4b335c2c866b"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-516701_ld.m3u8?auth_key=1677886317-0-0-a7b8a8a795b572c52439156143bd6ec9"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&user_session_id=5afad5a66515ab1784ac78601ce22c59&auth_key=1677886995-0-0-4edba76d99976ad003cba57acad3e2a9&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?sub_m3u8=true&user_session_id=5afad5a66515ab1784ac78601ce22c59&auth_key=1677886995-0-0-4edba76d99976ad003cba57acad3e2a9&edge_slice=true"
 }
 ]
 }
