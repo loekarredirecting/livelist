@@ -9,6 +9,14 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=e72c2cffbd78b7dedc9ac6ed46631bbb5e89eb03-5837135059f45d594d9a8da17d8249dc-1677942984-1677932184"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=e72c2cffbd78b7dedc9ac6ed46631bbb5e89eb03-5837135059f45d594d9a8da17d8249dc-1677942984-1677932184"
+},
+{
 "type": "China HD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lhd.m3u8?user_session_id=84aaf042f2c361935367449791dedade&sub_m3u8=true&edge_slice=true&auth_key=1677953757-0-0-47123471fea1f3365fe498c66df39282"
 },
