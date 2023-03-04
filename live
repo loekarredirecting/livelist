@@ -306,5 +306,24 @@
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&user_session_id=8547f393bc1474e78bb3250351147292&auth_key=1677962715-0-0-5bf0ca94bb54efefc0944998a99848dc&sub_m3u8=true"
 }
 ]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Lens.png",
+"hteam": "Lille",
+"time": " live ",
+"date": "2023-03-04",
+"aimg": "https://mygoaltv.xyz//team/lille.png",
+"ateam": "Lens",
+"link": [
+{
+"type": "Soco HD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?edge_slice=true&auth_key=1677966015-0-0-6fe7e8452095afc0fc297b2928c6547b&user_session_id=64fd7d486ff734ae43280652a3174244&sub_m3u8=true"
+},
+{
+"type": "Soco SD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-100684_lhd.m3u8?edge_slice=true&auth_key=1677966015-0-0-6fe7e8452095afc0fc297b2928c6547b&user_session_id=64fd7d486ff734ae43280652a3174244&sub_m3u8=true"
+}
+]
 }
 ]
