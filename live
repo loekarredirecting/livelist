@@ -201,6 +201,14 @@
 "ateam": "Arsenal",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://main.yorafootball.com/m2web/tracks-v1a1/mono.m3u8?token=3faf0b0ff37fd304ec9efb378b38a7bc7b32e1c3-15ae407e02126efcde554c2d93483e2e-1677952226-1677941426"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/m2web/tracks-v1a1/mono.m3u8?token=3faf0b0ff37fd304ec9efb378b38a7bc7b32e1c3-15ae407e02126efcde554c2d93483e2e-1677952226-1677941426"
+},
+{
 "type": "China HD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?auth_key=1677960357-0-0-217bd6ef6c95bfd9c3cfff13a82aa2c7&edge_slice=true&sub_m3u8=true&user_session_id=6b351a27539f7ce2e5c8806f82bfecbe"
 },
