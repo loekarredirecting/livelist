@@ -65,34 +65,26 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/ac-monza.png",
 "hteam": "Empoli",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-03-04",
 "aimg": "https://mygoaltv.xyz//team/Empoli.gif",
 "ateam": "Monza",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1677959037-0-0-f5159a6df6ead3364a1eeeb19fba719b"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1677959037-0-0-f5159a6df6ead3364a1eeeb19fba719b"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677958875-0-0-219b7b02b3c2177edf425758cc758a31&user_session_id=9ee5151190792b5822828e547990cb80"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1677958875-0-0-219b7b02b3c2177edf425758cc758a31&user_session_id=9ee5151190792b5822828e547990cb80"
 }
 ]
 },
