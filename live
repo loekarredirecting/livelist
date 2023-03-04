@@ -201,14 +201,6 @@
 "ateam": "Arsenal",
 "link": [
 {
-"type": "English HD",
-"livelink": "https://main.yorafootball.com/m2web/tracks-v1a1/mono.m3u8?token=3faf0b0ff37fd304ec9efb378b38a7bc7b32e1c3-15ae407e02126efcde554c2d93483e2e-1677952226-1677941426"
-},
-{
-"type": "English SD",
-"livelink": "https://main.yorafootball.com/m2web/tracks-v1a1/mono.m3u8?token=3faf0b0ff37fd304ec9efb378b38a7bc7b32e1c3-15ae407e02126efcde554c2d93483e2e-1677952226-1677941426"
-},
-{
 "type": "China HD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?auth_key=1677960357-0-0-217bd6ef6c95bfd9c3cfff13a82aa2c7&edge_slice=true&sub_m3u8=true&user_session_id=6b351a27539f7ce2e5c8806f82bfecbe"
 },
@@ -319,34 +311,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Villarreal",
-"time": " 9:45 PM ",
+"time": " live ",
 "date": "2023-03-04",
 "aimg": "https://mygoaltv.xyz//team/villarreal.png",
 "ateam": "Almeria",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1677962715-0-0-d4350a0153ab5a68a2a6837942387410&user_session_id=765bcd374e72fda43cfb443d36f4504a&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-105131_lsd.m3u8?edge_slice=true&user_session_id=8547f393bc1474e78bb3250351147292&auth_key=1677962715-0-0-5bf0ca94bb54efefc0944998a99848dc&sub_m3u8=true"
 }
 ]
 },
