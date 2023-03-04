@@ -46,34 +46,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Getafe.png",
 "hteam": "Girona",
-"time": " 7:30 PM ",
+"time": " live ",
 "date": "2023-03-04",
 "aimg": "https://mygoaltv.xyz//team/Girona.png",
 "ateam": "Getafe",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?auth_key=1677955635-0-0-cb091a6ba4eaa0f853f45ef6881b787d&edge_slice=true&sub_m3u8=true&user_session_id=59d1083b1752d4ed9e116c8fbb40ad97"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?auth_key=1677955635-0-0-cb091a6ba4eaa0f853f45ef6881b787d&edge_slice=true&sub_m3u8=true&user_session_id=59d1083b1752d4ed9e116c8fbb40ad97"
 }
 ]
 },
