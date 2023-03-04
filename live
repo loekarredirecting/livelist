@@ -9,6 +9,14 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "China HD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lhd.m3u8?user_session_id=84aaf042f2c361935367449791dedade&sub_m3u8=true&edge_slice=true&auth_key=1677953757-0-0-47123471fea1f3365fe498c66df39282"
+},
+{
+"type":  "China SD",
+"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?user_session_id=a8fa54978d0e5df6e4b851cdf0399222&sub_m3u8=true&edge_slice=true&auth_key=1677953878-0-0-a1c84ad3b7f748aa91f3774a689f85ff"
+},
+{
 "type": "Soco HD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=f7be724dbf846bb330924ff844fe125d&edge_slice=true&auth_key=1677952935-0-0-ad3dacd3a83334ad65d0538c060979c1&sub_m3u8=true"
 },
@@ -22,7 +30,7 @@
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }
 ]
 },
