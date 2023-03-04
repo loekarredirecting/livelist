@@ -1,48 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/manchestercity.png",
-"hteam": "Newcastle United",
-"time": " live ",
-"date": "2023-03-04",
-"aimg": "https://mygoaltv.xyz//team/newcastle.png",
-"ateam": "Manchester City",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=e72c2cffbd78b7dedc9ac6ed46631bbb5e89eb03-5837135059f45d594d9a8da17d8249dc-1677942984-1677932184"
-},
-{
-"type": "English SD",
-"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=e72c2cffbd78b7dedc9ac6ed46631bbb5e89eb03-5837135059f45d594d9a8da17d8249dc-1677942984-1677932184"
-},
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lhd.m3u8?user_session_id=84aaf042f2c361935367449791dedade&sub_m3u8=true&edge_slice=true&auth_key=1677953757-0-0-47123471fea1f3365fe498c66df39282"
-},
-{
-"type":  "China SD",
-"livelink": "https://d8cb436235c5e83efa52e9abcc1a2dab.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?user_session_id=a8fa54978d0e5df6e4b851cdf0399222&sub_m3u8=true&edge_slice=true&auth_key=1677953878-0-0-a1c84ad3b7f748aa91f3774a689f85ff"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-114959_lsd.m3u8?user_session_id=f7be724dbf846bb330924ff844fe125d&edge_slice=true&auth_key=1677952935-0-0-ad3dacd3a83334ad65d0538c060979c1&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=fe310aa50ff262b2a5cdd84279f71c15&edge_slice=true&auth_key=1677952882-0-0-a280f83f02cdec924bfddc366b23627e&sub_m3u8=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Getafe.png",
 "hteam": "Girona",
@@ -223,6 +180,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=2e8d6531a90fef98cd74c372b99bb42d&txTime=6403abbf"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
 }
 ]
 },
@@ -250,6 +215,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=2b7db0999f014a12fd7261d94c3d31f8&txTime=6403ac37"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
