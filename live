@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Valladolid.png",
-"hteam": "Espanyol",
-"time": " live ",
-"date": "2023-03-05",
-"aimg": "https://mygoaltv.xyz//team/Espanyol.png",
-"ateam": "Valladolid",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678041856-0-0-afef8a29cb0aad0cf96b4a2de3f2cb06&sub_m3u8=true&edge_slice=true&user_session_id=80ef196535fbd609875be07770f914c7"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678041856-0-0-afef8a29cb0aad0cf96b4a2de3f2cb06&sub_m3u8=true&edge_slice=true&user_session_id=80ef196535fbd609875be07770f914c7"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678042036-0-0-5d867947c7a0edc984b128fcbde203e7&user_session_id=9fa3dfc077f1b25df6e1d4c37f8a1fed&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?auth_key=1678041856-0-0-afef8a29cb0aad0cf96b4a2de3f2cb06&sub_m3u8=true&edge_slice=true&user_session_id=80ef196535fbd609875be07770f914c7"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "hteam": "Everton",
