@@ -35,41 +35,6 @@
 ]
 },
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Barcelona.png",
-"hteam": "Valencia",
-"time": " live ",
-"date": "2023-03-05",
-"aimg": "https://mygoaltv.xyz//team/Valencia.png",
-"ateam": "Barcelona",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678045257-0-0-c5cd5c18d0c7cad99966a95702f636db&user_session_id=76dab52bfe6ba7ca49ae14a0ac197582"
-},
-{
-"type":  "China SD",
-"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1678045317-0-0-605c535132905d5e37594e8c2c9aed60&edge_slice=true&user_session_id=8c500e9e2253eef6db1dfc4a5d1b9dad&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?edge_slice=true&auth_key=1678049296-0-0-16f1cab485ae84198b637b081c858cfd&sub_m3u8=true&user_session_id=776107b77af4f3adaeaef32005d2f985"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=75f1d7e826b561622cdf201d448f5083&txTime=6405013c"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/lyon.png",
 "hteam": "Lorient",
@@ -127,7 +92,7 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/inter_milan.png",
 "hteam": "Lecce",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-03-05",
 "aimg": "https://mygoaltv.xyz//team/lecce.png",
 "ateam": "Inter Milan",
@@ -154,7 +119,7 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "hteam": "Athletic Bilbao",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-03-06",
 "aimg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
 "ateam": "Rayo Vallecano",
