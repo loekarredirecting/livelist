@@ -3,26 +3,26 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "hteam": "Paris Saint-Germain",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-03-09",
 "aimg": "https://mygoaltv.xyz//team/psg.png",
 "ateam": "Bayern Munich",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1678315137-0-0-1e3f3cbd2d5597286f28b66e1946ab6f&user_session_id=c13c45ff9ae1af17b3a6b09614fd9b30&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=c742b14e4d89aba31c6ee06b1f7a9d17&sub_m3u8=true&auth_key=1678315137-0-0-2c76e2245b64758a9be9fc1a61458868&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?sub_m3u8=true&auth_key=1678314136-0-0-1700c54d2ac675b06c4549580e0f557c&user_session_id=f3b4c5023b6048dd5b1e34cf850f06c6&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?sub_m3u8=true&auth_key=1678314136-0-0-1700c54d2ac675b06c4549580e0f557c&user_session_id=f3b4c5023b6048dd5b1e34cf850f06c6&edge_slice=true"
 }
 ]
 },
@@ -30,26 +30,26 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/tottenham.png",
 "hteam": "AC Milan",
-"time": " 2:30 AM ",
+"time": " live ",
 "date": "2023-03-09",
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "Tottenham",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678314777-0-0-874e5a66859ea540e50eac3f63d34722&user_session_id=f8aaca8bca6b395c67cd9f4284a4f79f"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=8de8f7a8c2e97cb08c05131629f83b21&auth_key=1678314777-0-0-28e70edc9b74589b0b8705e82afce7a6"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=2206835fcbb1aeb3fc16c1db63f07547&txTime=6409096c"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=2206835fcbb1aeb3fc16c1db63f07547&txTime=6409096c"
 }
 ]
 }
