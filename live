@@ -52,6 +52,14 @@
 "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?user_session_id=82442d1cfd87ec0549d0bc5d283d3dba&auth_key=1678403776-0-0-f2d943b3f3ed00e5e8804eda4268840b&sub_m3u8=true&edge_slice=true"
 },
 {
+"type": "English HD",
+"livelink": "https://main.yorafootball.com/m2web/index.m3u8?token=59f61f3ebe4a6f0d39e3ea0877c4bafadcaaec66-3e0fc0e9ca33be3f5ee39db19485132c-1678394217-1678383417"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/m2web/index.m3u8?token=59f61f3ebe4a6f0d39e3ea0877c4bafadcaaec66-3e0fc0e9ca33be3f5ee39db19485132c-1678394217-1678383417"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
@@ -165,7 +173,7 @@
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1678405156-0-0-40ebdde763b58e89ee368a090394e154&edge_slice=true&sub_m3u8=true&user_session_id=9bbaf3e69bc651008edfdd271bc186e6"
 }
 ]
 },
