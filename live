@@ -9,6 +9,14 @@
 "ateam": "Manchester United",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://main.yorafootball.com/m1web/index.m3u8?token=7d56cbcb3d8c3d636b507e6093cb242da777d478-ec96c4fd51ed45f27e9cbd88be163030-1678401910-1678391110"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/m1web/index.m3u8?token=7d56cbcb3d8c3d636b507e6093cb242da777d478-ec96c4fd51ed45f27e9cbd88be163030-1678401910-1678391110"
+},
+{
 "type": "China HD",
 "livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-286721_lhd.m3u8?auth_key=1678402017-0-0-8b734c1b77c79e8a6bdf94c68fbbd5f5&edge_slice=true&user_session_id=2d4f06608b21aa13ae57b0eaf7da4c5f&sub_m3u8=true"
 },
