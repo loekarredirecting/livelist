@@ -1,87 +1,244 @@
 [
 {
-"league": " Champions League ",
-"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"hteam": "Paris Saint-Germain",
-"time": " live ",
-"date": "2023-03-09",
-"aimg": "https://mygoaltv.xyz//team/psg.png",
-"ateam": "Bayern Munich",
+"league": " Saudi Pro League ",
+"himg": "https://mygoaltv.xyz//team/Al-Ittihad.gif",
+"hteam": "Al-Nassr",
+"time": " 12:00 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
+"ateam": "Al Ittihad",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1678315137-0-0-1e3f3cbd2d5597286f28b66e1946ab6f&user_session_id=c13c45ff9ae1af17b3a6b09614fd9b30&edge_slice=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=c742b14e4d89aba31c6ee06b1f7a9d17&sub_m3u8=true&auth_key=1678315137-0-0-2c76e2245b64758a9be9fc1a61458868&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?sub_m3u8=true&auth_key=1678314136-0-0-1700c54d2ac675b06c4549580e0f557c&user_session_id=f3b4c5023b6048dd5b1e34cf850f06c6&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-129184_lsd.m3u8?sub_m3u8=true&auth_key=1678314136-0-0-1700c54d2ac675b06c4549580e0f557c&user_session_id=f3b4c5023b6048dd5b1e34cf850f06c6&edge_slice=true"
-},
-{
-"type": "English HD",
-"livelink": "https://main.yorafootball.com/m1web/index.m3u8?token=a088626375ef3aa66587d33d60f23b5d1dec5eb1-ad2aa08337570d530c74b1b81a9f18fa-1678316851-1678306051"
-},
-{
-"type":  "English SD",
-"livelink": "https://main.yorafootball.com/m1web/index.m3u8?token=a088626375ef3aa66587d33d60f23b5d1dec5eb1-ad2aa08337570d530c74b1b81a9f18fa-1678316851-1678306051"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"livelink": "0"
 }
 ]
 },
 {
-"league": " Champions League ",
-"himg": "https://mygoaltv.xyz//team/tottenham.png",
-"hteam": "AC Milan",
-"time": " live ",
-"date": "2023-03-09",
-"aimg": "https://mygoaltv.xyz//team/acmilan.png",
-"ateam": "Tottenham",
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/Sporting.gif",
+"hteam": "Arsenal",
+"time": " 12:15 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/arsenal.png",
+"ateam": "Sporting Lisbon",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1678314777-0-0-874e5a66859ea540e50eac3f63d34722&user_session_id=f8aaca8bca6b395c67cd9f4284a4f79f"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=8de8f7a8c2e97cb08c05131629f83b21&auth_key=1678314777-0-0-28e70edc9b74589b0b8705e82afce7a6"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=2206835fcbb1aeb3fc16c1db63f07547&txTime=6409096c"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=2206835fcbb1aeb3fc16c1db63f07547&txTime=6409096c"
+"livelink": "0"
+}
+]
 },
 {
-"type": "English HD",
-"livelink": "https://main.yorafootball.com/m2web/index.m3u8?token=838e35ccec6e23e92600d4b45a49bfeb6a7d869d-3f1ffe772882b073c92c27046539c854-1678317182-1678306382"
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/AS-Roma.png",
+"hteam": "Real Sociedad",
+"time": " 12:15 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
+"ateam": "AS Roma",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type":  "English SD",
-"livelink": "https://main.yorafootball.com/m2web/index.m3u8?token=838e35ccec6e23e92600d4b45a49bfeb6a7d869d-3f1ffe772882b073c92c27046539c854-1678317182-1678306382"
+"type":  "China SD",
+"livelink": "0"
 },
 {
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/bunHD/chunks.m3u8"
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/bunSD/chunklist.m3u8"
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/Union-Berlin.png",
+"hteam": "Union Saint-Gilloise",
+"time": " 12:15 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/no-logo.png",
+"ateam": "Union Berlin",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/Leverkusen.png",
+"hteam": "Ferencvaros",
+"time": " 12:15 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/Ferencvaros.gif",
+"ateam": "Leverkusen",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"hteam": "Betis",
+"time": " 2:30 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/betis.png",
+"ateam": "Manchester United",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/Juventus.png",
+"hteam": "Freiburg",
+"time": " 2:30 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/freiburg.png",
+"ateam": "Juventus",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/Sevilla.png",
+"hteam": "Fenerbahce",
+"time": " 2:30 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/Fenerbahce.gif",
+"ateam": "Sevilla",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/shakhtar_Donetsk.png",
+"hteam": "Feyenoord",
+"time": " 2:30 AM ",
+"date": "2023-03-10",
+"aimg": "https://mygoaltv.xyz//team/Feyenoord.gif",
+"ateam": "Shakhtar Donetsk",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 }
