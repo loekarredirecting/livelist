@@ -46,26 +46,26 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/real-madrid.png",
 "hteam": "Espanyol",
-"time": " 7:30 PM ",
+"time": " live ",
 "date": "2023-03-11",
 "aimg": "https://mygoaltv.xyz//team/Espanyol.png",
 "ateam": "Real Madrid",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?sub_m3u8=true&user_session_id=53aad6f886016e41cd5fdb8c5ee2a624&auth_key=1678560058-0-0-c9a67e316dd1e6a619ff2d399abbfa22&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lsd.m3u8?auth_key=1678560058-0-0-fdf16036c49d4b311e4793d78475d01a&sub_m3u8=true&user_session_id=169cab4a361c7307eb4f6624e7889320&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?edge_slice=true&user_session_id=d05c716244697c19a57622f58a8f8cbf&auth_key=1678557856-0-0-8f16557b9e2a02eaca6ddbda0ddf222d&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-181398_lsd.m3u8?edge_slice=true&auth_key=1678557856-0-0-f1aadab7683d629e2832412419474bb8&user_session_id=2a4462954f1c6fd72b925e9a71ddeb30&sub_m3u8=true"
 }
 ]
 },
