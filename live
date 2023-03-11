@@ -1,48 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
-"hteam": "Liverpool",
-"time": " live ",
-"date": "2023-03-11",
-"aimg": "https://mygoaltv.xyz//team/liverpool.png",
-"ateam": "Bournemouth",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1678557358-0-0-763e90195553eec57e8f24c3b2e51fbe&sub_m3u8=true&edge_slice=true&user_session_id=b9de8b42cf3d17342aa933bb1eefe90c"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1678557358-0-0-573e18ea4b90ccb7738f166c3ea3eb11&edge_slice=true&user_session_id=aec3a0dc6aa40a26bb76adce63603601&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=0117e935d7d8a424310b15e320357ea1&txTime=640cbfd0"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=0117e935d7d8a424310b15e320357ea1&txTime=640cbfd0"
-},
-{
-"type": "English HD",
-"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=78b0945d01a709f6a103dc2bfe90591ebc41641e-fdcc6674cbecee68d5e99bd4b5c238d8-1678548089-1678537289"
-},
-{
-"type": "English SD",
-"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=78b0945d01a709f6a103dc2bfe90591ebc41641e-fdcc6674cbecee68d5e99bd4b5c238d8-1678548089-1678537289"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/real-madrid.png",
 "hteam": "Espanyol",
@@ -224,7 +181,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "hteam": "Chelsea",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-03-11",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "Leicester City",
@@ -239,11 +196,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=581579f138e276c33ff86229324fe773&txTime=640ce426"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=581579f138e276c33ff86229324fe773&txTime=640ce426"
 }
 ]
 },
@@ -251,7 +208,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/tottenham.png",
 "hteam": "Nottingham Forest",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-03-11",
 "aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "ateam": "Tottenham",
@@ -266,11 +223,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=0857ee44df5c29af19aaa1fe164a8a00&txTime=640ce58c"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?auth_key=1678566556-0-0-75707e401c8b113a9f21becfdc25ff77&user_session_id=72847a0ea0223e79dc40ba33a3a096a7&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -278,7 +235,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
 "hteam": "Brighton",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-03-11",
 "aimg": "https://mygoaltv.xyz//team/Brighton.gif",
 "ateam": "Leeds",
@@ -293,11 +250,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-120778.m3u8?txSecret=a191e393da7dfaae332edc692dfeb61e&txTime=640ce5c8"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-120778.m3u8?txSecret=a191e393da7dfaae332edc692dfeb61e&txTime=640ce5c8"
 }
 ]
 },
@@ -305,7 +262,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/everton.png",
 "hteam": "Brentford",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-03-11",
 "aimg": "https://mygoaltv.xyz//team/Brentford.png",
 "ateam": "Everton",
@@ -320,11 +277,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-139384_lsd.m3u8?edge_slice=true&user_session_id=91f4b129f659bffb7b4aa3396f61304e&auth_key=1678566856-0-0-f2b185357d8cc174670d47a5214a2543&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-139384_lsd.m3u8?edge_slice=true&user_session_id=91f4b129f659bffb7b4aa3396f61304e&auth_key=1678566856-0-0-f2b185357d8cc174670d47a5214a2543&sub_m3u8=true"
 }
 ]
 },
