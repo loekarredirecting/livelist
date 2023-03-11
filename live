@@ -25,6 +25,14 @@
 "livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=0117e935d7d8a424310b15e320357ea1&txTime=640cbfd0"
 },
 {
+"type": "English HD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=78b0945d01a709f6a103dc2bfe90591ebc41641e-fdcc6674cbecee68d5e99bd4b5c238d8-1678548089-1678537289"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=78b0945d01a709f6a103dc2bfe90591ebc41641e-fdcc6674cbecee68d5e99bd4b5c238d8-1678548089-1678537289"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
