@@ -3,26 +3,34 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
 "hteam": "Liverpool",
-"time": " 7:00 PM ",
+"time": " live ",
 "date": "2023-03-11",
 "aimg": "https://mygoaltv.xyz//team/liverpool.png",
 "ateam": "Bournemouth",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1678557358-0-0-763e90195553eec57e8f24c3b2e51fbe&sub_m3u8=true&edge_slice=true&user_session_id=b9de8b42cf3d17342aa933bb1eefe90c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1678557358-0-0-573e18ea4b90ccb7738f166c3ea3eb11&edge_slice=true&user_session_id=aec3a0dc6aa40a26bb76adce63603601&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=0117e935d7d8a424310b15e320357ea1&txTime=640cbfd0"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=0117e935d7d8a424310b15e320357ea1&txTime=640cbfd0"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
