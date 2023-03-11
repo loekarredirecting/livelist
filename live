@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Elche.png",
-"hteam": "Valladolid",
-"time": " live ",
-"date": "2023-03-11",
-"aimg": "https://mygoaltv.xyz//team/Valladolid.png",
-"ateam": "Elche",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-774913_lhd.m3u8?user_session_id=062668e3a3e9a797d1102bb83598ba69&edge_slice=true&sub_m3u8=true&auth_key=1678565338-0-0-e4ea6caffc732c4ab8004630de571601"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-774913_lhd.m3u8?user_session_id=062668e3a3e9a797d1102bb83598ba69&edge_slice=true&sub_m3u8=true&auth_key=1678565338-0-0-e4ea6caffc732c4ab8004630de571601"
-},
-{
-"type": "Soco HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158814_lsd.m3u8?auth_key=1678567336-0-0-c479c9a713d83c39ad025aef3c93d025&sub_m3u8=true&user_session_id=a17db2a0137b203a44d1eb2e5d7e6723&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-158814_lsd.m3u8?auth_key=1678567336-0-0-c479c9a713d83c39ad025aef3c93d025&sub_m3u8=true&user_session_id=a17db2a0137b203a44d1eb2e5d7e6723&edge_slice=true"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Auxerre.gif",
 "hteam": "Rennes",
@@ -96,6 +69,22 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=0857ee44df5c29af19aaa1fe164a8a00&txTime=640ce58c"
+},
+{
+"type": "English HD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=c7dcbecab8bad712ad8076fe76e5268cfe62596d-c8f7672128961b5e9b42c04420aaf665-1678565559-1678554759"
+},
+{
+"type": "English SD",
+"livelink": "https://main.yorafootball.com/m1web/tracks-v1a1/mono.m3u8?token=c7dcbecab8bad712ad8076fe76e5268cfe62596d-c8f7672128961b5e9b42c04420aaf665-1678565559-1678554759"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }
 ]
 },
