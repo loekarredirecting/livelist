@@ -257,26 +257,18 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/freiburg.png",
 "hteam": "Hoffenheim",
-"time": " 9:00 PM ",
+"time": " live ",
 "date": "2023-03-12",
 "aimg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "ateam": "Freiburg",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?auth_key=1678651816-0-0-f693b604559be8c2f549b91579cb859f&sub_m3u8=true&user_session_id=c6605de452c5ee1dbc4c59433974707c&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112310_lsd.m3u8?auth_key=1678651816-0-0-f693b604559be8c2f549b91579cb859f&sub_m3u8=true&user_session_id=c6605de452c5ee1dbc4c59433974707c&edge_slice=true"
 }
 ]
 },
@@ -284,26 +276,26 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Sevilla.png",
 "hteam": "Almeria",
-"time": " 9:45 PM ",
+"time": " live ",
 "date": "2023-03-12",
 "aimg": "https://mygoaltv.xyz//team/Almeria.png",
 "ateam": "Sevilla",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1678652038-0-0-123559a6c3d323ea699e840414d5331c&sub_m3u8=true&user_session_id=776655d9ed51564e976cd7a0648c43f9&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-435929_lhd.m3u8?auth_key=1678652038-0-0-123559a6c3d323ea699e840414d5331c&sub_m3u8=true&user_session_id=776655d9ed51564e976cd7a0648c43f9&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=1b4cb9146a01a19c649b5bb75e206a0a&txTime=640e3220"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=1b4cb9146a01a19c649b5bb75e206a0a&txTime=640e3220"
 }
 ]
 },
