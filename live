@@ -1,32 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/lecce.png",
-"hteam": "Torino",
-"time": " live ",
-"date": "2023-03-12",
-"aimg": "https://mygoaltv.xyz//team/Torino.png",
-"ateam": "Lecce",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://dc1769a42a64a444b68e0fc184768dba.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=3c224099268d2be2c8501e07e7829df7&auth_key=1678641658-0-0-b0df432f7a03e7cb849044e532954a2b"
-},
-{
-"type":  "China SD",
-"livelink": "https://dc1769a42a64a444b68e0fc184768dba.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=3c224099268d2be2c8501e07e7829df7&auth_key=1678641658-0-0-b0df432f7a03e7cb849044e532954a2b"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?user_session_id=d57509028db98bb1aca19e7581711aa5&edge_slice=true&sub_m3u8=true&auth_key=1678641256-0-0-fc8051e002660f7c6a7193b823afceb0"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-123226_lsd.m3u8?user_session_id=d57509028db98bb1aca19e7581711aa5&edge_slice=true&sub_m3u8=true&auth_key=1678641256-0-0-fc8051e002660f7c6a7193b823afceb0"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/clermont.png",
 "hteam": "Lens",
@@ -104,6 +77,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-201313_lsd.m3u8?auth_key=1678649596-0-0-3c35bbcd26baf71d679631d9e43d09b9&user_session_id=0793c0d73d475181ec41c1c97819da73&edge_slice=true&sub_m3u8=true"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
@@ -131,6 +112,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?edge_slice=true&user_session_id=e1cb50e1b6689a42c5a96f26c9dd373d&sub_m3u8=true&auth_key=1678649716-0-0-bc36f990beb77e157e6fb821f2fdf2dd"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 }
 ]
 },
