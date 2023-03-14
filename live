@@ -1,32 +1,5 @@
 [
 {
-"league": " Saudi King's Cup ",
-"himg": "https://mygoaltv.xyz//team/al-nassr.png",
-"hteam": "Abha",
-"time": " live ",
-"date": "2023-03-14",
-"aimg": "https://mygoaltv.xyz//team/no-logo.png",
-"ateam": "Al-Nassr",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?user_session_id=ab8820552654d83030b85c4865251406&edge_slice=true&sub_m3u8=true&auth_key=1678827478-0-0-4faa7991adf5abc703701c9f239b9d5d"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-559725_lhd.m3u8?user_session_id=ab8820552654d83030b85c4865251406&edge_slice=true&sub_m3u8=true&auth_key=1678827478-0-0-4faa7991adf5abc703701c9f239b9d5d"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?auth_key=1678827257-0-0-5f4eab3f98f70b91f0a0930ece5a4d61&user_session_id=4fb6c51e73b1a3380043ab805b4ff196&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?auth_key=1678827257-0-0-5f4eab3f98f70b91f0a0930ece5a4d61&user_session_id=4fb6c51e73b1a3380043ab805b4ff196&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/porto.png",
 "hteam": "Inter Milan",
