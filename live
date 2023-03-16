@@ -23,6 +23,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?auth_key=1679008757-0-0-ad80cd7d0e467ffc453b9b328efabf39&edge_slice=true&user_session_id=5f01dc28fb9253cde778150090e20b93&sub_m3u8=true"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
