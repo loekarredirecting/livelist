@@ -3,26 +3,26 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/sassuolo.png",
 "hteam": "Spezia",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-03-18",
 "aimg": "https://mygoaltv.xyz//team/Spezia.gif",
 "ateam": "Sassuolo",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=dc2371c7fbcb20734a09fd890aefb16e&txTime=6414cd61"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?edge_slice=true&auth_key=1679089937-0-0-64581ba72e7596dd2e5ac54de2dbf6f3&user_session_id=cfad91ded105acd01681be3f0c94526f&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986.m3u8?txSecret=f5cf49be368bed45331c67255650c2f7&txTime=6414cd61=true&sub_m3u8=true&auth_key=1679084837-0-0-9471369ee1961c3612330f7382d3039b"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-116784_lsd.m3u8?edge_slice=true&user_session_id=5d773afb8759e7003ef0ccba2df2b2dc&sub_m3u8=true&auth_key=1679084837-0-0-0b2a396a3a7cb2f267594cbdab0edc61"
 }
 ]
 },
