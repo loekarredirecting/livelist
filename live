@@ -324,6 +324,141 @@
 ]
 },
 {
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/salernitana.png",
+"hteam": "Bologna",
+"time": " 11:30 PM ",
+"date": "2023-03-18",
+"aimg": "https://mygoaltv.xyz//team/Bologna.png",
+"ateam": "Salernitana",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Saudi Pro League ",
+"himg": "https://mygoaltv.xyz//team/al-nassr.png",
+"hteam": "Abha",
+"time": " 12:00 AM ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/no-logo.png",
+"ateam": "Al-Nassr",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/chelsea.png",
+"hteam": "Everton",
+"time": " 12:00 AM ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/everton.png",
+"ateam": "Chelsea",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Espanyol.png",
+"hteam": "Celta Vigo",
+"time": " 12:00 AM ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
+"ateam": "Espanyol",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/dortmund.png",
+"hteam": "Koln",
+"time": " 12:00 AM ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/Koln.png",
+"ateam": "Dortmund",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Burnley",
@@ -331,6 +466,87 @@
 "date": "2023-03-19",
 "aimg": "https://mygoaltv.xyz//team/Burnley.gif",
 "ateam": "Manchester City",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Udinese.png",
+"hteam": "AC Milan",
+"time": " 2:15 AM ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/acmilan.png",
+"ateam": "Udinese",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
+"hteam": "Valencia",
+"time": " 2:30 AM ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/Valencia.png",
+"ateam": "Atletico Madrid",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Lens.png",
+"hteam": "Angers SCO",
+"time": " 2:30 AM ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/Angers-SCO.gif",
+"ateam": "Lens",
 "link": [
 {
 "type": "China HD",
