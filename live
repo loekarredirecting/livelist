@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Almeria.png",
-"hteam": "Cadiz",
-"time": " live ",
-"date": "2023-03-18",
-"aimg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
-"ateam": "Almeria",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&auth_key=1679165279-0-0-7e5a7839e2c7cd6235ce69b403614f8b&user_session_id=8dbeb50b90cc8f33b34700e64beac93b&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&auth_key=1679165279-0-0-7e5a7839e2c7cd6235ce69b403614f8b&user_session_id=8dbeb50b90cc8f33b34700e64beac93b&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=5980c89b1c35e36bf45eb473235b91b4&txTime=64160285"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?user_session_id=ebecb9af943047c25bf0d10b2c8a85f1&sub_m3u8=true&auth_key=1679164217-0-0-90be2c9f34809dab95f53ff635c5dc1e&edge_slice=true"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/ac-monza.png",
 "hteam": "Cremonese",
@@ -339,11 +312,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=85b1c9908624cb02209cd2a41aedec61&txTime=64161a31"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?sub_m3u8=true&user_session_id=0698b4dce08afa32cd6b3dda9c2fa1f3&auth_key=1679170097-0-0-e5a4b0f7d951b8459e243b85e98489f9&edge_slice=true"
 }
 ]
 },
@@ -358,19 +331,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?edge_slice=true&user_session_id=889b421f3943a2608885d1f33ad41715&auth_key=1679174939-0-0-bdebeb4b81b3069fc17e030fa0e6dc25&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?edge_slice=true&user_session_id=889b421f3943a2608885d1f33ad41715&auth_key=1679174939-0-0-bdebeb4b81b3069fc17e030fa0e6dc25&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=5285590386b6126e38a23279b7d7727f&txTime=64161a6d"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-206851.m3u8?txSecret=5285590386b6126e38a23279b7d7727f&txTime=64161a6d"
 }
 ]
 },
@@ -412,11 +385,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1679175059-0-0-32b0b7afa693c9978814f1a1daa8b7ac&user_session_id=8447d3e49af9a4bb99a3cf90a94f480f&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=750cb6c3a74ab55f8a31eca59cbd7253&auth_key=1679175059-0-0-e09a452115d1b85054452926352ce772"
 },
 {
 "type": "Soco HD",
