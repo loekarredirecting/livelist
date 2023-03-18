@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
-"hteam": "Girona",
-"time": " live ",
-"date": "2023-03-18",
-"aimg": "https://mygoaltv.xyz//team/Girona.png",
-"ateam": "Rayo Vallecano",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://sports01.livnvess.com/live/stream-144861.m3u8?txSecret=ab69183bdae84e89126eea034e5f4974&txTime=641619b9"
-},
-{
-"type":  "China SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may10/playlist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=0b0b24a3c3df3b1e4462c9b2b0d8830e&txTime=641619f5"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?auth_key=1679170037-0-0-2e1a061bed8799dc7bf4755b2c2401b1&sub_m3u8=true&edge_slice=true&user_session_id=cb40f5b3391b4cba34065c13834fadd2"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Toulouse.png",
 "hteam": "Lille",
@@ -212,14 +185,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?sub_m3u8=true&user_session_id=28e630905a1749eefa5b8ed2cd6b7ca5&auth_key=1679176577-0-0-b55867f4c86cee8fb9e440e3b54366f6&edge_slice=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
