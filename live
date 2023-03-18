@@ -185,6 +185,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?user_session_id=186a43bb589c5af03b533b354767006e&edge_slice=true&sub_m3u8=true&auth_key=1679169617-0-0-831b8d4dcae2d667795fec18a65d6b95"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 }
 ]
 },
@@ -212,6 +220,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-226699_lsd.m3u8?edge_slice=true&user_session_id=eb5f7bd9f5780a18a1b52b5acc5fb392&sub_m3u8=true&auth_key=1679169737-0-0-cd766b3cd9fd2d88db2f40dfb1392122"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
