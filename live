@@ -96,6 +96,41 @@
 {
 "type": "Soco SD",
 "livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?user_session_id=ce47bde7349cd70015efc8c785d7050a&edge_slice=true&sub_m3u8=true&auth_key=1679254937-0-0-f223d16da550507f718f56472d88ef74"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Torino.png",
+"hteam": "Napoli",
+"time": " live ",
+"date": "2023-03-19",
+"aimg": "https://mygoaltv.xyz//team/napoli.png",
+"ateam": "Torino",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?auth_key=1679254439-0-0-64a37a2f0b2d408836cd8d9cb4923556&edge_slice=true&sub_m3u8=true&user_session_id=2aa6505f36a589c46e2614f339d91bbd"
+},
+{
+"type":  "China SD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?auth_key=1679254439-0-0-64a37a2f0b2d408836cd8d9cb4923556&edge_slice=true&sub_m3u8=true&user_session_id=2aa6505f36a589c46e2614f339d91bbd"
+},
+{
+"type": "Soco HD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1679255237-0-0-93d599a191816f75c43c96ad47860770&edge_slice=true&user_session_id=0f8b5a566471a1c5df3273a5c9b60485&sub_m3u8=true"
+},
+{
+"type": "Soco SD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1679255237-0-0-93d599a191816f75c43c96ad47860770&edge_slice=true&user_session_id=0f8b5a566471a1c5df3273a5c9b60485&sub_m3u8=true"
 }
 ]
 },
@@ -204,33 +239,6 @@
 {
 "type": "Soco SD",
 "livelink": "0"
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/Torino.png",
-"hteam": "Napoli",
-"time": " live ",
-"date": "2023-03-19",
-"aimg": "https://mygoaltv.xyz//team/napoli.png",
-"ateam": "Torino",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?auth_key=1679254439-0-0-64a37a2f0b2d408836cd8d9cb4923556&edge_slice=true&sub_m3u8=true&user_session_id=2aa6505f36a589c46e2614f339d91bbd"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?auth_key=1679254439-0-0-64a37a2f0b2d408836cd8d9cb4923556&edge_slice=true&sub_m3u8=true&user_session_id=2aa6505f36a589c46e2614f339d91bbd"
-},
-{
-"type": "Soco HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1679255237-0-0-93d599a191816f75c43c96ad47860770&edge_slice=true&user_session_id=0f8b5a566471a1c5df3273a5c9b60485&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-121256_lsd.m3u8?auth_key=1679255237-0-0-93d599a191816f75c43c96ad47860770&edge_slice=true&user_session_id=0f8b5a566471a1c5df3273a5c9b60485&sub_m3u8=true"
 }
 ]
 },
