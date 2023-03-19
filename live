@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/betis.png",
-"hteam": "Mallorca",
-"time": " live ",
-"date": "2023-03-19",
-"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
-"ateam": "Betis",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-556902_lhd.m3u8?auth_key=1679251379-0-0-5e81fd5ad257b34af7c4eed15d1f292c&user_session_id=18a4f30d68854daad0fa6791c8590452&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-556902_lhd.m3u8?auth_key=1679251379-0-0-5e81fd5ad257b34af7c4eed15d1f292c&user_session_id=18a4f30d68854daad0fa6791c8590452&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?sub_m3u8=true&auth_key=1679251517-0-0-a404e14e287da8fae2f5928df661d0f4&edge_slice=true&user_session_id=4c34b506e523fd18a8189193a038d1bb"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?sub_m3u8=true&auth_key=1679251517-0-0-a404e14e287da8fae2f5928df661d0f4&edge_slice=true&user_session_id=4c34b506e523fd18a8189193a038d1bb"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Crystal Palace",
@@ -328,7 +301,7 @@
 "himg": "https://mygoaltv.xyz//team/psg.png",
 "hteam": "Rennes",
 "time": " live ",
-"date": "2023-03-19",
+"date": " 10:35 PM ",
 "aimg": "https://mygoaltv.xyz//team/rennes.png",
 "ateam": "Paris Saint-Germain",
 "link": [
@@ -355,7 +328,7 @@
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Fulham",
 "time": " live ",
-"date": "2023-03-19",
+"date": " 11:00 PM ",
 "aimg": "https://mygoaltv.xyz//team/fulham.png",
 "ateam": "Manchester United",
 "link": [
@@ -382,7 +355,7 @@
 "himg": "https://mygoaltv.xyz//team/Leverkusen.png",
 "hteam": "Bayern Munich",
 "time": " live ",
-"date": "2023-03-19",
+"date": " 11:00 PM ",
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Leverkusen",
 "link": [
@@ -409,7 +382,7 @@
 "himg": "https://mygoaltv.xyz//team/lazio.png",
 "hteam": "AS Roma",
 "time": " live ",
-"date": "2023-03-19",
+"date": " 11:30 PM ",
 "aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "ateam": "Lazio",
 "link": [
@@ -436,7 +409,7 @@
 "himg": "https://mygoaltv.xyz//team/Getafe.png",
 "hteam": "Sevilla",
 "time": " live ",
-"date": "2023-03-20",
+"date": " 12:00 AM ",
 "aimg": "https://mygoaltv.xyz//team/Sevilla.png",
 "ateam": "Getafe",
 "link": [
@@ -463,7 +436,7 @@
 "himg": "https://mygoaltv.xyz//team/Mainz_05.png",
 "hteam": "Freiburg",
 "time": " live ",
-"date": "2023-03-20",
+"date": " 1:00 AM ",
 "aimg": "https://mygoaltv.xyz//team/freiburg.png",
 "ateam": "Mainz 05",
 "link": [
@@ -490,7 +463,7 @@
 "himg": "https://mygoaltv.xyz//team/reims.png",
 "hteam": "Marseille",
 "time": " live ",
-"date": "2023-03-20",
+"date": " 2:15 AM ",
 "aimg": "https://mygoaltv.xyz//team/Marseille_logo.png",
 "ateam": "Reims",
 "link": [
@@ -509,7 +482,7 @@
 "himg": "https://mygoaltv.xyz//team/inter_milan.png",
 "hteam": "Juventus",
 "time": " live ",
-"date": "2023-03-20",
+"date": " 2:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Juventus.png",
 "ateam": "Inter Milan",
 "link": [
@@ -536,7 +509,7 @@
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Real Madrid",
 "time": " live ",
-"date": "2023-03-20",
+"date": " 2:30 AM ",
 "aimg": "https://mygoaltv.xyz//team/real-madrid.png",
 "ateam": "Barcelona",
 "link": [
