@@ -30,26 +30,18 @@
 "league": " FA Cup ",
 "himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
 "hteam": "Blackburn",
-"time": " 6:30 PM ",
+"time": " live ",
 "date": "2023-03-19",
 "aimg": "https://mygoaltv.xyz//team/Blackburn.gif",
 "ateam": "Sheffield United",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&auth_key=1679248499-0-0-f242167ed26eee370dd117f178e33136&sub_m3u8=true&user_session_id=264433513372254a3f97d50c78f4cd94"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&auth_key=1679248499-0-0-f242167ed26eee370dd117f178e33136&sub_m3u8=true&user_session_id=264433513372254a3f97d50c78f4cd94"
 }
 ]
 },
@@ -57,26 +49,26 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Ajaccio.png",
 "hteam": "Monaco",
-"time": " 6:30 PM ",
+"time": " live ",
 "date": "2023-03-19",
 "aimg": "https://mygoaltv.xyz//team/monaco.png",
 "ateam": "Ajaccio",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679248739-0-0-9a1762e1a61f7944bbfa2edf1e222de8&user_session_id=a6c322ec2b16f2f85483d1269de11c0e"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1679248739-0-0-9a1762e1a61f7944bbfa2edf1e222de8&user_session_id=a6c322ec2b16f2f85483d1269de11c0e"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=8e43d8948c0c3008712cec629dcd0095&txTime=64174a69"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=8e43d8948c0c3008712cec629dcd0095&txTime=64174a69"
 }
 ]
 },
