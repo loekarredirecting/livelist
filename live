@@ -1,24 +1,5 @@
 [
 {
-"league": " FA Cup ",
-"himg": "https://mygoaltv.xyz//team/Brighton.gif",
-"hteam": "Grimsby Town",
-"time": " live ",
-"date": "2023-03-19",
-"aimg": "https://mygoaltv.xyz//team/grimsby-town.png",
-"ateam": "Brighton",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-351237_lhd.m3u8?auth_key=1679257439-0-0-c3efd34690c9190822fb84a2e88bc684&sub_m3u8=true&edge_slice=true&user_session_id=a724cc9dfd32dac530dc17108eb77ec7"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-351237_lhd.m3u8?auth_key=1679257439-0-0-c3efd34690c9190822fb84a2e88bc684&sub_m3u8=true&edge_slice=true&user_session_id=a724cc9dfd32dac530dc17108eb77ec7"
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "hteam": "Frankfurt",
@@ -135,6 +116,14 @@
 "aimg": "https://mygoaltv.xyz//team/fulham.png",
 "ateam": "Manchester United",
 "link": [
+{
+"type": "English HD",
+"livelink": "http://clientsportals.com:2095/f3TRyXuq/b2uymMbP/115617?device=TVOS_Live&start=LIVE&end=END"
+},
+{
+"type": "English SD",
+"livelink": "https://main3.yorafootball.com/m3web/index.m3u8?token=ade3ec87bd8bbea2ae935e4a530a9b5011597409-f27a1e6f2b5c72eb96c647f2cd7714ac-1679254616-1679243816"
+},
 {
 "type": "China HD",
 "livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1679258339-0-0-31f2a70f4e6523ba8bb325c418c72394&user_session_id=95e5ca8bfd9e16c2f6c298fb833040a3&edge_slice=true"
