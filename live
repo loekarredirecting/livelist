@@ -79,5 +79,86 @@
 "livelink": "0"
 }
 ]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Argentina.png",
+"hteam": "Panama",
+"time": " 6:30 AM ",
+"date": "2023-03-24",
+"aimg": "https://mygoaltv.xyz//team/Panama.png",
+"ateam": "Argentina",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
+"hteam": "Japan",
+"time": " 5:00 PM ",
+"date": "2023-03-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+"ateam": "Uruguay",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+"hteam": "South Korea",
+"time": " 5:30 PM ",
+"date": "2023-03-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
+"ateam": "Colombia",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
