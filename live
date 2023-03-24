@@ -3,26 +3,18 @@
 "league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
 "hteam": "Uruguay",
-"time": " 5:00 PM ",
+"time": " live ",
 "date": "2023-03-24",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
 "ateam": "Japan",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=75ea633143b469cb590c61c9e9f7ca43&txTime=641dd0b7"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=75ea633143b469cb590c61c9e9f7ca43&txTime=641dd0b7"
 }
 ]
 },
