@@ -1,82 +1,28 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
-"hteam": "Uruguay",
-"time": " live ",
-"date": "2023-03-24",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
-"ateam": "Japan",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679675984-0-0-d0e2af702d789f8b09ab852bdcb5633f&user_session_id=f6fcf432d1e28dabe647f9e44be384e5"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1679675984-0-0-d0e2af702d789f8b09ab852bdcb5633f&user_session_id=f6fcf432d1e28dabe647f9e44be384e5"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=75ea633143b469cb590c61c9e9f7ca43&txTime=641dd0b7"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=75ea633143b469cb590c61c9e9f7ca43&txTime=641dd0b7"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
-"hteam": "Colombia",
-"time": " live ",
-"date": "2023-03-24",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
-"ateam": "South Korea",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1679676524-0-0-b464220bf75454112f18eca874278c0c"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1679676524-0-0-b464220bf75454112f18eca874278c0c"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=2d42aa3d44ceeb290f4fdb57598ee2df&txTime=641dd4b3"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=2d42aa3d44ceeb290f4fdb57598ee2df&txTime=641dd4b3"
-}
-]
-},
-{
 "league": " Euro Cup ",
 "himg": "https://mygoaltv.xyz//team/Czech.png",
 "hteam": "Poland",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-03-25",
 "aimg": "https://mygoaltv.xyz//team/balan.png",
 "ateam": "Czech",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?sub_m3u8=true&auth_key=1679702803-0-0-310d8dea60d29552b5f370b7f035192f&user_session_id=1c96fd00e5995f40ccee2369e31545d5&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?sub_m3u8=true&auth_key=1679702803-0-0-310d8dea60d29552b5f370b7f035192f&user_session_id=1c96fd00e5995f40ccee2369e31545d5&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-508945.m3u8?auth_key=1679703403-0-0-ba7282a61d137d17f60d38344486d097"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-508945.m3u8?auth_key=1679703403-0-0-ba7282a61d137d17f60d38344486d097"
 }
 ]
 },
@@ -84,26 +30,26 @@
 "league": " Euro Cup ",
 "himg": "https://mygoaltv.xyz//team/Phap.png",
 "hteam": "Netherlands",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-03-25",
 "aimg": "https://mygoaltv.xyz//team/Halan.png",
 "ateam": "France",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=57ef0469fe71295d2566fbdb04e67672&edge_slice=true&sub_m3u8=true&auth_key=1679702923-0-0-7c8d2d71d876033aac8659627344ce27"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=57ef0469fe71295d2566fbdb04e67672&edge_slice=true&sub_m3u8=true&auth_key=1679702923-0-0-7c8d2d71d876033aac8659627344ce27"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=aa785650b80372a0d03d6d187740e84c&txTime=641e2643"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=aa785650b80372a0d03d6d187740e84c&txTime=641e2643"
 }
 ]
 },
@@ -111,26 +57,26 @@
 "league": " Euro Cup ",
 "himg": "https://mygoaltv.xyz//team/Sweden.png",
 "hteam": "Belgium",
-"time": " 2:15 AM ",
+"time": " live ",
 "date": "2023-03-25",
 "aimg": "https://mygoaltv.xyz//team/Bi.png",
 "ateam": "Sweden",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=cc0479f4d7108effa15471548c19833b&auth_key=1679703043-0-0-b69770adc5b34613088b5c99e2dbb76d&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=cc0479f4d7108effa15471548c19833b&auth_key=1679703043-0-0-b69770adc5b34613088b5c99e2dbb76d&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1679703175-0-0-c52e292b16f4d3417dc314a02f881fbb&sub_m3u8=true&user_session_id=ee741df93c30e4ce73e0edfb5e16193b&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1679703175-0-0-c52e292b16f4d3417dc314a02f881fbb&sub_m3u8=true&user_session_id=ee741df93c30e4ce73e0edfb5e16193b&edge_slice=true"
 }
 ]
 }
