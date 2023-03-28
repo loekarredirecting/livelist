@@ -30,26 +30,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Nhat.png",
 "hteam": "Colombia",
-"time": " 4:50 PM ",
+"time": " live ",
 "date": "2023-03-28",
 "aimg": "https://mygoaltv.xyz//team/Colombia.png",
 "ateam": "Japan",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=102a5def19316798cf5c1763d42be972&txTime=64230efc"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680019484-0-0-13f04818e3423b171f7100bb33232bbc&edge_slice=true&user_session_id=30c55f15c4f079105829fa103552405a&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=102a5def19316798cf5c1763d42be972&txTime=64230efc"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=2bfbf02600469218afd2d33e58b35f7f&auth_key=1680019484-0-0-e73017e19f5a63793486791bfcb75866&edge_slice=true"
 }
 ]
 },
