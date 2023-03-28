@@ -57,26 +57,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Hanquoc.png",
 "hteam": "Uruguay",
-"time": " 5:30 PM ",
+"time": " live ",
 "date": "2023-03-28",
 "aimg": "https://mygoaltv.xyz//team/Uruguay.png",
 "ateam": "South Korea",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1680021224-0-0-56362c4ce8d517ffcf49fa7a2f75ac64"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-308116_ld.m3u8?auth_key=1680021224-0-0-f73461b91264063c7d29dc9ed9651641"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lhd.m3u8?sub_m3u8=true&user_session_id=e2c9a511be9d8f561c88a97bdf08a854&auth_key=1680021116-0-0-b352ca3290cba1a07078c80444997c4e&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-115493_lsd.m3u8?edge_slice=true&auth_key=1680021116-0-0-e4d04984f558fc08e6bd88589903a1ec&user_session_id=4e50afadc8a8304ea2c42873920bba12&sub_m3u8=true"
 }
 ]
 },
