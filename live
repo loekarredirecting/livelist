@@ -1,6 +1,6 @@
 [
 {
-"league": " Euro Cup ",
+"league": " Euro Cup  10:30 PM ",
 "himg": "https://mygoaltv.xyz//team/Georgia.png",
 "hteam": "Noway",
 "time": " live ",
@@ -27,21 +27,21 @@
 ]
 },
 {
-"league": " Friendly ",
+"league": " Friendly  1:15 AM ",
 "himg": "https://mygoaltv.xyz//team/Germany.png",
 "hteam": "Belgium",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-03-29",
 "aimg": "https://mygoaltv.xyz//team/Bi.png",
 "ateam": "Germany",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1680043784-0-0-f64ba56c027048a7fcb42cd2e155a0dc&edge_slice=true&sub_m3u8=true&user_session_id=d7653bcee16e2d09c5ff356d77955b01"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1680043784-0-0-f64ba56c027048a7fcb42cd2e155a0dc&edge_slice=true&sub_m3u8=true&user_session_id=d7653bcee16e2d09c5ff356d77955b01"
 },
 {
 "type": "Soco HD",
@@ -54,21 +54,21 @@
 ]
 },
 {
-"league": " Euro Cup ",
+"league": " Euro Cup  1:15 AM ",
 "himg": "https://mygoaltv.xyz//team/Turkey.png",
 "hteam": "Croatia",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-03-29",
 "aimg": "https://mygoaltv.xyz//team/Croatia.png",
 "ateam": "Turkey",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1680043904-0-0-5023ffda560820727e75a3cc65a23c5c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1680043904-0-0-5023ffda560820727e75a3cc65a23c5c"
 },
 {
 "type": "Soco HD",
@@ -81,10 +81,10 @@
 ]
 },
 {
-"league": " Euro Cup ",
+"league": " Euro Cup  1:15 AM ",
 "himg": "https://mygoaltv.xyz//team/Wales.png",
 "hteam": "Latvia",
-"time": "  1:15 AM ",
+"time": " live ",
 "date": "2023-03-29",
 "aimg": "https://mygoaltv.xyz//team/Latvia.png",
 "ateam": "Wales",
@@ -99,19 +99,19 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?user_session_id=a39c2687c75cec67f029ad69b5ab0047&auth_key=1680044216-0-0-b99a66ac9fd65b0141434bfb13c8894f&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?user_session_id=a39c2687c75cec67f029ad69b5ab0047&auth_key=1680044216-0-0-b99a66ac9fd65b0141434bfb13c8894f&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
 {
-"league": " Euro Cup ",
+"league": " Euro Cup  1:15 AM ",
 "himg": "https://mygoaltv.xyz//team/Scotland.png",
 "hteam": "Spain",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-03-29",
 "aimg": "https://mygoaltv.xyz//team/Taybannha.png",
 "ateam": "Scotland",
@@ -135,10 +135,10 @@
 ]
 },
 {
-"league": " Euro Cup ",
+"league": " Euro Cup  1:15 AM ",
 "himg": "https://mygoaltv.xyz//team/Romania.png",
 "hteam": "Belarus",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-03-29",
 "aimg": "https://mygoaltv.xyz//team/Belarus.png",
 "ateam": "Romania",
@@ -162,10 +162,10 @@
 ]
 },
 {
-"league": " Euro Cup ",
+"league": " Euro Cup  1:15 AM ",
 "himg": "https://mygoaltv.xyz//team/Thuysy.png",
 "hteam": "Israel",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-03-29",
 "aimg": "https://mygoaltv.xyz//team/Israel.png",
 "ateam": "Switzerland",
@@ -189,10 +189,10 @@
 ]
 },
 {
-"league": " Friendly ",
+"league": " Friendly  5:00 AM ",
 "himg": "https://mygoaltv.xyz//team/Argentina.png",
 "hteam": "Curacao",
-"time": " 5:00 AM ",
+"time": " live ",
 "date": "2023-03-29",
 "aimg": "https://mygoaltv.xyz//team/curacao.png",
 "ateam": "Argentina",
