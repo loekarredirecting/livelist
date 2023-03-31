@@ -1,5 +1,86 @@
 [
 {
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
+"hteam": "Bochum",
+"time": " 1:00 AM ",
+"date": "2023-04-1",
+"aimg": "https://mygoaltv.xyz//team/Bochum.gif",
+"ateam": "Frankfurt",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Mallorca.gif",
+"hteam": "Osasuna",
+"time": " 1:30 AM ",
+"date": "2023-04-1",
+"aimg": "https://mygoaltv.xyz//team/osasuna.png",
+"ateam": "Mallorca",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
+"hteam": "Montpellier",
+"time": " 1:30 AM ",
+"date": "2023-04-1",
+"aimg": "https://mygoaltv.xyz//team/Montpellier.png",
+"ateam": "Marseille",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Liverpool",
