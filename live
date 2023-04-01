@@ -270,7 +270,7 @@
 {
            "league": " PREMIER LEAGUE",
             "date": "2023-04-01",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
             "teams" : "Brighton Vs Brentford",
@@ -279,22 +279,22 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=f89523aff943aead03b24780f5270bef&txTime=642888c8"
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=f89523aff943aead03b24780f5270bef&txTime=642888c8"
+         
+                },
+{
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -303,7 +303,7 @@
 {
            "league": "PREMIER LEAGUE",
             "date": "2023-04-01",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "teams" : "Crystal Palace Vs Leicester City",
@@ -312,13 +312,13 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?sub_m3u8=true&auth_key=1680378176-0-0-9c4d5b79d493540f2762d05db25463be&user_session_id=c7ca001ea483ef9f0558f3517565f987&edge_slice=true"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?sub_m3u8=true&auth_key=1680378176-0-0-9c4d5b79d493540f2762d05db25463be&user_session_id=c7ca001ea483ef9f0558f3517565f987&edge_slice=true"
          
                 },
 {
@@ -336,7 +336,7 @@
 {
            "league": " PREMIER LEAGUE",
             "date": "2023-04-01",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
             "teams" : "Nottingham Vs Wolves",
@@ -345,13 +345,13 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-122774.m3u8?txSecret=1c0d429d2a495547bbf0e01b3c10622e&txTime=642889b8"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://sports01.livnvess.com/live/stream-122774.m3u8?txSecret=1c0d429d2a495547bbf0e01b3c10622e&txTime=642889b8"
          
                 },
 {
@@ -378,13 +378,13 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=f40b5b14a6e91de710984cf971b89fca&txTime=64288a30"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=f40b5b14a6e91de710984cf971b89fca&txTime=64288a30"
          
                 },
 {
