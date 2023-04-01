@@ -1,83 +1,641 @@
-[
+[     
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/manchestercity.png",
-"hteam": "Liverpool",
-"time": " 6:00 PM ",
-"date": "2023-04-01",
-"aimg": "https://mygoaltv.xyz//team/liverpool.png",
-"ateam": "Manchester City",
-"link": [
+           "league": "Premier League",
+            "date": "2023-04-01",
+            "time": "6:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "teams" : "Man City Vs Liverpool",
+            "hteam" : "Man City",
+            "ateam" : "Liverpool",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
 {
-"type": "China HD",
-"livelink": "0"
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }                
+                
+            ]
 },
 {
-"type":  "China SD",
-"livelink": "0"
+           "league": "Laliga",
+            "date": "2023-04-01",
+            "time": "6:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
+            "teams" : "Girona Vs Espanyol",
+            "ateam" : "Girona",
+            "hteam" : "Espanyol",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+           "league": "Serie A",
+            "date": "2023-04-01",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+            "teams" : "Cremonese Vs Atalanta",
+            "ateam" : "Cremonese",
+            "hteam" : "Atalanta",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+         
+                }
+            ]
 },
 {
-"type": "Soco SD",
-"livelink": "0"
+           "league": "Bundesliga",
+            "date": "2023-04-01",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+            "teams" : "RB Leipzig Vs Mainz 05",
+            "ateam" : "RB Leipzig",
+            "hteam" : "Mainz 05",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+         
+                }
+
+                
+            ]
+},
+{
+           "league": "Bundesliga",
+            "date": "2023-04-01",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
+            "teams" : "SC Freiburg Vs Hertha BSC",
+            "ateam" : "SC Freiburg",
+            "hteam" : "Hertha BSC",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+         
+                }               
+            ]
+},
+{
+           "league": "Bundesliga",
+            "date": "2023-04-01",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "teams" : "Schalke 04 Vs Bayer Leverkusen",
+            "ateam" : "Schalke 04",
+            "hteam" : "Bayer Leverkusen",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+         
+                }               
+            ]
+},
+{
+           "league": "Bundesliga",
+            "date": "2023-04-01",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+            "teams" : "Union Berlin Vs VfB Stuttgart",
+            "ateam" : "Union Berlin",
+            "hteam" : "VfB Stuttgart",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+         
+                }
+
+                
+            ]
+},
+{
+           "league": "Bundesliga",
+            "date": "2023-04-01",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+            "teams" : "Wolfsburg Vs FC Augsburg",
+            "ateam" : "Wolfsburg",
+            "hteam" : "FC Augsburg",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+         
+                }               
+            ]
+},
+{
+           "league": "PREMIER LEAGUE",
+            "date": "2023-04-01",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+            "teams" : "Arsenal Vs Leeds United",
+            "ateam" : "Arsenal",
+            "hteam" : "Leeds United",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                },
+ {
+                    "type": "FHD",
+                "livelink":""
+                }               
+            ]
+},
+{
+           "league": "PREMIER LEAGUE",
+            "date": "2023-04-01",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "teams" : "Brighton Vs Brentford",
+            "ateam" : "Brighton",
+            "hteam" : "Brentford",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "PREMIER LEAGUE",
+            "date": "2023-04-01",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "teams" : "Crystal Palace Vs Leicester City",
+            "ateam" : "Crystal Palace",
+            "hteam" : "Leicester City",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " PREMIER LEAGUE",
+            "date": "2023-04-01",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "teams" : "Nottingham Vs Wolves",
+            "ateam" : "Nottingham",
+            "hteam" : "Wolves",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "PREMIER LEAGUE",
+            "date": "2023-04-01",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "teams" : "Bournemouth Vs Fulham",
+            "ateam" : "Bournemouth",
+            "hteam" : "Fulham",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "LALIGA",
+            "date": "2023-04-01",
+            "time": "8:45 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+            "teams" : "Athletic Club Vs Getafe",
+            "ateam" : "Athletic Club",
+            "hteam" : "Getafe",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Ligue 1",
+            "date": "2023-04-01",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
+            "teams" : "Auxerre Vs Troyes",
+            "ateam" : "Auxerre",
+            "hteam" : "Troyes",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Serie A",
+            "date": "2023-04-01",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+            "teams" : "Inter Vs Fiorentina",
+            "ateam" : "Inter",
+            "hteam" : "Fiorentina",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " PREMIER LEAGUE",
+            "date": "2023-04-01",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "teams" : "Chelsea Vs Aston Villa",
+            "ateam" : "Chelsea",
+            "hteam" : "Aston Villa",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }                
+            ]
+},
+{
+           "league": " Bundesliga",
+            "date": "2023-04-01",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "teams" : "Bayern München Vs Dortmund",
+            "ateam" : "Bayern München",
+            "hteam" : "Dortmund",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Laliga",
+            "date": "2023-04-01",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "teams" : "Cadiz Vs Sevilla",
+            "ateam" : "Cadiz",
+            "hteam" : "Sevilla",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Serie A",
+            "date": "2023-04-02",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+            "teams" : "Juventus Vs Hellas Verona",
+            "ateam" : "Juventus",
+            "hteam" : "Hellas Verona",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Laliga",
+            "date": "2023-04-02",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+            "teams" : "Elche Vs Barcelona",
+            "ateam" : "Elche",
+            "hteam" : "Barcelona",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
 }
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/arsenal.png",
-"hteam": "Leeds",
-"time": " 8:30 PM ",
-"date": "2023-04-01",
-"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
-"ateam": "Arsenal",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"hteam": "Dortmund",
-"time": " 11:00 PM ",
-"date": "2023-04-01",
-"aimg": "https://mygoaltv.xyz//team/dortmund.png",
-"ateam": "Bayern Munich",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-}
+
+
 ]
