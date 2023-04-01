@@ -101,13 +101,13 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-774913.m3u8?auth_key=1680372045-0-0-8434576105fbc3de407a58c28cba9a8a"
          
                 },                     
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-774913.m3u8?auth_key=1680372045-0-0-8434576105fbc3de407a58c28cba9a8a"
          
                 }
             ]
