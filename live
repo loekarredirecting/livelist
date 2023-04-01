@@ -290,12 +290,12 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680378705-0-0-1de7c970330d5ecdad0f880b1fb6b098"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680378705-0-0-1de7c970330d5ecdad0f880b1fb6b098"
                 }
                 
             ]
@@ -322,13 +322,13 @@
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680378765-0-0-fad7f7b6961f76ba2875ffeda0bad46f"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680378765-0-0-fad7f7b6961f76ba2875ffeda0bad46f"
                 }
                 
             ]
@@ -355,12 +355,12 @@
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China HD",
                 "livelink":""
                 }
                 
@@ -369,7 +369,7 @@
 {
            "league": " PREMIER LEAGUE",
             "date": "2023-04-01",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
             "teams" : "Bournemouth Vs Fulham",
