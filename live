@@ -402,7 +402,7 @@
 {
            "league": " LALIGA",
             "date": "2023-04-01",
-            "time": "8:45 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "teams" : "Athletic Club Vs Getafe",
@@ -411,13 +411,13 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://sports01.livnvess.com/live/stream-107307.m3u8?txSecret=65d0904e1e10b9b3a73bc7005ec1586c&txTime=64288aa8"
          
                 },                     
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-107307.m3u8?txSecret=65d0904e1e10b9b3a73bc7005ec1586c&txTime=64288aa8"
                 }
                 
             ]
