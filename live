@@ -339,9 +339,9 @@
             ]
 },
 {
-           "league": " Serie A",
+           "league": " Serie A  10:30 PM",
             "date": "2023-04-01",
-            "time": "10:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "teams" : "Inter Vs Fiorentina",
@@ -350,31 +350,31 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": " China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680383744-0-0-5020691b5f26df20a0db03a787333d8a"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680383744-0-0-5020691b5f26df20a0db03a787333d8a"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&user_session_id=589f1299586331f58d0b4b967ca3b8e0&auth_key=1680384356-0-0-60631a4008ba0f7042e99c59b02fc395&edge_slice=true"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&user_session_id=589f1299586331f58d0b4b967ca3b8e0&auth_key=1680384356-0-0-60631a4008ba0f7042e99c59b02fc395&edge_slice=true"
                 }
                 
             ]
 },
 {
-           "league": " PREMIER LEAGUE",
+           "league": " PREMIER LEAGUE  11:00 PM",
             "date": "2023-04-01",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "teams" : "Chelsea Vs Aston Villa",
@@ -383,34 +383,31 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": " China HD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680383864-0-0-0fe9eeaea0a02c315f6214e8ec9b6d99&sub_m3u8=true&user_session_id=7156c8ce9f9cba280764dd26be82b6e0&edge_slice=true"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680383864-0-0-0fe9eeaea0a02c315f6214e8ec9b6d99&sub_m3u8=true&user_session_id=7156c8ce9f9cba280764dd26be82b6e0&edge_slice=true"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?user_session_id=7cc75ebc8eb2b309a68c9e5e2e1a8512&auth_key=1680384476-0-0-1dd91da8c50c776c93c68f33c07c63ec&sub_m3u8=true&edge_slice=true"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
-                },
-{
-                    "type": "FHD",
-                "livelink":""
-                }                
+                    "type": "Soco SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?user_session_id=7cc75ebc8eb2b309a68c9e5e2e1a8512&auth_key=1680384476-0-0-1dd91da8c50c776c93c68f33c07c63ec&sub_m3u8=true&edge_slice=true"
+                }
+                
             ]
 },
 {
-           "league": " Bundesliga",
+           "league": " Bundesliga  11:00 PM",
             "date": "2023-04-01",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
             "teams" : "Bayern München Vs Dortmund",
@@ -419,31 +416,31 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": " China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1680383925-0-0-489fdbeb635a4a68ef90f51d175c225d"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1680383925-0-0-489fdbeb635a4a68ef90f51d175c225d"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=67665b2abcd559096f490d4bdf7190d9&txTime=6428a254"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=67665b2abcd559096f490d4bdf7190d9&txTime=6428a254"
                 }
                 
             ]
 },
 {
-           "league": " Laliga",
+           "league": " Laliga  11:00 PM",
             "date": "2023-04-01",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
             "teams" : "Cadiz Vs Sevilla",
@@ -452,31 +449,31 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": " China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1680383985-0-0-5733115d04974b46af8a479cf2966a3b"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1680383985-0-0-5733115d04974b46af8a479cf2966a3b"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&auth_key=1680384656-0-0-3afc2db36a58c8a9cda70f115f56a5e7&sub_m3u8=true&user_session_id=5ce1df13a0633310075ce1d9d8d64a83"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&auth_key=1680384656-0-0-3afc2db36a58c8a9cda70f115f56a5e7&sub_m3u8=true&user_session_id=5ce1df13a0633310075ce1d9d8d64a83"
                 }
                 
             ]
 },
 {
-           "league": " Serie A",
+           "league": " Serie A  1:15 AM",
             "date": "2023-04-02",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "teams" : "Juventus Vs Hellas Verona",
@@ -485,31 +482,31 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": " China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1680384105-0-0-6b0abb1259a8fc67b5f96f161f611ad9"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1680384105-0-0-6b0abb1259a8fc67b5f96f161f611ad9"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=4ff565922ac57420838b2de4c7dac80b&auth_key=1680384776-0-0-5d05c3bb89f8ff208ac3f48314af193a&sub_m3u8=true&edge_slice=true"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=4ff565922ac57420838b2de4c7dac80b&auth_key=1680384776-0-0-5d05c3bb89f8ff208ac3f48314af193a&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
 },
 {
-           "league": " Laliga",
+           "league": " Laliga  1:30 AM",
             "date": "2023-04-02",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "Elche Vs Barcelona",
@@ -518,23 +515,23 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": " China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680384224-0-0-5c6819e836f08d13d2a13d0fc9402ec5"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680384224-0-0-5c6819e836f08d13d2a13d0fc9402ec5"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680384870-0-0-4503a8b87258194b28953144de831378&user_session_id=932c3429ab10cb11153cc3690e494c6e"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680384870-0-0-4503a8b87258194b28953144de831378&user_session_id=932c3429ab10cb11153cc3690e494c6e"
                 }
                 
             ]
