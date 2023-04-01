@@ -77,6 +77,14 @@
 {
                     "type": "English HD ",
                 "livelink":"https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=e3d697887701f1d0c17c129e9a83671b&txTime=64286d5c"
+                },
+{
+                    "type": "China HD ",
+                "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1680371745-0-0-f15119ccc363e27ebe0dcae622cc4235"
+                },
+{
+                    "type": "China SD ",
+                "livelink":"https://yypull.gdsth.com/live/stream-693587.m3u8?auth_key=1680371745-0-0-f15119ccc363e27ebe0dcae622cc4235"
                 }
                 
             ]
