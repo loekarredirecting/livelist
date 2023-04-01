@@ -234,7 +234,7 @@
 {
            "league": " PREMIER LEAGUE",
             "date": "2023-04-01",
-            "time": "8:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "teams" : "Arsenal Vs Leeds United",
@@ -243,23 +243,23 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680377324-0-0-3902c9e93c1642ddc7be6cd71b4b69ad&sub_m3u8=true&user_session_id=b27ff74d258454a81877a37684baa957&edge_slice=true"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=63c63c4aa158e46f8f7357210e0c1764&sub_m3u8=true&auth_key=1680377324-0-0-df90b360c1b2648b37907092e1bb3c6f&edge_slice=true"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=de097c17e7816a84d44236344bb76eda&txTime=642887d8"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=cfd2fdba2444017de27592438243445f&sub_m3u8=true&auth_key=1680377636-0-0-2538d54b430c6d52cfa77394062ca1cf"
                 },
  {
                     "type": "FHD",
