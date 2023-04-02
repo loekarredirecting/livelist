@@ -1,418 +1,571 @@
-[
+[ 
+  
 {
-           "league": " PREMIER LEAGUE",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
-            "teams" : "Arsenal Vs Leeds United",
-            "ateam" : "Arsenal",
-            "hteam" : "Leeds United",
-            "hotmat":"yes",
+           "league": "Serie A",
+            "date": "2023-04-02",
+            "time": "5:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "teams" : "Bologna Vs Udinese",
+            "ateam" : "Bologna",
+            "hteam" : "Udinese",
+            "hotmat":"no",
             "link":[
   {
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680377324-0-0-3902c9e93c1642ddc7be6cd71b4b69ad&sub_m3u8=true&user_session_id=b27ff74d258454a81877a37684baa957&edge_slice=true"
+                    "type": "SD",
+                "livelink":""
          
                 },                     
 {
-                    "type": "China SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=63c63c4aa158e46f8f7357210e0c1764&sub_m3u8=true&auth_key=1680377324-0-0-df90b360c1b2648b37907092e1bb3c6f&edge_slice=true"
+                    "type": "SD 2",
+                "livelink":""
          
                 },
 {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=de097c17e7816a84d44236344bb76eda&txTime=642887d8"
+                    "type": "HD",
+                "livelink":""
          
                 },
 {
-                    "type": "Soco SD",
-                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?edge_slice=true&user_session_id=cfd2fdba2444017de27592438243445f&sub_m3u8=true&auth_key=1680377636-0-0-2538d54b430c6d52cfa77394062ca1cf"
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+
+
+{
+           "league": "Ligue 1",
+            "date": "2023-04-02",
+            "time": "5:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
+            "teams" : "Lille Vs Lorient",
+            "ateam" : "Lille",
+            "hteam" : "Lorient",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+
+
+{
+           "league": " Laliga",
+            "date": "2023-04-02",
+            "time": "6:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
+            "teams" : "Celta Vigo Vs Almeria",
+            "ateam" : "Celta Vigo",
+            "hteam" : "Almeria",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+
+
+{
+           "league": " Premier League",
+            "date": "2023-04-02",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "teams" : "West Ham Vs Southampton",
+            "ateam" : "West Ham",
+            "hteam" : "Southampton",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "🏆 Serie A",
+            "date": "2023-04-02",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+            "teams" : "Monza Vs Lazio",
+            "ateam" : "Monza",
+            "hteam" : "Lazio",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Serie A",
+            "date": "2023-04-02",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+            "teams" : "Spezia Vs Salernitana",
+            "ateam" : "Spezia",
+            "hteam" : "Salernitana",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Ligue 1",
+            "date": "2023-04-02",
+            "time": "7:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+            "teams" : "Nantes Vs Reims",
+            "ateam" : "Nantes",
+            "hteam" : "Reims",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Bundesliga",
+            "date": "2023-04-02",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
+            "teams" : "1. FC Köln Vs Borussia M'Gladbach",
+            "ateam" : "1. FC Köln",
+            "hteam" : "Borussia M'Gladbach",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Laliga",
+            "date": "2023-04-02",
+            "time": "8:45 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10281_small.png",
+            "teams" : "Real Madrid Vs Real Valladolid",
+            "ateam" : "Real Madrid",
+            "hteam" : "Real Valladolid",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Ligue 1",
+            "date": "2023-04-02",
+            "time": "9:35 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+            "teams" : "Monaco Vs Strasbourg",
+            "ateam" : "Monaco",
+            "hteam" : "Strasbourg",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Premier League",
+            "date": "2023-04-02",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams" : "Newcastle Vs Man United",
+            "ateam" : "Newcastle",
+            "hteam" : "Man United",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                },
+ {
+                    "type": "FHD",
+                "livelink":""
                 }               
             ]
 },
 {
-           "league": " PREMIER LEAGUE",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-            "teams" : "Brighton Vs Brentford",
-            "ateam" : "Brighton",
-            "hteam" : "Brentford",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=f89523aff943aead03b24780f5270bef&txTime=642888c8"
-         
-                },                     
-{
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-226699.m3u8?txSecret=f89523aff943aead03b24780f5270bef&txTime=642888c8"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680378705-0-0-1de7c970330d5ecdad0f880b1fb6b098"
-         
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1680378705-0-0-1de7c970330d5ecdad0f880b1fb6b098"
-                }
-                
-            ]
-},
-{
-           "league": "PREMIER LEAGUE",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
-            "teams" : "Crystal Palace Vs Leicester City",
-            "ateam" : "Crystal Palace",
-            "hteam" : "Leicester City",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "Soco HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?sub_m3u8=true&auth_key=1680378176-0-0-9c4d5b79d493540f2762d05db25463be&user_session_id=c7ca001ea483ef9f0558f3517565f987&edge_slice=true"
-         
-                },                     
-{
-                    "type": "Soco SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?sub_m3u8=true&auth_key=1680378176-0-0-9c4d5b79d493540f2762d05db25463be&user_session_id=c7ca001ea483ef9f0558f3517565f987&edge_slice=true"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680378765-0-0-fad7f7b6961f76ba2875ffeda0bad46f"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680378765-0-0-fad7f7b6961f76ba2875ffeda0bad46f"
-                }
-                
-            ]
-},
-{
-           "league": " PREMIER LEAGUE",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-            "teams" : "Nottingham Vs Wolves",
-            "ateam" : "Nottingham",
-            "hteam" : "Wolves",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-122774.m3u8?txSecret=1c0d429d2a495547bbf0e01b3c10622e&txTime=642889b8"
-         
-                },                     
-{
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-122774.m3u8?txSecret=1c0d429d2a495547bbf0e01b3c10622e&txTime=642889b8"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-759231_lhd.m3u8?user_session_id=ba1a3ac5da23c14ff1af94168536e3ac&edge_slice=true&sub_m3u8=true&auth_key=1680379065-0-0-9147509b58305c0f770807892e694a0b"
-         
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-759231_lhd.m3u8?user_session_id=ba1a3ac5da23c14ff1af94168536e3ac&edge_slice=true&sub_m3u8=true&auth_key=1680379065-0-0-9147509b58305c0f770807892e694a0b"
-                }
-                
-            ]
-},
-{
-           "league": " PREMIER LEAGUE",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Bournemouth Vs Fulham",
-            "ateam" : "Bournemouth",
-            "hteam" : "Fulham",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=f40b5b14a6e91de710984cf971b89fca&txTime=64288a30"
-         
-                },                     
-{
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-171964.m3u8?txSecret=f40b5b14a6e91de710984cf971b89fca&txTime=64288a30"
-         
-                },
-{
-                    "type": "China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-651238.m3u8?auth_key=1680379185-0-0-b8613794cdc373fc2cccfd94089adb79"
-         
-                },
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-651238.m3u8?auth_key=1680379185-0-0-b8613794cdc373fc2cccfd94089adb79"
-                }
-                
-            ]
-},
-{
-           "league": " LALIGA",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-            "teams" : "Athletic Club Vs Getafe",
-            "ateam" : "Athletic Club",
-            "hteam" : "Getafe",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-107307.m3u8?txSecret=65d0904e1e10b9b3a73bc7005ec1586c&txTime=64288aa8"
-         
-                },                     
-{
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-107307.m3u8?txSecret=65d0904e1e10b9b3a73bc7005ec1586c&txTime=64288aa8"
-                }
-                
-            ]
-},
-{
-           "league": "Ligue 1",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8583_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10242_small.png",
-            "teams" : "Auxerre Vs Troyes",
-            "ateam" : "Auxerre",
-            "hteam" : "Troyes",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": " China HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?auth_key=1680382136-0-0-44fa8cda919473dedc4e5f343ce3d5ed&user_session_id=e8ee413c88c3c9a39c5445c81a189382&edge_slice=true&sub_m3u8=true"
-         
-                },                     
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-774913.m3u8?auth_key=1680382245-0-0-97259a07c11ae977e71040b256f39bb2"
-         
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=7653e0f4131cb61ca1801062991f8a8e&txTime=6428987c"
-         
-                },
-{
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-106737.m3u8?txSecret=7653e0f4131cb61ca1801062991f8a8e&txTime=6428987c"
-                }
-                
-            ]
-},
-{
-           "league": " Serie A  10:30 PM",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-            "teams" : "Inter Vs Fiorentina",
-            "ateam" : "Inter",
-            "hteam" : "Fiorentina",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": " China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680383744-0-0-5020691b5f26df20a0db03a787333d8a"
-         
-                },                     
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680383744-0-0-5020691b5f26df20a0db03a787333d8a"
-         
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&user_session_id=589f1299586331f58d0b4b967ca3b8e0&auth_key=1680384356-0-0-60631a4008ba0f7042e99c59b02fc395&edge_slice=true"
-         
-                },
-{
-                    "type": "Soco SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&user_session_id=589f1299586331f58d0b4b967ca3b8e0&auth_key=1680384356-0-0-60631a4008ba0f7042e99c59b02fc395&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": " PREMIER LEAGUE  11:00 PM",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-            "teams" : "Chelsea Vs Aston Villa",
-            "ateam" : "Chelsea",
-            "hteam" : "Aston Villa",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": " China HD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680383864-0-0-0fe9eeaea0a02c315f6214e8ec9b6d99&sub_m3u8=true&user_session_id=7156c8ce9f9cba280764dd26be82b6e0&edge_slice=true"
-         
-                },                     
-{
-                    "type": "China SD",
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680383864-0-0-0fe9eeaea0a02c315f6214e8ec9b6d99&sub_m3u8=true&user_session_id=7156c8ce9f9cba280764dd26be82b6e0&edge_slice=true"
-         
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?user_session_id=7cc75ebc8eb2b309a68c9e5e2e1a8512&auth_key=1680384476-0-0-1dd91da8c50c776c93c68f33c07c63ec&sub_m3u8=true&edge_slice=true"
-         
-                },
-{
-                    "type": "Soco SD",
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?user_session_id=7cc75ebc8eb2b309a68c9e5e2e1a8512&auth_key=1680384476-0-0-1dd91da8c50c776c93c68f33c07c63ec&sub_m3u8=true&edge_slice=true"
-                }
-                
-            ]
-},
-{
-           "league": " Bundesliga  11:00 PM",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "teams" : "Bayern München Vs Dortmund",
-            "ateam" : "Bayern München",
-            "hteam" : "Dortmund",
-            "hotmat":"yes",
-            "link":[
-  {
-                    "type": " China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1680383925-0-0-489fdbeb635a4a68ef90f51d175c225d"
-         
-                },                     
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1680383925-0-0-489fdbeb635a4a68ef90f51d175c225d"
-         
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=67665b2abcd559096f490d4bdf7190d9&txTime=6428a254"
-         
-                },
-{
-                    "type": "Soco SD",
-                "livelink":"https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=67665b2abcd559096f490d4bdf7190d9&txTime=6428a254"
-                }
-                
-            ]
-},
-{
-           "league": " Laliga  11:00 PM",
-            "date": "2023-04-01",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-            "teams" : "Cadiz Vs Sevilla",
-            "ateam" : "Cadiz",
-            "hteam" : "Sevilla",
-            "hotmat":"no",
-            "link":[
-  {
-                    "type": " China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1680383985-0-0-5733115d04974b46af8a479cf2966a3b"
-         
-                },                     
-{
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-4569315.m3u8?auth_key=1680383985-0-0-5733115d04974b46af8a479cf2966a3b"
-         
-                },
-{
-                    "type": "Soco HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&auth_key=1680384656-0-0-3afc2db36a58c8a9cda70f115f56a5e7&sub_m3u8=true&user_session_id=5ce1df13a0633310075ce1d9d8d64a83"
-         
-                },
-{
-                    "type": "Soco SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?edge_slice=true&auth_key=1680384656-0-0-3afc2db36a58c8a9cda70f115f56a5e7&sub_m3u8=true&user_session_id=5ce1df13a0633310075ce1d9d8d64a83"
-                }
-                
-            ]
-},
-{
-           "league": " Serie A  1:15 AM",
+           "league": " Bundesliga",
             "date": "2023-04-02",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-            "teams" : "Juventus Vs Hellas Verona",
-            "ateam" : "Juventus",
-            "hteam" : "Hellas Verona",
-            "hotmat":"yes",
+            "time": "10:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+            "teams" : "Werder Bremen Vs TSG Hoffenheim",
+            "ateam" : "Werder Bremen",
+            "hteam" : "TSG Hoffenheim",
+            "hotmat":"no",
             "link":[
   {
-                    "type": " China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1680384105-0-0-6b0abb1259a8fc67b5f96f161f611ad9"
+                    "type": "SD",
+                "livelink":""
          
                 },                     
 {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1680384105-0-0-6b0abb1259a8fc67b5f96f161f611ad9"
+                    "type": "SD 2",
+                "livelink":""
          
                 },
 {
-                    "type": "Soco HD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=4ff565922ac57420838b2de4c7dac80b&auth_key=1680384776-0-0-5d05c3bb89f8ff208ac3f48314af193a&sub_m3u8=true&edge_slice=true"
+                    "type": "HD",
+                "livelink":""
          
                 },
 {
-                    "type": "Soco SD",
-                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?user_session_id=4ff565922ac57420838b2de4c7dac80b&auth_key=1680384776-0-0-5d05c3bb89f8ff208ac3f48314af193a&sub_m3u8=true&edge_slice=true"
+                    "type": "HD 2",
+                "livelink":""
                 }
                 
             ]
 },
 {
-           "league": " Laliga  1:30 AM",
+           "league": "Serie A",
             "date": "2023-04-02",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-            "teams" : "Elche Vs Barcelona",
-            "ateam" : "Elche",
-            "hteam" : "Barcelona",
+            "time": "10:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+            "teams" : "Roma Vs Sampdoria",
+            "ateam" : "Roma",
+            "hteam" : "Sampdoria",
             "hotmat":"yes",
             "link":[
   {
-                    "type": " China HD",
-                "livelink":"https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680384224-0-0-5c6819e836f08d13d2a13d0fc9402ec5"
+                    "type": "SD",
+                "livelink":""
          
                 },                     
 {
-                    "type": "China SD",
-                "livelink":"https://yypull.gdsth.com/live/stream-886721.m3u8?auth_key=1680384224-0-0-5c6819e836f08d13d2a13d0fc9402ec5"
+                    "type": "SD 2",
+                "livelink":""
          
                 },
 {
-                    "type": "Soco HD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680384870-0-0-4503a8b87258194b28953144de831378&user_session_id=932c3429ab10cb11153cc3690e494c6e"
+                    "type": "HD",
+                "livelink":""
          
                 },
 {
-                    "type": "Soco SD",
-                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680384870-0-0-4503a8b87258194b28953144de831378&user_session_id=932c3429ab10cb11153cc3690e494c6e"
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Laliga",
+            "date": "2023-04-02",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "teams" : "Villarreal Vs Real Sociedad",
+            "ateam" : "Villarreal",
+            "hteam" : "Real Sociedad",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Ligue 1",
+            "date": "2023-04-03",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
+            "teams" : "PSG Vs Lyon",
+            "ateam" : "PSG",
+            "hteam" : "Lyon",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Serie A",
+            "date": "2023-04-03",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "teams" : "Napoli Vs Milan",
+            "ateam" : "Napoli",
+            "hteam" : "Milan",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Laliga",
+            "date": "2023-04-03",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+            "teams" : "Atletico Madrid Vs Real Betis",
+            "ateam" : "Atletico Madrid",
+            "hteam" : "Real Betis",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
                 }
                 
             ]
