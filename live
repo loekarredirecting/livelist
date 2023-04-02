@@ -249,22 +249,22 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -282,22 +282,22 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -315,22 +315,22 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -348,28 +348,25 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
-                },
- {
-                    "type": "FHD",
-                "livelink":""
-                }               
+                }
+                
             ]
 },
 {
@@ -384,22 +381,22 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -417,22 +414,22 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -450,22 +447,22 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -483,22 +480,22 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -516,22 +513,22 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
@@ -549,22 +546,22 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
+                    "type": "Soco HD",
                 "livelink":""
          
                 },                     
 {
-                    "type": "SD 2",
+                    "type": "Soco SD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD",
+                    "type": "China HD",
                 "livelink":""
          
                 },
 {
-                    "type": "HD 2",
+                    "type": "China SD",
                 "livelink":""
                 }
                 
