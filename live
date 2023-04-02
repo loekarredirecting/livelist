@@ -12,23 +12,23 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-161243_lsd.m3u8?auth_key=1680451856-0-0-80ab3eef30a468f621f7cfd07ab80b66&edge_slice=true&user_session_id=18627256dfcb63c510d86adf1a3055ab&sub_m3u8=true"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1680451964-0-0-db58148aec41c830d5016fce43de2ef2&user_session_id=6c76a5b6d8d77d0e0aab996df2b16ce3&sub_m3u8=true"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Vietnam HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=ee09b66543b1de9ac656994f29673198&txTime=6429a8d4"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "English HD",
+                "livelink":"https://weak.weakhugers22.store/live/spf/storage.m3u8"
                 }
                 
             ]
