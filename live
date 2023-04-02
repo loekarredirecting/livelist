@@ -291,7 +291,7 @@
 {
            "league": " Ligue 1",
             "date": "2023-04-02",
-            "time": "9:35 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
             "teams" : "Monaco Vs Strasbourg",
@@ -301,22 +301,22 @@
             "link":[
   {
                     "type": "Soco HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?user_session_id=d7c76e71e5f13a1cb33359b6fc6614e0&auth_key=1680467936-0-0-9df580b6714e68912ea115a8cf447e1c&sub_m3u8=true&edge_slice=true"
          
                 },                     
 {
                     "type": "Soco SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-385085_lsd.m3u8?auth_key=1680467876-0-0-ef1ca6063aadfe7088648edaf9491ac1&edge_slice=true&user_session_id=ba9eae0473339924f44e1ea290f8f547&sub_m3u8=true"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680468105-0-0-06a62a5f9125ee1a615fedd7e4fbc3a2"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680468105-0-0-06a62a5f9125ee1a615fedd7e4fbc3a2"
                 }
                 
             ]
@@ -344,12 +344,12 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=5eb3e95ad855b5d7427e6fda0af1134c&edge_slice=true&auth_key=1680468165-0-0-2759000f41dd9a45341a2febcda30c56&sub_m3u8=true"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1680468165-0-0-0c1c21722aef0f3217c7538a775ebe50&user_session_id=56d52dc3fa3a1b2d7a10ebda93a42847&edge_slice=true&sub_m3u8=true"
                 }
                 
             ]
