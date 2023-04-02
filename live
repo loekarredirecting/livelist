@@ -141,7 +141,7 @@
 {
            "league": "🏆 Serie A",
             "date": "2023-04-02",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "teams" : "Monza Vs Lazio",
@@ -150,23 +150,23 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?edge_slice=true&user_session_id=7c1d6b231eb2635384b925bf9a9951f3&sub_m3u8=true&auth_key=1680460016-0-0-56bd7bd0ad8d74efab0f82c79e6100e8"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?edge_slice=true&user_session_id=7c1d6b231eb2635384b925bf9a9951f3&sub_m3u8=true&auth_key=1680460016-0-0-56bd7bd0ad8d74efab0f82c79e6100e8"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1680460124-0-0-1c85300b02154d727a971af78ea7c7b9"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1680460124-0-0-1c85300b02154d727a971af78ea7c7b9"
                 }
                 
             ]
@@ -174,7 +174,7 @@
 {
            "league": "Serie A",
             "date": "2023-04-02",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
             "teams" : "Spezia Vs Salernitana",
@@ -183,23 +183,23 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?sub_m3u8=true&auth_key=1680460503-0-0-d23cb6ac26e1d211040fab2513420b24&edge_slice=true&user_session_id=2cb0af7aaa4b12ce8f09dcb8b1b9d993"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?sub_m3u8=true&auth_key=1680460503-0-0-d23cb6ac26e1d211040fab2513420b24&edge_slice=true&user_session_id=2cb0af7aaa4b12ce8f09dcb8b1b9d993"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1680460605-0-0-10d9a1ea81849a0487462f059953a076"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-693587_ld.m3u8?auth_key=1680460605-0-0-10d9a1ea81849a0487462f059953a076"
                 }
                 
             ]
@@ -207,7 +207,7 @@
 {
            "league": " Ligue 1",
             "date": "2023-04-02",
-            "time": "7:30 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "teams" : "Nantes Vs Reims",
@@ -216,23 +216,23 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?user_session_id=c3812bd453c879af9457bfd16c9500d0&edge_slice=true&sub_m3u8=true&auth_key=1680460316-0-0-47212f64e96b3c32c6a4d9afa51d9c3b"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?user_session_id=9d6c9ba667057cdd4c19a4a73d31626b&edge_slice=true&sub_m3u8=true&auth_key=1680460316-0-0-564ec7b0ce3605a9858ea81daa1ecac3"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Vietnam HD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?auth_key=1680460365-0-0-c8a52ed0d9b348755a023dd9930246a5&sub_m3u8=true&user_session_id=02dfed9f3736f503eba715a454ffdbdd&edge_slice=true"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Vietnam SD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?sub_m3u8=true&user_session_id=faae49a7c8d81f96702fee53094aede7&auth_key=1680460365-0-0-8f9d223e042642d82ef2baa733132195&edge_slice=true"
                 }
                 
             ]
