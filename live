@@ -350,6 +350,15 @@
 {
                     "type": "China SD",
                 "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1680468165-0-0-0c1c21722aef0f3217c7538a775ebe50&user_session_id=56d52dc3fa3a1b2d7a10ebda93a42847&edge_slice=true&sub_m3u8=true"
+                },
+                {
+                    "type": "Vietnam HD",
+                "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+         
+                },
+{
+                    "type": "Vietnam SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 }
                 
             ]
