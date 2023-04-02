@@ -94,6 +94,15 @@
             "hteam" : "Man United",
             "hotmat":"yes",
             "link":[
+            {
+                    "type": "English HD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/9.ts"
+         
+                },
+{
+                    "type": "English SD",
+                "livelink":"http://server.sibfungold.info:8080/live/Mooniptv2021/plTGbzZmiV/49685.ts"
+                }
   {
                     "type": "Soco HD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&user_session_id=0d754e78b881d7a5a463956bd5694175&edge_slice=true&auth_key=1680468176-0-0-8d4240c9c8ad14fb4172c27c437b2e0c"
