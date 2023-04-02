@@ -324,7 +324,7 @@
 {
            "league": "Premier League",
             "date": "2023-04-02",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
             "teams" : "Newcastle Vs Man United",
@@ -334,12 +334,12 @@
             "link":[
   {
                     "type": "Soco HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&user_session_id=0d754e78b881d7a5a463956bd5694175&edge_slice=true&auth_key=1680468176-0-0-8d4240c9c8ad14fb4172c27c437b2e0c"
          
                 },                     
 {
                     "type": "Soco SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=a624b047ea6a3139f0623d058778b065&auth_key=1680468176-0-0-f9d9e2c9531567b3db4b070b58f33841&sub_m3u8=true&edge_slice=true"
          
                 },
 {
@@ -357,7 +357,7 @@
 {
            "league": " Bundesliga",
             "date": "2023-04-02",
-            "time": "10:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
             "teams" : "Werder Bremen Vs TSG Hoffenheim",
@@ -367,22 +367,22 @@
             "link":[
   {
                     "type": "Soco HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=a2b5c1fa26f44f17370843e48eb7a757&txTime=6429ee70"
          
                 },                     
 {
                     "type": "Soco SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-190631.m3u8?txSecret=a2b5c1fa26f44f17370843e48eb7a757&txTime=6429ee70"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?auth_key=1680468464-0-0-854c2e7625e3c664e34d56adf023a732&user_session_id=a5e95eedd488c5d8e4f76b52f3973eac&sub_m3u8=true&edge_slice=true"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?auth_key=1680468464-0-0-854c2e7625e3c664e34d56adf023a732&user_session_id=a5e95eedd488c5d8e4f76b52f3973eac&sub_m3u8=true&edge_slice=true"
                 }
                 
             ]
@@ -400,22 +400,22 @@
             "link":[
   {
                     "type": "Soco HD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8c422cfe39b41316f34d657cca50b782&auth_key=1680469256-0-0-31b040984e62ad52f9dec5b82fce4906"
          
                 },                     
 {
                     "type": "Soco SD",
-                "livelink":""
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8c422cfe39b41316f34d657cca50b782&auth_key=1680469256-0-0-31b040984e62ad52f9dec5b82fce4906"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?sub_m3u8=true&auth_key=1680468705-0-0-4ae7d7ef5640459a04623b617614cba1&edge_slice=true&user_session_id=719a89bb3506ea2c10b938a7831a1c08"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?sub_m3u8=true&auth_key=1680468705-0-0-4ae7d7ef5640459a04623b617614cba1&edge_slice=true&user_session_id=719a89bb3506ea2c10b938a7831a1c08"
                 }
                 
             ]
@@ -443,12 +443,12 @@
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1680468825-0-0-6641ee9beea065657aa95129595548b3"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1680468825-0-0-6641ee9beea065657aa95129595548b3"
                 }
                 
             ]
@@ -466,22 +466,22 @@
             "link":[
   {
                     "type": "Soco HD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=79193c9a8e4b5603940efaeb2c1a9251&txTime=6429ed80"
          
                 },                     
 {
                     "type": "Soco SD",
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=79193c9a8e4b5603940efaeb2c1a9251&txTime=6429ed80"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-543840.m3u8?auth_key=1680468885-0-0-9cde21297e8814686d7558df0d806f47"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-543840.m3u8?auth_key=1680468885-0-0-9cde21297e8814686d7558df0d806f47"
                 }
                 
             ]
@@ -499,22 +499,22 @@
             "link":[
   {
                     "type": "Soco HD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1680469556-0-0-881d32a0e6a98f8690b80d35d0c63831&edge_slice=true&sub_m3u8=true&user_session_id=2467fdbabe9e57b6beda668bc55ca69b"
          
                 },                     
 {
                     "type": "Soco SD",
-                "livelink":""
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?auth_key=1680469556-0-0-881d32a0e6a98f8690b80d35d0c63831&edge_slice=true&sub_m3u8=true&user_session_id=2467fdbabe9e57b6beda668bc55ca69b"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680469064-0-0-a8e41e620575a652911308994bbfc475"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-551866.m3u8?auth_key=1680469064-0-0-a8e41e620575a652911308994bbfc475"
                 }
                 
             ]
@@ -532,22 +532,22 @@
             "link":[
   {
                     "type": "Soco HD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&auth_key=1680469436-0-0-026db622ad2b3034825fa6253ed67550&sub_m3u8=true&user_session_id=2df0367b4bb53902b9b96fc929ac484a"
          
                 },                     
 {
                     "type": "Soco SD",
-                "livelink":""
+                "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?edge_slice=true&auth_key=1680469436-0-0-026db622ad2b3034825fa6253ed67550&sub_m3u8=true&user_session_id=2df0367b4bb53902b9b96fc929ac484a"
          
                 },
 {
                     "type": "China HD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-553172.m3u8?auth_key=1680469124-0-0-8407e6c2a53799ff4b807dcd83febdb7"
          
                 },
 {
                     "type": "China SD",
-                "livelink":""
+                "livelink":"https://yypull.gdsth.com/live/stream-553172.m3u8?auth_key=1680469124-0-0-8407e6c2a53799ff4b807dcd83febdb7"
                 }
                 
             ]
