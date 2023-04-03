@@ -1,9 +1,9 @@
 [   
 
 {
-           "league": " Serie A",
+           "league": " Serie A 11:00 PM",
             "date": "2023-04-03",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
             "teams" : "Empoli Vs Lecce",
@@ -12,31 +12,22 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680550856-0-0-b68af190b73acccf7997c67577d55b1a&edge_slice=true&sub_m3u8=true&user_session_id=53558a7ce18e35d350acbadbe0d7e597"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680550856-0-0-b68af190b73acccf7997c67577d55b1a&edge_slice=true&sub_m3u8=true&user_session_id=53558a7ce18e35d350acbadbe0d7e597"
          
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":""
                 }
                 
             ]
 },
 {
-           "league": " Serie A",
+           "league": " Serie A 1:15 AM",
             "date": "2023-04-03",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "teams" : "Sassuolo Vs Torino",
@@ -45,31 +36,22 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?auth_key=1680551636-0-0-cc60b25e1d5fbe6cede318a55b5ae042&edge_slice=true&sub_m3u8=true&user_session_id=6887f4cde38a2d19d0a51bcf8420cfb6"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-116784_lhd.m3u8?auth_key=1680551636-0-0-cc60b25e1d5fbe6cede318a55b5ae042&edge_slice=true&sub_m3u8=true&user_session_id=6887f4cde38a2d19d0a51bcf8420cfb6"
          
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":""
                 }
                 
             ]
 },
 {
-           "league": " Premier League",
+           "league": " Premier League 1:30 AM",
             "date": "April 4",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
             "teams" : "Everton Vs Tottenham",
@@ -78,31 +60,31 @@
             "hotmat":"yes",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lhd.m3u8?edge_slice=true&user_session_id=dd3da82c0de058cb38f18fff8aabeb1e&sub_m3u8=true&auth_key=1680551264-0-0-59cc2017a810bab1fe22c39c33f7f449"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-900001_lhd.m3u8?edge_slice=true&user_session_id=dd3da82c0de058cb38f18fff8aabeb1e&sub_m3u8=true&auth_key=1680551264-0-0-59cc2017a810bab1fe22c39c33f7f449"
          
                 },
 {
-                    "type": "HD",
-                "livelink":""
+                    "type": "Soco HD",
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=c230c0e7851b44de653e31a68decc5f3&txTime=642b2f10"
          
                 },
 {
-                    "type": "HD 2",
-                "livelink":""
+                    "type": "Soco SD",
+                "livelink":"https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=c230c0e7851b44de653e31a68decc5f3&txTime=642b2f10"
                 }
                 
             ]
 },
 {
-           "league": " Laliga",
+           "league": " Laliga 1:30 AM",
             "date": "2023-04-03",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
             "teams" : "Valencia Vs Rayo Vallecano",
@@ -111,23 +93,14 @@
             "hotmat":"no",
             "link":[
   {
-                    "type": "SD",
-                "livelink":""
+                    "type": "China SD",
+                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680551444-0-0-8e9a081b5150079c911b226155e08059"
          
                 },                     
 {
-                    "type": "SD 2",
-                "livelink":""
+                    "type": "China HD",
+                "livelink":"https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1680551444-0-0-8e9a081b5150079c911b226155e08059"
          
-                },
-{
-                    "type": "HD",
-                "livelink":""
-         
-                },
-{
-                    "type": "HD 2",
-                "livelink":""
                 }
                 
             ]
