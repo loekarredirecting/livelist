@@ -1,6 +1,6 @@
 [   
 {
-           "league": " DFB Pokal Quarter Final",
+           "league": " DFB Pokal Quarter Final (10:30 PM)",
             "date": "2023-04-04",
             "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
@@ -29,9 +29,9 @@
 ]
 },
 {
-           "league": "Premier League",
+           "league": "Premier League  (1:15 AM)",
             "date": "2023-04-05",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
             "teams" : "Leicester City Vs Aston Villa",
@@ -41,11 +41,11 @@
             "link":[
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1680648944-0-0-832e3eeeacfbb143affda4bb747cd986"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-2961234.m3u8?auth_key=1680648944-0-0-832e3eeeacfbb143affda4bb747cd986"
 },
 {
 "type": "Soco HD",
@@ -58,9 +58,9 @@
 ]
 },
 {
-           "league": "Premier League",
+           "league": "Premier League  (1:15 AM)",
             "date": "2023-04-05",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
             "teams" : "Bournemouth Vs Brighton",
@@ -87,9 +87,9 @@
 ]
 },
 {
-           "league": " Premier League",
+           "league": " Premier League  (1:15 AM)",
             "date": "2023-04-05",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
             "teams" : "Leeds Vs Nottingham",
@@ -99,11 +99,11 @@
             "link":[
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1680649064-0-0-ab7b12fff1390b7661417ada363290a9&user_session_id=fe58af8723519096b4a9c11938dc14a3"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1680649064-0-0-ab7b12fff1390b7661417ada363290a9&user_session_id=fe58af8723519096b4a9c11938dc14a3"
 },
 {
 "type": "Soco HD",
@@ -116,9 +116,9 @@
 ]
 },
 {
-           "league": " DFB Pokal Quarter Final",
+           "league": " DFB Pokal Quarter Final  (1:15 AM)",
             "date": "2023-04-05",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
             "teams" : "Bayern München Vs SC Freiburg",
@@ -145,9 +145,9 @@
 ]
 },
 {
-           "league": "Premier League",
+           "league": "Premier League  (1:30 AM)",
             "date": "2023-04-05",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
             "teams" : "Chelsea Vs Liverpool",
@@ -174,9 +174,9 @@
 ]
 },
 {
-           "league": " Copa del Rey Semi Final",
+           "league": " Copa del Rey Semi Final  (1:30 AM)",
             "date": "2023-04-05",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
             "teams" : "Juventus Vs Inter",
@@ -203,9 +203,9 @@
 ]
 },
 {
-           "league": " Copa del Rey Semi Final",
+           "league": " Copa del Rey Semi Final  (1:30 AM)",
             "date": "2023-04-05",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
             "teams" : "Athletic Club Vs Osasuna",
@@ -215,26 +215,26 @@
             "link":[
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?auth_key=1680649124-0-0-4e101c42440115d1f26463801ad9b52c&user_session_id=823547f15ec47de0bdd19fab11fef80e&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-469322_lhd.m3u8?auth_key=1680649124-0-0-4e101c42440115d1f26463801ad9b52c&user_session_id=823547f15ec47de0bdd19fab11fef80e&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=e6b07c124de94fa8b6a09cd8d03dac85&txTime=642cac64"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778.m3u8?txSecret=e6b07c124de94fa8b6a09cd8d03dac85&txTime=642cac64"
 }
 ]
 },
 {
-           "league": "Saudi Premier League",
+           "league": "Saudi Premier League  (1:30 AM)",
             "date": "2023-04-05",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/582816_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
             "teams" : "Al-Adalah Vs Al Nassr FC",
