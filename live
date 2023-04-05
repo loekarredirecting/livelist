@@ -3,31 +3,31 @@
 "league": " Cup Germany ",
 "himg": "https://mygoaltv.xyz//team/Nurnberg.png",
 "hteam": "Stuttgart",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "2023-04-05",
 "aimg": "https://mygoaltv.xyz//team/stuttgart.png",
 "ateam": "Nurnberg",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=11e118a655e2d2141b9b874a9e8494a5&sub_m3u8=true&auth_key=1680730065-0-0-5ffd335a14cb00e3632d6b74158efe84&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=11e118a655e2d2141b9b874a9e8494a5&sub_m3u8=true&auth_key=1680730065-0-0-5ffd335a14cb00e3632d6b74158efe84&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731157-0-0-aec54ceb4c0b15beecd9122a8b0a7bcb&edge_slice=true&user_session_id=9882dc2f756667a4f06a5d0b106210c7&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731157-0-0-aec54ceb4c0b15beecd9122a8b0a7bcb&edge_slice=true&user_session_id=9882dc2f756667a4f06a5d0b106210c7&sub_m3u8=true"
 }
 ]
 },
 {
-"league": " Cup Germany ",
+"league": " Cup Germany  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "hteam": "Dortmund",
 "time": " 1:15 AM ",
@@ -37,11 +37,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1680730484-0-0-1a13585b26e907377b380513a6c5f2a6"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-288414.m3u8?auth_key=1680730484-0-0-1a13585b26e907377b380513a6c5f2a6"
 },
 {
 "type": "Soco HD",
@@ -54,7 +54,7 @@
 ]
 },
 {
-"league": " Premier League  ",
+"league": " Premier League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Brentford",
 "time": " 1:30 AM ",
@@ -64,11 +64,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=2d4f2f8c672a234d047fb04128eeb0b7&edge_slice=true&auth_key=1680730545-0-0-b15bcf96db89c6a4a3b88e1b9132416a"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=2d4f2f8c672a234d047fb04128eeb0b7&edge_slice=true&auth_key=1680730545-0-0-b15bcf96db89c6a4a3b88e1b9132416a"
 },
 {
 "type": "Soco HD",
@@ -81,7 +81,7 @@
 ]
 },
 {
-"league": " Premier League ",
+"league": " Premier League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/westham.png",
 "hteam": "Newcastle United",
 "time": " 1:30 AM ",
@@ -91,11 +91,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1680730725-0-0-6ffc11ac23619ed5ec3cc39a8c0ba455&edge_slice=true&sub_m3u8=true&user_session_id=62b8aed9bd335e5d3511e6c06bd19a9a"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?auth_key=1680730725-0-0-6ffc11ac23619ed5ec3cc39a8c0ba455&edge_slice=true&sub_m3u8=true&user_session_id=62b8aed9bd335e5d3511e6c06bd19a9a"
 },
 {
 "type": "Soco HD",
@@ -108,7 +108,7 @@
 ]
 },
 {
-"league": " Copa del Rey ",
+"league": " Copa del Rey  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Real Madrid",
 "time": " 1:30 AM ",
@@ -118,11 +118,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=550bf62cb04d7894915864e88a87620f&auth_key=1680730845-0-0-89f8df91ad4aadaedd8513f49336b711"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=550bf62cb04d7894915864e88a87620f&auth_key=1680730845-0-0-89f8df91ad4aadaedd8513f49336b711"
 },
 {
 "type": "Soco HD",
@@ -135,7 +135,7 @@
 ]
 },
 {
-"league": " Coppa Italia ",
+"league": " Coppa Italia  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/cremonese.png",
 "hteam": "Fiorentina",
 "time": " 1:30 AM ",
@@ -145,11 +145,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680730965-0-0-a927fd190cdcf6bc5541ae06f95fbf7f"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-418311.m3u8?auth_key=1680730965-0-0-a927fd190cdcf6bc5541ae06f95fbf7f"
 },
 {
 "type": "Soco HD",
@@ -162,7 +162,7 @@
 ]
 },
 {
-"league": " Cup France ",
+"league": " Cup France  (1:40 AM) ",
 "himg": "https://mygoaltv.xyz//team/Nantes.png",
 "hteam": "Lyon",
 "time": " 1:40 AM ",
@@ -170,14 +170,6 @@
 "aimg": "https://mygoaltv.xyz//team/lyon.png",
 "ateam": "Nantes",
 "link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
 {
 "type": "Soco HD",
 "livelink": "0"
