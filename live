@@ -1,6 +1,6 @@
 [   
 {
-"league": " Cup Germany ",
+"league": " Cup Germany  (10:30 PM)",
 "himg": "https://mygoaltv.xyz//team/Nurnberg.png",
 "hteam": "Stuttgart",
 "time": " live ",
@@ -30,7 +30,7 @@
 "league": " Cup Germany  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "hteam": "Dortmund",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-04-06",
 "aimg": "https://mygoaltv.xyz//team/dortmund.png",
 "ateam": "RB Leipzig",
@@ -45,11 +45,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731157-0-0-aec54ceb4c0b15beecd9122a8b0a7bcb&edge_slice=true&user_session_id=9882dc2f756667a4f06a5d0b106210c7&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731157-0-0-aec54ceb4c0b15beecd9122a8b0a7bcb&edge_slice=true&user_session_id=9882dc2f756667a4f06a5d0b106210c7&sub_m3u8=true"
 }
 ]
 },
@@ -57,7 +57,7 @@
 "league": " Premier League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Brentford",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-06",
 "aimg": "https://mygoaltv.xyz//team/Brentford.png",
 "ateam": "Manchester United",
@@ -72,11 +72,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731457-0-0-55e1efa518e6bbb0b235b6cd16c6e12a&edge_slice=true&sub_m3u8=true&user_session_id=a75f92ec6966e9c199d8148f62c16974"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731457-0-0-55e1efa518e6bbb0b235b6cd16c6e12a&edge_slice=true&sub_m3u8=true&user_session_id=a75f92ec6966e9c199d8148f62c16974"
 }
 ]
 },
@@ -84,7 +84,7 @@
 "league": " Premier League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/westham.png",
 "hteam": "Newcastle United",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-06",
 "aimg": "https://mygoaltv.xyz//team/newcastle.png",
 "ateam": "West Ham",
@@ -99,11 +99,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731457-0-0-55e1efa518e6bbb0b235b6cd16c6e12a&edge_slice=true&sub_m3u8=true&user_session_id=a75f92ec6966e9c199d8148f62c16974"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1680731457-0-0-55e1efa518e6bbb0b235b6cd16c6e12a&edge_slice=true&sub_m3u8=true&user_session_id=a75f92ec6966e9c199d8148f62c16974"
 }
 ]
 },
@@ -111,7 +111,7 @@
 "league": " Copa del Rey  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Real Madrid",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-06",
 "aimg": "https://mygoaltv.xyz//team/real-madrid.png",
 "ateam": "Barcelona",
@@ -126,11 +126,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&auth_key=1680731757-0-0-d3ca65ead250e4de2143a750911591b9&user_session_id=4570c64aba397b4905cc57720b0b5c6b&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?sub_m3u8=true&auth_key=1680731757-0-0-d3ca65ead250e4de2143a750911591b9&user_session_id=4570c64aba397b4905cc57720b0b5c6b&edge_slice=true"
 }
 ]
 },
@@ -138,7 +138,7 @@
 "league": " Coppa Italia  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/cremonese.png",
 "hteam": "Fiorentina",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-06",
 "aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "ateam": "Cremonese",
@@ -153,11 +153,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1680731817-0-0-e7fbc17cc697e4a499d8f73a09c9e0ad&edge_slice=true&sub_m3u8=true&user_session_id=4d29f226bf7e527a3c15289975046221"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105131_lhd.m3u8?auth_key=1680731817-0-0-e7fbc17cc697e4a499d8f73a09c9e0ad&edge_slice=true&sub_m3u8=true&user_session_id=4d29f226bf7e527a3c15289975046221"
 }
 ]
 },
