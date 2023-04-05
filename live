@@ -165,18 +165,18 @@
 "league": " Cup France  (1:40 AM) ",
 "himg": "https://mygoaltv.xyz//team/Nantes.png",
 "hteam": "Lyon",
-"time": " 1:40 AM ",
+"time": " live ",
 "date": "2023-04-06",
 "aimg": "https://mygoaltv.xyz//team/lyon.png",
 "ateam": "Nantes",
 "link": [
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?auth_key=1680735836-0-0-8dcedec0b7db971a811b8b5934412d5c&sub_m3u8=true&edge_slice=true&user_session_id=d42b24a0a8f9ee450aa6eb5a147b3a61"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-105225_lhd.m3u8?auth_key=1680735836-0-0-8dcedec0b7db971a811b8b5934412d5c&sub_m3u8=true&edge_slice=true&user_session_id=d42b24a0a8f9ee450aa6eb5a147b3a61"
 }
 ]
 }
