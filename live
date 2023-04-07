@@ -30,7 +30,7 @@
 "league": " Serie A  11:30 PM ",
 "himg": "https://mygoaltv.xyz//team/lecce.png",
 "hteam": "Napoli",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-04-07",
 "aimg": "https://mygoaltv.xyz//team/napoli.png",
 "ateam": "Lecce",
@@ -57,7 +57,7 @@
 "league": "  La Liga  1:30 AM ",
 "himg": "https://mygoaltv.xyz//team/Sevilla.png",
 "hteam": "Celta Vigo",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-08",
 "aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "ateam": "Sevilla",
@@ -84,7 +84,7 @@
 "league": " Serie A  1:30 AM ",
 "himg": "https://mygoaltv.xyz//team/acmilan.png",
 "hteam": "Empoli",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-08",
 "aimg": "https://mygoaltv.xyz//team/Empoli.gif",
 "ateam": "AC Milan",
@@ -111,19 +111,11 @@
 "league": " Ligue 1  1:30 AM ",
 "himg": "https://mygoaltv.xyz//team/Lens.png",
 "hteam": "Strasbourg",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-08",
 "aimg": "https://mygoaltv.xyz//team/strasbourg.png",
 "ateam": "Lens",
 "link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
 {
 "type": "Soco HD",
 "livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1680901917-0-0-5b51dcc57c59fc97f8e2d7370ce8d227&edge_slice=true&sub_m3u8=true&user_session_id=8453e68e17e8fcc57bae1ed0e18361c5"
