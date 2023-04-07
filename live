@@ -27,7 +27,7 @@
 ]
 },
 {
-"league": " Serie A ",
+"league": " Serie A  11:30 PM ",
 "himg": "https://mygoaltv.xyz//team/lecce.png",
 "hteam": "Napoli",
 "time": " 11:30 PM ",
@@ -37,24 +37,24 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680901185-0-0-83fb189576ea77be2b7e730e180840da&sub_m3u8=true&user_session_id=2aedede3b348179b3c7e535bfe4501dc&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680901185-0-0-83fb189576ea77be2b7e730e180840da&sub_m3u8=true&user_session_id=2aedede3b348179b3c7e535bfe4501dc&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680901677-0-0-d03fdbd62158ae8cd839d0c5bdf45ee1&user_session_id=b83d886ee063441bd0366268cf563645"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680901677-0-0-d03fdbd62158ae8cd839d0c5bdf45ee1&user_session_id=b83d886ee063441bd0366268cf563645"
 }
 ]
 },
 {
-"league": "  La Liga ",
+"league": "  La Liga  1:30 AM ",
 "himg": "https://mygoaltv.xyz//team/Sevilla.png",
 "hteam": "Celta Vigo",
 "time": " 1:30 AM ",
@@ -64,30 +64,57 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1680901305-0-0-356723df8054228815dfd07f16c1c24f"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1680901305-0-0-356723df8054228815dfd07f16c1c24f"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=b93a75b953fac6dd816069e65ffe9b46&txTime=643086a5"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=b93a75b953fac6dd816069e65ffe9b46&txTime=643086a5"
 }
 ]
 },
 {
-"league": " Serie A ",
+"league": " Serie A  1:30 AM ",
 "himg": "https://mygoaltv.xyz//team/acmilan.png",
 "hteam": "Empoli",
 "time": " 1:30 AM ",
 "date": "2023-04-08",
 "aimg": "https://mygoaltv.xyz//team/Empoli.gif",
 "ateam": "AC Milan",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1680901425-0-0-54c4115efd3ea8371a189aa0b1701fde&user_session_id=0e67eb29c5d8ca4cff89e8be66a0aad5&sub_m3u8=true&edge_slice=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1680901425-0-0-54c4115efd3ea8371a189aa0b1701fde&user_session_id=0e67eb29c5d8ca4cff89e8be66a0aad5&sub_m3u8=true&edge_slice=true"
+},
+{
+"type": "Soco HD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&user_session_id=d05dc328e35b2c8b49518197bf0a3338&sub_m3u8=true&auth_key=1680901857-0-0-912d461b4b78125312602eb254364f9d"
+},
+{
+"type": "Soco SD",
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&user_session_id=d05dc328e35b2c8b49518197bf0a3338&sub_m3u8=true&auth_key=1680901857-0-0-912d461b4b78125312602eb254364f9d"
+}
+]
+},
+{
+"league": " Ligue 1  1:30 AM ",
+"himg": "https://mygoaltv.xyz//team/Lens.png",
+"hteam": "Strasbourg",
+"time": " 1:30 AM ",
+"date": "2023-04-08",
+"aimg": "https://mygoaltv.xyz//team/strasbourg.png",
+"ateam": "Lens",
 "link": [
 {
 "type": "China HD",
@@ -99,11 +126,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1680901917-0-0-5b51dcc57c59fc97f8e2d7370ce8d227&edge_slice=true&sub_m3u8=true&user_session_id=8453e68e17e8fcc57bae1ed0e18361c5"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1680901917-0-0-5b51dcc57c59fc97f8e2d7370ce8d227&edge_slice=true&sub_m3u8=true&user_session_id=8453e68e17e8fcc57bae1ed0e18361c5"
 }
 ]
 }
