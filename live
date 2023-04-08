@@ -154,27 +154,23 @@
             "hteam" : "Bayern München",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "FHD",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Bundesliga",
@@ -187,27 +183,23 @@
             "hteam" : "Union Berlin",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "FHD",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Bundesliga",
@@ -220,17 +212,23 @@
             "hteam" : "1. FC Köln",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "HD",
-                "livelink":""
-                }
-                
-            ]
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Bundesliga",
@@ -243,17 +241,23 @@
             "hteam" : "Frankfurt",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "HD",
-                "livelink":""
-                }
-                
-            ]
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Bundesliga",
@@ -266,17 +270,23 @@
             "hteam" : "Werder Bremen",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "HD",
-                "livelink":""
-                }
-                
-            ]
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Premier League",
@@ -289,27 +299,23 @@
             "hteam" : "Chelsea",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Premier League",
@@ -322,27 +328,23 @@
             "hteam" : "Brighton",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Premier League",
@@ -355,27 +357,23 @@
             "hteam" : "Nottingham",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Premier League",
@@ -388,27 +386,23 @@
             "hteam" : "Newcastle United",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Premier League",
@@ -421,27 +415,23 @@
             "hteam" : "West Ham",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Premier League",
@@ -454,27 +444,23 @@
             "hteam" : "Bournemouth",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Laliga",
@@ -487,27 +473,23 @@
             "hteam" : "Athletic Club",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Serie A",
@@ -520,27 +502,23 @@
             "hteam" : "Bologna",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Serie A",
@@ -553,27 +531,23 @@
             "hteam" : "Cremonese",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Ligue 1",
@@ -586,27 +560,23 @@
             "hteam" : "Lille",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Premier League",
@@ -619,30 +589,23 @@
             "hteam" : "Man City",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                },
+"type": "Soco HD",
+"livelink": "0"
+},
 {
-                    "type": "FHD",
-                "livelink":""
-                }                
-            ]
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Serie A",
@@ -655,27 +618,23 @@
             "hteam" : "Roma",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Laliga",
@@ -688,27 +647,23 @@
             "hteam" : "Getafe",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Serie A",
@@ -721,27 +676,23 @@
             "hteam" : "Sassuolo",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Bundesliga",
@@ -754,27 +705,23 @@
             "hteam" : "RB Leipzig",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Serie A",
@@ -787,27 +734,23 @@
             "hteam" : "Juventus",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": "Laliga",
@@ -820,27 +763,23 @@
             "hteam" : "Villarreal",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
            "league": " Ligue 1",
@@ -853,28 +792,22 @@
             "hteam" : "PSG",
             "hotmat":"yes",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "0"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "0"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
-
-          
+]
+}
 ]
