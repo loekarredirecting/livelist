@@ -240,9 +240,9 @@
 ]
 },
 {
-           "league": "Serie A",
+           "league": "Serie A  (1:15 AM)",
             "date": "2024-04-09",
-            "time": "1:15 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
             "teams" : "Lazio Vs Juventus",
@@ -269,9 +269,9 @@
 ]
 },
 {
-           "league": "Laliga",
+           "league": "Laliga  (1:30 AM)",
             "date": "2024-04-09",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "teams" : "Real Madrid Vs Villarreal",
@@ -298,9 +298,9 @@
 ]
 },
 {
-           "league": " Ligue 1",
+           "league": " Ligue 1  (1:30 AM)",
             "date": "2024-04-09",
-            "time": "1:30 AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
             "teams" : "Nice Vs PSG",
