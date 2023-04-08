@@ -1,142 +1,5 @@
 [   
 {
-           "league": " Bundesliga",
-            "date": "2024-04-08",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "teams" : "SC Freiburg Vs Bayern München",
-            "ateam" : "SC Freiburg",
-            "hteam" : "Bayern München",
-            "hotmat":"yes",
-            "link":[
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-723064.m3u8?auth_key=1680979005-0-0-c7aa635204009445797ef5a31bce9fb9"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-723064_ld.m3u8?auth_key=1680979125-0-0-2ef0bc68e9adb08048fa1d1f4f5ff200"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=d475abe7f434b97a740d9ab2d815d0ae&txTime=6431bcf5"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-170430.m3u8?txSecret=d475abe7f434b97a740d9ab2d815d0ae&txTime=6431bcf5"
-}
-]
-},
-{
-           "league": " Bundesliga",
-            "date": "2024-04-08",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-            "teams" : "Dortmund Vs Union Berlin",
-            "ateam" : "Dortmund",
-            "hteam" : "Union Berlin",
-            "hotmat":"yes",
-            "link":[
-{
-"type": "China HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1680979425-0-0-91e466a2dabc15f4738e5bea224d40e3&user_session_id=f037c30bed5d5d8d08920ba8755d4694"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680979545-0-0-3a3c1b1916bf5c0230f59a33c0ca8a1f&user_session_id=9b4061d8a2abf4d6a0971d8d2ec7335d"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-135966.m3u8?txSecret=7ef32e9025dfdebe82284fd22d424eee&txTime=6431bd6d"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-135966.m3u8?txSecret=7ef32e9025dfdebe82284fd22d424eee&txTime=6431bd6d"
-}
-]
-},
-{
-           "league": "Bundesliga",
-            "date": "2024-04-08",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-            "teams" : "FC Augsburg Vs 1. FC Köln",
-            "ateam" : "FC Augsburg",
-            "hteam" : "1. FC Köln",
-            "hotmat":"no",
-            "link":[
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-288414_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680980925-0-0-642fbf12f0aef1de49e01144063de453&user_session_id=bb0f2b0af5f2eb7a16bedc30a9f64857"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-288414_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680980925-0-0-642fbf12f0aef1de49e01144063de453&user_session_id=bb0f2b0af5f2eb7a16bedc30a9f64857"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-171964_lhd.m3u8?sub_m3u8=true&user_session_id=c04feace397338f3e2ad0c150da819fd&auth_key=1680981417-0-0-2233f58241a6f40ab48cf9f93c210e96&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-171964_lhd.m3u8?sub_m3u8=true&user_session_id=c04feace397338f3e2ad0c150da819fd&auth_key=1680981417-0-0-2233f58241a6f40ab48cf9f93c210e96&edge_slice=true"
-}
-]
-},
-{
-           "league": " Bundesliga",
-            "date": "2024-04-08",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-            "teams" : "Leverkusen Vs Frankfurt",
-            "ateam" : "Leverkusen",
-            "hteam" : "Frankfurt",
-            "hotmat":"no",
-            "link":[
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?auth_key=1680980985-0-0-116e868ea3078b489f00b740c6af3105&edge_slice=true&sub_m3u8=true&user_session_id=51343ca6b26f0899c9488a8376a785f0"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?auth_key=1680980985-0-0-116e868ea3078b489f00b740c6af3105&edge_slice=true&sub_m3u8=true&user_session_id=51343ca6b26f0899c9488a8376a785f0"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=1d662474542d3f6966acf5722993204a&txTime=6431bde5"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-214855.m3u8?txSecret=1d662474542d3f6966acf5722993204a&txTime=6431bde5"
-}
-]
-},
-{
-           "league": "Bundesliga",
-            "date": "2024-04-08",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-            "teams" : "Mainz 05 Vs Werder Bremen",
-            "ateam" : "Mainz 05",
-            "hteam" : "Werder Bremen",
-            "hotmat":"no",
-            "link":[
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1680981105-0-0-3183d30a79d73f70a770628b425afafd&edge_slice=true&user_session_id=e2fb6547355b68344c8024202ee68570&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1680981105-0-0-3183d30a79d73f70a770628b425afafd&edge_slice=true&user_session_id=e2fb6547355b68344c8024202ee68570&sub_m3u8=true"
-}
-]
-},
-{
            "league": " Premier League",
             "date": "2024-04-08",
             "time": "live",
@@ -453,7 +316,7 @@
 {
            "league": " Premier League",
             "date": "2024-04-08",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
             "teams" : "Southampton Vs Man City",
@@ -482,7 +345,7 @@
 {
            "league": "Serie A",
             "date": "2024-04-08",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
             "teams" : "Torino Vs Roma",
@@ -511,7 +374,7 @@
 {
            "league": "Laliga",
             "date": "2024-04-08",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
             "teams" : "Real Sociedad Vs Getafe",
@@ -540,7 +403,7 @@
 {
            "league": "Serie A",
             "date": "2024-04-08",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
             "teams" : "Hellas Verona Vs Sassuolo",
@@ -569,7 +432,7 @@
 {
            "league": "Bundesliga",
             "date": "2024-04-08",
-            "time": "11:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
             "teams" : "Hertha BSC Vs RB Leipzig",
