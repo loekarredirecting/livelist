@@ -105,7 +105,7 @@
 {
            "league": "Serie A",
             "date": "2024-04-08",
-            "time": "7:00 PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
             "teams" : "Fiorentina Vs Spezia",
@@ -113,27 +113,23 @@
             "hteam" : "Spezia",
             "hotmat":"no",
             "link":[
-  {
-                    "type": "SD",
-                "livelink":""
-         
-                },                     
 {
-                    "type": "SD 2",
-                "livelink":""
-         
-                },
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-78951465_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680976845-0-0-a49b5770d43e0d605c0081e265c08eb3&user_session_id=441bc3addf06633380d6d580a5fe617b"
+},
 {
-                    "type": "HD",
-                "livelink":""
-         
-                },
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-78951465_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680976845-0-0-a49b5770d43e0d605c0081e265c08eb3&user_session_id=441bc3addf06633380d6d580a5fe617b"
+},
 {
-                    "type": "HD 2",
-                "livelink":""
-                }
-                
-            ]
+"type": "Soco HD",
+"livelink": "https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=ff362f3847c8401db54dca1879e32479&txTime=6431aba0"
+},
+{
+"type": "Soco SD",
+"livelink": "https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=ff362f3847c8401db54dca1879e32479&txTime=6431aba0"
+}
+]
 },
 {
            "league": " Bundesliga",
