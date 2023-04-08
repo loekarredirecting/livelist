@@ -1,129 +1,880 @@
 [   
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/salernitana.png",
-"hteam": "Inter Milan",
-"time": " live ",
-"date": "2023-04-07",
-"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
-"ateam": "Salernitana",
-"link": [
+           "league": "Serie A",
+            "date": "2024-04-08",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+            "teams" : "Udinese Vs Monza",
+            "ateam" : "Udinese",
+            "hteam" : "Monza",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "Soco SD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-170430_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1680969957-0-0-5d3fe5fd0489514808d186d755c9f89d&user_session_id=75b4aae64fd5f8ef0d852172aefc0219"
+         
+                },                     
 {
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=55d9ce0bde5b9a8c3759f524f073b15a&sub_m3u8=true&edge_slice=true&auth_key=1680899865-0-0-04acdfb564f5e1d94748d7b0886d4029"
+                    "type": "Soco HD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-8012947_lsd.m3u8?edge_slice=true&user_session_id=379d2e555e2838c2444c47c93e3e7a02&sub_m3u8=true&auth_key=1680970065-0-0-ce115ee762698c1806a72337991184e5"
+         
+                },
+{
+                    "type": "English HD",
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may12/chunklist.m3u8"
+         
+                },
+{
+                    "type": "China HD",
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1680969957-0-0-55b970da950cc7e8fa571ce1e99acbba&sub_m3u8=true&user_session_id=393d786ba9f3b7bb9f2e43b26a74e216&edge_slice=true"
+         
+                },
+{
+                    "type": "Eng HD",
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-8012947_lhd.m3u8?sub_m3u8=true&user_session_id=724de3928840089cc54cd5431f7f8f5e&auth_key=1680970065-0-0-cb7a4e5e3431e25df13dcdfc8d9cb631&edge_slice=true"
+                }
+                
+            ]
 },
 {
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=637f08efaa19ff4069ed67edad504b0f&sub_m3u8=true&edge_slice=true&auth_key=1680899865-0-0-1578e53ce0128a51f7b4525c037aad2c"
+           "league": "Premier League",
+            "date": "2024-04-08",
+            "time": "6:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+            "teams" : "Man United Vs Everton",
+            "hteam" : "Man United",
+            "ateam" : "Everton",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                },
+ {
+                    "type": "FHD",
+                "livelink":""
+                },
+{
+                    "type": "Eng FHD",
+                "livelink":""
+                }               
+            ]
 },
 {
-"type": "Soco HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?user_session_id=ed8c157d44578c0092aafa8f14357c67&sub_m3u8=true&auth_key=1680899817-0-0-82eac7450e3c518a810c1189f9280695&edge_slice=true"
+           "league": "Laliga",
+            "date": "2024-04-08",
+            "time": "6:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+            "teams" : "Osasuna Vs Elche",
+            "ateam" : "Osasuna",
+            "hteam" : "Elche",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
 },
 {
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-147801_lsd.m3u8?user_session_id=9403c9c6d7698e24b9bb550aa1452653&sub_m3u8=true&auth_key=1680899817-0-0-3251827d29e2cb221f9432bc6d8a464e&edge_slice=true"
+           "league": "Serie A",
+            "date": "2024-04-08",
+            "time": "7:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+            "teams" : "Fiorentina Vs Spezia",
+            "ateam" : "Fiorentina",
+            "hteam" : "Spezia",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Bundesliga",
+            "date": "2024-04-08",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+            "teams" : "SC Freiburg Vs Bayern München",
+            "ateam" : "SC Freiburg",
+            "hteam" : "Bayern München",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Bundesliga",
+            "date": "2024-04-08",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+            "teams" : "Dortmund Vs Union Berlin",
+            "ateam" : "Dortmund",
+            "hteam" : "Union Berlin",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Bundesliga",
+            "date": "2024-04-08",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+            "teams" : "FC Augsburg Vs 1. FC Köln",
+            "ateam" : "FC Augsburg",
+            "hteam" : "1. FC Köln",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Bundesliga",
+            "date": "2024-04-08",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+            "teams" : "Leverkusen Vs Frankfurt",
+            "ateam" : "Leverkusen",
+            "hteam" : "Frankfurt",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Bundesliga",
+            "date": "2024-04-08",
+            "time": "8:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+            "teams" : "Mainz 05 Vs Werder Bremen",
+            "ateam" : "Mainz 05",
+            "hteam" : "Werder Bremen",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "HD",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Premier League",
+            "date": "2024-04-08",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Wolves Vs Chelsea",
+            "ateam" : "Wolves",
+            "hteam" : "Chelsea",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Premier League",
+            "date": "2024-04-08",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+            "teams" : "Tottenham Vs Brighton",
+            "ateam" : "Tottenham",
+            "hteam" : "Brighton",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Premier League",
+            "date": "2024-04-08",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+            "teams" : "Aston Villa Vs Nottingham",
+            "ateam" : "Aston Villa",
+            "hteam" : "Nottingham",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Premier League",
+            "date": "2024-04-08",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+            "teams" : "Brentford Vs Newcastle United",
+            "ateam" : "Brentford",
+            "hteam" : "Newcastle United",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Premier League",
+            "date": "2024-04-08",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+            "teams" : "Fulham Vs West Ham",
+            "ateam" : "Fulham",
+            "hteam" : "West Ham",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Premier League",
+            "date": "2024-04-08",
+            "time": "8:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+            "teams" : "Leicester Vs Bournemouth",
+            "ateam" : "Leicester",
+            "hteam" : "Bournemouth",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Laliga",
+            "date": "2024-04-08",
+            "time": "8:45 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+            "teams" : "Espanyol Vs Athletic Club",
+            "ateam" : "Espanyol",
+            "hteam" : "Athletic Club",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Serie A",
+            "date": "2024-04-08",
+            "time": "9:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+            "teams" : "Atalanta Vs Bologna",
+            "ateam" : "Atalanta",
+            "hteam" : "Bologna",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Serie A",
+            "date": "2024-04-08",
+            "time": "9:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9882_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+            "teams" : "Sampdoria Vs Cremonese",
+            "ateam" : "Sampdoria",
+            "hteam" : "Cremonese",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Ligue 1",
+            "date": "2024-04-08",
+            "time": "9:30 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8121_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+            "teams" : "Angers Vs Lille",
+            "ateam" : "Angers",
+            "hteam" : "Lille",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Premier League",
+            "date": "2024-04-08",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "teams" : "Southampton Vs Man City",
+            "ateam" : "Southampton",
+            "hteam" : "Man City",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                },
+{
+                    "type": "FHD",
+                "livelink":""
+                }                
+            ]
+},
+{
+           "league": "Serie A",
+            "date": "2024-04-08",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "teams" : "Torino Vs Roma",
+            "ateam" : "Torino",
+            "hteam" : "Roma",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Laliga",
+            "date": "2024-04-08",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+            "teams" : "Real Sociedad Vs Getafe",
+            "ateam" : "Real Sociedad",
+            "hteam" : "Getafe",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Serie A",
+            "date": "2024-04-08",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+            "teams" : "Hellas Verona Vs Sassuolo",
+            "ateam" : "Hellas Verona",
+            "hteam" : "Sassuolo",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Bundesliga",
+            "date": "2024-04-08",
+            "time": "11:00 PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+            "teams" : "Hertha BSC Vs RB Leipzig",
+            "ateam" : "Hertha BSC",
+            "hteam" : "RB Leipzig",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Serie A",
+            "date": "2024-04-09",
+            "time": "1:15 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+            "teams" : "Lazio Vs Juventus",
+            "ateam" : "Lazio",
+            "hteam" : "Juventus",
+            "hotmat":"no",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": "Laliga",
+            "date": "2024-04-09",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+            "teams" : "Real Madrid Vs Villarreal",
+            "ateam" : "Real Madrid",
+            "hteam" : "Villarreal",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
+},
+{
+           "league": " Ligue 1",
+            "date": "2024-04-09",
+            "time": "1:30 AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Nice Vs PSG",
+            "ateam" : "Mice",
+            "hteam" : "PSG",
+            "hotmat":"yes",
+            "link":[
+  {
+                    "type": "SD",
+                "livelink":""
+         
+                },                     
+{
+                    "type": "SD 2",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD",
+                "livelink":""
+         
+                },
+{
+                    "type": "HD 2",
+                "livelink":""
+                }
+                
+            ]
 }
-]
-},
-{
-"league": " Serie A  11:30 PM ",
-"himg": "https://mygoaltv.xyz//team/lecce.png",
-"hteam": "Napoli",
-"time": " live ",
-"date": "2023-04-07",
-"aimg": "https://mygoaltv.xyz//team/napoli.png",
-"ateam": "Lecce",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680901185-0-0-83fb189576ea77be2b7e730e180840da&sub_m3u8=true&user_session_id=2aedede3b348179b3c7e535bfe4501dc&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1680901185-0-0-83fb189576ea77be2b7e730e180840da&sub_m3u8=true&user_session_id=2aedede3b348179b3c7e535bfe4501dc&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680901677-0-0-d03fdbd62158ae8cd839d0c5bdf45ee1&user_session_id=b83d886ee063441bd0366268cf563645"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1680901677-0-0-d03fdbd62158ae8cd839d0c5bdf45ee1&user_session_id=b83d886ee063441bd0366268cf563645"
-}
-]
-},
-{
-"league": "  La Liga  1:30 AM ",
-"himg": "https://mygoaltv.xyz//team/Sevilla.png",
-"hteam": "Celta Vigo",
-"time": " live ",
-"date": "2023-04-08",
-"aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
-"ateam": "Sevilla",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1680901305-0-0-356723df8054228815dfd07f16c1c24f"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1680901305-0-0-356723df8054228815dfd07f16c1c24f"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=b93a75b953fac6dd816069e65ffe9b46&txTime=643086a5"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-158814.m3u8?txSecret=b93a75b953fac6dd816069e65ffe9b46&txTime=643086a5"
-}
-]
-},
-{
-"league": " Serie A  1:30 AM ",
-"himg": "https://mygoaltv.xyz//team/acmilan.png",
-"hteam": "Empoli",
-"time": " live ",
-"date": "2023-04-08",
-"aimg": "https://mygoaltv.xyz//team/Empoli.gif",
-"ateam": "AC Milan",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1680901425-0-0-54c4115efd3ea8371a189aa0b1701fde&user_session_id=0e67eb29c5d8ca4cff89e8be66a0aad5&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1680901425-0-0-54c4115efd3ea8371a189aa0b1701fde&user_session_id=0e67eb29c5d8ca4cff89e8be66a0aad5&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&user_session_id=d05dc328e35b2c8b49518197bf0a3338&sub_m3u8=true&auth_key=1680901857-0-0-912d461b4b78125312602eb254364f9d"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-123226_lhd.m3u8?edge_slice=true&user_session_id=d05dc328e35b2c8b49518197bf0a3338&sub_m3u8=true&auth_key=1680901857-0-0-912d461b4b78125312602eb254364f9d"
-}
-]
-},
-{
-"league": " Ligue 1  1:30 AM ",
-"himg": "https://mygoaltv.xyz//team/Lens.png",
-"hteam": "Strasbourg",
-"time": " live ",
-"date": "2023-04-08",
-"aimg": "https://mygoaltv.xyz//team/strasbourg.png",
-"ateam": "Lens",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1680901917-0-0-5b51dcc57c59fc97f8e2d7370ce8d227&edge_slice=true&sub_m3u8=true&user_session_id=8453e68e17e8fcc57bae1ed0e18361c5"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?auth_key=1680901917-0-0-5b51dcc57c59fc97f8e2d7370ce8d227&edge_slice=true&sub_m3u8=true&user_session_id=8453e68e17e8fcc57bae1ed0e18361c5"
-}
-]
-}
+
+          
 ]
