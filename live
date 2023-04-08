@@ -48,6 +48,14 @@
             "ateam" : "Everton",
             "hotmat":"yes",
             "link":[
+            {
+"type": "English HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-jw2r09h6pl7drz8/chunklist.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-jw2r09h6pl7drz8/playlist.m3u8"
+},
   {
                     "type": "Soco SD",
                 "livelink":"https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-168740_lsd.m3u8?sub_m3u8=true&auth_key=1680972597-0-0-b21c5223a514c2e61b936eae87aafa71&edge_slice=true&user_session_id=a2b83b14f876f87c04702e6e74e53847"
@@ -63,6 +71,10 @@
                 "livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
          
                 },
+                {
+"type": "Vietnam SD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
 {
                     "type": "Soco SD",
                 "livelink":"https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?auth_key=1680973425-0-0-f115185c3760115ff6ff3c3be1bc9f26&user_session_id=279bb433b0e245bb441d78678a6b4e9d&edge_slice=true&sub_m3u8=true"
