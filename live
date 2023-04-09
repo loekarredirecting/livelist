@@ -90,6 +90,14 @@
 "ateam": "Liverpool",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://webudit.onlinewebtv.lol/lb/premium414/index.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "http://4k-sat.com:8000/123456789e/123456789e/7292"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1681070685-0-0-1a355d9aa9d996405f3ef808331eea6b&sub_m3u8=true&user_session_id=d0e11bc9b4389b42c326fd08c46b98b9&edge_slice=true"
 },
