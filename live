@@ -239,6 +239,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=8bbab6fd0ca9986e0a3634da96ff69c9&txTime=643320bd"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 },
