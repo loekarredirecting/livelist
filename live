@@ -1,130 +1,6 @@
 [   
 {
 "league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/betis.png",
-"hteam": "Cadiz",
-"time": " live ",
-"date": "2023-04-09",
-"aimg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
-"ateam": "Betis",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1681067685-0-0-b696fea65dbf4263871820c1cbf2f128"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-516701.m3u8?auth_key=1681067685-0-0-b696fea65dbf4263871820c1cbf2f128"
-},
-{
-"type": "Soco HD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?sub_m3u8=true&user_session_id=82d6873360df39111c30b1566969382b&auth_key=1681067517-0-0-5794ab100ab850fa7ad0b7f0746f11c0&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://e53dc1c060e87be95abb5a524b1752f1.livehwc3.cn/pull06.scstream.net/live/stream-144861_lhd.m3u8?sub_m3u8=true&user_session_id=82d6873360df39111c30b1566969382b&auth_key=1681067517-0-0-5794ab100ab850fa7ad0b7f0746f11c0&edge_slice=true"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Nantes.png",
-"hteam": "Monaco",
-"time": " live ",
-"date": "2023-04-09",
-"aimg": "https://mygoaltv.xyz//team/monaco.png",
-"ateam": "Nantes",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1681070565-0-0-e16406365a7877414015142393e12a07&user_session_id=a711e3d2eb8e623ebe4fd7f9a7995dc5&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1681070565-0-0-e16406365a7877414015142393e12a07&user_session_id=a711e3d2eb8e623ebe4fd7f9a7995dc5&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=281418f4fa34b92af7d08ca6af30d1ad&txTime=64331fcd"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-115447.m3u8?txSecret=281418f4fa34b92af7d08ca6af30d1ad&txTime=64331fcd"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/liverpool.png",
-"hteam": "Arsenal",
-"time": " live ",
-"date": "2023-04-09",
-"aimg": "https://mygoaltv.xyz//team/arsenal.png",
-"ateam": "Liverpool",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-dn1m1ghpo4k9moe/chunklist.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=1673204766768"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1681070685-0-0-1a355d9aa9d996405f3ef808331eea6b&sub_m3u8=true&user_session_id=d0e11bc9b4389b42c326fd08c46b98b9&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1681071225-0-0-36c49382223f96b7016a055836b059cc&sub_m3u8=true&user_session_id=e652be1ab42cf737244ec48fa4e80207&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-147801_lhd.m3u8?auth_key=1681072137-0-0-52d5fbd7e219c98cd89d68bad9e6261a&user_session_id=154047f1123914850482127c4a3c60e1&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=8bbab6fd0ca9986e0a3634da96ff69c9&txTime=643320bd"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Bochum.gif",
-"hteam": "Stuttgart",
-"time": " live ",
-"date": "2023-04-09",
-"aimg": "https://mygoaltv.xyz//team/stuttgart.png",
-"ateam": "Bochum",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1681071465-0-0-59b68b95ad6ffab57bf86a11e316df05&sub_m3u8=true&user_session_id=b7891362da8109f3c40543fde0f07787&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1681071465-0-0-59b68b95ad6ffab57bf86a11e316df05&sub_m3u8=true&user_session_id=b7891362da8109f3c40543fde0f07787&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1681072377-0-0-df78861d773112dd0e632d3d476975ad&edge_slice=true&sub_m3u8=true&user_session_id=97a47508d7d3c50cd3c7713ed31d79e4"
-},
-{
-"type": "Soco SD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-143449_lhd.m3u8?auth_key=1681072377-0-0-df78861d773112dd0e632d3d476975ad&edge_slice=true&sub_m3u8=true&user_session_id=97a47508d7d3c50cd3c7713ed31d79e4"
-}
-]
-},
-{
-"league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Valencia",
 "time": " live ",
@@ -178,10 +54,10 @@
 ]
 },
 {
-"league": " Ligue 1 ",
+"league": " Ligue 1  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/Lorient.png",
 "hteam": "Marseille",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-04-09",
 "aimg": "https://mygoaltv.xyz//team/Marseille_logo.png",
 "ateam": "Lorient",
@@ -205,10 +81,10 @@
 ]
 },
 {
-"league": " Saudi Pro League ",
+"league": " Saudi Pro League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/no-logo.png",
 "hteam": "Al-Nassr",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-09",
 "aimg": "https://mygoaltv.xyz//team/al-nassr.png",
 "ateam": "Al Feiha",
@@ -232,10 +108,10 @@
 ]
 },
 {
-"league": " La Liga ",
+"league": " La Liga  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "hteam": "Atletico Madrid",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-09",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "Rayo Vallecano",
