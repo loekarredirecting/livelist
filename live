@@ -1,32 +1,5 @@
 [   
 {
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
-"hteam": "Wolfsburg",
-"time": " live ",
-"date": "2023-04-09",
-"aimg": "https://mygoaltv.xyz//team/wolfsburg.png",
-"ateam": "Monchengladbach",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1681067565-0-0-171c0113aeb78ed489ec0eb32d4f5c20"
-},
-{
-"type":  "China SD",
-"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1681067565-0-0-171c0113aeb78ed489ec0eb32d4f5c20"
-},
-{
-"type": "Soco HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1681067457-0-0-9026ab593b8933ede185f7b1d951681f&sub_m3u8=true&user_session_id=f41847ed93e8985e781e9140f1604c81&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1681067457-0-0-9026ab593b8933ede185f7b1d951681f&sub_m3u8=true&user_session_id=f41847ed93e8985e781e9140f1604c81&edge_slice=true"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/betis.png",
 "hteam": "Cadiz",
