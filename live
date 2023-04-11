@@ -1,55 +1,71 @@
 [   
 {
-"league": " Champions League ",
+"league": " Champions League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Bayern Munich",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-12",
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Manchester City",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "China 1 HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681247985-0-0-ac7485130c8e5ea5e3626b9d44ed861f&user_session_id=566becc61f83bd7a5355fd5c2a1f0ef6"
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "Soco 1 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-168740.m3u8?txSecret=71e48b11f9600ec6042881f92b7925ab&txTime=6435d0a1"
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type":  "China 2 HD",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1681248225-0-0-cd267a82c9451ace77a2898818da6598&sub_m3u8=true&user_session_id=adfd23c9d9661bcea53aadc4777c83e1&edge_slice=true"
 },
 {
-"type": "Soco SD",
-"livelink": "0"
+"type": "Soco 2 HD",
+"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=235b834db127d692e432f92677b949f5&txTime=6435d0dd"
+},
+{
+"type":  "China 3 SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1681248225-0-0-abcaaa8796595967f0fc87b4086e7b05&edge_slice=true&sub_m3u8=true&user_session_id=1353d25150e9cd0de03148c06b80182a"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=235b834db127d692e432f92677b949f5&txTime=6435d0dd"
 }
 ]
 },
 {
-"league": " Champions League ",
+"league": " Champions League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/Benfica.png",
 "hteam": "Inter Milan",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-12",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "Benfica",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "China 1 HD",
+"livelink": "https://yypull.gdsth.com/live/stream-112366.m3u8?auth_key=1681248765-0-0-9d0cd9de8dce468f879d0cb77ad1b035"
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "Soco 1 HD",
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-181398_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f9e048a3b98f9251efa3938d180a0d05&auth_key=1681248717-0-0-4ffe9009ba8b28a95dc53d694f3c15ca"
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type":  "China 2 HD",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?user_session_id=9c800e5a76b91c5d33eeea10d83de56f&auth_key=1681248885-0-0-23424e500d721a64bffb8bc2fff6b3b6&sub_m3u8=true&edge_slice=true"
 },
 {
-"type": "Soco SD",
-"livelink": "0"
+"type": "Soco 2 HD",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1681257537-0-0-e529d8345682c05810145276cc2683b2&sub_m3u8=true&edge_slice=true&user_session_id=496bb4e85a78f92b3da867ed1dd9a9b6"
+},
+{
+"type":  "China 3 SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=6b818293fde6778f453a1eb0d53612fc&auth_key=1681248885-0-0-798f6c19e4b766c1694efedcde9e77e3&sub_m3u8=true&edge_slice=true"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1681257537-0-0-e529d8345682c05810145276cc2683b2&sub_m3u8=true&edge_slice=true&user_session_id=496bb4e85a78f92b3da867ed1dd9a9b6"
 }
 ]
 },
