@@ -31,6 +31,14 @@
 {
 "type": "Soco 3 SD",
 "livelink": "https://sports01.livnvess.com/live/stream-167414.m3u8?txSecret=235b834db127d692e432f92677b949f5&txTime=6435d0dd"
+},
+{
+"type": "English HD",
+"livelink": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
 }
 ]
 },
