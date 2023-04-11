@@ -34,7 +34,7 @@
 },
 {
 "type": "English HD",
-"livelink": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+"livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
 },
 {
 "type": "English SD",
@@ -74,6 +74,14 @@
 {
 "type": "Soco 3 SD",
 "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1681257537-0-0-e529d8345682c05810145276cc2683b2&sub_m3u8=true&edge_slice=true&user_session_id=496bb4e85a78f92b3da867ed1dd9a9b6"
+},
+{
+"type": "English HD",
+"livelink": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
 }
 ]
 },
