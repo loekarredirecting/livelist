@@ -1,36 +1,36 @@
 [   
 {
-"league": " Serie A ",
+"league": " Serie A  (11:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/cremonese.png",
 "hteam": "Empoli",
-"time": " 11:00 PM ",
+"time": " live ",
 "date": "2023-04-14",
 "aimg": "https://mygoaltv.xyz//team/Empoli.gif",
 "ateam": "Cremonese",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=739b6cc7f80240fda17b4c7167dadc57&auth_key=1681509885-0-0-3ac3c1d642d5a35344e29bf7940adecf"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681510233-0-0-71d6c0e2979317ec9765614db18c2fd3&user_session_id=301dc08833d22ee03eb600c0e840b861"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681510845-0-0-3719a15cf75f2d01130af3e9edf7af0c&user_session_id=0a6a75615524bc9b826bd264c42415b7"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681510233-0-0-71d6c0e2979317ec9765614db18c2fd3&user_session_id=301dc08833d22ee03eb600c0e840b861"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=714c21a072b8d74db70f1e814700302a&auth_key=1681509885-0-0-c48ec78698f36201e053855b00647d77&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-135966_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c5125bda7e7d0e4a0ce950662e1599df&auth_key=1681510233-0-0-249b114f6fc900a0162270a955917a7c"
 }
 ]
 },
