@@ -1,40 +1,5 @@
 [   
 {
-"league": " La Liga  (6:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/villarreal.png",
-"hteam": "Valladolid",
-"time": " live ",
-"date": "2023-04-15",
-"aimg": "https://mygoaltv.xyz//team/Valladolid.png",
-"ateam": "Villarreal",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681579606-0-0-dcc2312c57d5c1ea22ad79ec1df74d78&user_session_id=5212bcafeab0181fc0d497b40d7a7a38"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://64f183a7f4f61db1c99171c36588bf25.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?sub_m3u8=true&user_session_id=a87551fca20018d4b9ff6aec59c58bc7&edge_slice=true&auth_key=1681580853-0-0-3fa0eba136c0414a65c836cf77ef5df8"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681579846-0-0-5b894426ea69e54b64f21f1fe982aeba&user_session_id=43c4e32ebc9ee67ac6e112cd46526a7e"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=f53299dbd789f7f6722adbc1f1dcd115&txTime=643ae3e9"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-797853_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681579666-0-0-b3d7024fb1cc25bea05cfe5269ce5dc7&user_session_id=a4e4bdcc70a18788c3a4587938984f26"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=999401f81246dcd73a0b4c9bf4316e23&auth_key=1681580853-0-0-9774b2223b2b6befe647543e42259aba"
-}
-]
-},
-{
 "league": " Serie A  (7:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Bologna.png",
 "hteam": "AC Milan",
@@ -428,7 +393,7 @@
 ]
 },
 {
-"league": " Ligue 1 ",
+"league": " Ligue 1  (9:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/rennes.png",
 "hteam": "Reims",
 "time": " 9:30 PM ",
