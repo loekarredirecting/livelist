@@ -396,34 +396,34 @@
 "league": " Ligue 1  (9:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/rennes.png",
 "hteam": "Reims",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-04-15",
 "aimg": "https://mygoaltv.xyz//team/reims.png",
 "ateam": "Rennes",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-309440_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=8ec089f997725dac3bc55baeaae9dd9a&auth_key=1681591066-0-0-8a19544a17f4cf91c64691cf93c88c40"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=636a364c56e081f965ded90bf4f1473e&txTime=643b0081"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-309440_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=8ec089f997725dac3bc55baeaae9dd9a&auth_key=1681591066-0-0-8a19544a17f4cf91c64691cf93c88c40"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=636a364c56e081f965ded90bf4f1473e&txTime=643b0081"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-309440_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=8ec089f997725dac3bc55baeaae9dd9a&auth_key=1681591066-0-0-8a19544a17f4cf91c64691cf93c88c40"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=636a364c56e081f965ded90bf4f1473e&txTime=643b0081"
 }
 ]
 },
