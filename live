@@ -79,6 +79,14 @@
 "ateam": "West Ham",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UWWIwaJ2Lj9W-HbvPBBul-ja_yQUzeeMjDaueHzrBwht7JUkTurvFLdXkjbUxVN_2i88ORtVZPnX87jdTkapyQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://storage.googleapis.com/arxq4gxanur5lllfhz/mux_video_ts/index-1.m3u8"
+},
+{
 "type": "China 1 HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1681668766-0-0-b2ea48d4f1d38d2528c4c4c521783bf5&edge_slice=true&user_session_id=c5ddf69aafb29f8ca4af238112925cc5&sub_m3u8=true"
 },
