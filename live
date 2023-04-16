@@ -114,6 +114,14 @@
 "ateam": "Nottingham Forest",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://storage.googleapis.com/arxq4gxanur5lllfhz/mux_video_ts/index-1.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://stream.dlivecdn.com/xtjg/1681611133/src/live.m3u8"
+},
+{
 "type": "China 1 HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=cee6b469b9b9a4d3345d7978e9c13ae7&auth_key=1681669786-0-0-6551bcc9d8a1afad3074d170f6f51d65"
 },
