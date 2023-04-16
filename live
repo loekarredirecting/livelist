@@ -45,11 +45,19 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UWWIwaJ2Lj9W-HbvPBBul-ja_yQUzeeMjDaueHzrBwht7JUkTurvFLdXkjbUxVN_2i88ORtVZPnX87jdTkapyQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+"livelink": "https://287827193.global.cdnfastest.com/live/258e31263e1bd5e428bbe616069943654e1/chunklist.m3u8"
+},
+{
+"type": "English 1 SD",
+"livelink": "https://pulldg.hongdel.top/live/sd-1-3747072.m3u8?auth_key=1681652831-0-0-253ee22f8ffdf9b5743cde002089c259"
 },
 {
 "type": "English 2 HD",
-"livelink": "https://storage.googleapis.com/arxq4gxanur5lllfhz/mux_video_ts/index-1.m3u8"
+"livelink": "https://pulldg.hongdel.top/live/hd-en-1-3747072.m3u8?auth_key=1681652831-0-0-253ee22f8ffdf9b5743cde002089c259"
+},
+{
+"type": "English 2 SD",
+"livelink": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/UWWIwaJ2Lj9W-HbvPBBul-ja_yQUzeeMjDaueHzrBwht7JUkTurvFLdXkjbUxVN_2i88ORtVZPnX87jdTkapyQ/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
 },
 {
 "type": "China 1 HD",
