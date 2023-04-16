@@ -1,40 +1,5 @@
 [   
 {
-"league": " La Liga  (6:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Girona.png",
-"hteam": "Elche",
-"time": " live ",
-"date": "2023-04-16",
-"aimg": "https://mygoaltv.xyz//team/Elche.png",
-"ateam": "Girona",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681666486-0-0-def8e79c0d20e0d4f3bbd772d0e2f68e&user_session_id=01c79efb9cdaaa9f1b41eb14c6331be7"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1681664253-0-0-e88811997ab6e42a8f2709aea765877a&sub_m3u8=true&edge_slice=true&user_session_id=9efdd602409950a4383e91324497559b"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lsd.m3u8?sub_m3u8=true&auth_key=1681666486-0-0-98a43e842650c878c511e6a63d45b8e7&user_session_id=7e70deca256ea90cf6f37478f61b56af&edge_slice=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?user_session_id=42fdf183b93098e27037bacd14c0f0db&sub_m3u8=true&edge_slice=true&auth_key=1681664253-0-0-02d9fffc733517b93e4f7d5581b9a44a"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lsd.m3u8?sub_m3u8=true&auth_key=1681666486-0-0-98a43e842650c878c511e6a63d45b8e7&user_session_id=7e70deca256ea90cf6f37478f61b56af&edge_slice=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?user_session_id=42fdf183b93098e27037bacd14c0f0db&sub_m3u8=true&edge_slice=true&auth_key=1681664253-0-0-02d9fffc733517b93e4f7d5581b9a44a"
-}
-]
-},
-{
 "league": " Premier League  (7:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/westham.png",
 "hteam": "Arsenal",
@@ -339,10 +304,10 @@
 ]
 },
 {
-"league": " Ligue 1 ",
+"league": " Ligue 1  (9:35 PM) ",
 "himg": "https://mygoaltv.xyz//team/monaco.png",
 "hteam": "Lorient",
-"time": " 9:35 PM ",
+"time": " live ",
 "date": "2023-04-16",
 "aimg": "https://mygoaltv.xyz//team/Lorient.png",
 "ateam": "Monaco",
@@ -454,7 +419,7 @@
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=f867e1149dde847c454d06dd4dc9aecc&auth_key=1681677766-0-0-2720bf07e35dce14a2e8f6a643646fb9"
 },
 {
 "type": "Soco 1 HD",
@@ -462,7 +427,7 @@
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681677766-0-0-c3cbc6841e67d12e2e02c1655e504308&user_session_id=67ad8453b822be1ff03ed1a889ce058a"
 },
 {
 "type": "Soco 2 HD",
@@ -470,7 +435,7 @@
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-758261_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681677766-0-0-c3cbc6841e67d12e2e02c1655e504308&user_session_id=67ad8453b822be1ff03ed1a889ce058a"
 },
 {
 "type": "Soco 3 SD",
@@ -563,7 +528,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&user_session_id=cd9dfda4fc9a565ac696813f3c5a50c5&auth_key=1681677934-0-0-97e7e5beb77e8c2295d42571d7c1eb57&edge_slice=true"
 },
 {
 "type":  "China 2 HD",
@@ -571,7 +536,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681677934-0-0-06d4f3af51922af07a85c7c261da4682&user_session_id=54718cfda29528793f72d7c082e3e0d8"
 },
 {
 "type":  "China 3 SD",
@@ -579,7 +544,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681677934-0-0-06d4f3af51922af07a85c7c261da4682&user_session_id=54718cfda29528793f72d7c082e3e0d8"
 }
 ]
 },
@@ -633,7 +598,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=74da1ff2bb0bc24941c5ba41e44cc8ad&txTime=643c5ee6"
 },
 {
 "type":  "China 2 HD",
@@ -641,7 +606,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=74da1ff2bb0bc24941c5ba41e44cc8ad&txTime=643c5ee6"
 },
 {
 "type":  "China 3 SD",
@@ -649,7 +614,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=74da1ff2bb0bc24941c5ba41e44cc8ad&txTime=643c5ee6"
 }
 ]
 }
