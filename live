@@ -35,37 +35,37 @@
 ]
 },
 {
-"league": " Ligue 1 ",
+"league": " Ligue 1  (5:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/lille.png",
 "hteam": "Montpellier",
-"time": " 5:30 PM ",
+"time": " live ",
 "date": "2023-04-16",
 "aimg": "https://mygoaltv.xyz//team/Montpellier.png",
 "ateam": "Lille",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lhd.m3u8?auth_key=1681661026-0-0-263b89a16e1d3285f75c0dcfaec76a8e&user_session_id=ce51406c4510733db6abc29525e3c0b6&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1681664133-0-0-3be97a151c5d666cecf9ed78800bd207&edge_slice=true&sub_m3u8=true&user_session_id=44d0da0f6ffc0d0b0a5a976653605cae"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681661026-0-0-52e14185c494eff907268bff066e6e0c&user_session_id=84f4f39c210ff46dfada31626fdf651d"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681664133-0-0-8e68cdf2187d92e3fb3970a5f3c8e680&user_session_id=80681f76bbf8d113cba99f2669ad6be5"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681661026-0-0-52e14185c494eff907268bff066e6e0c&user_session_id=84f4f39c210ff46dfada31626fdf651d"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1681664133-0-0-8e68cdf2187d92e3fb3970a5f3c8e680&user_session_id=80681f76bbf8d113cba99f2669ad6be5"
 }
 ]
 },
