@@ -44,12 +44,20 @@
 "ateam": "Leeds",
 "link": [
 {
+"type": "English HD",
+"livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/45705"
+},
+{
+"type": "English SD",
+"livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/45706"
+},
+{
 "type": "China 1 HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?sub_m3u8=true&auth_key=1681768966-0-0-2babff2b84b7c2ec59e3fe4f907d6ce1&user_session_id=00ede720b1a5cf394d8208615a055413&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-941508_lhd.m3u8?auth_key=1681771534-0-0-8547b7e2f53e7769ad970389e925d004&sub_m3u8=true&edge_slice=true&user_session_id=807d789bbb42476fda781da1fa1a5449"
 },
 {
 "type":  "China 2 HD",
@@ -57,7 +65,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-941508_lsd.m3u8?sub_m3u8=true&user_session_id=c1826424049a9bc6b040235c9fe2562e&auth_key=1681771534-0-0-30981a9f94755e0305774c0ba851af5f&edge_slice=true"
 },
 {
 "type":  "China 3 SD",
@@ -65,7 +73,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-941508_lsd.m3u8?sub_m3u8=true&user_session_id=c1826424049a9bc6b040235c9fe2562e&auth_key=1681771534-0-0-30981a9f94755e0305774c0ba851af5f&edge_slice=true"
 }
 ]
 },
