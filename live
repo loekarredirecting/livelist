@@ -1,106 +1,130 @@
 [   
 {
-"league": " Saudi Pro League ",
+"league": " Saudi Pro League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/Al-Hilal.gif",
 "hteam": "Al-Nassr",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-19",
 "aimg": "https://mygoaltv.xyz//team/al-nassr.png",
 "ateam": "Al Hilal",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/1034"
+},
+{
+"type": "English 2 HD",
+"livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/513"
+},
+{
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lhd.m3u8?auth_key=1681854946-0-0-94f2d9ca2f03cd15839f23c7994a1c4d&sub_m3u8=true&edge_slice=true&user_session_id=005b1013017789b381289fbe592148b3"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lhd.m3u8?user_session_id=62be9c349b693400f81266e39fdba771&edge_slice=true&auth_key=1681855474-0-0-ac5add97db8af512c32a4e0b1e755ea6&sub_m3u8=true"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lsd.m3u8?auth_key=1681854946-0-0-570beddb108552b94f96c5e153b191e8&sub_m3u8=true&edge_slice=true&user_session_id=97028e699a6a924cca72d55810185342"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?sub_m3u8=true&auth_key=1681855594-0-0-0823e8c8975f2639953f093bcfa9b0cc&edge_slice=true&user_session_id=448439052f561decea9fa3076e82eb04"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lsd.m3u8?auth_key=1681854946-0-0-570beddb108552b94f96c5e153b191e8&sub_m3u8=true&edge_slice=true&user_session_id=97028e699a6a924cca72d55810185342"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-122774_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1681855474-0-0-a656cdb9aca116c4b141715a158bdb9f&user_session_id=0ea54b1e4fd78845e7052c5c50505960"
 }
 ]
 },
 {
-"league": " Champions League ",
+"league": " Champions League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/napoli.png",
 "hteam": "AC Milan",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-19",
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "Napoli",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "http://2hubs.ddns.net:25461/live/sltv/PVHDRgW4hH/59734.m3u8"
+},
+{
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&auth_key=1681855126-0-0-e7d3e11b994cf8d41b7387bd1343f4da&user_session_id=71f953b294b33c88c903e0aa412d9a5a&sub_m3u8=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=093d2bdbe9df3ff9efb8c3e4e02cc88f&txTime=643f1406"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-643519.m3u8?auth_key=1681855246-0-0-e7132c665078aec93de96eb9f4707e1a"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lsd.m3u8?txSecret=093d2bdbe9df3ff9efb8c3e4e02cc88f&txTime=643f1406"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1681855126-0-0-ebfad2d3a96ad4e81309d0da637b1855&sub_m3u8=true&edge_slice=true&user_session_id=b56dbb342279557cd59731c276e8753b"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lsd.m3u8?txSecret=093d2bdbe9df3ff9efb8c3e4e02cc88f&txTime=643f1406"
 }
 ]
 },
 {
-"league": " Champions League ",
+"league": " Champions League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/chelsea.png",
 "hteam": "Real Madrid",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-04-19",
 "aimg": "https://mygoaltv.xyz//team/real-madrid.png",
 "ateam": "Chelsea",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/663"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
+},
+{
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882.m3u8?auth_key=1681855306-0-0-1a7576d00f53445e04c0b2a1ed0b37db"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lhd.m3u8?auth_key=1681855834-0-0-c3beb92085830d8e84f1b65acb6f1269&user_session_id=0af72913080c258b40c7c2de96b88262&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?auth_key=1681855426-0-0-2e37255d87179bc3909734482a58f0ee&edge_slice=true&user_session_id=6cb97661d8dff2d21fb0cdc4b84f1b34&sub_m3u8=true"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-112310_lhd.m3u8?user_session_id=2c70a31aac104abc5b688117a68f3d6d&edge_slice=true&sub_m3u8=true&auth_key=1681855954-0-0-44ef17da3701876593446879e64d9f43"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://yypull.gdsth.com/live/stream-411882_ld.m3u8?auth_key=1681855306-0-0-9c3403880ed72a7d140deef901338cc3"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lsd.m3u8?auth_key=1681855834-0-0-938e5c41c7f831f40e0fcaf00ca5005d&edge_slice=true&sub_m3u8=true&user_session_id=e42f66a9ba8a61357d89d955ea019b7c"
 }
 ]
 }
