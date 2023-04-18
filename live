@@ -127,5 +127,75 @@
 "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-901508_lsd.m3u8?auth_key=1681855834-0-0-938e5c41c7f831f40e0fcaf00ca5005d&edge_slice=true&sub_m3u8=true&user_session_id=e42f66a9ba8a61357d89d955ea019b7c"
 }
 ]
+},
+{
+"league": " Champions League ",
+"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"hteam": "Manchester City",
+"time": " 1:30 AM ",
+"date": "2023-04-20",
+"aimg": "https://mygoaltv.xyz//team/manchestercity.png",
+"ateam": "Bayern Munich",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Champions League ",
+"himg": "https://mygoaltv.xyz//team/inter_milan.png",
+"hteam": "Benfica",
+"time": " 1:30 AM ",
+"date": "2023-04-20",
+"aimg": "https://mygoaltv.xyz//team/Benfica.png",
+"ateam": "Inter Milan",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
 }
 ]
