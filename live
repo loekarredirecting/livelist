@@ -39,6 +39,14 @@
 {
 "type": "Soco 3 SD",
 "livelink": "https://sports01.livnvess.com/live/stream-941508_lsd.m3u8?txSecret=0ac61ba92848116d41d7e7e88420b14c&txTime=6441c75a"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
@@ -92,7 +100,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-122774_lhd.m3u8?txSecret=76a340e1929309c156769560d5c758d2&txTime=6441da1a"
 },
 {
 "type":  "China 2 HD",
@@ -100,7 +108,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-122774_lhd.m3u8?txSecret=76a340e1929309c156769560d5c758d2&txTime=6441da1a"
 },
 {
 "type":  "China 3 SD",
@@ -108,7 +116,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-122774_lhd.m3u8?txSecret=76a340e1929309c156769560d5c758d2&txTime=6441da1a"
 }
 ]
 },
