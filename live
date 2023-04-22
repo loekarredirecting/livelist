@@ -219,6 +219,14 @@
 "ateam": "Liverpool",
 "link": [
 {
+"type": "English 2 HD",
+"livelink": "https://287827193.global.cdnfastest.com/live/258c46d73039d134f219428814c0fcdb8cf/chunklist.m3u8"
+},
+{
+"type": "English 2 SD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-318q66h67okxqo9/chunklist_w792220809.m3u8"
+},
+{
 "type": "English HD",
 "livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/45705"
 },
