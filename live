@@ -70,10 +70,10 @@
 ]
 },
 {
-"league": " Serie A ",
+"league": " Serie A  (7:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/salernitana.png",
 "hteam": "Sassuolo",
-"time": " 7:30 PM ",
+"time": " live ",
 "date": "2023-04-22",
 "aimg": "https://mygoaltv.xyz//team/sassuolo.png",
 "ateam": "Salernitana",
@@ -84,7 +84,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-109053_lhd.m3u8?txSecret=480f194d2262af57a9f9c90ffc263b97&txTime=644428f6"
 },
 {
 "type":  "China 2 HD",
@@ -92,7 +92,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-109053_lsd.m3u8?txSecret=480f194d2262af57a9f9c90ffc263b97&txTime=644428f6"
 },
 {
 "type":  "China 3 SD",
@@ -100,7 +100,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-109053_lsd.m3u8?txSecret=480f194d2262af57a9f9c90ffc263b97&txTime=644428f6"
 }
 ]
 },
@@ -119,7 +119,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lhd.m3u8?edge_slice=true&user_session_id=80d892c558dddf8f88c308d20eedc710&auth_key=1682186434-0-0-f30e1fa82fcd0c2e16fc4262bed533ad&sub_m3u8=true"
 },
 {
 "type":  "China 2 HD",
@@ -127,7 +127,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?auth_key=1682186434-0-0-fd5504c2249fdb6f6975057718fdfa6a&sub_m3u8=true&edge_slice=true&user_session_id=ef26afc93caa92ae450076364ff8cde3"
 },
 {
 "type":  "China 3 SD",
@@ -135,7 +135,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-102153_lsd.m3u8?auth_key=1682186434-0-0-fd5504c2249fdb6f6975057718fdfa6a&sub_m3u8=true&edge_slice=true&user_session_id=ef26afc93caa92ae450076364ff8cde3"
 }
 ]
 },
@@ -154,7 +154,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?user_session_id=6b4b0de49dad4be41b17d28615d1f706&sub_m3u8=true&edge_slice=true&auth_key=1682186734-0-0-256399baf01fddc948fe3f35ded73bda"
 },
 {
 "type":  "China 2 HD",
@@ -162,7 +162,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?user_session_id=0d68ce03197fd50b7801c7b5bf7c6c68&edge_slice=true&auth_key=1682186734-0-0-325b1cfc3a562f645341723c513d9b3e&sub_m3u8=true"
 },
 {
 "type":  "China 3 SD",
@@ -170,7 +170,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?user_session_id=0d68ce03197fd50b7801c7b5bf7c6c68&edge_slice=true&auth_key=1682186734-0-0-325b1cfc3a562f645341723c513d9b3e&sub_m3u8=true"
 }
 ]
 },
@@ -189,7 +189,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=86d5d5f30d548181625dae13d7c6a88c&txTime=64442266"
 },
 {
 "type":  "China 2 HD",
@@ -197,7 +197,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=86d5d5f30d548181625dae13d7c6a88c&txTime=64442266"
 },
 {
 "type":  "China 3 SD",
@@ -205,7 +205,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=86d5d5f30d548181625dae13d7c6a88c&txTime=64442266"
 }
 ]
 },
@@ -224,7 +224,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-160430_lhd.m3u8?user_session_id=aabea17d21056c13069d08dd8c65baf7&sub_m3u8=true&edge_slice=true&auth_key=1682186974-0-0-59eaea99d32f2a405afecc58d0c26157"
 },
 {
 "type":  "China 2 HD",
@@ -232,7 +232,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=2aecbec7b2a350645b9d65a1014e17f2&txTime=644422de"
 },
 {
 "type":  "China 3 SD",
@@ -240,7 +240,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-941508_lsd.m3u8?txSecret=2aecbec7b2a350645b9d65a1014e17f2&txTime=644422de"
 }
 ]
 },
@@ -259,7 +259,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682187154-0-0-6a9e050dda9e0333de218205a335e07d&user_session_id=7cec04858f6d7a379b4a3b1e6da5dd79"
 },
 {
 "type":  "China 2 HD",
@@ -267,7 +267,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=161c66a0d8412aa7de9641f6e187726d&txTime=64442356"
 },
 {
 "type":  "China 3 SD",
@@ -275,7 +275,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?auth_key=1682187154-0-0-3f021336233bcb438faf9dc544dab02a&user_session_id=b5be30763c93064fa8abd446d34deaa5&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
@@ -294,7 +294,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-901508_lhd.m3u8?txSecret=70ae176b9247fe2fd111d3986c65cd1a&txTime=6444208b"
 },
 {
 "type":  "China 2 HD",
@@ -302,7 +302,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-971508_lhd.m3u8?edge_slice=true&auth_key=1682187274-0-0-132d10ee0c9108eac7544bd97e292842&user_session_id=1feba952169f8f68bff010291723d83c&sub_m3u8=true"
 },
 {
 "type":  "China 3 SD",
@@ -310,7 +310,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-971508_lsd.m3u8?edge_slice=true&user_session_id=83ad70441250e62326ceb6fa1a646303&auth_key=1682187274-0-0-84a5bf6bae4a305aa41a4a5b778c0107&sub_m3u8=true"
 }
 ]
 },
@@ -329,7 +329,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=86f1b6d5b31dbf344832a46abdb69883&txTime=644424be"
 },
 {
 "type":  "China 2 HD",
@@ -337,7 +337,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=86f1b6d5b31dbf344832a46abdb69883&txTime=644424be"
 },
 {
 "type":  "China 3 SD",
@@ -345,7 +345,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=86f1b6d5b31dbf344832a46abdb69883&txTime=644424be"
 }
 ]
 },
@@ -364,7 +364,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=508e4e3b0fbb17b3ca3853efd81f03db&txTime=644424fa"
 },
 {
 "type":  "China 2 HD",
@@ -372,7 +372,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-214855_lsd.m3u8?txSecret=508e4e3b0fbb17b3ca3853efd81f03db&txTime=644424fa"
 },
 {
 "type":  "China 3 SD",
@@ -380,7 +380,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-214855_lsd.m3u8?txSecret=508e4e3b0fbb17b3ca3853efd81f03db&txTime=644424fa"
 }
 ]
 },
@@ -399,7 +399,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=ad22558ce2d8e6dc7cc307b5a0d5d07f&txTime=64442536"
 },
 {
 "type":  "China 2 HD",
@@ -407,7 +407,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=ad22558ce2d8e6dc7cc307b5a0d5d07f&txTime=64442536"
 },
 {
 "type":  "China 3 SD",
@@ -415,7 +415,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=ad22558ce2d8e6dc7cc307b5a0d5d07f&txTime=64442536"
 }
 ]
 },
@@ -434,7 +434,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=c2ab13aaa8f4504a2a91ae809622d75d&txTime=644425ae"
 },
 {
 "type":  "China 2 HD",
@@ -442,7 +442,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=c2ab13aaa8f4504a2a91ae809622d75d&txTime=644425ae"
 },
 {
 "type":  "China 3 SD",
@@ -450,7 +450,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=c2ab13aaa8f4504a2a91ae809622d75d&txTime=644425ae"
 }
 ]
 },
@@ -469,7 +469,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=4d7fff9a67025061f69498a30654195a&txTime=64442626"
 },
 {
 "type":  "China 2 HD",
@@ -477,7 +477,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=c936c18f6cc07c07a681901e6f5511bf&txTime=644425ea"
 },
 {
 "type":  "China 3 SD",
@@ -485,7 +485,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-941508_lsd.m3u8?txSecret=c936c18f6cc07c07a681901e6f5511bf&txTime=644425ea"
 }
 ]
 },
@@ -539,7 +539,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=104bf20db544f9fb628065f31b4d4d35&auth_key=1682187874-0-0-d1a5d68e601e8b10ccea252a556c863b"
 },
 {
 "type":  "China 2 HD",
@@ -547,7 +547,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?auth_key=1682187874-0-0-dbf2ae192f4e15b41d708a1e583e438c&sub_m3u8=true&edge_slice=true&user_session_id=f500f4fc74d72086423c39487841298f"
 },
 {
 "type":  "China 3 SD",
@@ -555,7 +555,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?auth_key=1682187874-0-0-dbf2ae192f4e15b41d708a1e583e438c&sub_m3u8=true&edge_slice=true&user_session_id=f500f4fc74d72086423c39487841298f"
 }
 ]
 },
@@ -574,7 +574,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lhd.m3u8?sub_m3u8=true&auth_key=1682187994-0-0-7aa8a6e8a637d44c269e34844aad2615&user_session_id=df8ab971548f2b393ab0411093eda5c2&edge_slice=true"
 },
 {
 "type":  "China 2 HD",
@@ -582,7 +582,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?user_session_id=102a0552b934372e244f0d5d994acc2f&edge_slice=true&auth_key=1682187994-0-0-ec9a44f800f591f0c439352affb2b029&sub_m3u8=true"
 },
 {
 "type":  "China 3 SD",
@@ -590,7 +590,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-187579_lsd.m3u8?user_session_id=102a0552b934372e244f0d5d994acc2f&edge_slice=true&auth_key=1682187994-0-0-ec9a44f800f591f0c439352affb2b029&sub_m3u8=true"
 }
 ]
 },
@@ -609,7 +609,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=8f5ef5ca315e9fdedb02247e3f636d32&txTime=64442716"
 },
 {
 "type":  "China 2 HD",
@@ -617,7 +617,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=8f5ef5ca315e9fdedb02247e3f636d32&txTime=64442716"
 },
 {
 "type":  "China 3 SD",
@@ -625,7 +625,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=8f5ef5ca315e9fdedb02247e3f636d32&txTime=64442716"
 }
 ]
 },
@@ -644,7 +644,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lhd.m3u8?edge_slice=true&user_session_id=8810f2937147f90699098dc1de8cda8b&auth_key=1682188174-0-0-c7265b7481f000dfdb5ade938ea86c2c&sub_m3u8=true"
 },
 {
 "type":  "China 2 HD",
@@ -652,7 +652,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?auth_key=1682188174-0-0-fb89d72d94287b27b68489d5822b6dd0&edge_slice=true&user_session_id=398705e5e6f5e7ee8c229112e8152b52&sub_m3u8=true"
 },
 {
 "type":  "China 3 SD",
@@ -660,7 +660,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-208390_lsd.m3u8?auth_key=1682188174-0-0-fb89d72d94287b27b68489d5822b6dd0&edge_slice=true&user_session_id=398705e5e6f5e7ee8c229112e8152b52&sub_m3u8=true"
 }
 ]
 },
@@ -679,7 +679,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986_lhd.m3u8?txSecret=90d3b8dac644936f14c6c3f329fe498c&txTime=644420ab"
 },
 {
 "type":  "China 2 HD",
@@ -687,7 +687,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-971508_lhd.m3u8?user_session_id=cb10da1e7d435fbbe9e2c0824fe18e6f&sub_m3u8=true&auth_key=1682188354-0-0-8451db31a74112f1f4beef24c2fc6786&edge_slice=true"
 },
 {
 "type":  "China 3 SD",
@@ -695,7 +695,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986_lsd.m3u8?txSecret=90d3b8dac644936f14c6c3f329fe498c&txTime=644420ab"
 }
 ]
 },
@@ -714,7 +714,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=2bbe595cb289b11bec1670f5a1513564&txTime=6444287e"
 },
 {
 "type":  "China 2 HD",
@@ -722,7 +722,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lsd.m3u8?txSecret=2bbe595cb289b11bec1670f5a1513564&txTime=6444287e"
 },
 {
 "type":  "China 3 SD",
@@ -730,7 +730,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lsd.m3u8?txSecret=2bbe595cb289b11bec1670f5a1513564&txTime=6444287e"
 }
 ]
 }
