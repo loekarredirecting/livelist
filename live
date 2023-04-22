@@ -1,40 +1,5 @@
 [
 {
-"league": " La Liga  (8:45 PM) ",
-"himg": "https://mygoaltv.xyz//team/Almeria.png",
-"hteam": "Athletic Bilbao",
-"time": " live ",
-"date": "2023-04-22",
-"aimg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
-"ateam": "Almeria",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-724853_lhd.m3u8?auth_key=1682185127-0-0-3db47d3bf78ce732f83ad498c232abbb&sub_m3u8=true&edge_slice=true&user_session_id=f26116e6bf916d962b0093d6928c8f3b"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=ad22558ce2d8e6dc7cc307b5a0d5d07f&txTime=64442536"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-724853_lsd.m3u8?user_session_id=7f21888a685cdb72c421e0cfa3b82340&sub_m3u8=true&edge_slice=true&auth_key=1682185127-0-0-b8f6a5bd2be12bb845772fdedb40b8e9"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=ad22558ce2d8e6dc7cc307b5a0d5d07f&txTime=64442536"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-724853_lsd.m3u8?user_session_id=7f21888a685cdb72c421e0cfa3b82340&sub_m3u8=true&edge_slice=true&auth_key=1682185127-0-0-b8f6a5bd2be12bb845772fdedb40b8e9"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=ad22558ce2d8e6dc7cc307b5a0d5d07f&txTime=64442536"
-}
-]
-},
-{
 "league": " Ligue 1  (9:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Auxerre.gif",
 "hteam": "Lille",
