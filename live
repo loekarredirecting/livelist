@@ -1,36 +1,36 @@
 [
 {
-"league": " Premier League ",
+"league": " Premier League  (6:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/fulham.png",
 "hteam": "Leeds",
-"time": " 6:00 PM ",
+"time": " live ",
 "date": "2023-04-22",
 "aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
 "ateam": "Fulham",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1682183447-0-0-54387f98b1b20cb0fc33dc24e2945019&sub_m3u8=true&user_session_id=872848d999dd492b1bffd91126908d9d&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=d58d9663d9b1da7b8a3476fa9cc59ba6&txTime=64441582"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1682183447-0-0-84256a3dfc92ceb38a0bb524e9d421bc&sub_m3u8=true&user_session_id=598fa6e3aea42e25c41c8819bf5f8067&edge_slice=true"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=58bf51d3013df472dbdc2525aca9c33a&auth_key=1682183614-0-0-5d57a95af413408c9686511632149402"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1682183447-0-0-84256a3dfc92ceb38a0bb524e9d421bc&sub_m3u8=true&user_session_id=598fa6e3aea42e25c41c8819bf5f8067&edge_slice=true"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-911508_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=58bf51d3013df472dbdc2525aca9c33a&auth_key=1682183614-0-0-5d57a95af413408c9686511632149402"
 }
 ]
 },
