@@ -1,40 +1,5 @@
 [
 {
-"league": " Ligue 1  (9:35 PM) ",
-"himg": "https://mygoaltv.xyz//team/Montpellier.png",
-"hteam": "Rennes",
-"time": " live ",
-"date": "2023-04-23",
-"aimg": "https://mygoaltv.xyz//team/rennes.png",
-"ateam": "Montpellier",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1682270746-0-0-d163d00a784c5bab7f60c14183f1c290"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?auth_key=1682274514-0-0-b16d9d0935a621e53ddb43941d76f19b&sub_m3u8=true&edge_slice=true&user_session_id=7fa9d368aba8fc0c0599583307399dc8"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1682270746-0-0-e7c5d831b1c133a511eb1e9f97d83f1e"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?auth_key=1682274514-0-0-7ded80bfc1317762c8d7c719726bd4bc&sub_m3u8=true&edge_slice=true&user_session_id=e36bef2e1c2ccc4a50435aa67c45e913"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1682270746-0-0-e7c5d831b1c133a511eb1e9f97d83f1e"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?auth_key=1682274514-0-0-7ded80bfc1317762c8d7c719726bd4bc&sub_m3u8=true&edge_slice=true&user_session_id=e36bef2e1c2ccc4a50435aa67c45e913"
-}
-]
-},
-{
 "league": " FA Cup  (10:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "Manchester United",
