@@ -1,36 +1,36 @@
 [
 {
-"league": " Serie A ",
+"league": " Serie A  (5:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/Empoli.gif",
 "hteam": "Inter Milan",
-"time": " 5:00 PM ",
+"time": " live ",
 "date": "2023-04-23",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "Empoli",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&auth_key=1682266546-0-0-e649a01f407e039e9858bbb51fd67589&user_session_id=5b80d0a7c13034a9abb2d6c7dfafa76e&sub_m3u8=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=c1117785888369a0c2f047982193e9d5&txTime=64455b0e"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?sub_m3u8=true&auth_key=1682266726-0-0-6ab00dc608f304380b7077ab692c105e&user_session_id=233ea32593dcfb8eddb3cf4326ed4afa&edge_slice=true"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-941508_lhd.m3u8?txSecret=3be53644fad7c2bccfe44d8155dd9b55&txTime=64455ad2"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=93d7c6b2f168b8b45f8fa7913f8dbb4c&auth_key=1682266546-0-0-ea1a20efb84072c4815be08a50e2cda2&edge_slice=true"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-941508_lsd.m3u8?txSecret=3be53644fad7c2bccfe44d8155dd9b55&txTime=64455ad2"
 }
 ]
 },
