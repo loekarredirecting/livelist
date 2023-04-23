@@ -1,40 +1,5 @@
 [
 {
-"league": " Ligue 1  (5:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/reims.png",
-"hteam": "Strasbourg",
-"time": " live ",
-"date": "2023-04-23",
-"aimg": "https://mygoaltv.xyz//team/strasbourg.png",
-"ateam": "Reims",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://yypull.gdsth.com/live/stream-552917.m3u8?auth_key=1682268406-0-0-0cb199c5cfb55409714662fec4f5a17a"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-360663_lhd.m3u8?user_session_id=ac3e1b700cb598ca1426d635f0124c01&auth_key=1682268214-0-0-e7e32158cdf502665b51aac08b0a3f7e&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=52f7c5669eb8aab454105cba1627d5b1&auth_key=1682268466-0-0-6feec812cdaeb2e5992fed10c8043f5a"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?user_session_id=ef24b87ec4d31d2e32c78e33bbc9f70c&auth_key=1682268214-0-0-5c527d1f6fb6fc48b7325ef770cfdb66&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://yypull.gdsth.com/live/stream-552917_ld.m3u8?auth_key=1682268406-0-0-7150b62e79f94d81ebfad91b31798909"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?auth_key=1682268214-0-0-70cd939cc8ed7a1872b270f6f9e87e67&sub_m3u8=true&edge_slice=true&user_session_id=a34fe8cee9aad80cbe13c4c12aed6713"
-}
-]
-},
-{
 "league": " La Liga  (6:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Elche.png",
 "hteam": "Valencia",
@@ -394,10 +359,10 @@
 ]
 },
 {
-"league": " La Liga ",
+"league": " La Liga  (8:45 PM) ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Atletico Madrid",
-"time": " 8:45 PM ",
+"time": " live ",
 "date": "2023-04-23",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "Barcelona",
@@ -408,7 +373,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=8020f7d9db602b497ca7f3a7857737f2&txTime=64457896"
 },
 {
 "type":  "China 2 HD",
@@ -416,7 +381,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-201986_lhd.m3u8?txSecret=dcebbe4e6bb2d8b01ae6b430f1ffde5f&txTime=64458e26"
 },
 {
 "type":  "China 3 SD",
@@ -424,7 +389,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-118582_lsd.m3u8?txSecret=8020f7d9db602b497ca7f3a7857737f2&txTime=64457896"
 }
 ]
 },
