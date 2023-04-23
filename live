@@ -359,10 +359,10 @@
 ]
 },
 {
-"league": " Bundesliga ",
+"league": " Bundesliga  (8:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/freiburg.png",
 "hteam": "Schalke 04",
-"time": " 8:00 PM ",
+"time": " live ",
 "date": "2023-04-23",
 "aimg": "https://mygoaltv.xyz//team/schalke-04.png",
 "ateam": "Freiburg",
@@ -373,7 +373,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lhd.m3u8?auth_key=1682274394-0-0-1611db28e31530cc9574c8ec80557e14&sub_m3u8=true&edge_slice=true&user_session_id=aeac5aaecf45f8a574a416a4744d0517"
 },
 {
 "type":  "China 2 HD",
@@ -381,7 +381,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?user_session_id=3dc376dbb6fdfa991d365bd24912980f&sub_m3u8=true&edge_slice=true&auth_key=1682274394-0-0-4d2d05df506f9272b6ae3421a62ddacf"
 },
 {
 "type":  "China 3 SD",
@@ -389,7 +389,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132385_lsd.m3u8?user_session_id=3dc376dbb6fdfa991d365bd24912980f&sub_m3u8=true&edge_slice=true&auth_key=1682274394-0-0-4d2d05df506f9272b6ae3421a62ddacf"
 }
 ]
 },
