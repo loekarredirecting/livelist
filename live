@@ -96,11 +96,11 @@
 "ateam": "Brighton",
 "link": [
 {
-"type": "English 1 HD",
+"type": "English HD",
 "livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
 },
 {
-"type": "English 1 SD",
+"type": "English SD",
 "livelink": "https://storage.googleapis.com/buoksy/mux_video_ts/index-1.m3u8"
 },
 {
