@@ -1,57 +1,5 @@
 [
 {
-"league": " La Liga  (8:45 PM) ",
-"himg": "https://mygoaltv.xyz//team/Barcelona.png",
-"hteam": "Atletico Madrid",
-"time": " live ",
-"date": "2023-04-23",
-"aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
-"ateam": "Barcelona",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://linear-489.frequency.stream/dist/vix/489/hls/master/playlist_1024x576.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://storage.googleapis.com/lajreal3/mux_video_ts1/index-1.m3u8"
-},
-
-{
-"type": "China 1 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?user_session_id=f197725c5192cd11633afa2eb7506b76&edge_slice=true&auth_key=1682270446-0-0-6b5d07b2afe937c585d5e8c909c7b808&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=8020f7d9db602b497ca7f3a7857737f2&txTime=64457896"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1682270566-0-0-7abc790c6a3418304a1af24c5d1e37cb&user_session_id=a8d22ab05ca5a98ece25de342220a9b3&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-201986_lhd.m3u8?txSecret=dcebbe4e6bb2d8b01ae6b430f1ffde5f&txTime=64458e26"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lsd.m3u8?user_session_id=d1d7d9df7c8eff8311b996530f347fb2&edge_slice=true&auth_key=1682270446-0-0-98568ce680b34fb86de112602aeff31f&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-118582_lsd.m3u8?txSecret=8020f7d9db602b497ca7f3a7857737f2&txTime=64457896"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-}
-]
-},
-{
 "league": " Ligue 1  (9:35 PM) ",
 "himg": "https://mygoaltv.xyz//team/Montpellier.png",
 "hteam": "Rennes",
@@ -243,10 +191,10 @@
 ]
 },
 {
-"league": " Bundesliga ",
+"league": " Bundesliga  (12:00 AM) ",
 "himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
 "hteam": "Union Berlin",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-04-24",
 "aimg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "ateam": "Monchengladbach",
