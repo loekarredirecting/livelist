@@ -1,71 +1,211 @@
 [
 {
-"league": " Saudi Pro League  (12:30 AM) ",
-"himg": "https://mygoaltv.xyz//team/al-nassr.png",
-"hteam": "Al Wehda",
-"time": " live ",
-"date": "2023-04-25",
-"aimg": "https://mygoaltv.xyz//team/no-logo.png",
-"ateam": "Al-Nassr",
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Girona.png",
+"hteam": "Real Madrid",
+"time": " 12:00 AM ",
+"date": "2023-04-26",
+"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
+"ateam": "Girona",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&user_session_id=27883974456fcec7fb06b318ebbbbf61&auth_key=1682372026-0-0-92a902d7dc8244c5b6e0b2685ffcdaf4&sub_m3u8=true"
+"livelink": ""
 },
 {
 "type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?edge_slice=true&user_session_id=c17ecc2e292d421220edb01f78c82e3c&auth_key=1682372554-0-0-e01bd1b3ca2a5aeb1d9c2f36bdc772ef&sub_m3u8=true"
+"livelink": ""
 },
 {
 "type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=68f03516d89723eecc5d8c20a360f6f9&auth_key=1682372026-0-0-376f3415c4daeb34d47cf4cb3df79c21"
+"livelink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?edge_slice=true&auth_key=1682372614-0-0-91f5013eae7a6bfea937ff60b955f1e4&sub_m3u8=true&user_session_id=a78d93b0c7658447b31ada7de67f9ddc"
+"livelink": ""
 },
 {
 "type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=68f03516d89723eecc5d8c20a360f6f9&auth_key=1682372026-0-0-376f3415c4daeb34d47cf4cb3df79c21"
+"livelink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?user_session_id=5050e39590b0aad47a09e21652236da6&edge_slice=true&auth_key=1682372554-0-0-26e39b0024c645cf3a3fd412434cdc73&sub_m3u8=true"
+"livelink": ""
 }
 ]
 },
 {
-"league": " Serie A  (1:15 AM) ",
-"himg": "https://mygoaltv.xyz//team/Atalanta.png",
-"hteam": "AS Roma",
-"time": " live ",
-"date": "2023-04-25",
-"aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
-"ateam": "Atalanta",
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
+"hteam": "Osasuna",
+"time": " 12:00 AM ",
+"date": "2023-04-26",
+"aimg": "https://mygoaltv.xyz//team/osasuna.png",
+"ateam": "Cadiz",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682372266-0-0-db2acfe5303af6303c311516195aa055&user_session_id=85940569de0d260bd382843672a62b2d"
+"livelink": ""
 },
 {
 "type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=e473287308a97b447ea6e8591b910675&txTime=6446f87e"
+"livelink": ""
 },
 {
 "type":  "China 2 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=48fbb0936a596e3cb4260adbdbb477a1&auth_key=1682372446-0-0-35d0230718abcae0dc5d7849ac8e0349"
+"livelink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=e01b32f998abe55944839698cf39a78f&txTime=6446f8bb"
+"livelink": ""
 },
 {
 "type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1682372266-0-0-a8fdcda6a213ffa205b850201c5b1b50&user_session_id=dd586118299ddb3b1d748e790ccc451f"
+"livelink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=e473287308a97b447ea6e8591b910675&txTime=6446f87e"
+"livelink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
+"hteam": "Crystal Palace",
+"time": " 1:00 AM ",
+"date": "2023-04-26",
+"aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
+"ateam": "Wolverhampton",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": ""
+},
+{
+"type": "Soco 1 HD",
+"livelink": ""
+},
+{
+"type":  "China 2 HD",
+"livelink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": ""
+},
+{
+"type":  "China 3 SD",
+"livelink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/astonvilla.png",
+"hteam": "Fulham",
+"time": " 1:15 AM ",
+"date": "2023-04-26",
+"aimg": "https://mygoaltv.xyz//team/fulham.png",
+"ateam": "Aston Villa",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": ""
+},
+{
+"type": "Soco 1 HD",
+"livelink": ""
+},
+{
+"type":  "China 2 HD",
+"livelink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": ""
+},
+{
+"type":  "China 3 SD",
+"livelink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
+"hteam": "Leicester City",
+"time": " 1:30 AM ",
+"date": "2023-04-26",
+"aimg": "https://mygoaltv.xyz//team/Leicester-City.gif",
+"ateam": "Leeds",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": ""
+},
+{
+"type": "Soco 1 HD",
+"livelink": ""
+},
+{
+"type":  "China 2 HD",
+"livelink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": ""
+},
+{
+"type":  "China 3 SD",
+"livelink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": ""
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/betis.png",
+"hteam": "Real Sociedad",
+"time": " 2:30 AM ",
+"date": "2023-04-26",
+"aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
+"ateam": "Betis",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": ""
+},
+{
+"type": "Soco 1 HD",
+"livelink": ""
+},
+{
+"type":  "China 2 HD",
+"livelink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": ""
+},
+{
+"type":  "China 3 SD",
+"livelink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": ""
 }
 ]
 }
