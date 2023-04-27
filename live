@@ -70,10 +70,10 @@
 ]
 },
 {
-"league": " Premier League ",
+"league": " Premier League  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/southampton.png",
 "hteam": "Bournemouth",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-04-28",
 "aimg": "https://mygoaltv.xyz//team/Bournemouth.gif",
 "ateam": "Southampton",
@@ -92,15 +92,15 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682642255-0-0-47579659795af8721a7037d7f6ebc42d&user_session_id=e4ef91c19870283ef9c02004b966fb84"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?user_session_id=b2daa2fd800501ab32b5475e09b4f3fd&auth_key=1682628647-0-0-b5c53431fb7e3fa32403ff188b903518&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?user_session_id=b0b2fb81495e2f9cae5f96de96b6ffd8&auth_key=1682642255-0-0-d055cf9eae13a7b84606bb41c0b281e9&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China 3 SD",
@@ -108,15 +108,15 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?user_session_id=b0b2fb81495e2f9cae5f96de96b6ffd8&auth_key=1682642255-0-0-d055cf9eae13a7b84606bb41c0b281e9&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
 {
-"league": " Premier League ",
+"league": " Premier League  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/everton.png",
 "hteam": "Newcastle United",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-04-28",
 "aimg": "https://mygoaltv.xyz//team/newcastle.png",
 "ateam": "Everton",
@@ -135,7 +135,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=53d49a1442f362ec3134ecf76aae9f18&txTime=644afe93"
 },
 {
 "type":  "China 2 HD",
@@ -143,7 +143,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?sub_m3u8=true&auth_key=1682636435-0-0-194ee6656e861f4a62be557e99c8a3e1&edge_slice=true&user_session_id=3f4e9a675cbabb8973b5e9bb62d57c04"
 },
 {
 "type":  "China 3 SD",
@@ -151,7 +151,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?sub_m3u8=true&auth_key=1682636435-0-0-194ee6656e861f4a62be557e99c8a3e1&edge_slice=true&user_session_id=3f4e9a675cbabb8973b5e9bb62d57c04"
 }
 ]
 },
