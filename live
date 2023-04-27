@@ -208,6 +208,14 @@
 "livelink": "http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=30567&extension=ts"
 },
 {
+"type": "English 3 HD",
+"livelink": "http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=918984&extension=ts"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://seehdgames.online/yayinch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDIzIDc6MDQ6MzggUE0maGFzaF92YWx1ZT1uN1VZLzhPQXR0bmRIVGpuSEc3N25RPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAwOmFjNDA6NjEwOjg2MDE6MjE5NTo5YTZhOmQwYjQ6YTkxYiZzdHJtX2xlbj01"
+},
+{
 "type": "China 1 HD",
 "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=266b45d67dfc4ec4c5925529983d8977&auth_key=1682631106-0-0-84803386376a6b67bd30de39b361529d"
 },
