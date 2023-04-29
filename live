@@ -1,48 +1,5 @@
 [
 {
-"league": " Premier League (6:00 PM ",
-"himg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
-"hteam": "West Ham",
-"time": " live ",
-"date": "2023-04-29",
-"aimg": "https://mygoaltv.xyz//team/westham.png",
-"ateam": "Crystal Palace",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://storage.googleapis.com/iziove1/mux_video_ts/index-1.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "http://weishuifang.com/live/streamhd4040.m3u8"
-},
-{
-"type": "China 1 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682789027-0-0-f55983ee0d78c82e9602f8514f6d6d88&user_session_id=e10888f8f2f12388c87ba20ab4c64b3f"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-831508_lhd.m3u8?auth_key=1682789135-0-0-35578669ef50154f6acd3fad5f0d32cb&user_session_id=669a379fd3e468e7656b033816248c33&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1682789087-0-0-2e114e8e65b8833a6145bfe8b95fe232&sub_m3u8=true&user_session_id=9a737a03ed189b71442251d905c9f392"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-115493_lhd.m3u8?txSecret=07f898943b091d6f6bc0872c47a14356&txTime=644d5387"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682789027-0-0-95552151702dbe0b5d4a9dc30c8134bd&user_session_id=d9a12de92b996b8cc56dd7dd0380bf69"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-831508_lsd.m3u8?sub_m3u8=true&user_session_id=5e60764a8263870ed4a38e99f03a9db6&auth_key=1682789135-0-0-2512ea62ab2615a7324bb3c548e66185&edge_slice=true"
-}
-]
-},
-{
 "league": " Bundesliga  (8:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "hteam": "Leverkusen",
@@ -218,10 +175,10 @@
 ]
 },
 {
-"league": " Premier League ",
+"league": " Premier League  (8:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "Wolverhampton",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-04-29",
 "aimg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "ateam": "Brighton",
@@ -253,10 +210,10 @@
 ]
 },
 {
-"league": " Premier League ",
+"league": " Premier League  (8:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Brentford.png",
 "hteam": "Nottingham Forest",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-04-29",
 "aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "ateam": "Brentford",
@@ -288,10 +245,10 @@
 ]
 },
 {
-"league": " La Liga ",
+"league": " La Liga (8:45 PM) ",
 "himg": "https://mygoaltv.xyz//team/Elche.png",
 "hteam": "Rayo Vallecano",
-"time": " 8:45 PM ",
+"time": " live ",
 "date": "2023-04-29",
 "aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "ateam": "Elche",
