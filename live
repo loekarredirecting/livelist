@@ -459,9 +459,44 @@
 "himg": "https://mygoaltv.xyz//team/Torino.png",
 "hteam": "Atalanta",
 "time": " 1:15 AM ",
-"date": "2023-04-29",
+"date": "2023-04-30",
 "aimg": "https://mygoaltv.xyz//team/Atalanta.png",
 "ateam": "Torino",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
+"hteam": "Barcelona",
+"time": " 1:30 AM ",
+"date": "2023-04-30",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+"ateam": "Real Betis",
 "link": [
 {
 "type": "China 1 HD",
