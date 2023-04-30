@@ -1,40 +1,5 @@
 [
 {
-"league": " La Liga  (6:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
-"hteam": "Valencia",
-"time": " live ",
-"date": "2023-04-30",
-"aimg": "https://mygoaltv.xyz//team/Valencia.png",
-"ateam": "Cadiz",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lhd.m3u8?edge_slice=true&auth_key=1682876327-0-0-d7ce78f8a7b820f0aaf105a4a303e741&sub_m3u8=true&user_session_id=5102b98fbc8c100c7d9214ee2c9b38da"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115447_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1682872655-0-0-f0215773c19dc5e9557b1df60a1bc131&user_session_id=65affbecb1f73f985927ba04583becbe"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?edge_slice=true&auth_key=1682876327-0-0-2c1335b27f68bf5fc0e4a333dc215f71&sub_m3u8=true&user_session_id=60c3b19ac4f2d9cebba74778a3c4f2fc"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?auth_key=1682872655-0-0-1587f7dc75bc8372bba2dff20603bbb6&edge_slice=true&user_session_id=9fabdca663d8cfec9c6b9c143feaf81c&sub_m3u8=true"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-484756_lsd.m3u8?edge_slice=true&auth_key=1682876327-0-0-2c1335b27f68bf5fc0e4a333dc215f71&sub_m3u8=true&user_session_id=60c3b19ac4f2d9cebba74778a3c4f2fc"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115447_lsd.m3u8?auth_key=1682872655-0-0-1587f7dc75bc8372bba2dff20603bbb6&edge_slice=true&user_session_id=9fabdca663d8cfec9c6b9c143feaf81c&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Premier League  (7:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Aston Villa",
@@ -452,10 +417,10 @@
 ]
 },
 {
-"league": " Ligue 1 ",
+"league": " Ligue 1  (9:35 PM) ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "hteam": "Lorient",
-"time": " 9:35 PM ",
+"time": " live ",
 "date": "2023-04-30",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "ateam": "PSG",
@@ -487,10 +452,10 @@
 ]
 },
 {
-"league": " Premier League ",
+"league": " Premier League  (10:00 PM) ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "hteam": "Tottenham",
-"time": " 10:00 PM ",
+"time": " live ",
 "date": "2023-04-30",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "ateam": "Liverpool",
@@ -522,10 +487,10 @@
 ]
 },
 {
-"league": " Bundesliga ",
+"league": " Bundesliga  (10:00 PM) ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "hteam": "Mainz 05",
-"time": " 10:00 PM ",
+"time": " live ",
 "date": "2023-04-30",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
 "ateam": "Wolfsburg",
