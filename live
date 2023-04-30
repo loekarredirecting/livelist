@@ -1,40 +1,5 @@
 [
 {
-"league": " Ligue 1 (5:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/monaco.png",
-"hteam": "Montpellier",
-"time": " live ",
-"date": "2023-04-30",
-"aimg": "https://mygoaltv.xyz//team/Montpellier.png",
-"ateam": "Monaco",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?auth_key=1682871467-0-0-90da5c2873a8c38080eb19f58d94aa32&user_session_id=bed0f7d0e7e06c212d7c2e293f847005&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lhd.m3u8?user_session_id=cbacae15ec026495ea853d1da39e0ef7&auth_key=1682872563-0-0-279dec59b0512cc018a228f34bfa28dd&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?auth_key=1682871467-0-0-6cce9f0864cbfbcec036a39229d07424&edge_slice=true&user_session_id=3a2efaa6565862b39e06f3df6e27fe68&sub_m3u8=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?edge_slice=true&auth_key=1682872563-0-0-cbaef24ca1c568d5053c0b700da7e18e&user_session_id=e295802c9efc0b82538b969c673aca81&sub_m3u8=true"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?auth_key=1682871467-0-0-6cce9f0864cbfbcec036a39229d07424&edge_slice=true&user_session_id=3a2efaa6565862b39e06f3df6e27fe68&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-19949_lsd.m3u8?edge_slice=true&auth_key=1682872563-0-0-cbaef24ca1c568d5053c0b700da7e18e&user_session_id=e295802c9efc0b82538b969c673aca81&sub_m3u8=true"
-}
-]
-},
-{
 "league": " La Liga  (6:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "hteam": "Valencia",
