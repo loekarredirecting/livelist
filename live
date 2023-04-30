@@ -287,7 +287,7 @@
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?user_session_id=24f1040ce54c997e3b3b2259c031bd6e&sub_m3u8=true&auth_key=1682880468-0-0-0d5909af2962bdbf21c992ca3e08fd1a&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
@@ -295,7 +295,7 @@
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?user_session_id=ad17bd69e0c09cf40be675d845d0fa07&sub_m3u8=true&auth_key=1682880468-0-0-dcf9150934af829d02dd2b1ff0e92065&edge_slice=true"
 },
 {
 "type": "Soco 2 HD",
@@ -303,7 +303,7 @@
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?user_session_id=ad17bd69e0c09cf40be675d845d0fa07&sub_m3u8=true&auth_key=1682880468-0-0-dcf9150934af829d02dd2b1ff0e92065&edge_slice=true"
 },
 {
 "type": "Soco 3 SD",
@@ -357,7 +357,7 @@
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?edge_slice=true&auth_key=1682880527-0-0-3183a612ae0951eec704853bfcf402ee&user_session_id=ba91a62eaa83b7b173874afa57671989&sub_m3u8=true"
 },
 {
 "type": "Soco 1 HD",
@@ -365,7 +365,7 @@
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?edge_slice=true&auth_key=1682880527-0-0-42ea99de9964eeed477e1a399598ee9b&user_session_id=be0cab56e5a20b483d695fabfa675694&sub_m3u8=true"
 },
 {
 "type": "Soco 2 HD",
@@ -373,7 +373,7 @@
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?edge_slice=true&auth_key=1682880527-0-0-42ea99de9964eeed477e1a399598ee9b&user_session_id=be0cab56e5a20b483d695fabfa675694&sub_m3u8=true"
 },
 {
 "type": "Soco 3 SD",
@@ -452,10 +452,10 @@
 ]
 },
 {
-"league": " Bundesliga ",
+"league": " Bundesliga  (8:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "hteam": "Hertha Berlin",
-"time": " 8:00 PM ",
+"time": " live ",
 "date": "2023-04-30",
 "aimg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
 "ateam": "Bayern Munich",
