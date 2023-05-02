@@ -102,6 +102,14 @@
 "ateam": "Arsenal",
 "link": [
 {
+"type": "English HD",
+"livelink": ""
+},
+{
+"type": ""English SD",
+"livelink": ""
+},
+{
 "type": "China 1 HD",
 "livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=2db2c3af4f33aefe89cf563ce3c0da38&auth_key=1683070487-0-0-86700c6e05cd5d62b85084986203418a&edge_slice=true&sub_m3u8=true"
 },
