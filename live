@@ -1,71 +1,71 @@
 [
 {
-"league": " Serie A ",
+"league": " Serie A  (10:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Juventus.png",
 "hteam": "Lecce",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "2023-05-03",
 "aimg": "https://mygoaltv.xyz//team/lecce.png",
 "ateam": "Juventus",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&auth_key=1683149807-0-0-b17649c474afb1f093dfdc91f057275d&sub_m3u8=true&user_session_id=9f2a4348016ac07a904f36667f45e6f2"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-961508_lhd.m3u8?txSecret=c60fc34fed2de19c6b57b84e46ec984e&txTime=6452d32f"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&auth_key=1683149807-0-0-89bb301bb6ab6d765b8f24066bbae8e4&sub_m3u8=true&user_session_id=11bd3f078ffa6ae799dc1b5874de9503"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-961508_lsd.m3u8?txSecret=c60fc34fed2de19c6b57b84e46ec984e&txTime=6452d32f"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&auth_key=1683149807-0-0-89bb301bb6ab6d765b8f24066bbae8e4&sub_m3u8=true&user_session_id=11bd3f078ffa6ae799dc1b5874de9503"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-961508_lsd.m3u8?txSecret=c60fc34fed2de19c6b57b84e46ec984e&txTime=6452d32f"
 }
 ]
 },
 {
-"league": " Serie A ",
+"league": " Serie A  (10:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Atalanta.png",
 "hteam": "Spezia",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "2023-05-03",
 "aimg": "https://mygoaltv.xyz//team/Spezia.gif",
 "ateam": "Atalanta",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?auth_key=1683149867-0-0-2fd6f980c3077b96afcd99b3fbab1a45&user_session_id=7024bf92fe73f8ec1ea015dc9442aad0&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=00677ba4f2a9a14492444dcdf82eda6c&txTime=6452d36b"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?auth_key=1683149867-0-0-78d9c1c03ccf689b8bdf3fa38e2c488a&user_session_id=07989e6f46307c0e130bf105903d576c&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=00677ba4f2a9a14492444dcdf82eda6c&txTime=6452d36b"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://95cb9d31bad4cd09dc2e7113a3e1af09.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?auth_key=1683149867-0-0-78d9c1c03ccf689b8bdf3fa38e2c488a&user_session_id=07989e6f46307c0e130bf105903d576c&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-121256_lsd.m3u8?txSecret=00677ba4f2a9a14492444dcdf82eda6c&txTime=6452d36b"
 }
 ]
 },
