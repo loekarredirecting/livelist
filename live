@@ -1,20 +1,20 @@
 [
 {
-"league": " La Liga ",
+"league": " La Liga. (12:00 AM) ",
 "himg": "https://mygoaltv.xyz//team/Girona.png",
 "hteam": "Mallorca",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-05-05",
 "aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "ateam": "Girona",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": ""
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1683242195-0-0-59119c1bd40f0bd68409f880c8ec57a4&user_session_id=1e063ccc13aa744b5d6ae3a769ae0f95&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China 2 HD",
@@ -22,7 +22,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1683242315-0-0-156a4f79e4ddaf7a9e179f6bc582413a&user_session_id=ccd36dfd7c9dcd19c986a2e4109303e8&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China 3 SD",
@@ -30,15 +30,15 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?auth_key=1683242195-0-0-da134a1026136ee466dacd43dee774fa&sub_m3u8=true&edge_slice=true&user_session_id=1d6398fc1c5b0b12bec75b20eb6ef2f2"
 }
 ]
 },
 {
-"league": " La Liga ",
+"league": " La Liga. (12:00 AM) ",
 "himg": "https://mygoaltv.xyz//team/Sevilla.png",
 "hteam": "Espanyol",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-05-05",
 "aimg": "https://mygoaltv.xyz//team/Espanyol.png",
 "ateam": "Sevilla",
@@ -49,7 +49,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lhd.m3u8?auth_key=1683242495-0-0-d4f42a5fec351e222ed7b5657faa6fd5&user_session_id=1410c28749d04623ee325045cec8bd8e&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China 2 HD",
@@ -57,7 +57,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=f2ba737dc05affb3626b5d1bdf9024b7&txTime=64543e6f"
 },
 {
 "type":  "China 3 SD",
@@ -65,7 +65,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-109053_lsd.m3u8?auth_key=1683242495-0-0-8d48cce076bb282ef580fdd5eb66c0ca&edge_slice=true&user_session_id=f2a61b34719a96a1aa27d3c5befe2e30&sub_m3u8=true"
 }
 ]
 },
