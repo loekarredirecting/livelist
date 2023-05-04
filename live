@@ -149,6 +149,14 @@
 "ateam": "Brighton",
 "link": [
 {
+"type": "English HD",
+"livelink": ""
+},
+{
+"type": "English SD",
+"livelink": ""
+},
+{
 "type": "China 1 HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1683241616-0-0-101f0b0c9cb37c9aab33fade35e60589&sub_m3u8=true&user_session_id=bc93c8df38e747591ecd3cf84e9880a4&edge_slice=true"
 },
