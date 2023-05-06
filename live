@@ -1,195 +1,597 @@
 [
-           {
-
-           "league": "Bundesliga (1:00 AM)",
-
-            "date": "May 6",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-
-            "teams" : "Bayer Leverkusen Vs 1. FC Köln",
-
-            "ateam" : "Bayer Leverkusen",
-
-            "hteam" : "1. FC Köln",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "Soco 1 HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132343_lhd.m3u8?auth_key=1683315275-0-0-9ae0896a184e4c1dbcdea6640b896fbf&user_session_id=4a6155e95d50b38b18398127d57d5a1d&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },                     
-
 {
-
-                    "type": "Soco 2 SD ",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?user_session_id=6d49ac3fca47e2b47d71773669768863&auth_key=1683315275-0-0-2a815abb649ce4d544509c13fd3f1a92&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/acmilan.png",
+"hteam": "Lazio",
+"time": " 7:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/lazio.png",
+"ateam": "AC Milan",
+"link": [
 {
-
-                    "type": "Soco 2 HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-132343_lsd.m3u8?user_session_id=6d49ac3fca47e2b47d71773669768863&auth_key=1683315275-0-0-2a815abb649ce4d544509c13fd3f1a92&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "China 1 HD ",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lhd.m3u8?edge_slice=true&auth_key=1683314636-0-0-2b1f0b63eef5d714193a985eceb36467&user_session_id=4944a9373cd96bbf3b7386cf6a32f957&sub_m3u8=true"
-
-                },
-
-{
-
-                    "type": "China 2 HD ",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1683314757-0-0-e90163840931f88e92fc5c2592712926&sub_m3u8=true&edge_slice=true&user_session_id=f6dec44aaa3d8a832181b11a3fbbfc93"
-
-                },
-
-{
-
-                    "type": "China SD ",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?edge_slice=true&auth_key=1683314636-0-0-5b9b04b3540ad1292f71d6b28ec5a797&user_session_id=1c4a023ebaa6c539be96086a709e719e&sub_m3u8=true"
-
-                }
-
-                
-
-            ]
-
+"type": "China 1 HD",
+"livelink": "0"
 },
-
-           {
-
-           "league": "Bundesliga (1:00 AM)",
-
-            "date": "May 6",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10189_small.png",
-
-            "teams" : "Mainz 05 Vs Schalke 04",
-
-            "ateam" : "Mainz 05",
-
-            "hteam" : "Schalke 04",
-
-            "hotmat":"no",
-
-            "link":[
-
-  {
-
-                    "type": "Soco 1 HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?user_session_id=452c0a4e9113103242210a9f5b25d670&auth_key=1683315036-0-0-6f017092d2d8f65a11c2c661f44815d2&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },                     
-
 {
-
-                    "type": "Soco SD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?user_session_id=452c0a4e9113103242210a9f5b25d670&auth_key=1683315036-0-0-6f017092d2d8f65a11c2c661f44815d2&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
+"type": "Soco 1 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "Soco 2 HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?user_session_id=452c0a4e9113103242210a9f5b25d670&auth_key=1683315036-0-0-6f017092d2d8f65a11c2c661f44815d2&sub_m3u8=true&edge_slice=true"
-
-         
-
-                },
-
+"type":  "China 2 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "China 1 HD ",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?edge_slice=true&user_session_id=0665a78eb146dfb0e5f33b2804c01285&sub_m3u8=true&auth_key=1683314156-0-0-3a9c21d9603141697cc5295157862c51"
-
-                },
-
+"type": "Soco 2 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "China 2 HD ",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1683314396-0-0-526890b345a2fd376d4f1ae3067ee598&sub_m3u8=true&user_session_id=af5c557c5d857b00033105762b5b8b2b&edge_slice=true"
-
-                },
-
+"type":  "China 3 SD",
+"livelink": "0"
+},
 {
-
-                    "type": "China SD ",
-
-                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?edge_slice=true&user_session_id=0665a78eb146dfb0e5f33b2804c01285&sub_m3u8=true&auth_key=1683314156-0-0-3a9c21d9603141697cc5295157862c51"
-
-                }
-
-                
-
-            ]
-
+"type": "Soco 3 SD",
+"livelink": "0"
 }
-
-
-
-
-  
-
-           
-
-
-            
-                
-            
-               
-          
-               
-            
-
-           
-           
-           
-
-
-          
- 
-             
- 
-]            
-                    
-
-                    
-                    
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/freiburg.png",
+"hteam": "RB Leipzig",
+"time": " 8:00 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
+"ateam": "Freiburg",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
+"hteam": "Bochum",
+"time": " 8:00 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/Bochum.gif",
+"ateam": "Monchengladbach",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
+"hteam": "Frankfurt",
+"time": " 8:00 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
+"ateam": "Hoffenheim",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
+"hteam": "Stuttgart",
+"time": " 8:00 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/stuttgart.png",
+"ateam": "Hertha Berlin",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/augsburg.png",
+"hteam": "Union Berlin",
+"time": " 8:00 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/Union-Berlin.png",
+"ateam": "Augsburg",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
+"hteam": "Chelsea",
+"time": " 8:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/chelsea.png",
+"ateam": "Bournemouth",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/manchestercity.png",
+"hteam": "Leeds",
+"time": " 8:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
+"ateam": "Manchester City",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
+"hteam": "Aston Villa",
+"time": " 8:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/astonvilla.png",
+"ateam": "Wolverhampton",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/tottenham.png",
+"hteam": "Crystal Palace",
+"time": " 8:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
+"ateam": "Tottenham",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Nice.png",
+"hteam": "Rennes",
+"time": " 9:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/rennes.png",
+"ateam": "Nice",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/AS-Roma.png",
+"hteam": "Inter Milan",
+"time": " 10:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
+"ateam": "AS Roma",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/liverpool.png",
+"hteam": "Brentford",
+"time": " 11:00 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/Brentford.png",
+"ateam": "Liverpool",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
+"hteam": "Bayern Munich",
+"time": " 11:00 PM ",
+"date": "2023-05-06",
+"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"ateam": "Werder Bremen",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+"hteam": "Lille",
+"time": " 11:30 PM ",
+"date": "2023-05-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+"ateam": "Reims",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+"hteam": "Spezia",
+"time": " 1:15 AM ",
+"date": "2023-05-07",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+"ateam": "Cremonese",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+"hteam": "Marseille",
+"time": " 1:30 AM ",
+"date": "2023-05-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+"ateam": "Lens",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+}
+]
