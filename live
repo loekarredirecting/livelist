@@ -133,11 +133,11 @@
 
            {
 
-           "league": " Premier League",
+           "league": " Premier League(11:00 PM)",
 
             "date": "06-05-2023",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 
@@ -155,9 +155,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "China HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1683410756-0-0-4a9dd62d511c1b8fce650ed154f8ea2e&edge_slice=true&sub_m3u8=true&user_session_id=94b8a164d61f1da941f3939330243771"
 
          
 
@@ -165,19 +165,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "Soco HD",
 
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991101_lhd.m3u8?user_session_id=db6a439e457624a818927e169606403f&auth_key=1683410616-0-0-59b129367c31185942e322a9f6d3c4de&sub_m3u8=true&edge_slice=true"
 
          
 
@@ -185,9 +175,19 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "China SD",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1683410756-0-0-c79fa2e995eb18e45e051aa404e2c1cc&user_session_id=8bc5be87a731e2c1cac751b4b912ee54&sub_m3u8=true"
+
+         
+
+                },
+
+{
+
+                    "type": "Soco SD",
+
+                "livelink":"https://3e2c221d70ae22493725da7ff1bfba5c.livehwc3.cn/pull06.scstream.net/live/stream-991101_lsd.m3u8?sub_m3u8=true&auth_key=1683410616-0-0-3b0d617b9bc588d3ef0fdb1ac3dc3efb&user_session_id=9fc6c806038cff248ea0dca6a77ccb10&edge_slice=true"
 
                 }
 
@@ -199,11 +199,11 @@
 
            {
 
-           "league": " Bundesliga",
+           "league": " Bundesliga  (11:00 PM)",
 
             "date": "06-05-2023",
 
-            "time": "11:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
 
@@ -221,9 +221,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "China HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&auth_key=1683410876-0-0-734fd816d38b2f06aa6bfd71dfd2a9ec&edge_slice=true&user_session_id=0f99a641940bf1fa0ca9f6f394ea13d1"
 
          
 
@@ -231,19 +231,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "Soco HD",
 
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-190631_lhd.m3u8?txSecret=bc4944f07be8a67071bcbff6a5138688&txTime=6456cef4"
 
          
 
@@ -251,9 +241,19 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "China SD",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=32b1e32f336ebeb9f58572de36d77a75&sub_m3u8=true&auth_key=1683410876-0-0-e230cd03f13f628606d424525ca49774&edge_slice=true"
+
+         
+
+                },
+
+{
+
+                    "type": "Soco SD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-190631_lsd.m3u8?txSecret=bc4944f07be8a67071bcbff6a5138688&txTime=6456cef4"
 
                 }
 
