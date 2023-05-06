@@ -309,7 +309,7 @@
 
                     "type": "China SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?auth_key=1683412917-0-0-ad30284389ebb959daf5b00c80c6a19a&sub_m3u8=true&edge_slice=true&user_session_id=1372097798686685d77895854b02c1c7"
 
          
 
@@ -319,7 +319,7 @@
 
                     "type": "China HD",
 
-                "livelink":"."
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?auth_key=1683412917-0-0-50ec424d4d89ce2c9db48718c37b372e&sub_m3u8=true&edge_slice=true&user_session_id=6185881cf9fe851bf4b4e2d51e85378c"
 
                 }
 
@@ -331,7 +331,7 @@
 
            {
 
-           "league": " Serie A",
+           "league": " Serie A  (1:15 AM)",
 
             "date": "07-05-2023",
 
@@ -353,7 +353,7 @@
 
   {
 
-                    "type": "SD",
+                    "type": "China HD",
 
                 "livelink":""
 
@@ -363,7 +363,7 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "China SD",
 
                 "livelink":""
 
@@ -373,7 +373,7 @@
 
 {
 
-                    "type": "HD",
+                    "type": "Soco HD",
 
                 "livelink":""
 
@@ -383,7 +383,7 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "Soco SD",
 
                 "livelink":"."
 
@@ -419,7 +419,7 @@
 
   {
 
-                    "type": "SD",
+                    "type": "Soco HD",
 
                 "livelink":""
 
@@ -429,7 +429,7 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "Soco HD",
 
                 "livelink":""
 
@@ -439,7 +439,7 @@
 
 {
 
-                    "type": "HD",
+                    "type": "China HD",
 
                 "livelink":""
 
@@ -449,7 +449,7 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "China SD",
 
                 "livelink":"."
 
