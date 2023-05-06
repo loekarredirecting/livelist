@@ -89,7 +89,7 @@
 
             "date": "06-05-2023",
 
-            "time": "8:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 
@@ -107,9 +107,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "Soco 1 HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=e07a0be2267579ec792cf2eaca1c40f7&txTime=6456a5f0"
 
          
 
@@ -117,19 +117,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "HD Soco2",
 
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=fc23a1c1217e4914a3e0efdca3a0e5e9&txTime=6456a62c"
 
          
 
@@ -137,12 +127,13 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "Soco SD",
 
-                "livelink":"."
+                "livelink":"https://sports01.livnvess.com/live/stream-104707_lsd.m3u8?txSecret=e07a0be2267579ec792cf2eaca1c40f7&txTime=6456a5f0"
+
+         
 
                 }
-
                 
 
             ]
@@ -155,7 +146,7 @@
 
             "date": "06-05-2023",
 
-            "time": "8:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
 
@@ -173,9 +164,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "Soco 1 HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683399816-0-0-a1e9935a6deacf4dad4d717b5bb928fe&user_session_id=3bdfce7538888aa38aefa5696bf3c0f0"
 
          
 
@@ -183,19 +174,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "HD Soco 2",
 
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1683399816-0-0-a1e9935a6deacf4dad4d717b5bb928fe&user_session_id=3bdfce7538888aa38aefa5696bf3c0f0"
 
          
 
@@ -203,9 +184,11 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "Soco SD",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-158841_lhd.m3u8?user_session_id=5f1fedaf6cd3edbb55608c29ef641d97&auth_key=1683399816-0-0-636792290c1f061b4b991fd477f00faa&edge_slice=true&sub_m3u8=true"
+
+         
 
                 }
 
@@ -221,7 +204,7 @@
 
             "date": "06-05-2023",
 
-            "time": "8:00 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
 
@@ -239,9 +222,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "Soco 1 HD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=d7c94ca288646fa1866cafded76696fb&txTime=6456a6a4"
 
          
 
@@ -249,19 +232,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "HD Soco2",
 
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=d7c94ca288646fa1866cafded76696fb&txTime=6456a6a4"
 
          
 
@@ -269,9 +242,11 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "Soco SD",
 
-                "livelink":"."
+                "livelink":"https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=d7c94ca288646fa1866cafded76696fb&txTime=6456a6a4"
+
+         
 
                 }
 
