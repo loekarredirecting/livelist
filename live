@@ -25,9 +25,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "HD Soco 1",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=9dac8e2b5dcd8b28f0ced9d835acff68&txTime=64569f60"
 
          
 
@@ -35,19 +35,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "SD Soco",
 
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=9dac8e2b5dcd8b28f0ced9d835acff68&txTime=64569f60"
 
          
 
@@ -55,9 +45,35 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "Soco 2 HD",
 
-                "livelink":"."
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1683398556-0-0-01acecf0eb9c074d9951a7995ec91b4d&edge_slice=true&sub_m3u8=true&user_session_id=c6e818b67464aa18d4857b79c0d57096"
+
+         
+
+                },
+
+{
+
+                    "type": "China SD",
+
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?user_session_id=7bf427345f4895bd99f84d939ecda1ab&sub_m3u8=true&edge_slice=true&auth_key=1683398277-0-0-12c979adf43285b538277df5d0602dc3"
+
+                },
+
+{
+
+                    "type": "China 1 HD",
+
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?user_session_id=f15c9308c46c5a7b6b8d889354b33950&sub_m3u8=true&edge_slice=true&auth_key=1683398277-0-0-c1aaef518676b2eb72f6342e0f0b345c"
+
+                },
+
+{
+
+                    "type": "China 2 HD",
+
+                "livelink":"https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-778499_lhd.m3u8?auth_key=1683398397-0-0-258b16635cb71515a0bd078063a2e251&edge_slice=true&sub_m3u8=true&user_session_id=6391fe10c126f34ad39362b4be20aa92"
 
                 }
 
