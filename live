@@ -265,11 +265,11 @@
 
            {
 
-           "league": " Ligue 1",
+           "league": " Ligue 1  (11:30 PM)",
 
             "date": "06-05-2023",
 
-            "time": "11:30 PM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 
@@ -287,9 +287,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "S0co SD",
 
-                "livelink":""
+                "livelink":"https://sports01.livnvess.com/live/stream-115447_lsd.m3u8?txSecret=f00e74098cdd5ec17f0facaa4fab6ed0&txTime=6456cef4"
 
          
 
@@ -297,7 +297,17 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "Soco HD",
+
+                "livelink":"https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=f00e74098cdd5ec17f0facaa4fab6ed0&txTime=6456cef4"
+
+         
+
+                },
+
+{
+
+                    "type": "China SD",
 
                 "livelink":""
 
@@ -307,17 +317,7 @@
 
 {
 
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
-{
-
-                    "type": "HD 2",
+                    "type": "China HD",
 
                 "livelink":"."
 
