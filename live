@@ -1,597 +1,1077 @@
 [
+
+           
+           {
+
+           "league": " Serie A",
+
+            "date": "06-05-2023",
+
+            "time": "7:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+
+            "teams" : "Milan Vs Lazio",
+
+            "ateam" : "Milan",
+
+            "hteam" : "Lazio",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/acmilan.png",
-"hteam": "Lazio",
-"time": " 7:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/lazio.png",
-"ateam": "AC Milan",
-"link": [
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
 {
-"type": "China 1 HD",
-"livelink": "0"
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
 },
+
+           {
+
+           "league": " Bundesliga",
+
+            "date": "06-05-2023",
+
+            "time": "8:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+
+            "teams" : "SC Freiburg Vs RB Leipzig",
+
+            "ateam" : "SC Freiburg",
+
+            "hteam" : "RB Leipzig",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
 {
-"type": "Soco 1 HD",
-"livelink": "0"
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
 },
+
+           {
+
+           "league": " Bundesliga",
+
+            "date": "06-05-2023",
+
+            "time": "8:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+
+            "teams" : "Hertha BSC Vs VfB Stuttgart",
+
+            "ateam" : "Hertha BSC",
+
+            "hteam" : "VfB Stuttgart",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
 {
-"type":  "China 2 HD",
-"livelink": "0"
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
 },
+
+           {
+
+           "league": " Bundesliga",
+
+            "date": "06-05-2023",
+
+            "time": "8:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
+
+            "teams" : "TSG Hoffenheim Vs Frankfurt",
+
+            "ateam" : "TSG Hoffenheim",
+
+            "hteam" : "Frankfurt",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
 {
-"type": "Soco 2 HD",
-"livelink": "0"
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
 },
+
+           {
+
+           "league": " Premier League",
+
+            "date": "06-05-2023",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
+
+            "teams" : "Man City Vs Leeds",
+
+            "ateam" : "Man City",
+
+            "hteam" : "Leeds",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
 {
-"type":  "China 3 SD",
-"livelink": "0"
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
 },
+
+           {
+
+           "league": " Premier League",
+
+            "date": "06-05-2023",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+
+            "teams" : "Bournemouth Vs Chelsea",
+
+            "ateam" : "Bournemouth",
+
+            "hteam" : "Chelsea",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
 {
-"type": "Soco 3 SD",
-"livelink": "0"
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Premier League",
+
+            "date": "06-05-2023",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+
+            "teams" : "Tottenham Vs Crystal Palace",
+
+            "ateam" : "Tottenham",
+
+            "hteam" : "Crystal Palace",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Premier League",
+
+            "date": "06-05-2023",
+
+            "time": "8:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+
+            "teams" : "Wolves Vs Aston Villa",
+
+            "ateam" : "Wolves",
+
+            "hteam" : "Aston Villa",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Ligue 1",
+
+            "date": "06-05-2023",
+
+            "time": "9:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+
+            "teams" : "Nice Vs Rennes",
+
+            "ateam" : "Nice",
+
+            "hteam" : "Rennes",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Serie A",
+
+            "date": "06-05-2023",
+
+            "time": "10:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+
+            "teams" : "Roma Vs Inter",
+
+            "ateam" : "Roma",
+
+            "hteam" : "Inter",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Premier League",
+
+            "date": "06-05-2023",
+
+            "time": "11:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+
+            "teams" : "Liverpool Vs Brentford",
+
+            "ateam" : "Liverpool",
+
+            "hteam" : "Brentford",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Bundesliga",
+
+            "date": "06-05-2023",
+
+            "time": "11:00 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+
+            "teams" : "Werder Bremen Vs Bayern München",
+
+            "ateam" : "Werder Bremen",
+
+            "hteam" : "Bayern München",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Ligue 1",
+
+            "date": "06-05-2023",
+
+            "time": "11:30 PM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
+
+            "teams" : "Reims Vs Lille",
+
+            "ateam" : "Reims",
+
+            "hteam" : "Lille",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Serie A",
+
+            "date": "07-05-2023",
+
+            "time": "1:15 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
+
+            "teams" : "Cremonese Vs Spezia",
+
+            "ateam" : "Cremonese",
+
+            "hteam" : "Spezia",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+
+                
+
+            ]
+
+},
+
+           {
+
+           "league": " Spain - Copa del Rey - Final",
+
+            "date": "07-05-2023",
+
+            "time": "2:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+
+            "teams" : "Real Madrid Vs Osasuna",
+
+            "ateam" : "Real Madrid",
+
+            "hteam" : "Osasuna",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":"."
+
+                }
+                       
+                       
+
+                
+
+            ]
+
 }
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/freiburg.png",
-"hteam": "RB Leipzig",
-"time": " 8:00 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
-"ateam": "Freiburg",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
-"hteam": "Bochum",
-"time": " 8:00 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/Bochum.gif",
-"ateam": "Monchengladbach",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
-"hteam": "Frankfurt",
-"time": " 8:00 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
-"ateam": "Hoffenheim",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
-"hteam": "Stuttgart",
-"time": " 8:00 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/stuttgart.png",
-"ateam": "Hertha Berlin",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/augsburg.png",
-"hteam": "Union Berlin",
-"time": " 8:00 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/Union-Berlin.png",
-"ateam": "Augsburg",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
-"hteam": "Chelsea",
-"time": " 8:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/chelsea.png",
-"ateam": "Bournemouth",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/manchestercity.png",
-"hteam": "Leeds",
-"time": " 8:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
-"ateam": "Manchester City",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
-"hteam": "Aston Villa",
-"time": " 8:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/astonvilla.png",
-"ateam": "Wolverhampton",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/tottenham.png",
-"hteam": "Crystal Palace",
-"time": " 8:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
-"ateam": "Tottenham",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Nice.png",
-"hteam": "Rennes",
-"time": " 9:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/rennes.png",
-"ateam": "Nice",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/AS-Roma.png",
-"hteam": "Inter Milan",
-"time": " 10:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
-"ateam": "AS Roma",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/liverpool.png",
-"hteam": "Brentford",
-"time": " 11:00 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/Brentford.png",
-"ateam": "Liverpool",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
-"hteam": "Bayern Munich",
-"time": " 11:00 PM ",
-"date": "2023-05-06",
-"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"ateam": "Werder Bremen",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-"hteam": "Lille",
-"time": " 11:30 PM ",
-"date": "2023-05-06",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-"ateam": "Reims",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-"hteam": "Spezia",
-"time": " 1:15 AM ",
-"date": "2023-05-07",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9881_small.png",
-"ateam": "Cremonese",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-"hteam": "Marseille",
-"time": " 1:30 AM ",
-"date": "2023-05-06",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
-"ateam": "Lens",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "0"
-},
-{
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "0"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "0"
-}
-]
-}
-]
+
+
+                    
+  
+
+
+  
+
+           
+
+
+            
+                
+            
+               
+          
+               
+            
+
+           
+           
+           
+
+
+          
+ 
+               
+
+
+
+         
+              
+
+                
+
+                 
+               
+
+             
+               
+
+        
+                
+          
+                
+
+
+         
+
+                
+
+         
+
+                
+
+         
+
+                    
+
+
+
+            
+                
+               
+         
+         
+
+              
+
+              
+               
+
+  
+
+
+
+
+ 
+]            
+                    
+
+                    
+                    
