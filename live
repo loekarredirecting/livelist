@@ -178,34 +178,34 @@
 "league": " Ligue 1  (9:35 PM) ",
 "himg": "https://mygoaltv.xyz//team/lyon.png",
 "hteam": "Montpellier",
-"time": " 9:35 PM ",
+"time": " live ",
 "date": "2023-05-07",
 "aimg": "https://mygoaltv.xyz//team/Montpellier.png",
 "ateam": "Lyon",
 "link": [
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?edge_slice=true&auth_key=1683491817-0-0-e7c279b22f11e7756b548e6c1b325127&sub_m3u8=true&user_session_id=e1335092cb6f6e181e0677741758bdef"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=f18353a2453f92cdf6cce60fca0d9dda&txTime=64580b98"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?edge_slice=true&auth_key=1683491817-0-0-a2b58337d5a55ba876c4d0cb08783dc1&sub_m3u8=true&user_session_id=053732a90f0463ec2b94c011d48a830e"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=f18353a2453f92cdf6cce60fca0d9dda&txTime=64580b98"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?edge_slice=true&auth_key=1683491817-0-0-a2b58337d5a55ba876c4d0cb08783dc1&sub_m3u8=true&user_session_id=053732a90f0463ec2b94c011d48a830e"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-143449_lsd.m3u8?txSecret=f18353a2453f92cdf6cce60fca0d9dda&txTime=64580b98"
 }
 ]
 },
