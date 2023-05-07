@@ -44,6 +44,14 @@
 "ateam": "West Ham",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://storage.googleapis.com/qetione2/mux_video_ts1/index-1.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/663"
+},
+{
 "type": "China 1 HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=60c141e8c739a8dcd884ca015109f108&auth_key=1683495177-0-0-e5afc61f502d8251c91c263754037e79"
 },
