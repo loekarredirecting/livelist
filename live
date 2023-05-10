@@ -1,60 +1,71 @@
 [
 {
-"league": " Champions League  (1:30 AM) ",
-"himg": "https://mygoaltv.xyz//team/real-madrid.png",
-"hteam": "Manchester City",
-"time": " live ",
+"league": " Southeast Asia Games ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139.png",
+"hteam": "Myanmar U22",
+"time": " 3:30 PM ",
 "date": "2023-05-10",
-"aimg": "https://mygoaltv.xyz//team/manchestercity.png",
-"ateam": "Real Madrid",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
+"ateam": "Philippines U22",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
-},
-{
-"type": "English 2 SD",
-"livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
-},
-{
-"type": "English 3 HD",
-"livelink": "https://storage.googleapis.com/overealove1/mux_video_ts/index-1.m3u8"
-},
-{
-"type": "English 4 HD",
-"livelink": "https://live-ol95fwjc.rmbl.ws/slot-49/xds9-lv4h_720p/chunklist.m3u8"
-},
-{
 "type": "China 1 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1683677179-0-0-71a3cd6c38718f0e9a26ae7d0a713657&sub_m3u8=true&user_session_id=1d08852eedd3d02f59bfb86e749220da&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-385085_lhd.m3u8?user_session_id=c1404a215e10bc90dbb27acb19d3dd6b&auth_key=1683678696-0-0-c8ba87da7a08f305cbb1391bd2247add&sub_m3u8=true&edge_slice=true"
+"livelink": "0"
 },
 {
 "type":  "China 2 HD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&user_session_id=61b3472daa68db593ae7b8b74e7d2d0a&sub_m3u8=true&auth_key=1683679639-0-0-45a9ec7317d16631e0d3ade2dc386b7d"
+"livelink": "0"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-951508_lhd.m3u8?txSecret=2bc284adc82147f0a73175c2c247a57a&txTime=645ae9e4"
+"livelink": "0"
 },
 {
 "type":  "China 3 SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1683677179-0-0-c9a115eb0d1e8f98813bd8d5b21af609&sub_m3u8=true&user_session_id=71fc03ae0412af1902a01f90a48c279d&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-385085_lsd.m3u8?sub_m3u8=true&auth_key=1683678696-0-0-3dd11dd97c8178b8003c214c97b574f5&edge_slice=true&user_session_id=2bd6704e3609da56e9ac4e36683f94be"
+"livelink": "0"
+}
+]
 },
 {
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+"league": " Southeast Asia Games ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788.png",
+"hteam": "Vietnam U22",
+"time": " 4:30 PM ",
+"date": "2023-05-10",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894.png",
+"ateam": "Thailand U22",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
 },
 {
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
 }
 ]
 },
@@ -66,6 +77,146 @@
 "date": "2023-05-11",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "AC Milan",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/AS-Roma.png",
+"hteam": "Leverkusen",
+"time": " 1:30 AM ",
+"date": "2023-05-12",
+"aimg": "https://mygoaltv.xyz//team/Leverkusen.png",
+"ateam": "AS Roma",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://mygoaltv.xyz//team/Juventus.png",
+"hteam": "Sevilla",
+"time": " 1:30 AM ",
+"date": "2023-05-12",
+"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
+"ateam": "Juventus",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa Conference League ",
+"himg": "https://mygoaltv.xyz//team/westham.png",
+"hteam": "AZ Alkmaar",
+"time": " 1:30 AM ",
+"date": "2023-05-12",
+"aimg": "https://mygoaltv.xyz//team/az_alkmaar.png",
+"ateam": "West Ham",
+"link": [
+{
+"type": "China 1 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "0"
+},
+{
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Europa Conference League ",
+"himg": "https://mygoaltv.xyz//team/Fiorentina.png",
+"hteam": "Basel",
+"time": " 1:30 AM ",
+"date": "2023-05-12",
+"aimg": "https://mygoaltv.xyz//team/Basel.png",
+"ateam": "Fiorentina",
 "link": [
 {
 "type": "China 1 HD",
