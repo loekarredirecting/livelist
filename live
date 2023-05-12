@@ -1,9 +1,9 @@
 [
 {
-"league": " Bundesliga ",
+"league": " Bundesliga (1:00 AM)",
 "himg": "https://mygoaltv.xyz//team/Koln.png",
 "hteam": "Hertha Berlin",
-"time": " 1:00 AM ",
+"time": " live ",
 "date": "2023-05-13",
 "aimg": "https://mygoaltv.xyz//team/Hertha_Berlin.png",
 "ateam": "Koln",
@@ -35,10 +35,10 @@
 ]
 },
 {
-"league": " Serie A ",
+"league": " Serie A (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/lazio.png",
 "hteam": "Lecce",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-05-13",
 "aimg": "https://mygoaltv.xyz//team/lecce.png",
 "ateam": "Lazio",
@@ -70,10 +70,10 @@
 ]
 },
 {
-"league": " La Liga ",
+"league": " La Liga (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "hteam": "Cadiz",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-05-13",
 "aimg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "ateam": "Mallorca",
@@ -105,10 +105,11 @@
 ]
 },
 {
-"league": " Ligue 1 ",
+"league": " Ligue 1 (1:30 AM)",
+
 "himg": "https://mygoaltv.xyz//team/Lens.png",
 "hteam": "Reims",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-05-13",
 "aimg": "https://mygoaltv.xyz//team/reims.png",
 "ateam": "Lens",
