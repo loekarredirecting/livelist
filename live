@@ -188,27 +188,27 @@
         "link": [
 {
 "type": "China 1 HD",
-"livelink": ""
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1684023140-0-0-cd9b3d85a94014d23ac0c091488b2895&sub_m3u8=true&user_session_id=4976634fa254b0a8d92a656435f9750e&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-991106_lhd.m3u8?txSecret=d5ad3b70f667130f73e46844c7286b74&txTime=64602684"
 },
 {
 "type":  "China 2 HD",
-"livelink": ""
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?auth_key=1684023140-0-0-7dd80ab65d9c4f780a702bae333527a9&sub_m3u8=true&user_session_id=25cdb0ae91e04ae443fe7f5fd4cb579f&edge_slice=true"
 },
 {
 "type": "Soco 2 HD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-991106_lsd.m3u8?txSecret=d5ad3b70f667130f73e46844c7286b74&txTime=64602684"
 },
 {
 "type":  "China 3 SD",
-"livelink": ""
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?auth_key=1684023140-0-0-7dd80ab65d9c4f780a702bae333527a9&sub_m3u8=true&user_session_id=25cdb0ae91e04ae443fe7f5fd4cb579f&edge_slice=true"
 },
 {
 "type": "Soco 3 SD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-991106_lsd.m3u8?txSecret=d5ad3b70f667130f73e46844c7286b74&txTime=64602684"
 }
 ]
     },
@@ -216,7 +216,7 @@
         "league": " Ligue 1 ",
         "himg": "https:\/\/mygoaltv.xyz\/\/team\/psg.png",
         "hteam": "Ajaccio",
-        "time": " 1:30 AM ",
+        "time": " live ",
         "date": "2023-05-14",
         "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Ajaccio.png",
         "ateam": "Paris Saint-Germain",
