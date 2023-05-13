@@ -103,38 +103,60 @@
 
             ]
     },
+{
+"league": "🏆 SEA Games Semi Final",
+"date": "May 13",
+"time": "live",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/620738_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/620747_small.png",
+"teams": "Thailand U22 Vs Myanmar U22",
+"hteam": "Thailand U22",
+"ateam": "Myanmar U22",
+"hotmat": "yes",
+"link": [
+{
+"type": "SD",
+"livelink": "https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=8fe08fdce91046ff685bcb58ab2d7c54&txTime=645fd9e0"
+},
+{
+"type": "SD 2",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lsd.m3u8?sub_m3u8=true&auth_key=1684003160-0-0-ad0fc78a0866f81afd070742476ec950&user_session_id=6a751cf9e4b637144d85ea10f0164d36&edge_slice=true"
+},
+{
+"type": "HD",
+"livelink": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=8fe08fdce91046ff685bcb58ab2d7c54&txTime=645fd9e0"
+},
+{
+"type": "HD 2",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-441616_lhd.m3u8?sub_m3u8=true&auth_key=1684003160-0-0-d0270132e60c8e3b2cf2b98abb37d86c&user_session_id=49c621d2610d1e92617e24b8dbe774ff&edge_slice=true"
+}
+]
+}
+    ,
     {
         "league": " Serie A ",
         "himg": "https:\/\/mygoaltv.xyz\/\/team\/salernitana.png",
         "hteam": "Atalanta",
-        "time": " 7:30 PM ",
+        "time": " live ",
         "date": "2023-05-13",
         "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Atalanta.png",
         "ateam": "Salernitana",
         "link": [
 {
-"type": "China 1 HD",
-"livelink": ""
+"type": "SD",
+"livelink": "https://sports01.livnvess.com/live/stream-104707_lsd.m3u8?txSecret=b18c7cefe1e4936f3598424385f4beb7&txTime=645fccfc"
 },
 {
-"type": "Soco 1 HD",
-"livelink": ""
+"type": "SD 2",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lsd.m3u8?user_session_id=214faf383c4ced64388115b20a29d3be&edge_slice=true&sub_m3u8=true&auth_key=1684002980-0-0-fe6b0d69e0e006a8da889312c912a33b"
 },
 {
-"type":  "China 2 HD",
-"livelink": ""
+"type": "HD",
+"livelink": "https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=b18c7cefe1e4936f3598424385f4beb7&txTime=645fccfc"
 },
 {
-"type": "Soco 2 HD",
-"livelink": ""
-},
-{
-"type":  "China 3 SD",
-"livelink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": ""
+"type": "HD 2",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lhd.m3u8?user_session_id=7bf9be58c13bc7422d032cd461998095&edge_slice=true&sub_m3u8=true&auth_key=1684002980-0-0-992ffeb657188965a62199f9ca365ac8"
 }
 ]
     },
