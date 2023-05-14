@@ -254,34 +254,34 @@
         "league": " Serie A ",
         "himg": "https:\/\/mygoaltv.xyz\/\/team\/Juventus.png",
         "hteam": "Cremonese",
-        "time": " 1: 15 AM ",
+        "time": " live ",
         "date": "2023-05-15",
         "aimg": "https:\/\/mygoaltv.xyz\/\/team\/cremonese.png",
         "ateam": "Juventus",
         "link": [
 {
 "type": "China 1 HD",
-"livelink": ""
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=132e742e7d0fc809063f22893b2786b1&auth_key=1684105880-0-0-3700244722bfc78e20cf2cb072eac885"
 },
 {
 "type": "Soco 1 HD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=c816b797654e263a87fb56818e4adb8c&txTime=64616a6c"
 },
 {
 "type":  "China 2 HD",
-"livelink": ""
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=132e742e7d0fc809063f22893b2786b1&auth_key=1684105880-0-0-3700244722bfc78e20cf2cb072eac885"
 },
 {
 "type": "Soco 2 HD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=c816b797654e263a87fb56818e4adb8c&txTime=64616a6c"
 },
 {
 "type":  "China 3 SD",
-"livelink": ""
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=132e742e7d0fc809063f22893b2786b1&auth_key=1684105880-0-0-3700244722bfc78e20cf2cb072eac885"
 },
 {
 "type": "Soco 3 SD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=c816b797654e263a87fb56818e4adb8c&txTime=64616a6c"
 }
 ]
     },
@@ -289,7 +289,7 @@
         "league": " Ligue 1 ",
         "himg": "https:\/\/mygoaltv.xyz\/\/team\/Marseille_logo.png",
         "hteam": "Angers SCO",
-        "time": " 1:15 AM ",
+        "time": " live ",
         "date": "2023-05-15",
         "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Angers-SCO.gif",
         "ateam": "Marseille",
