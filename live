@@ -181,7 +181,7 @@
         "league": " Ligue 1 ",
         "himg": "https:\/\/mygoaltv.xyz\/\/team\/Montpellier.png",
         "hteam": "Lorient",
-        "time": " 7:30 PM ",
+        "time": " live ",
         "date": "2023-05-14",
         "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Lorient.png",
         "ateam": "Montpellier",
@@ -192,11 +192,11 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=7fb41d7d25cbd9174c6fd45c62e4886f&txTime=64612a34"
 },
 {
 "type":  "China 2 HD",
-"livelink": ""
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?auth_key=1684090220-0-0-b0e4236a8812dac2c4472e0644152839&sub_m3u8=true&user_session_id=724183effa2388eb17ae6fc2895cbfaf&edge_slice=true"
 },
 {
 "type": "Soco 2 HD",
