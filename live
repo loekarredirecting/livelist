@@ -1,80 +1,12 @@
 
 [
-    {
-        "league": " Serie A ",
-        "himg": "https:\/\/mygoaltv.xyz\/\/team\/Verona.png",
-        "hteam": "Torino",
-        "time": " 5:00 PM ",
-        "date": "2023-05-14",
-        "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Torino.png",
-        "ateam": "Hellas Verona",
-        "link": [
-{
-"type": "China 1 HD",
-"livelink": ""
-},
-{
-"type": "Soco 1 HD",
-"livelink": ""
-},
-{
-"type":  "China 2 HD",
-"livelink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": ""
-},
-{
-"type":  "China 3 SD",
-"livelink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": ""
-}
-]
-    },
-    {
-        "league": " Ligue 1 ",
-        "himg": "https:\/\/mygoaltv.xyz\/\/team\/clermont.png",
-        "hteam": "Lyon",
-        "time": " 5:30 PM ",
-        "date": "2023-05-14",
-        "aimg": "https:\/\/mygoaltv.xyz\/\/team\/lyon.png",
-        "ateam": "Clermont",
-        "link": [
-{
-"type": "China 1 HD",
-"livelink": ""
-},
-{
-"type": "Soco 1 HD",
-"livelink": ""
-},
-{
-"type":  "China 2 HD",
-"livelink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": ""
-},
-{
-"type":  "China 3 SD",
-"livelink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": ""
-}
-]
-    },
+    
+    
     {
         "league": " La Liga ",
         "himg": "https:\/\/mygoaltv.xyz\/\/team\/Celta_Vigo.png",
         "hteam": "Valencia",
-        "time": " 6:30 PM ",
+        "time": " live ",
         "date": "2023-05-14",
         "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Valencia.png",
         "ateam": "Celta Vigo",
