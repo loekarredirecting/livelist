@@ -216,7 +216,7 @@
         "league": " Bundesliga ",
         "himg": "https:\/\/mygoaltv.xyz\/\/team\/stuttgart.png",
         "hteam": "Leverkusen",
-        "time": " 8:00 PM ",
+        "time": " live ",
         "date": "2023-05-14",
         "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Leverkusen.png",
         "ateam": "Stuttgart",
@@ -227,7 +227,7 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=83b2a721ff402deb6ee8c652ff978f83&txTime=646130c4"
 },
 {
 "type":  "China 2 HD",
@@ -235,7 +235,7 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=83b2a721ff402deb6ee8c652ff978f83&txTime=646130c4"
 },
 {
 "type":  "China 3 SD",
@@ -243,7 +243,7 @@
 },
 {
 "type": "Soco 3 SD",
-"livelink": ""
+"livelink": "https://sports01.livnvess.com/live/stream-144861_lsd.m3u8?txSecret=83b2a721ff402deb6ee8c652ff978f83&txTime=646130c4"
 }
 ]
     },
