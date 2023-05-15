@@ -20,7 +20,7 @@
 
             "date": "16-05-2023",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 
@@ -40,7 +40,7 @@
 
                     "type": "SD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1684197020-0-0-8d704c71d234dee376277fb5d77c1516&sub_m3u8=true&user_session_id=aacdcbafb9605bf090ad92404ad7ddb9&edge_slice=true"
 
          
 
@@ -50,7 +50,7 @@
 
                     "type": "SD 2",
 
-                "livelink":""
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 
          
 
@@ -60,7 +60,7 @@
 
                     "type": "HD",
 
-                "livelink":""
+                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1684197020-0-0-f4f2578cb3ead7b8eec4d7fe8798260e&sub_m3u8=true&user_session_id=d0824815f2089c8946e927d04826566a&edge_slice=true"
 
          
 
@@ -70,7 +70,7 @@
 
                     "type": "HD 2",
 
-                "livelink":"."
+                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 
                 }
 
