@@ -1,11 +1,11 @@
 [
     {
 
-           "league": " Saudi Pro League ",
+           "league": " Saudi Pro League. (1:00 PM) ",
 
             "date": "17-05-2023",
 
-            "time": "1:00 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
 
@@ -25,7 +25,7 @@
 
                     "type": "Soco SD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?sub_m3u8=true&user_session_id=742cc836a34b2e7011ae3951609ebb7e&auth_key=1684274137-0-0-12858d52269a2723d260f6b1dc95058b&edge_slice=true"
 
          
 
@@ -35,7 +35,7 @@
 
                     "type": "China SD 2",
 
-                "livelink":""
+                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&auth_key=1684274480-0-0-b859bdf9f1d28ebd01b465ac1657732a&edge_slice=true&user_session_id=720199615a60bfb0fe9cdf2c9354fa19"
 
          
 
@@ -45,7 +45,7 @@
 
                     "type": "Soco HD",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&user_session_id=0d660870cc9a679d3c867fcdba6d582f&auth_key=1684274137-0-0-9528c7b896fd701d7f651c38993f79f9&edge_slice=true"
 
          
 
@@ -55,7 +55,7 @@
 
                     "type": "Chins HD 2",
 
-                "livelink":""
+                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&user_session_id=0d660870cc9a679d3c867fcdba6d582f&auth_key=1684274137-0-0-9528c7b896fd701d7f651c38993f79f9&edge_slice=true"
 
                 }
 
