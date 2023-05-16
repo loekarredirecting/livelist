@@ -1,36 +1,21 @@
 [
+    {
 
-                       
-                       
-                       
-         
+           "league": " Saudi Pro League ",
 
+            "date": "17-05-2023",
 
+            "time": "1:00 AM",
 
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
 
-                
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
 
+            "teams" : "Al Taee Vs Al Nassr FC",
 
+            "ateam" : "Al Taee",
 
-
-
-           {
-
-           "league": " Laliga",
-
-            "date": "16-05-2023",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-
-            "teams" : "Real Betis Vs Rayo Vallecano",
-
-            "ateam" : "Real Betis",
-
-            "hteam" : "Rayo Vallecano",
+            "hteam" : "Al Nassr FC",
 
             "hotmat":"no",
 
@@ -38,9 +23,9 @@
 
   {
 
-                    "type": "SD",
+                    "type": "Soco SD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1684197020-0-0-8d704c71d234dee376277fb5d77c1516&sub_m3u8=true&user_session_id=aacdcbafb9605bf090ad92404ad7ddb9&edge_slice=true"
+                "livelink":""
 
          
 
@@ -48,19 +33,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "China SD 2",
 
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1684197020-0-0-f4f2578cb3ead7b8eec4d7fe8798260e&sub_m3u8=true&user_session_id=d0824815f2089c8946e927d04826566a&edge_slice=true"
+                "livelink":""
 
          
 
@@ -68,9 +43,19 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "Soco HD",
 
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "Chins HD 2",
+
+                "livelink":""
 
                 }
 
@@ -79,34 +64,33 @@
             ]
 
 },
-
            {
 
-           "league": " Premier League",
+           "league": " Champions League Semi Final ",
 
-            "date": "16-05-2023",
+            "date": "17-05-2023",
 
-            "time": "live",
+            "time": "1:30 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 
-            "teams" : "Leicester City Vs Liverpool",
+            "teams" : "Inter Vs AC Milan",
 
-            "ateam" : "Leicester City",
+            "ateam" : "Inter",
 
-            "hteam" : "Liverpool",
+            "hteam" : "AC Milan",
 
-            "hotmat":"yes",
+            "hotmat":"no",
 
             "link":[
 
   {
 
-                    "type": "SD",
+                    "type": "Soco SD",
 
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=c834bbea9b002d6d52affbbc995c3673&txTime=6462cdf8"
+                "livelink":""
 
          
 
@@ -114,19 +98,9 @@
 
 {
 
-                    "type": "SD 2",
+                    "type": "China SD ",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-601450_lsd.m3u8?auth_key=1684197020-0-0-650a09a60718cf98458bd335fd4885bc&user_session_id=aa892f118f58140c2f529b35a557cf2c&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=c834bbea9b002d6d52affbbc995c3673&txTime=6462cdf8"
+                "livelink":""
 
          
 
@@ -134,9 +108,19 @@
 
 {
 
-                    "type": "HD 2",
+                    "type": "Soco HD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-601450_lhd.m3u8?auth_key=1684197020-0-0-5170332b674e6a28357ec0f5030d1d7a&user_session_id=a1fb165b812e070d9171e45db383cc13&edge_slice=true&sub_m3u8=true"
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "China HD",
+
+                "livelink":""
 
                 }
 
@@ -145,5 +129,28 @@
             ]
 
 }
-           ]
+  
+  
+]
+                    
+                       
+
+
+                    
+           
+
+                    
+                                 
+
+
+              
+
+
+
+                
+
+            
+
+
+           
            
