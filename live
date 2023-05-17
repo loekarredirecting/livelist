@@ -1,23 +1,24 @@
 [
-    {
+           
+           {
 
-           "league": " Saudi Pro League. (1:00 AM) ",
+           "league": " Champions League Semi Final ",
 
-            "date": "17-05-2023",
+            "date": "18-05-2023",
 
-            "time": "live",
+            "time": "1:30 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101917.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 
-            "teams" : "Al Taee Vs Al Nassr FC",
+            "teams" : "Man City Vs Real Madrid",
 
-            "ateam" : "Al Taee",
+            "ateam" : "Man City",
 
-            "hteam" : "Al Nassr FC",
+            "hteam" : "Real Madrid",
 
-            "hotmat":"no",
+            "hotmat":"yes",
 
             "link":[
 
@@ -25,7 +26,7 @@
 
                     "type": "Soco SD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?sub_m3u8=true&user_session_id=742cc836a34b2e7011ae3951609ebb7e&auth_key=1684274137-0-0-12858d52269a2723d260f6b1dc95058b&edge_slice=true"
+                "livelink":""
 
          
 
@@ -35,7 +36,7 @@
 
                     "type": "China SD 2",
 
-                "livelink":"https://7e84d27d097b09715b3b9e363c0047c3.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?sub_m3u8=true&auth_key=1684274480-0-0-b859bdf9f1d28ebd01b465ac1657732a&edge_slice=true&user_session_id=720199615a60bfb0fe9cdf2c9354fa19"
+                "livelink":""
 
          
 
@@ -45,7 +46,7 @@
 
                     "type": "Soco HD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&user_session_id=0d660870cc9a679d3c867fcdba6d582f&auth_key=1684274137-0-0-9528c7b896fd701d7f651c38993f79f9&edge_slice=true"
+                "livelink":""
 
          
 
@@ -53,9 +54,9 @@
 
 {
 
-                    "type": "Chins HD 2",
+                    "type": "China HD 2",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&user_session_id=0d660870cc9a679d3c867fcdba6d582f&auth_key=1684274137-0-0-9528c7b896fd701d7f651c38993f79f9&edge_slice=true"
+                "livelink":""
 
                 }
 
@@ -64,23 +65,24 @@
             ]
 
 },
+
            {
 
-           "league": " Champions League Semi Final  (1:30 AM) ",
+           "league": " Championship Semi Final ",
 
-            "date": "17-05-2023",
+            "date": "8-05-2023",
 
-            "time": "live",
+            "time": "1:30 AM",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",
 
-            "teams" : "Inter Vs AC Milan",
+            "teams" : "Middlesbrough Vs Coventry City",
 
-            "ateam" : "Inter",
+            "ateam" : "Middlesbrough",
 
-            "hteam" : "AC Milan",
+            "hteam" : "Coventry City",
 
             "hotmat":"no",
 
@@ -90,7 +92,7 @@
 
                     "type": "Soco SD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lsd.m3u8?edge_slice=true&auth_key=1684274737-0-0-9d018d146955b1d751a3ac1a08b5b302&user_session_id=0203e21c234e138e5ca6364204d4dd27&sub_m3u8=true"
+                "livelink":""
 
          
 
@@ -100,7 +102,7 @@
 
                     "type": "China SD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=1284b31bccf25fd4b4f964cbe0ed25fa&sub_m3u8=true&auth_key=1684274360-0-0-2c272d80c13c61da42959cfe1638d86d&edge_slice=true"
+                "livelink":""
 
          
 
@@ -110,7 +112,7 @@
 
                     "type": "Soco HD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lhd.m3u8?user_session_id=1fc018bd0a3811f9ef58cfb02e0667ae&edge_slice=true&auth_key=1684274737-0-0-adf205a36000759b6991c509a32343c6&sub_m3u8=true"
+                "livelink":""
 
          
 
@@ -118,9 +120,9 @@
 
 {
 
-                    "type": "Chins HD 2",
+                    "type": "China HD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=c4d9cd7b169d885c2effede62c631622&edge_slice=true&sub_m3u8=true&auth_key=1684274360-0-0-be6c0635da5e20518d475e7e4455cf9f"
+                "livelink":""
 
                 }
 
@@ -128,8 +130,19 @@
 
             ]
 
+}           
+           
 
-}
+            
+
+
+
+                
+
+            
+
+            
+                
   
   
 ]
