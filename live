@@ -1,133 +1,23 @@
 [
-           
-           {
-
-           "league": " Champions League Semi Final ",
-
-            "date": "18-05-2023",
-
-            "time": "live",
-
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-
-            "teams" : "Man City Vs Real Madrid",
-
-            "ateam" : "Man City",
-
-            "hteam" : "Real Madrid",
-
-            "hotmat":"yes",
-
-            "link":[
-            
-
-  {
-
-                    "type": "English SD",
-
-                "livelink":"https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
-
          
-
-                },                     
-
-{
-
-                    "type": "English  HD",
-
-                "livelink":"https://storage.googleapis.com/unersit1/mux_video_ts1/index-1.m3u8"
-
-         
-},
-                
-
-  {
-
-                    "type": "Soco SD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=ccdefedb0c6de4efe70d45ecb2b74528&txTime=64654a11"
-
-         
-
-                },                     
-
-{
-
-                    "type": "China SD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?user_session_id=491c747660e0dbe81a3be64a6ef15f8b&auth_key=1684359440-0-0-23d97f38a72318640a745c7cbe4e236c&edge_slice=true&sub_m3u8=true"
-
-         
-
-                },
-
-{
-
-                    "type": "Soco HD",
-
-                "livelink":"https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=ccdefedb0c6de4efe70d45ecb2b74528&txTime=64654a11"
-
-         
-
-                },
-
-{
-
-                    "type": "China HD 2",
-
-                "livelink":"https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1684359440-0-0-271094815c271c00a30126a258cf3281&user_session_id=4367dfbc083438f9acb7348acab889ae&edge_slice=true"
-
-                },
-                
-
-  {
-
-                    "type": "Vietnam SD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-
-         
-
-                },                     
-
-{
-
-                    "type": "Vietnam  HD",
-
-                "livelink":"https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-
-         
-
-}
-
-                
-
-                
-
-            ]
-
-},
 
            {
 
-           "league": " Championship Semi Final ",
+           "league": " Europa League Semi Final",
 
-            "date": "8-05-2023",
+            "date": "19-05-2023",
 
-            "time": "live",
+            "time": "1:30 AM",
 
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8669_small.png",
+            "teams" : "Leverkusen Vs Roma",
 
-            "teams" : "Middlesbrough Vs Coventry City",
+            "ateam" : "Leverkusen",
 
-            "ateam" : "Middlesbrough",
-
-            "hteam" : "Coventry City",
+            "hteam" : "Roma",
 
             "hotmat":"no",
 
@@ -135,9 +25,9 @@
 
   {
 
-                    "type": "Soco SD",
+                    "type": "SD",
 
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?auth_key=1684359637-0-0-856b55ac87a92b94b3e5df4a7f5deac5&edge_slice=true&user_session_id=95f014a641195a260bf45ce89e52bc7c&sub_m3u8=true"
+                "livelink":""
 
          
 
@@ -145,19 +35,9 @@
 
 {
 
-                    "type": "China SD 2",
+                    "type": "SD 2",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=3303120c8ea8044d75f3fb319b8b3e43&auth_key=1684359560-0-0-3a13048b899b0fe52f201613bd89dcc0"
-
-         
-
-                },
-
-{
-
-                    "type": "Soco HD",
-
-                "livelink":"https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?sub_m3u8=true&auth_key=1684359637-0-0-ca02d7d7fb4a8cf0f93ef8ed6ebe9479&edge_slice=true&user_session_id=b3485c5fdf922a970b50428632a13597"
+                "livelink":""
 
          
 
@@ -165,9 +45,19 @@
 
 {
 
-                    "type": "China HD 2",
+                    "type": "HD",
 
-                "livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=2fcb82f909a61cb7cf5591829d838fea&auth_key=1684359560-0-0-617f38045d7a59de909110e91c22251d"
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
 
                 }
 
@@ -175,35 +65,156 @@
 
             ]
 
-}           
-           
+},  
+ 
 
-            
+           {
 
+           "league": " Europa League Semi Final",
 
+            "date": "19-05-2023",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+
+            "teams" : "Sevilla Vs Juventus",
+
+            "ateam" : "Sevilla",
+
+            "hteam" : "Juventus",
+
+            "hotmat":"yes",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
 
                 
 
-            
+            ]
 
-            
+},
+
+           {
+
+           "league": " Conference League Semi Final",
+
+            "date": "19-05-2023",
+
+            "time": "1:30 AM",
+
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",
+
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+
+            "teams" : "AZ Alkmaar Vs West Ham United",
+
+            "ateam" : "AZ Alkmaar",
+
+            "hteam" : "West Ham United",
+
+            "hotmat":"no",
+
+            "link":[
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
+{
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
+{
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
                 
-  
-  
-]
-                    
-                       
+
+            ]
+
+}              
+           
+]           
+
+           
+
+           
+
 
 
                     
            
+                
+                
+         
 
-                    
-                                 
-
-
-              
-
+                
 
 
                 
