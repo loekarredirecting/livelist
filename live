@@ -22,49 +22,31 @@
             "hotmat":"no",
 
             "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
 {
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "China 1 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "Soco 1 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "HD 2",
-
-                "livelink":""
-
-                }
-
-                
-
-            ]
-
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
 },  
  
 
@@ -89,48 +71,31 @@
             "hotmat":"yes",
 
             "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
 {
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "China 1 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "Soco 1 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "HD 2",
-
-                "livelink":""
-
-                }
-
-                
-
-            ]
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
 
 },
 
@@ -155,48 +120,31 @@
             "hotmat":"no",
 
             "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
 {
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "China 1 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "Soco 1 HD",
+"livelink": "0"
+},
 {
-
-                    "type": "HD 2",
-
-                "livelink":""
-
-                }
-
-                
-
-            ]
+"type":  "China 2 HD",
+"livelink": "0"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0"
+},
+{
+"type":  "China 3 SD",
+"livelink": "0"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "0"
+}
+]
 
 }              
            
