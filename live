@@ -1,11 +1,11 @@
 [
    {
 
-           "league": " Premier League ",
+           "league": " Premier League  (1:00 AM) ",
 
             "date": "19-05-2023",
 
-            "time": "1:00 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 
@@ -20,58 +20,41 @@
             "hotmat":"no",
 
             "link":[
-
-  {
-
-                    "type": "SD",
-
-                "livelink":""
-
-         
-
-                },                     
-
 {
-
-                    "type": "SD 2",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "China 1 HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684445600-0-0-5d2637f665e6f558a7952b47f0bbf892&user_session_id=f4757405276fee05c62262171de6c3c4"
+},
 {
-
-                    "type": "HD",
-
-                "livelink":""
-
-         
-
-                },
-
+"type": "Soco 1 HD",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lhd.m3u8?auth_key=1684446337-0-0-53738327938c0154ac9944fa2dc7ff79&edge_slice=true&user_session_id=188ff126a83c4964bcd60c67eb0c2d9a&sub_m3u8=true"
+},
 {
-
-                    "type": "HD 2",
-
-                "livelink":""
-
-                }
-
-                
-
-            ]
+"type":  "China 2 HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=1c57ea7b2d729c78487715dee3dcb5d4&sub_m3u8=true&auth_key=1684445780-0-0-c6ff6059b0c550127d50209376fdddf4&edge_slice=true"
+},
+{
+"type": "Soco 2 HD",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991111_lhd.m3u8?sub_m3u8=true&user_session_id=c23fd5a8d42389542de5de2e73e98e05&auth_key=1684446397-0-0-e72df64acbe9dc234546ea133c7563f3&edge_slice=true"
+},
+{
+"type":  "China 3 SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?user_session_id=d909c2edfdb69e6cc5ad423fd6a15505&auth_key=1684445600-0-0-efead8994bf519a8d6bdb5f768e1229a&sub_m3u8=true&edge_slice=true"
+},
+{
+"type": "Soco 3 SD",
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-250874_lsd.m3u8?sub_m3u8=true&auth_key=1684446337-0-0-bae2c6689c49fa4ffc9cbc1b356ce2ca&edge_slice=true&user_session_id=5df5a82d250d55b839a36e031ea61746"
+}
+]
 
 },      
 
            {
 
-           "league": " Europa League Semi Final ",
+           "league": " Europa League Semi Final  (1:30 AM) ",
 
             "date": "19-05-2023",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 
@@ -88,27 +71,27 @@
             "link":[
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?user_session_id=e65c198e1542c94b81263d01d3fef36a&sub_m3u8=true&auth_key=1684445840-0-0-afbbdd34e44a2ab644c8622cbef00a01&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=83daa0137b47ec093c11670f73fa915e&txTime=64669cf9"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-238362_lhd.m3u8?auth_key=1684445960-0-0-6755ac0451e946e690588084e45425f5&edge_slice=true&user_session_id=748b930e04fedcc888a166ad977dac7c&sub_m3u8=true"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=840f4d8ed1f6b54cf9d4bbc96d7352ce&txTime=64669d71"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?auth_key=1684445840-0-0-fe0afb2b76af2d736100392bbae2323e&edge_slice=true&user_session_id=aa2d9cccd9039052c5abfa04892dd577&sub_m3u8=true"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=83daa0137b47ec093c11670f73fa915e&txTime=64669cf9"
 }
 ]
 },  
@@ -116,11 +99,11 @@
 
            {
 
-           "league": " Europa League Semi Final ",
+           "league": " Europa League Semi Final  (1:30 AM) ",
 
             "date": "19-05-2023",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 
@@ -137,27 +120,27 @@
             "link":[
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=2ed76f7c6805f09de7ae94a41e2a06eb&auth_key=1684446020-0-0-47749d5507a8aa8d66d4c79da81a96e9&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=4538f31d5ac30862a6a4cb56516b9098&txTime=64669d71"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=f5c41940e233d6de1d7f4706f298131a&auth_key=1684446080-0-0-e9cb032243a2b37ee56aeb7979ac41fd"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991123_lhd.m3u8?txSecret=6ecd8f520081bb7063037cdedadf2f0c&txTime=64669de9"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lsd.m3u8?auth_key=1684446020-0-0-aaeca21d4e820560f2ca4c0619618a53&user_session_id=ff9fead344a2ab991ef6f04bd022f027&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=4538f31d5ac30862a6a4cb56516b9098&txTime=64669d71"
 }
 ]
 
@@ -165,11 +148,11 @@
 
            {
 
-           "league": " Conference League Semi Final ",
+           "league": " Conference League Semi Final  (1:30 AM) ",
 
             "date": "19-05-2023",
 
-            "time": "1:30 AM",
+            "time": "live",
 
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10229_small.png",
 
@@ -186,27 +169,27 @@
             "link":[
 {
 "type": "China 1 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684446200-0-0-3c26af94b1174e6a5260d0a8863685cd&user_session_id=dafe1c82ec48da2b4c5e1f555e48aba9"
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=e0fe53a49d859951da7753ddebf205e5&txTime=64669e25"
 },
 {
 "type":  "China 2 HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-611421_lhd.m3u8?auth_key=1684446260-0-0-1ca1c5f96954ce52d31d14771aaf2a82&edge_slice=true&sub_m3u8=true&user_session_id=174cee96eeb74fd7a5f1a34bdec1df4c"
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=39631453860dd379fb24ca2ac0c41abe&txTime=64669e9d"
 },
 {
 "type":  "China 3 SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684446200-0-0-3e76010a75888a392162f52366abf96c&user_session_id=1f554afbd838f41baaaaf8eb73c3f9f2"
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=e0fe53a49d859951da7753ddebf205e5&txTime=64669e25"
 }
 ]
 
