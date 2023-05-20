@@ -1,40 +1,5 @@
 [
 {
-"league": " Serie A (7:30)",
-"himg": "https://mygoaltv.xyz//team/cremonese.png",
-"hteam": "Bologna",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/Bologna.png",
-"ateam": "Cremonese",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?user_session_id=8b2732dbfa3a959631c62086fd4fdb5d&edge_slice=true&auth_key=1684608381-0-0-038bffafd576ba832816fb170a218952&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=782490c9e11b7f469f82330f7c87ac65&txTime=646906c9"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?user_session_id=8b2732dbfa3a959631c62086fd4fdb5d&edge_slice=true&auth_key=1684608381-0-0-038bffafd576ba832816fb170a218952&sub_m3u8=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-104707_lsd.m3u8?txSecret=782490c9e11b7f469f82330f7c87ac65&txTime=646906c9"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?user_session_id=8b2732dbfa3a959631c62086fd4fdb5d&edge_slice=true&auth_key=1684608381-0-0-038bffafd576ba832816fb170a218952&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-104707_lsd.m3u8?txSecret=782490c9e11b7f469f82330f7c87ac65&txTime=646906c9"
-}
-]
-},
-{
 "league": " Bundesliga (8:00 PM)",
 "himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "hteam": "Union Berlin",
@@ -277,7 +242,7 @@
 "link": [
 {
 "type":  "English HD",
-"livelink": "https://storage.googleapis.com/untering2/mux_video_ts1/index-1.m3u8"
+"livelink": "https://nun.realbitsport.com/live/n-2/chunks.m3u8"
 },
 {
 "type":  "English SD",
@@ -424,24 +389,12 @@
 "ateam": "Nantes",
 "link": [
 {
-"type": "China 1 HD",
-"livelink": "0"
-},
-{
 "type": "Soco 1 HD",
 "livelink": "https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=097df60d98a6926c5dbf36cbdbd761ae&txTime=64690c69"
 },
 {
-"type":  "China 2 HD",
-"livelink": "0"
-},
-{
 "type": "Soco 2 HD",
 "livelink": "https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=097df60d98a6926c5dbf36cbdbd761ae&txTime=64690c69"
-},
-{
-"type":  "China 3 SD",
-"livelink": "0"
 },
 {
 "type": "Soco 3 SD",
@@ -450,7 +403,7 @@
 ]
 },
 {
-"league": " Serie A ",
+"league": " Serie A (10:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Atalanta.png",
 "hteam": "Hellas Verona",
 "time": " 10:30 PM ",
