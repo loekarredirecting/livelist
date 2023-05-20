@@ -9,6 +9,15 @@
 "ateam": "Tottenham",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://nun.realbitsport.com/live/n-1/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "http://azertytv.com:2103/vk7pNHOr/bMeAsKPm/663"
+},
+
+{
 "type": "China 1 HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=841da240409b2b32d8b26dc210704da4&sub_m3u8=true&auth_key=1684602680-0-0-93f70ff966a0024873c666afd43f5f0c&edge_slice=true"
 },
