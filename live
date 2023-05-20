@@ -270,30 +270,87 @@
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Bournemouth",
 "link": [
+
 {
+
+"type": "English HD",
+
+"livelink": "https://storage.googleapis.com/untering1/mux_video_ts1/index-1.m3u8"
+
+},
+
+{
+
+"type": "English SD",
+
+"livelink": "https://nun.realbitsport.com/live/n-1/chunks.m3u8"
+
+},
+
+{
+
 "type": "China 1 HD",
-"livelink": "0"
+
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=bc7ed965ec6a683333800b7c5de75a0c&auth_key=1684611921-0-0-0c125d77cb2f2ffe4612048120611f66"
+
 },
+
 {
+
 "type": "Soco 1 HD",
+
 "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684605217-0-0-53e25dd576d30a21383b91e5a5fdec44&user_session_id=f2a36668879e41c9e036d014eb4c4a4b"
+
 },
+
 {
+
 "type":  "China 2 HD",
-"livelink": "0"
+
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?edge_slice=true&auth_key=1684612101-0-0-165fc56dc0e8a0aafe2c5665de8bd87b&user_session_id=99106a03fef62e49b7eed53bfa7944ea&sub_m3u8=true"
+
 },
+
 {
+
 "type": "Soco 2 HD",
+
 "livelink": "https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=1e9242c9551fbbaed1f2b94f21354561&txTime=6469095d"
+
 },
+
 {
+
 "type":  "China 3 SD",
-"livelink": "0"
+
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?edge_slice=true&auth_key=1684611921-0-0-34e5e0cfc05146ae598e19289c5c6e04&user_session_id=93603649a17d9d939728fd8b781a76f5&sub_m3u8=true"
+
 },
+
 {
+
 "type": "Soco 3 SD",
+
 "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?auth_key=1684605217-0-0-8798ce197cdc8993db4be5e41336c011&user_session_id=5c0b9f9cf23c3395972a487ed1c3dcd6&edge_slice=true&sub_m3u8=true"
+
+},
+
+{
+
+"type": "Vietnam HD",
+
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+
+},
+
+{
+
+"type": "Vietnam SD",
+
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+
 }
+
 ]
 },
 {
