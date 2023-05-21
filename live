@@ -27,29 +27,29 @@
 ]
 },
 {
-"league": " Ligue 1 ",
+"league": " Ligue 1  (5:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Ajaccio.png",
 "hteam": "Rennes",
-"time": " 5:30 PM ",
+"time": " live ",
 "date": "2023-05-21",
 "aimg": "https://mygoaltv.xyz//team/rennes.png",
 "ateam": "Ajaccio",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lhd.m3u8?edge_slice=true&auth_key=1684685420-0-0-073c0dc5e831c0ae643c1e25208422e2&sub_m3u8=true&user_session_id=4563f9dd5c6d1ce65e2cf6f1e63c284a"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-459156_lsd.m3u8?user_session_id=521526aa201a9576e7549b826f295621&edge_slice=true&auth_key=1684685420-0-0-75b5a3c4a776dc4c9eebe4d7b34277f7&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684687717-0-0-5b35c8d4546a18362f0fda97f70e5ce9&user_session_id=8823a193c205165613a17a62190432f4"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-421651_lsd.m3u8?sub_m3u8=true&auth_key=1684687717-0-0-a30b9f73d9d7f0ea3372d0572b8b4fab&edge_slice=true&user_session_id=73ed30c4713a2d2382cee312f0f982bc"
 }
 ]
 },
