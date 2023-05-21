@@ -1,544 +1,541 @@
 [
 {
-"league": " Premier League (8:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
-"hteam": "Manchester United",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"ateam": "Bournemouth",
-"link": [
-
-{
-
-"type": "English HD",
-
-"livelink": "https://storage.googleapis.com/untering1/mux_video_ts1/index-1.m3u8"
-
-},
-
-{
-
-"type": "English SD",
-
-"livelink": "https://nun.realbitsport.com/live/n-1/chunks.m3u8"
-
-},
-
-{
-
-"type": "China 1 HD",
-
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=bc7ed965ec6a683333800b7c5de75a0c&auth_key=1684611921-0-0-0c125d77cb2f2ffe4612048120611f66"
-
-},
-
-{
-
-"type": "Soco 1 HD",
-
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684605217-0-0-53e25dd576d30a21383b91e5a5fdec44&user_session_id=f2a36668879e41c9e036d014eb4c4a4b"
-
-},
-
-{
-
-"type":  "China 2 HD",
-
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?edge_slice=true&auth_key=1684612101-0-0-165fc56dc0e8a0aafe2c5665de8bd87b&user_session_id=99106a03fef62e49b7eed53bfa7944ea&sub_m3u8=true"
-
-},
-
-{
-
-"type": "Soco 2 HD",
-
-"livelink": "https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=1e9242c9551fbbaed1f2b94f21354561&txTime=6469095d"
-
-},
-
-{
-
-"type":  "China 3 SD",
-
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?edge_slice=true&auth_key=1684611921-0-0-34e5e0cfc05146ae598e19289c5c6e04&user_session_id=93603649a17d9d939728fd8b781a76f5&sub_m3u8=true"
-
-},
-
-{
-
-"type": "Soco 3 SD",
-
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?auth_key=1684605217-0-0-8798ce197cdc8993db4be5e41336c011&user_session_id=5c0b9f9cf23c3395972a487ed1c3dcd6&edge_slice=true&sub_m3u8=true"
-
-},
-
-{
-
-"type": "Vietnam HD",
-
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-
-},
-
-{
-
-"type": "Vietnam SD",
-
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-
-}
-
-]
-},
-{
-"league": " Premier League (8:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/liverpool.png",
-"hteam": "Aston Villa",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/astonvilla.png",
-"ateam": "Liverpool",
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/lecce.png",
+"hteam": "Spezia",
+"time": " 5:00 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/Spezia.gif",
+"ateam": "Lecce",
 "link": [
 {
-"type":  "English HD",
-"livelink": "https://nun.realbitsport.com/live/n-2/chunks.m3u8"
-},
-{
-"type":  "English SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-},
-{
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723064_lsd.m3u8?user_session_id=4f5dcbe4c044909aa3a0d594a47cf07d&auth_key=1684611621-0-0-9ebd4a5ea23b924599edfa3144ec3b9c&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991125_lhd.m3u8?sub_m3u8=true&auth_key=1684605637-0-0-8e8ce0632c448b34fa61f764e1bd646f&user_session_id=57f29daf373780b0fa8a6864e2fbc0a2&edge_slice=true"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723064_lhd.m3u8?auth_key=1684611621-0-0-5d8a59e7575c28f0999644d668ac14b3&sub_m3u8=true&user_session_id=0bd65af864972b91aa007b75b4c2de64&edge_slice=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=a3d428776fe8233f443582be8595cb2b&txTime=64690b3d"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723064_lhd.m3u8?auth_key=1684611621-0-0-5d8a59e7575c28f0999644d668ac14b3&sub_m3u8=true&user_session_id=0bd65af864972b91aa007b75b4c2de64&edge_slice=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991125_lsd.m3u8?auth_key=1684605637-0-0-e25490d3b22d14ca5c8577595aad2a39&user_session_id=ae4ef60aceb1a85700e682a5153100e1&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Premier League (8:30 PM)",
-"himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
-"hteam": "Everton",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/everton.png",
-"ateam": "Wolverhampton",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1684611920-0-0-f93e633fca5a0a1b2251a6e4ee53a58a&user_session_id=f9e154900a58d1993a2eafc2c2ea5daa"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=e5f3cd8e4e2abe1bd266a328ef0b2c09&txTime=64690b79"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?user_session_id=f03eba39c406529f864db5dc2e65c357&sub_m3u8=true&auth_key=1684611920-0-0-49a3bf67aa29d4e04c9fb4aedbd1b1c2&edge_slice=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-197901_lsd.m3u8?txSecret=e5f3cd8e4e2abe1bd266a328ef0b2c09&txTime=64690b79"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?user_session_id=f03eba39c406529f864db5dc2e65c357&sub_m3u8=true&auth_key=1684611920-0-0-49a3bf67aa29d4e04c9fb4aedbd1b1c2&edge_slice=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-197901_lsd.m3u8?txSecret=e5f3cd8e4e2abe1bd266a328ef0b2c09&txTime=64690b79"
-}
-]
-},
-{
-"league": " Premier League (8:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/fulham.png",
-"hteam": "Crystal Palace",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
-"ateam": "Fulham",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lhd.m3u8?auth_key=1684611861-0-0-6479aeeac41dd3872e5674cca5f99606&user_session_id=62b32eebe4f3466c6d1d5fb8f1ab7b14&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=2201a6ea358d9685406ce9ac03dd569d&txTime=64690bf1"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?auth_key=1684611861-0-0-4abc4769a0f90fa229b22adef3d2330d&user_session_id=41ada02cb756522d0e49162397ecf76b&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=2201a6ea358d9685406ce9ac03dd569d&txTime=64690bf1"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?auth_key=1684611861-0-0-4abc4769a0f90fa229b22adef3d2330d&user_session_id=41ada02cb756522d0e49162397ecf76b&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=2201a6ea358d9685406ce9ac03dd569d&txTime=64690bf1"
-}
-]
-},
-{
-"league": " La Liga (8:45) ",
-"himg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
-"hteam": "Celta Vigo",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
-"ateam": "Athletic Bilbao",
-"link": [
-{
-"type": "China 1 HD",
+"type": "China HD",
 "livelink": "0"
 },
 {
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1684605997-0-0-e221d778349a256d6a7a838b3de3366c&edge_slice=true&sub_m3u8=true&user_session_id=eab7fc1e11b588bc35940f00614337ea"
-},
-{
-"type":  "China 2 HD",
+"type":  "China SD",
 "livelink": "0"
 },
 {
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1684605997-0-0-e221d778349a256d6a7a838b3de3366c&edge_slice=true&sub_m3u8=true&user_session_id=eab7fc1e11b588bc35940f00614337ea"
-},
-{
-"type":  "China 3 SD",
+"type": "Soco HD",
 "livelink": "0"
 },
 {
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1684605997-0-0-e221d778349a256d6a7a838b3de3366c&edge_slice=true&sub_m3u8=true&user_session_id=eab7fc1e11b588bc35940f00614337ea"
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 },
 {
-"league": " Ligue 1 (9:30 PM)",
-"himg": "https://mygoaltv.xyz//team/Nantes.png",
-"hteam": "Montpellier",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/Montpellier.png",
-"ateam": "Nantes",
-"link": [
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=097df60d98a6926c5dbf36cbdbd761ae&txTime=64690c69"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=097df60d98a6926c5dbf36cbdbd761ae&txTime=64690c69"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-102933_lsd.m3u8?txSecret=097df60d98a6926c5dbf36cbdbd761ae&txTime=64690c69"
-}
-]
-},
-{
-"league": " Serie A (10:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Atalanta.png",
-"hteam": "Hellas Verona",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/Verona.png",
-"ateam": "Atalanta",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=ce77dea5c81f1c0365ff0f94b5c67073&edge_slice=true&auth_key=1684617920-0-0-dee34ed51d2c6f281f5f81079e1f8391&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=64e49253c6c6b1fd4d9b371f5d1c2c4c&txTime=64690ce1"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=ce77dea5c81f1c0365ff0f94b5c67073&edge_slice=true&auth_key=1684617920-0-0-dee34ed51d2c6f281f5f81079e1f8391&sub_m3u8=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-208390_lsd.m3u8?txSecret=64e49253c6c6b1fd4d9b371f5d1c2c4c&txTime=64690ce1"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=ce77dea5c81f1c0365ff0f94b5c67073&edge_slice=true&auth_key=1684617920-0-0-dee34ed51d2c6f281f5f81079e1f8391&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-208390_lsd.m3u8?txSecret=64e49253c6c6b1fd4d9b371f5d1c2c4c&txTime=64690ce1"
-}
-]
-},
-{
-"league": " Premier League  (11:00 PM) ",
-"himg": "https://mygoaltv.xyz//team/nottingham_forest.png",
-"hteam": "Arsenal",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/arsenal.png",
-"ateam": "Nottingham Forest",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1684617980-0-0-2ce34d9a84246eb57465e694bef6f3a0&edge_slice=true&user_session_id=440c3c1ff5dbee0a2b6d313a48a3a865&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=69329b14fe03d093987d52fed3d657df&txTime=64690d59"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1684618101-0-0-829f8202a6e588c497513a2083dab568"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=1d0b8d8241a94008df83fedcff8142cc&txTime=64690e0d"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1684617980-0-0-ecf26d0f96d10f6398974571c77be724&edge_slice=true&user_session_id=8756cae5aa51cc2e33e6eeca84248eb7&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-991124_lsd.m3u8?txSecret=69329b14fe03d093987d52fed3d657df&txTime=64690d59"
-}
-]
-},
-{
-"league": " La Liga  (11:00 PM) ",
-"himg": "https://mygoaltv.xyz//team/Getafe.png",
-"hteam": "Elche",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/Elche.png",
-"ateam": "Getafe",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&user_session_id=b162d90db0583c6fe1d3e298e9779fdf&edge_slice=true&auth_key=1684618281-0-0-f4f79aa4cd18052a4b18006af1131e70"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a686ce4989ed9b03c96cde6f2927ce8c&auth_key=1684606897-0-0-ef4ae9d9bd96315a0e0d25077eb80b2b"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&user_session_id=b162d90db0583c6fe1d3e298e9779fdf&edge_slice=true&auth_key=1684618281-0-0-f4f79aa4cd18052a4b18006af1131e70"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?auth_key=1684606897-0-0-34cca6f37129f68bd51059192baddc38&sub_m3u8=true&user_session_id=35bc5cd853591e6e989f58af63c396e7&edge_slice=true"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?sub_m3u8=true&user_session_id=b162d90db0583c6fe1d3e298e9779fdf&edge_slice=true&auth_key=1684618281-0-0-f4f79aa4cd18052a4b18006af1131e70"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?auth_key=1684606897-0-0-34cca6f37129f68bd51059192baddc38&sub_m3u8=true&user_session_id=35bc5cd853591e6e989f58af63c396e7&edge_slice=true"
-}
-]
-},
-{
-"league": " La Liga  (11:00 PM)  ",
-"himg": "https://mygoaltv.xyz//team/Almeria.png",
-"hteam": "Mallorca",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
-"ateam": "Almeria",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?edge_slice=true&auth_key=1684618340-0-0-d22712e0a44fa6d867950d83ffb3534c&user_session_id=55f96fa7a101a327de8e3cd21052f291&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=fe7791279228aeb588a9d571996cafda&txTime=64690fed"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?edge_slice=true&auth_key=1684618340-0-0-d22712e0a44fa6d867950d83ffb3534c&user_session_id=55f96fa7a101a327de8e3cd21052f291&sub_m3u8=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=fe7791279228aeb588a9d571996cafda&txTime=64690fed"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?edge_slice=true&auth_key=1684618340-0-0-d22712e0a44fa6d867950d83ffb3534c&user_session_id=55f96fa7a101a327de8e3cd21052f291&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=fe7791279228aeb588a9d571996cafda&txTime=64690fed"
-}
-]
-},
-{
-"league": " Bundesliga  (11:00 PM) ",
-"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"hteam": "RB Leipzig",
-"time": " live ",
-"date": "2023-05-20",
-"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
-"ateam": "Bayern Munich",
-"link": [
-{
-"type": "China 1 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?auth_key=1684618400-0-0-2f6ecd45c93e43a59feeb67fd4ae4089&user_session_id=0f3a0bd40a8531b9f9b14d28fcc9b393&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=dfddd45c9d8da07102561c9903f045b1&auth_key=1684607077-0-0-98f9755bc29eb9707722293f3b13562e"
-},
-{
-"type":  "China 2 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?auth_key=1684618400-0-0-2f6ecd45c93e43a59feeb67fd4ae4089&user_session_id=0f3a0bd40a8531b9f9b14d28fcc9b393&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?sub_m3u8=true&user_session_id=d54956a4e4d009dd44f458135b0c0b27&auth_key=1684607077-0-0-efbf986a9f23fa02d468c9c57f0f6fee&edge_slice=true"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?auth_key=1684618400-0-0-2f6ecd45c93e43a59feeb67fd4ae4089&user_session_id=0f3a0bd40a8531b9f9b14d28fcc9b393&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?sub_m3u8=true&user_session_id=d54956a4e4d009dd44f458135b0c0b27&auth_key=1684607077-0-0-efbf986a9f23fa02d468c9c57f0f6fee&edge_slice=true"
-}
-]
-},
-{
-"league": " Serie A  (1:15 AM) ",
-"himg": "https://mygoaltv.xyz//team/acmilan.png",
-"hteam": "Sampdoria",
-"time": " live ",
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Ajaccio.png",
+"hteam": "Rennes",
+"time": " 5:30 PM ",
 "date": "2023-05-21",
-"aimg": "https://mygoaltv.xyz//team/Sampdoria.png",
-"ateam": "AC Milan",
+"aimg": "https://mygoaltv.xyz//team/rennes.png",
+"ateam": "Ajaccio",
 "link": [
 {
-"type": "China 1 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=260b20e7b43fa1c54893544d6f93ce1a&auth_key=1684618580-0-0-9d6facafdb7fba2f1df32616f32bcd2d&edge_slice=true&sub_m3u8=true"
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type": "Soco 1 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684607197-0-0-cdb87885f21d171b43a8f8a0e166cea5&user_session_id=167caba523a3d64259eb4896a607004f"
+"type":  "China SD",
+"livelink": "0"
 },
 {
-"type":  "China 2 HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=260b20e7b43fa1c54893544d6f93ce1a&auth_key=1684618580-0-0-9d6facafdb7fba2f1df32616f32bcd2d&edge_slice=true&sub_m3u8=true"
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "Soco 2 HD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1684607197-0-0-abd34c483f9c692d1d25a76b1e7d51a3&edge_slice=true&user_session_id=38aa5e1d536418e0131a322eecc5d8fe&sub_m3u8=true"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-2961234_lhd.m3u8?user_session_id=260b20e7b43fa1c54893544d6f93ce1a&auth_key=1684618580-0-0-9d6facafdb7fba2f1df32616f32bcd2d&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?auth_key=1684607197-0-0-abd34c483f9c692d1d25a76b1e7d51a3&edge_slice=true&user_session_id=38aa5e1d536418e0131a322eecc5d8fe&sub_m3u8=true"
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 },
 {
-"league": " La Liga  (1:30 AM) ",
-"himg": "https://mygoaltv.xyz//team/Barcelona.png",
-"hteam": "Real Sociedad",
-"time": " live ",
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
+"hteam": "Espanyol",
+"time": " 6:30 PM ",
 "date": "2023-05-21",
-"aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
-"ateam": "Barcelona",
+"aimg": "https://mygoaltv.xyz//team/Espanyol.png",
+"ateam": "Rayo Vallecano",
 "link": [
 {
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?user_session_id=0f456fe3fa3c4fa1686df036d310ccf1&auth_key=1684618760-0-0-90f03fb6b27c58cb7c582a045877e2d4&edge_slice=true&sub_m3u8=true"
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=49fea7af9ec6c74b5135fc6f9d780a45&txTime=64693e91"
+"type":  "China SD",
+"livelink": "0"
 },
 {
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1684618760-0-0-b8f965c33ba937f9888ff12558e4ace8&edge_slice=true&sub_m3u8=true&user_session_id=88d160382c72610ca2fb86bf1611434f"
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=49fea7af9ec6c74b5135fc6f9d780a45&txTime=64693e91"
-},
-{
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1684618760-0-0-b8f965c33ba937f9888ff12558e4ace8&edge_slice=true&sub_m3u8=true&user_session_id=88d160382c72610ca2fb86bf1611434f"
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=49fea7af9ec6c74b5135fc6f9d780a45&txTime=64693e91"
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 },
 {
-"league": " Ligue 1 (1:30 AM) ",
-"himg": "https://mygoaltv.xyz//team/lille.png",
-"hteam": "Marseille",
-"time": " live ",
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/westham.png",
+"hteam": "Leeds",
+"time": " 7:00 PM ",
 "date": "2023-05-21",
-"aimg": "https://mygoaltv.xyz//team/Marseille_logo.png",
-"ateam": "Lille",
+"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
+"ateam": "West Ham",
 "link": [
 {
-"type": "China 1 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1684618820-0-0-ef90f1ca2851deccf83cdeba81b8de75&edge_slice=true&user_session_id=f2e517e0277296f8594d116dfa056bd1&sub_m3u8=true"
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type": "Soco 1 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991106_lhd.m3u8?txSecret=18cde2bd384614bbc7161e2877b2f675&txTime=64693f09"
+"type":  "China SD",
+"livelink": "0"
 },
 {
-"type":  "China 2 HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1684618820-0-0-ef90f1ca2851deccf83cdeba81b8de75&edge_slice=true&user_session_id=f2e517e0277296f8594d116dfa056bd1&sub_m3u8=true"
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "Soco 2 HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991106_lhd.m3u8?txSecret=18cde2bd384614bbc7161e2877b2f675&txTime=64693f09"
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 },
 {
-"type":  "China 3 SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?auth_key=1684618820-0-0-ef90f1ca2851deccf83cdeba81b8de75&edge_slice=true&user_session_id=f2e517e0277296f8594d116dfa056bd1&sub_m3u8=true"
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Brighton.gif",
+"hteam": "Southampton",
+"time": " 7:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/southampton.png",
+"ateam": "Brighton",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type": "Soco 3 SD",
-"livelink": "https://sports01.livnvess.com/live/stream-991106_lhd.m3u8?txSecret=18cde2bd384614bbc7161e2877b2f675&txTime=64693f09"
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Torino.png",
+"hteam": "Fiorentina",
+"time": " 7:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
+"ateam": "Torino",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Nice.png",
+"hteam": "Toulouse",
+"time": " 7:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/Toulouse.png",
+"ateam": "Nice",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/reims.png",
+"hteam": "Angers SCO",
+"time": " 7:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/Angers-SCO.gif",
+"ateam": "Reims",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Troyes.gif",
+"hteam": "Strasbourg",
+"time": " 7:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/strasbourg.png",
+"ateam": "Troyes",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Brest.gif",
+"hteam": "Clermont",
+"time": " 7:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/clermont.png",
+"ateam": "Brestois",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Mainz_05.png",
+"hteam": "Stuttgart",
+"time": " 8:00 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/stuttgart.png",
+"ateam": "Mainz 05",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
+"hteam": "Osasuna",
+"time": " 8:45 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/osasuna.png",
+"ateam": "Atletico Madrid",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/manchestercity.png",
+"hteam": "Chelsea",
+"time": " 9:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/chelsea.png",
+"ateam": "Manchester City",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Lorient.png",
+"hteam": "Lens",
+"time": " 9:35 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/Lens.png",
+"ateam": "Lorient",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/augsburg.png",
+"hteam": "Dortmund",
+"time": " 10:00 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/dortmund.png",
+"ateam": "Augsburg",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/napoli.png",
+"hteam": "Inter Milan",
+"time": " 10:30 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
+"ateam": "Napoli",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Valencia.png",
+"hteam": "Real Madrid",
+"time": " 11:00 PM ",
+"date": "2023-05-21",
+"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
+"ateam": "Valencia",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://mygoaltv.xyz//team/Leverkusen.png",
+"hteam": "Monchengladbach",
+"time": " 12:00 AM ",
+"date": "2023-05-22",
+"aimg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
+"ateam": "Leverkusen",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Udinese.png",
+"hteam": "Lazio",
+"time": " 1:15 AM ",
+"date": "2023-05-22",
+"aimg": "https://mygoaltv.xyz//team/lazio.png",
+"ateam": "Udinese",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Auxerre.gif",
+"hteam": "Paris Saint-Germain",
+"time": " 1:15 AM ",
+"date": "2023-05-22",
+"aimg": "https://mygoaltv.xyz//team/psg.png",
+"ateam": "Auxerre",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 }
