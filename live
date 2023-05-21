@@ -225,6 +225,14 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://storage.googleapis.com/unixesting1/mux_video_ts1/index-1.m3u8"
+},
+{
+"type": "English SD",
+"livelink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&auth_key=1684697841-0-0-a067f93fc255c4d8a05cfd61ea5fecb4&sub_m3u8=true&user_session_id=0d4e64a1067126756f0d6efe3f6c2222"
 },
@@ -239,6 +247,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=e443897a1f1758ef59f5c6624e95067f&txTime=646a50c9"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 },
