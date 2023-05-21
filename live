@@ -1,28 +1,28 @@
 [
 {
-"league": " Serie A ",
+"league": " Serie A (5:00 PM) ",
 "himg": "https://mygoaltv.xyz//team/lecce.png",
 "hteam": "Spezia",
-"time": " 5:00 PM ",
+"time": " live ",
 "date": "2023-05-21",
 "aimg": "https://mygoaltv.xyz//team/Spezia.gif",
 "ateam": "Lecce",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-678199_lhd.m3u8?auth_key=1684685360-0-0-55518c7b1149a825759197e16dc55998&edge_slice=true&user_session_id=0a23eba6e51594f6c12ff9beda648197&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-678199_lsd.m3u8?user_session_id=53caad58e490713db71fe2152fdbf767&edge_slice=true&sub_m3u8=true&auth_key=1684685360-0-0-bb98a48ba3a519c1d4933d8e495b4ecb"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1684685437-0-0-908a0ec37792108830b47f3574a2ab3f&user_session_id=248e12373fe2a657b999b122369152b3"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991123_lsd.m3u8?auth_key=1684685437-0-0-39b92bae40e764dd7d95deb6d9aa803f&sub_m3u8=true&user_session_id=70719a8dc732d4c9339f9dbedec85bf2&edge_slice=true"
 }
 ]
 },
