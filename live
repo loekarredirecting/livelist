@@ -1,32 +1,5 @@
 [
 {
-"league": " Premier League  (7:00 PM) ",
-"himg": "https://mygoaltv.xyz//team/westham.png",
-"hteam": "Leeds",
-"time": " live ",
-"date": "2023-05-21",
-"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
-"ateam": "West Ham",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=262a6ca4ef05ec4cf728f31fa908aac7&edge_slice=true&auth_key=1684690041-0-0-b574243660d746568c4881bc0ed6d87f"
-},
-{
-"type":  "China SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=77b4d1d62af6e458b021a483b73562e4&edge_slice=true&auth_key=1684690041-0-0-cad938a82823a03c0d1b8c82aa5ec6e3"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=fcdaf584bb6caa9f13dfe8f47b8be3c5&txTime=646a4c19"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=fcdaf584bb6caa9f13dfe8f47b8be3c5&txTime=646a4c19"
-}
-]
-},
-{
 "league": " Premier League  (7:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "Southampton",
@@ -246,7 +219,7 @@
 "league": " Premier League  (9:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Chelsea",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-05-21",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "Manchester City",
@@ -273,7 +246,7 @@
 "league": " Ligue 1  (9:35 PM) ",
 "himg": "https://mygoaltv.xyz//team/Lorient.png",
 "hteam": "Lens",
-"time": " 9:35 PM ",
+"time": " live ",
 "date": "2023-05-21",
 "aimg": "https://mygoaltv.xyz//team/Lens.png",
 "ateam": "Lorient",
