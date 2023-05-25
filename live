@@ -1,20 +1,20 @@
 [
 {
-"league": " La Liga ",
+"league": " La Liga (12:00 AM) ",
 "himg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "hteam": "Valencia",
-"time": " 12:00 AM ",
+"time": " live ",
 "date": "2023-05-26",
 "aimg": "https://mygoaltv.xyz//team/Valencia.png",
 "ateam": "Mallorca",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=4ca365dd965637b34252006e81ff1f3e&auth_key=1685057121-0-0-a915ca8afc250f06786fbfb7cd05d9ad"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-626983_lsd.m3u8?auth_key=1685057121-0-0-9ab00f2111f4c98648234621fabc8959&edge_slice=true&sub_m3u8=true&user_session_id=ac83ecaca9250a89a69a326c4a79808b"
 },
 {
 "type": "Soco HD",
