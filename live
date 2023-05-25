@@ -30,19 +30,11 @@
 "league": " Premier League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Chelsea",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-05-26",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "Manchester United",
 "link": [
-{
-"type": "English HD",
-"livelink": ""
-},
-{
-"type": "English SD",
-"livelink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1685057301-0-0-e51b46ac9a2456e9aff6afb70bdddc3c&edge_slice=true&sub_m3u8=true&user_session_id=b44288d0873e2713cd5a0e949e035884"
