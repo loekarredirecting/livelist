@@ -36,6 +36,14 @@
 "ateam": "Manchester United",
 "link": [
 {
+"type": "English HD",
+"livelink": ""
+},
+{
+"type": "English SD",
+"livelink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1685057301-0-0-e51b46ac9a2456e9aff6afb70bdddc3c&edge_slice=true&sub_m3u8=true&user_session_id=b44288d0873e2713cd5a0e949e035884"
 },
@@ -50,6 +58,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-991118_lsd.m3u8?txSecret=0d99cfd5d47d02023e2e6b8d8d8c46f7&txTime=646ff052"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
 }
 ]
 },
