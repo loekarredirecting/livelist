@@ -3,26 +3,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/salernitana.png",
 "hteam": "Udinese",
-"time": " 7:30 PM ",
+"time": " live ",
 "date": "2023-05-27",
 "aimg": "https://mygoaltv.xyz//team/Udinese.png",
 "ateam": "Salernitana",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=6dab379c747899d488104315d33de603&txTime=64724ea6"
 }
 ]
 },
@@ -30,26 +22,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Spezia.gif",
 "hteam": "Torino",
-"time": " 7:30 PM ",
+"time": " live ",
 "date": "2023-05-27",
 "aimg": "https://mygoaltv.xyz//team/Torino.png",
 "ateam": "Spezia",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=7ce5ff4af8c7c30adcaf04382dbd2450&txTime=64724e6a"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-104707_lsd.m3u8?txSecret=7ce5ff4af8c7c30adcaf04382dbd2450&txTime=64724e6a"
 }
 ]
 },
