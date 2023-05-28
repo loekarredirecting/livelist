@@ -361,11 +361,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?auth_key=1685314581-0-0-bf52650b6378b951a50fdf401e34645b&edge_slice=true&user_session_id=9befb060789372532207cb950b33327e&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?edge_slice=true&auth_key=1685314581-0-0-6765ec2ea829a5314d9b87f208d017ab&sub_m3u8=true&user_session_id=7fdad5009940f4ee153f1137f9cd626a"
 },
 {
 "type": "Soco HD",
@@ -424,29 +424,29 @@
 ]
 },
 {
-"league": " Serie A ",
+"league": " Serie A  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/Juventus.png",
 "hteam": "AC Milan",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-05-28",
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "Juventus",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=e57d2702a97e1751cf2a51123542b920&txTime=6473d992"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=c40f5fcb93ebcb0b52981355900b9cc8&txTime=6473d9ce"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=c40f5fcb93ebcb0b52981355900b9cc8&txTime=6473d9ce"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=e57d2702a97e1751cf2a51123542b920&txTime=6473d992"
 }
 ]
 }
