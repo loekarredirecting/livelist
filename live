@@ -9,12 +9,12 @@
 "ateam": "Manchester United",
 "link": [
 {
-"type": "English HD",
-"livelink": ""
+"type": "English 1 HD",
+"livelink": "https://prod-ec-ap-south-1.video.pscp.tv/Transcoding/v1/hls/3_7lG-kOFKmfqgLT6klAf90gIh4I8dhRNHnaCjz9rre3Tzy6In24jybp0CMQCReARxW2u4pNlhpZx-XsqHZZkQ/non_transcode/ap-southeast-1/periscope-replay-direct-prod-ap-southeast-1-public/tw_master_dynamic_highlatency.m3u8?type=live"
 },
 {
-"type": "English SD",
-"livelink": ""
+"type": "English 2 HD",
+"livelink": "https://a5.soft4game.com/o51/stream197/o/stream197/chunks.m3u8?nimblesessionid=3600883&wmsAuthSign=c2VydmVyX3RpbWU9NS8yOC8yMDIzIDM6MDA6MDAgUE0maGFzaF92YWx1ZT12TDFuZjdSWE0ycGRQaDZBb3graVl3PT0mdmFsaWRtaW51dGVzPTEyMCZpZD01"
 },
 {
 "type": "China HD",
@@ -69,11 +69,11 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/playlist.m3u8"
 }
 ]
 },
@@ -101,14 +101,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-19949_lsd.m3u8?txSecret=e2bd31b30d3cee6f33b253d5bd9988be&txTime=6473c402"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
@@ -136,14 +128,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://sports01.livnvess.com/live/stream-991130_lsd.m3u8?txSecret=cc730e792718ab9d53fa36f4911a3d69&txTime=6473c47a"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
@@ -171,14 +155,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1685308598-0-0-3d21fa90df0a7b8fd6c6503fbb0e452d&user_session_id=09e8ae0be3f63a761b09f0d704b317a2&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
 }
 ]
 },
