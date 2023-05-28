@@ -316,26 +316,18 @@
 "league": " La Liga  (11:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Valencia.png",
 "hteam": "Espanyol",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-05-28",
 "aimg": "https://mygoaltv.xyz//team/Espanyol.png",
 "ateam": "Valencia",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lhd.m3u8?user_session_id=621101d47cfca201b5d1f02096526746&edge_slice=true&sub_m3u8=true&auth_key=1685313502-0-0-c8f3b87108ee783f43909d1605dd7a1e"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-789220_lsd.m3u8?auth_key=1685313502-0-0-1608a1a89225a311b46d366a0ccddd51&edge_slice=true&sub_m3u8=true&user_session_id=771ac9f6ffd021892bcc337f8fa2454c"
 }
 ]
 },
@@ -343,107 +335,18 @@
 "league": " La Liga  (11:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "hteam": "Celta Vigo",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-05-28",
 "aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "ateam": "Cadiz",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?auth_key=1685313561-0-0-f393b8db2b9b82c2b9b770dc97bee5ff&sub_m3u8=true&edge_slice=true&user_session_id=94b8ae4e90b26b591729ca7b0bd0e821"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " La Liga  (11:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
-"hteam": "Elche",
-"time": " 11:30 PM ",
-"date": "2023-05-28",
-"aimg": "https://mygoaltv.xyz//team/Elche.png",
-"ateam": "Athletic Bilbao",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " La Liga  (11:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Girona.png",
-"hteam": "Betis",
-"time": " 11:30 PM ",
-"date": "2023-05-28",
-"aimg": "https://mygoaltv.xyz//team/betis.png",
-"ateam": "Girona",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " La Liga  (11:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Getafe.png",
-"hteam": "Osasuna",
-"time": " 11:30 PM ",
-"date": "2023-05-28",
-"aimg": "https://mygoaltv.xyz//team/osasuna.png",
-"ateam": "Getafe",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lsd.m3u8?edge_slice=true&auth_key=1685313561-0-0-87d2284350b78d8dc563650f5ec85824&user_session_id=46d35294c1ca04d7bbeced21c0672bfe&sub_m3u8=true"
 }
 ]
 },
@@ -451,7 +354,7 @@
 "league": " La Liga  (11:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Mallorca",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-05-28",
 "aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "ateam": "Barcelona",
@@ -466,11 +369,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=89ac41a81275866dfcf3700eababaeb5&txTime=6473d8de"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lsd.m3u8?txSecret=89ac41a81275866dfcf3700eababaeb5&txTime=6473d8de"
 }
 ]
 },
@@ -478,26 +381,26 @@
 "league": " La Liga  (11:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "hteam": "Real Sociedad",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-05-28",
 "aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "ateam": "Atletico Madrid",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362353_lhd.m3u8?auth_key=1685314221-0-0-93d7c1c6655bac7fae84927badb7d630&edge_slice=true&sub_m3u8=true&user_session_id=d4f73cb3a9af0ff5af0dedece9c3858b"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362353_lsd.m3u8?auth_key=1685314221-0-0-fee2ba85ff74174948e35a60cdf1dab8&user_session_id=319fddc0979d6b96624c088dd5be8901&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=ba92e32a0f894926ae2959218844d1d2&txTime=6473d956"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-192778_lsd.m3u8?txSecret=ba92e32a0f894926ae2959218844d1d2&txTime=6473d956"
 }
 ]
 },
@@ -505,53 +408,18 @@
 "league": " La Liga  (11:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Valladolid",
-"time": " 11:30 PM ",
+"time": " live ",
 "date": "2023-05-28",
 "aimg": "https://mygoaltv.xyz//team/Valladolid.png",
 "ateam": "Almeria",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1685313621-0-0-763532b38cd35d86c2c9379d5984a257&sub_m3u8=true&user_session_id=1c0e3c33a0cf9974ddd645a29ce21941&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " La Liga  (11:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
-"hteam": "Villarreal",
-"time": " 11:30 PM ",
-"date": "2023-05-28",
-"aimg": "https://mygoaltv.xyz//team/villarreal.png",
-"ateam": "Rayo Vallecano",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1685313621-0-0-df83eaa0d8e6ede201e1781fb45df513&sub_m3u8=true&user_session_id=11eaaacab73ba515019ae5bb6a1dc63e&edge_slice=true"
 }
 ]
 },
