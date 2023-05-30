@@ -1,10 +1,37 @@
 [
 {
+"league": " Saudi Pro League ",
+"himg": "https://mygoaltv.xyz//team/al-nassr.png",
+"hteam": "Al Fateh",
+"time": " 12:30 AM ",
+"date": "2023-06-01",
+"aimg": "https://mygoaltv.xyz//team/Al-Fateh.gif",
+"ateam": "Al-Nassr",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Europa League ",
 "himg": "https://mygoaltv.xyz//team/Sevilla.png",
 "hteam": "AS Roma",
 "time": " 1:30 AM ",
-"date": "2023-06-1",
+"date": "2023-06-01",
 "aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "ateam": "Sevilla",
 "link": [
