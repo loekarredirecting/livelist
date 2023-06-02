@@ -1,28 +1,28 @@
 [
 {
-"league": " Serie A ",
+"league": " Serie A  (1:00 AM) ",
 "himg": "https://mygoaltv.xyz//team/sassuolo.png",
 "hteam": "Fiorentina",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-06-03",
 "aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "ateam": "Sassuolo",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1685746101-0-0-f17e25750c5e512262a5506e83aa78c0&user_session_id=6a4efbd5382a37db11a01650bc3ab1d7&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1685746101-0-0-570272923ecda975ee0240889e82147d&edge_slice=true&user_session_id=778fd2034ab8e2ca5a996a4b99823463"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991137_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685742938-0-0-b3fef91b774a5559592e9358a93eb3d9&user_session_id=b3685b851ca32fb2b0ba9745737eeee6"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull06.scstream.net/live/stream-991137_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1685742938-0-0-fda52842f34d1c670a00efb9a89b3913&user_session_id=4d6a1cad26aafedea984a36c8d62210c"
 }
 ]
 },
