@@ -9,6 +9,14 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://storage.googleapis.com/govesreal1/mux_video_ts/index-1.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&user_session_id=810f14970f082adf5bd9eb42477691e0&edge_slice=true&auth_key=1685820561-0-0-26c8b698087599db7f2c87e99e200b37"
 },
