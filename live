@@ -1,28 +1,28 @@
 [
 {
-"league": " FA Cup ",
+"league": " FA Cup  (8:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Manchester United",
-"time": " 8:30 PM ",
+"time": " live ",
 "date": "2023-06-03",
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Manchester City",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&user_session_id=810f14970f082adf5bd9eb42477691e0&edge_slice=true&auth_key=1685820561-0-0-26c8b698087599db7f2c87e99e200b37"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://0255aacae47ba4334f30564256a2a325.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&user_session_id=aae006ceabdb06fd2a68352860606684&sub_m3u8=true&auth_key=1685820561-0-0-062ea03ae1ac01adb3901964c4b2fa7d"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=3050dcbe642417b6fcb1d2481e1a1c8a&txTime=647b93ee"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991120_lsd.m3u8?txSecret=3050dcbe642417b6fcb1d2481e1a1c8a&txTime=647b93ee"
 }
 ]
 },
