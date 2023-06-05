@@ -1,28 +1,28 @@
 [
 {
-"league": " Bundesliga ",
+"league": " Bundesliga  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/Hamburg.png",
 "hteam": "Stuttgart",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-06-06",
 "aimg": "https://mygoaltv.xyz//team/stuttgart.png",
 "ateam": "Hamburg",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=76e06672f21e98682b0c22192a0d529c&txTime=647e5e4f"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=76e06672f21e98682b0c22192a0d529c&txTime=647e5e4f"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=76e06672f21e98682b0c22192a0d529c&txTime=647e5e4f"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=76e06672f21e98682b0c22192a0d529c&txTime=647e5e4f"
 }
 ]
 }
