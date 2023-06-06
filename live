@@ -1,32 +1,5 @@
 [
 {
-"league": " Friendly  (5:00 PM) ",
-"himg": "https://mygoaltv.xyz//team/Vissel-Kobe.gif",
-"hteam": "Barcelona",
-"time": " live ",
-"date": "2023-06-06",
-"aimg": "https://mygoaltv.xyz//team/Barcelona.png",
-"ateam": "Vissel Kobe",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686067779-0-0-6d8e1a62088ad20181c6e53620e6e2e2&user_session_id=960a1f3f1174993a1750b01f655e7f12&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?auth_key=1686067779-0-0-4354a9f65077563db24b478c31ee259f&user_session_id=e4b6a9d205be13ac781f0af817896f83&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=4162ffba16f2f497544bbdf1add6895c&txTime=647f5a83"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-106737_lsd.m3u8?txSecret=4162ffba16f2f497544bbdf1add6895c&txTime=647f5a83"
-}
-]
-},
-{
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "hteam": "West Ham",
