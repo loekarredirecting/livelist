@@ -1,28 +1,36 @@
 [
 {
-"league": " Champions League ",
+"league": " Champions League  (1:30 AM) ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Inter Milan",
-"time": " 1:30 AM ",
+"time": " live ",
 "date": "2023-06-11",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "Manchester City",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=aff20c8b62b3a922cb3e3c7e351f70a3&auth_key=1686442762-0-0-a404a0e693840edc981782a55be65824&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&auth_key=1686442762-0-0-305b96e0f02021a464fcdafcf8731252&user_session_id=638719217316d491e5db418fdccc964a&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=69586ecdf69b842c8ad7596b850e7331&auth_key=1686442762-0-0-a404a0e693840edc981782a55be65824&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&user_session_id=36c9891d21301db0997ab9a7526e6e2a&auth_key=1686442762-0-0-305b96e0f02021a464fcdafcf8731252&sub_m3u8=true"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
 }
 ]
 }
