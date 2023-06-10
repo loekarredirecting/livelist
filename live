@@ -9,6 +9,14 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CqMFqO6H4Dm3J8gtwMTWtbAO3Ek-FwabNz2eYDFZIY2130h51Ru9pgE5nG2UoUhoK_TDFCmPOwnT5F5WATHN9E3vCASUEQFCoayCr9n1ypj1Q2qpL3nHcSDLmn5x9em45WqYSkEtVDxRWVsBg9vQACOPeQ93ADB8q1wVSo8ml1j6Rr2k46gFwhsiC3NeNM3tJgmI3DqK8p60Mrx2sfu5a2wU3cDQpE1u0NXmfMCcVoCXVGcE1XXGvtFsSLet0LacSZ1sWkX9_Exz1yZimffMbT8A140LCw4Qygb69Q_UEHqtyTBLyM_MqkGhVPWwk-KjCXMOChfWIKge2TjXm7-n9PmbQj7Q0vpi-oFdPQeVjgweT-6CDHdQexMri7Gq8_RJz2fNbyB22wkkYzYbVapWi2MKK5F8du7jX4KSaJtHZp4025oZwy-okV4CzoXe6jIsEvGPaSDYA4DlA2av-wYFbsfk3BTMgduquewoMtNlWbuhKmXsOj-5hP6Z0GA2OiS7ds0Wt-eMOIxGp8XNF-R-bA3u9i-p-7FWZXVBZdWK5fUWbkZi60KBda0k8tdXXoNcxyXDlXHe1plSFymGNKSZUdT8CHFX71c2dfG12hTydHuduYaSqBWbMOggAjoKNV1Fi_FoPntbcRcz7bQpw_eO_zvijCdusLhdaaDtLRzO0QQ70ZIKkqh-Lf8xHbirdsQ68Cj4Sa3-Z9fLTiePL3I_X-k9IgKWqtG-rihvxHM7BcRFc5SdkRkrBaqNQm3RS7hlL8W4RrIXoKBEqHwtAgby3NY25AwMx7AGNjauqKNCijgcjFEChR-IK0Bgl-1c5L3-vlrHHS3ZswI6lYQI9m4d8GfNeZMPSJKP_pI1qzA3PtS5UFOgp3ki5QNGwUJiKmPpm5atRMKPGgzhpzlPChoTERNLw5kgASoJZXUtd2VzdC0yMOMG.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=aff20c8b62b3a922cb3e3c7e351f70a3&auth_key=1686442762-0-0-a404a0e693840edc981782a55be65824&edge_slice=true"
 },
