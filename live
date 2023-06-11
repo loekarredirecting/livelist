@@ -1,53 +1,55 @@
 [
 {
-"league": " Champions League  (1:30 AM) ",
-"himg": "https://mygoaltv.xyz//team/manchestercity.png",
-"hteam": "Inter Milan",
-"time": " live ",
-"date": "2023-06-11",
-"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
-"ateam": "Manchester City",
-"link": [
+        "league": " Serie A ",
+        "himg": "https:\/\/mygoaltv.xyz\/\/team\/Spezia.gif",
+        "hteam": "Hellas Verona",
+        "time": " 1:15 AM ",
+        "date": "2023-06-12",
+        "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Verona.png",
+        "ateam": "Spezia",
+        "link": [
+
+  {
+
+                    "type": "SD",
+
+                "livelink":""
+
+         
+
+                },                     
+
 {
-"type": "English 1 HD",
-"livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8"
-},
+
+                    "type": "SD 2",
+
+                "livelink":""
+
+         
+
+                },
+
 {
-"type": "English 2 HD",
-"livelink": "https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
-},
+
+                    "type": "HD",
+
+                "livelink":""
+
+         
+
+                },
+
 {
-"type": "English 3 HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-x7lm7ph3d162m2w/chunklist_w1805770997.m3u8"
-},
-{
-"type": "English 3 SD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-x7lm7ph3d162m2w/chunklist_w1727913019.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=aff20c8b62b3a922cb3e3c7e351f70a3&auth_key=1686442762-0-0-a404a0e693840edc981782a55be65824&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&auth_key=1686442762-0-0-305b96e0f02021a464fcdafcf8731252&user_session_id=638719217316d491e5db418fdccc964a&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=a813771dfff188bc75a6b0adb07eba7d&txTime=64851393"
-},
-{
-"type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-158814_lsd.m3u8?txSecret=a813771dfff188bc75a6b0adb07eba7d&txTime=64851393"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-}
-]
-}
+
+                    "type": "HD 2",
+
+                "livelink":""
+
+                }
+
+                
+
+            ]
+
+    }
 ]
