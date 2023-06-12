@@ -1,29 +1,29 @@
 [
 {
-        "league": " Serie A  (1:15 AM) ",
-        "himg": "https:\/\/mygoaltv.xyz\/\/team\/Spezia.gif",
-        "hteam": "Hellas Verona",
-        "time": " live ",
-        "date": "2023-06-12",
-        "aimg": "https:\/\/mygoaltv.xyz\/\/team\/Verona.png",
-        "ateam": "Spezia",
-        "link": [
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Germany.png",
+"hteam": "Ukraine",
+"time": " 10:30 PM ",
+"date": "2023-06-12",
+"aimg": "https://mygoaltv.xyz//team/Ukraine.png",
+"ateam": "Germany",
+"link": [
 {
 "type": "China HD",
-"livelink": "https://e77a86395142b728795df09655c758b0.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lhd.m3u8?auth_key=1686521842-0-0-89f1b335456ad9907c81e5d58d0f9b51&edge_slice=true&sub_m3u8=true&user_session_id=0ecdcf161fb8241d9a0e8e96691d5d3d"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://e77a86395142b728795df09655c758b0.livehwc3.cn/pull.juqihuo.com/live/stream-112366_lsd.m3u8?auth_key=1686521842-0-0-8b46f16b619d9a8b1138cb1de68fa121&edge_slice=true&sub_m3u8=true&user_session_id=f4c8b4d1788c904a1a6696399422782a"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=8620e72980ffb9b0308c92603e0bc831&txTime=6486487b"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-171964_lsd.m3u8?txSecret=8620e72980ffb9b0308c92603e0bc831&txTime=6486487b"
+"livelink": "0"
 }
 ]
-    }
+}
 ]
