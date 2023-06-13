@@ -1,28 +1,109 @@
 [
 {
-"league": " Friendly  (10:30 PM) ",
-"himg": "https://mygoaltv.xyz//team/Germany.png",
-"hteam": "Ukraine",
-"time": " live ",
-"date": "2023-06-12",
-"aimg": "https://mygoaltv.xyz//team/Ukraine.png",
-"ateam": "Germany",
+"league": " UEFA Nations League ",
+"himg": "https://mygoaltv.xyz//team/Halan.png",
+"hteam": "Croatia",
+"time": " 1:15 AM ",
+"date": "2023-06-15",
+"aimg": "https://mygoaltv.xyz//team/Croatia.png",
+"ateam": "Netherlands",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=8f6f543b73a478d8c8494e82d63a42eb&txTime=64878f6f"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://sports01.livnvess.com/live/stream-991121_lsd.m3u8?txSecret=da1e6d74493197fd0a582827dd5398b1&txTime=64878f33"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=da1e6d74493197fd0a582827dd5398b1&txTime=64878f33"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-991114_lsd.m3u8?txSecret=8f6f543b73a478d8c8494e82d63a42eb&txTime=64878f6f"
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Uruguay.png",
+"hteam": "Nicaragua",
+"time": " 6:00 AM ",
+"date": "2023-06-15",
+"aimg": "https://mygoaltv.xyz//team/nicaragua.png",
+"ateam": "Uruguay",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Nhat.png",
+"hteam": "El Salvador",
+"time": " 4:40 PM ",
+"date": "2023-06-15",
+"aimg": "https://mygoaltv.xyz//team/El-Salvador.png",
+"ateam": "Japan",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Argentina.png",
+"hteam": "Australia",
+"time": " 6:30 PM ",
+"date": "2023-06-15",
+"aimg": "https://mygoaltv.xyz//team/Australia.png",
+"ateam": "Argentina",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 }
