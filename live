@@ -1,55 +1,39 @@
 [
 {
-"league": " UEFA Nations League ",
+"league": " UEFA Nations League  (1:15 AM) ",
 "himg": "https://mygoaltv.xyz//team/Halan.png",
 "hteam": "Croatia",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-06-15",
 "aimg": "https://mygoaltv.xyz//team/Croatia.png",
 "ateam": "Netherlands",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686784420-0-0-027aa9c804c832e5474ea646db896b65&user_session_id=49361f42432da528ecc9bd236a32bfb8&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1686784420-0-0-deaf499e55fd359244052d13af401cfd&edge_slice=true&user_session_id=2c3370613c29e530757341ad190f9c99&sub_m3u8=true"
 }
 ]
 },
 {
-"league": " Friendly ",
+"league": " Friendly  (6:00 AM) ",
 "himg": "https://mygoaltv.xyz//team/Uruguay.png",
 "hteam": "Nicaragua",
-"time": " 6:00 AM ",
+"time": " live ",
 "date": "2023-06-15",
 "aimg": "https://mygoaltv.xyz//team/nicaragua.png",
 "ateam": "Uruguay",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lhd.m3u8?user_session_id=48c7b310d801f93912eae7979e20aeda&auth_key=1686774160-0-0-737d0a49f18e863fc84bdd29e5cb6f3e&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://17afc863e4e771f160cb6f614a52fb1c.livehwc3.cn/pull06.scstream.net/live/stream-115429_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1532a7c9eb66e147247877dd2b9e8170&auth_key=1686774160-0-0-ab1958f3db79b3a8d3053647140f82aa"
 }
 ]
 },
