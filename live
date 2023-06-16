@@ -3,26 +3,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/China.png",
 "hteam": "Myanmar",
-"time": " 5:00 PM ",
+"time": " live ",
 "date": "2023-06-16",
 "aimg": "https://mygoaltv.xyz//team/Myanmar_flag_300.png",
 "ateam": "China",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=5da8ee0b19f6e855a5b221d54ad54dd2&txTime=648c8b9c"
 }
 ]
 },
