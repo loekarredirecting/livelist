@@ -27,29 +27,29 @@
 ]
 },
 {
-"league": " Friendly ",
+"league": " Friendly  (5:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Hanquoc.png",
 "hteam": "Peru",
-"time": " 5:30 PM ",
+"time": " live ",
 "date": "2023-06-16",
 "aimg": "https://mygoaltv.xyz//team/Peru.png",
 "ateam": "South Korea",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1686934000-0-0-922b08da2d92e35926306ccaa408e311&edge_slice=true&sub_m3u8=true&user_session_id=cd8127c38d0581416efedd9973c583d4"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?user_session_id=a215a400e9b5d9a2b2c5114bffd24f39&auth_key=1686934196-0-0-6aedc749deabe1f6cf7829d895760c66&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-991142_lsd.m3u8?auth_key=1686934000-0-0-7e2a8e5c312bb1d5b94357e627ec3ef1&user_session_id=392b65394a2d08aaaa0e12131ee0744c&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://7992be6d488db9d33fd803b87f5537aa.livehwc3.cn/pull06.scstream.net/live/stream-380460_lsd.m3u8?user_session_id=a215a400e9b5d9a2b2c5114bffd24f39&auth_key=1686934196-0-0-6aedc749deabe1f6cf7829d895760c66&sub_m3u8=true&edge_slice=true"
 }
 ]
 }
