@@ -36,20 +36,12 @@
 "ateam": "Azerbaijan",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=ee4692cb1139d6dc732b833f485d3aca&txTime=648e2c90"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991122_lsd.m3u8?txSecret=7e73ccbdf38a15283bfde8620b0faae9&txTime=648e2ccc"
 }
 ]
 },
@@ -63,20 +55,12 @@
 "ateam": "Montenegro",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=6d621c3d1a51f1ba871e48c18ff66f6b&txTime=648e2d08"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://sports01.livnvess.com/live/stream-991117_lsd.m3u8?txSecret=6d621c3d1a51f1ba871e48c18ff66f6b&txTime=648e2d08"
 }
 ]
 },
