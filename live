@@ -1,9 +1,9 @@
 [
 {
-"league": " UEFA EURO ",
+"league": " UEFA EURO  (10:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Ukraine.png",
 "hteam": "Malta",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "2023-06-19",
 "aimg": "https://mygoaltv.xyz//team/Malta.png",
 "ateam": "Ukraine",
@@ -18,19 +18,19 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991124_lhd.m3u8?user_session_id=d6b22204a9dd945bb7d57187ebfc808c&edge_slice=true&sub_m3u8=true&auth_key=1687193042-0-0-5243e1fa99e587ab6256982df1e86c04"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991118_lsd.m3u8?edge_slice=true&user_session_id=bec9e468c4c05028052834d24b0d49c7&sub_m3u8=true&auth_key=1687192802-0-0-a7db806e2b188bb321af199bdea74f45"
 }
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " UEFA EURO  (10:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Armenia.png",
 "hteam": "Latvia",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "2023-06-19",
 "aimg": "https://mygoaltv.xyz//team/Latvia.png",
 "ateam": "Armenia",
@@ -45,19 +45,19 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-551866_lhd.flv?auth_key=1687211063-0-0-8f4246c91e9f2c38184e5c92aa3bf029"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?sub_m3u8=true&user_session_id=60156e7548e953999df420648e5a35c3&auth_key=1687192862-0-0-9bb0e82bc3c3d0a0e1194dfc446ccb50&edge_slice=true"
 }
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " UEFA EURO  (10:30 PM) ",
 "himg": "https://mygoaltv.xyz//team/Finland.png",
 "hteam": "San Marino",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "2023-06-19",
 "aimg": "https://mygoaltv.xyz//team/San-Marino.png",
 "ateam": "Finland",
@@ -72,11 +72,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?sub_m3u8=true&auth_key=1687192862-0-0-bbd17a422f303f79f93a5b98beaa7567&user_session_id=318e01ddc62b6e006657db4f67da3d29&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?sub_m3u8=true&auth_key=1687192862-0-0-62781afaf283fde42b0fd85b5e8bd855&user_session_id=2155f60ce69cc5e9767f31c79e8f90ab&edge_slice=true"
 }
 ]
 },
