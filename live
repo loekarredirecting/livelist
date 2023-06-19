@@ -1,47 +1,352 @@
 [
 {
-"league": " UEFA Nations League (1:15 AM) ",
-"himg": "https://mygoaltv.xyz//team/Croatia.png",
-"hteam": "Spain",
-"time": " live ",
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/indonesia_flag.png",
+"hteam": "Argentina",
+"time": " 7:00 PM ",
 "date": "2023-06-19",
-"aimg": "https://mygoaltv.xyz//team/Taybannha.png",
-"ateam": "Croatia",
-"link": [
+"aimg": "https://mygoaltv.xyz//team/Argentina.png",
+"ateam": "Indonesia",
+"link":[
 {
 "type": "China HD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1687125743-0-0-fe6dbec6058fa3eef7f801c15080347b&sub_m3u8=true&user_session_id=8dce47681b142ccf5a9b75712bd6b5f5&edge_slice=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://651e411010b7d90167dfb5b08bc317d5.livehwc3.cn/pull.juqihuo.com/live/stream-886721_lsd.m3u8?user_session_id=fd6f884049342209b18c44dba1457fc8&edge_slice=true&auth_key=1687125503-0-0-d989182d3a33df06b15a74fa5cdea573&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687124860-0-0-5ebf19355c2a8457c4b314198eece10d&sub_m3u8=true&user_session_id=6864e5318296ae0dd8c160524fc49bf1&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991140_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=71fa790731f0eed6e8886e9ba1ac87ab&auth_key=1687124860-0-0-51c1e2dff1d5d677cbc03e224aab92f1"
+"livelink": "0"
 }
 ]
 },
 {
-"league": " CONCACAF Nations League (4:30 AM) ",
-"himg": "https://mygoaltv.xyz//team/Panama.png",
-"hteam": "Mexico",
-"time": " live ",
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Ukraine.png",
+"hteam": "Malta",
+"time": " 10:30 PM ",
 "date": "2023-06-19",
-"aimg": "https://mygoaltv.xyz//team/Mexico.png",
-"ateam": "Panama",
+"aimg": "https://mygoaltv.xyz//team/Malta.png",
+"ateam": "Ukraine",
 "link": [
 {
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
 "type": "Soco HD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=c3af3613d5ccabcb7c787d81ad670646&txTime=648f7bf4"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://sports01.livnvess.com/live/stream-206851_lsd.m3u8?txSecret=61d4ce2c5ac4509dd88c82c3f1b00436&txTime=648f7c30"
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Armenia.png",
+"hteam": "Latvia",
+"time": " 10:30 PM ",
+"date": "2023-06-19",
+"aimg": "https://mygoaltv.xyz//team/Latvia.png",
+"ateam": "Armenia",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Finland.png",
+"hteam": "San Marino",
+"time": " 10:30 PM ",
+"date": "2023-06-19",
+"aimg": "https://mygoaltv.xyz//team/San-Marino.png",
+"ateam": "Finland",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Ireland.png",
+"hteam": "Gibraltar",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Gibraltar_FC.png",
+"ateam": "Ireland",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Phap.png",
+"hteam": "Greece",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Hylap.png",
+"ateam": "France",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Anh.png",
+"hteam": "North Macedonia",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Macedonia.png",
+"ateam": "England",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Turkey.png",
+"hteam": "Wales",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Wales.png",
+"ateam": "Turkey",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Slovenia.png",
+"hteam": "Denmark",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Denmark.png",
+"ateam": "Slovenia",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/northern_ireland.png",
+"hteam": "Kazakhstan",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Kazakhstan.png",
+"ateam": "Northern Ireland",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Belarus.png",
+"hteam": "Kosovo",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Kosovo.png",
+"ateam": "Belarus",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Israel.png",
+"hteam": "Andorra",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/andorre.png",
+"ateam": "Israel",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " UEFA EURO ",
+"himg": "https://mygoaltv.xyz//team/Thuysy.png",
+"hteam": "Romania",
+"time": " 1:15 AM ",
+"date": "2023-06-20",
+"aimg": "https://mygoaltv.xyz//team/Romania.png",
+"ateam": "Switzerland",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 }
