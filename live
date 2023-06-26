@@ -1,82 +1,59 @@
 [
 {
-"league": " CONCACAF Gold Cup ",
-"himg": "https://mygoaltv.xyz//team/Haiti.png",
-"hteam": "Qatar",
-"time": " 4:30 AM ",
-"date": "2023-06-27",
-"aimg": "https://mygoaltv.xyz//team/Qatar.png",
-"ateam": "Haiti",
+"league": "EURO U21 Grp. A",
+"date": "June 27",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8557_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8506_small.png",
+"teams": "Portugal U21 Vs Belgium U21",
+"hteam": "Portugal U21",
+"ateam": "Belgium U21",
+"hotmat": "yes",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "360 SD",
+"livelink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0"
+"type": "720 FHD",
+"livelink": ""
 }
 ]
 },
 {
-"league": " CONCACAF Gold Cup ",
-"himg": "https://mygoaltv.xyz//team/Mexico.png",
-"hteam": "Honduras",
-"time": " 6:30 AM ",
-"date": "2023-06-27",
-"aimg": "https://mygoaltv.xyz//team/Honduras.png",
-"ateam": "Mexico",
+"league": "EURO U21 Grp. A",
+"date": "June 27",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6635_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5855_small.png",
+"teams": "Netherlands U21 Vs Georgia U21",
+"hteam": "Netherlands U21",
+"ateam": "Georgia U21",
+"hotmat": "yes",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "360 SD",
+"livelink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " CONCACAF Gold Cup ",
-"himg": "https://mygoaltv.xyz//team/Costa-Rica.png",
-"hteam": "Panama",
-"time": " 7:00 AM ",
-"date": "2023-06-28",
-"aimg": "https://mygoaltv.xyz//team/Panama.png",
-"ateam": "Costa Rica",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"type": "720 FHD",
+"livelink": ""
 }
 ]
 }
