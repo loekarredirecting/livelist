@@ -1,33 +1,6 @@
 [
 {
 "league": " CONCACAF Gold Cup ",
-"himg": "https://mygoaltv.xyz//team/My.png",
-"hteam": "Jamaica",
-"time": " 8:00 AM ",
-"date": "2023-06-26",
-"aimg": "https://mygoaltv.xyz//team/Jamaica.png",
-"ateam": "USA",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://www.youtube.com/watch?v=9HceR-hx8pE"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " CONCACAF Gold Cup ",
 "himg": "https://mygoaltv.xyz//team/Haiti.png",
 "hteam": "Qatar",
 "time": " 4:30 AM ",
