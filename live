@@ -64,8 +64,8 @@
   
 {
 "league": "EURO U21 Grp. D",
-"date": "June 29",
-"time": "1:15 AM",
+"date": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6659_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5830_small.png",
 "teams" : "Italy U21 Vs Norway U21",
@@ -75,19 +75,19 @@
 "link":[
 {
 "type": "Soco HD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687972804-0-0-80bb53017df525be03eceb4bbe85f2b1&user_session_id=da60420928acde48f2a871d08192c296&edge_slice=true&sub_m3u8=true"
 }, 
 {
 "type": "Soco SD",
-"livelink":""
+"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991109_lsd.m3u8?sub_m3u8=true&user_session_id=0fc4e561ff075e45d8c24a250b9a6701&auth_key=1687972804-0-0-488c63a2efc272613bacc6ba29f372b3&edge_slice=true"
 },
 {
 "type": "China HD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-495263_lhd.m3u8?txSecret=89d08e3bd5fb53e5273d80e14bf48507&txTime=649cb2c8"
 },
 {
 "type": "China SD",
-"livelink":""
+"livelink":"https://pull01.rrwes.live/live/stream-495263_lsd.m3u8?txSecret=05393a6fd289bdbc934f429338f0000c&txTime=649cb2c8"
 }
 ]
 },
@@ -95,8 +95,8 @@
   
 {
 "league": "EURO U21 Grp. D",
-"date": "June 29",
-"time": "1:15 AM",
+"date": "1:15 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5854_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6653_small.png",
 "teams" : "Switzerland U21 Vs France U21",
@@ -106,19 +106,19 @@
 "link":[
 {
 "type": "Soco HD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-252503_lhd.m3u8?user_session_id=84fa268bf7c01dc7c22e8d5350493d62&edge_slice=true&sub_m3u8=true&auth_key=1687973104-0-0-48f13193f49362b0b05d9b7366dd3170"
 }, 
 {
 "type": "Soco SD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-252503_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=9ec5ec5b4d418430266bfab0ca92634d&auth_key=1687973104-0-0-c0a77b79354c1d23baa3a86ce841b4ab"
 },
 {
 "type": "China HD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&auth_key=1687973224-0-0-166104cc0131b664fe7478872303edc8&user_session_id=ba0ba4588b50b0090216b8fabbe5f992&edge_slice=true"
 },
 {
 "type": "China SD",
-"livelink":""
+"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1687973224-0-0-f5e887e45f2f4ae1d6fa899fdb837571&user_session_id=516888a2a5ad0504789e4680ebde3aa3"
 }
 ]
 }
