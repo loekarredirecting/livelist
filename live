@@ -30,26 +30,26 @@
 "league": " UEFA U21 ",
 "himg": "https://mygoaltv.xyz//team/Phap.png",
 "hteam": "U21 Ukraine",
-"time": " 1:30 AM ",
-"date": "2023-07-03",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Ukraine.png",
 "ateam": "U21 France",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688317866-0-0-296419cc4b61b3d573e09b63b11e2140&user_session_id=1a2f4b8e22d9c3b00bb6a35a76dc8220"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1688317866-0-0-48ed5f2c509ea824ce0c975d47094ab6&edge_slice=true&sub_m3u8=true&user_session_id=10c985f128c1e16bc4402a7fe8431959"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=9f9dfc0a79df4765e244e07ecc144787&auth_key=1688317626-0-0-6a16c81e3ff8798df26d2bf4768f8257"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?auth_key=1688317626-0-0-c5a89d1d1855991b7f3578705788d360&edge_slice=true&sub_m3u8=true&user_session_id=d79921eb8cba18cc05d3f36aebccc1da"
 }
 ]
 }
