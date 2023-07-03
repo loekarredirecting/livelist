@@ -1,55 +1,55 @@
 [
 {
 "league": " UEFA U21 ",
-"himg": "https://mygoaltv.xyz//team/Anh.png",
-"hteam": "U21 Portugal",
-"time": " live",
-"date": "10:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Bodaonha.png",
-"ateam": "U21 England",
+"himg": "https://mygoaltv.xyz//team/Israel.png",
+"hteam": "U21 England",
+"time": " 10:30 PM",
+"date": "2023-07-05",
+"aimg": "https://mygoaltv.xyz//team/Anh.png",
+"ateam": "U21 Israel",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688315646-0-0-adcd05490139aa31aff25f158c2b27a5&sub_m3u8=true&user_session_id=498abe5566efdecd7651e926211bb3a9&edge_slice=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991139_lsd.m3u8?auth_key=1688315766-0-0-8df14ca7045956a8c5c788f67cf1f951&edge_slice=true&user_session_id=f809177ab66e968ffe6bd3ba74f15240&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?auth_key=1688315826-0-0-f03955bd73bdde27e78f4e555665773a&edge_slice=true&user_session_id=11e8a5299dd82aac7a3a0f56d5a3b688&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-248798_lsd.m3u8?auth_key=1688315826-0-0-f03955bd73bdde27e78f4e555665773a&edge_slice=true&user_session_id=11e8a5299dd82aac7a3a0f56d5a3b688&sub_m3u8=true"
+"livelink": "0"
 }
 ]
 },
 {
 "league": " UEFA U21 ",
-"himg": "https://mygoaltv.xyz//team/Phap.png",
+"himg": "https://mygoaltv.xyz//team/Taybannha.png",
 "hteam": "U21 Ukraine",
-"time": " live ",
-"date": "1:30 AM",
+"time": " 1:30 AM ",
+"date": "2023-07-06",
 "aimg": "https://mygoaltv.xyz//team/Ukraine.png",
-"ateam": "U21 France",
+"ateam": "U21 Spain",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1688317866-0-0-296419cc4b61b3d573e09b63b11e2140&user_session_id=1a2f4b8e22d9c3b00bb6a35a76dc8220"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991105_lsd.m3u8?auth_key=1688317866-0-0-48ed5f2c509ea824ce0c975d47094ab6&edge_slice=true&sub_m3u8=true&user_session_id=10c985f128c1e16bc4402a7fe8431959"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=9f9dfc0a79df4765e244e07ecc144787&auth_key=1688317626-0-0-6a16c81e3ff8798df26d2bf4768f8257"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?auth_key=1688317626-0-0-c5a89d1d1855991b7f3578705788d360&edge_slice=true&sub_m3u8=true&user_session_id=d79921eb8cba18cc05d3f36aebccc1da"
+"livelink": "0"
 }
 ]
 }
