@@ -30,26 +30,26 @@
 "league": " UEFA U21 ",
 "himg": "https://mygoaltv.xyz//team/Taybannha.png",
 "hteam": "U21 Ukraine",
-"time": " 1:30 AM ",
-"date": "2023-07-06",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Ukraine.png",
 "ateam": "U21 Spain",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=e63ee76fd1aa7f6f3fe0e463e698fba1&txTime=64a217ba"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=935035fe9266dc5106b39f0a310ff377&txTime=64a217ba"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?auth_key=1688326686-0-0-b58f572c296b35527e63c80e961d614e&edge_slice=true&sub_m3u8=true&user_session_id=5e2b635bc72b6d1cdc5ce96056021000"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-214855_lsd.m3u8?txSecret=935035fe9266dc5106b39f0a310ff377&txTime=64a217ba"
 }
 ]
 }
