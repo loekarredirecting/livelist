@@ -1,8 +1,8 @@
 [
 {
 "league": "EURO U19 Grp. B",
-"date": "July 11",
-"time": "1:30 AM",
+"date": "1:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5932_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5964_small.png",
 "teams": "Spain U19 Vs Norway U19",
@@ -11,27 +11,27 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "360 SD",
-"livelink": ""
+"type": "S0c0 HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lhd.m3u8?edge_slice=true&auth_key=1689010748-0-0-d9bdc026e0d62d65aec9ccac52f1439f&user_session_id=59e3df85092d4c4b582b2bbb41869cfa&sub_m3u8=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?sub_m3u8=true&auth_key=1689010748-0-0-dcc392a0d012b03d29ff309f2d6bc6f5&user_session_id=ca575661f4a24c31936ea7b993a3866f&edge_slice=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1689011123-0-0-34af81180a20962812b03290682c87a0&user_session_id=2c28a9ce4b95cdd73234c778f95c7ca8&sub_m3u8=true&edge_slice=true"
 },
 {
-"type": "720 FHD",
-"livelink": ""
+"type": "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1689011123-0-0-34af81180a20962812b03290682c87a0&user_session_id=2c28a9ce4b95cdd73234c778f95c7ca8&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
 {
 "league": "EURO U19 Grp. B",
-"date": "July 11",
-"time": "1:30 AM",
+"date": "1:30 AM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5960_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/401886_small.png",
 "teams": "Greece U19 Vs Iceland U19",
@@ -40,20 +40,20 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "360 SD",
-"livelink": ""
+"type": "S0c0 HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1689010868-0-0-def85150b34cc7de1ebb69b455d180de&sub_m3u8=true&user_session_id=af6e7eadeadbe4b4974979a6a1871651&edge_slice=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-113906_lsd.m3u8?auth_key=1689010868-0-0-4ae406da51d62d128c1991d741dbbcbd&user_session_id=ced68f8eb62f633baa9a393c26794d95&edge_slice=true&sub_m3u8=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1689011423-0-0-4bfa82f3f2ce8970a184420f026bc46f&sub_m3u8=true&edge_slice=true&user_session_id=2914dfdd73ac6e041278789245d4bc81"
 },
 {
-"type": "720 FHD",
-"livelink": ""
+"type": "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1689011423-0-0-4bfa82f3f2ce8970a184420f026bc46f&sub_m3u8=true&edge_slice=true&user_session_id=2914dfdd73ac6e041278789245d4bc81"
 }
 ]
 },
