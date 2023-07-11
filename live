@@ -58,29 +58,60 @@
 ]
 },
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Nurnberg.png",
+"league": "Club Friendlies",
+"date": "July 13",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8165_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"teams": "1.FC Nürnberg Vs Arsenal",
 "hteam": "Arsenal",
-"time": " 11:30 PM ",
-"date": "2023-07-13",
-"aimg": "https://mygoaltv.xyz//team/arsenal.png",
-"ateam": "Nurnberg",
+"ateam": "1.FC Nürnberg",
+"hotmat": "yes",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "360 SD",
+"livelink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "0"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0"
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 13",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10251_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+"teams": "Hibernian Vs Bournemouth",
+"hteam": "Bournemouth",
+"ateam": "Hibernian",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
 }
 ]
 }
