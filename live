@@ -54,13 +54,21 @@
 {
 "type": "Soco SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991138_lsd.m3u8?edge_slice=true&auth_key=1689269349-0-0-1c32b41be952d83715df719bc520a004&sub_m3u8=true&user_session_id=fddb13070b563d34d0e149bbe6c3cb23"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://1123793335.cdn.vnns.org/may3SD/chunks.m3u8"
 }
 ]
 },
 {
 "league": "Club Friendlies",
-"date": "July 13",
-"time": "11:30 PM",
+"date": "11:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10251_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "teams": "Hibernian Vs Bournemouth",
@@ -69,20 +77,20 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "360 SD",
-"livelink": ""
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-363344_lhd.m3u8?user_session_id=b610a7b521ca898bc7a8b7bbb5e0574e&auth_key=1689270623-0-0-3394ebe017e60ec90ed0c77e74beec6f&edge_slice=true&sub_m3u8=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-363344_lsd.m3u8?user_session_id=b610a7b521ca898bc7a8b7bbb5e0574e&auth_key=1689270623-0-0-3394ebe017e60ec90ed0c77e74beec6f&edge_slice=true&sub_m3u8=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "Soco HD",
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1689269589-0-0-aa3f6b5624f0e72667efe3f19b17981a&user_session_id=e681ffe6504f95f9eebcc6622bc1db55&sub_m3u8=true&edge_slice=true"
 },
 {
-"type": "720 FHD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-112565_lsd.m3u8?auth_key=1689269589-0-0-a8a5475ccd6caa50fbb0856cadc217d2&user_session_id=a69445fc80289e5df527ef371b792478&edge_slice=true&sub_m3u8=true"
 }
 ]
 }
