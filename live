@@ -1,30 +1,233 @@
 [
 {
-"league": "EURO U19 Final",
-"date": "1:30 AM",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7738_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5929_small.png",
-"teams": "Portugal U19 Vs Italy U19",
-"hteam": "Italy U19",
-"ateam": "Portugal U19",
+"league": "Club Friendlies",
+"date": "July 17",
+"time": "9:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+"teams": "Hoffenheim Vs Strasbourg",
+"hteam": "Strasbourg",
+"ateam": "Hoffenheim",
 "hotmat": "yes",
 "link": [
 {
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lhd.m3u8?sub_m3u8=true&auth_key=1689529569-0-0-921a858695e8f116b6469eee59c9a02e&edge_slice=true&user_session_id=b2b3965f8b17f4fdc800a24200711cb9"
+"type": "360 SD",
+"livelink": ""
 },
 {
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991134_lsd.m3u8?sub_m3u8=true&auth_key=1689529569-0-0-921a858695e8f116b6469eee59c9a02e&edge_slice=true&user_session_id=b2b3965f8b17f4fdc800a24200711cb9"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=92b7ede63935defd161ad9340f27f9a9&txTime=64b471c9"
+"type": "480 HD",
+"livelink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991136_lsd.m3u8?txSecret=92b7ede63935defd161ad9340f27f9a9&txTime=64b471c9"
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 17",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10017_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+"teams": "Ried Vs Mallorca",
+"hteam": "Mallorca",
+"ateam": "Ried",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 18",
+"time": "2:00 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+"teams": "Celta Vigo Vs Al Nassr FC",
+"hteam": "Al Nassr FC",
+"ateam": "Celta Vigo",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 18",
+"time": "5:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+"teams": "Tottenham Vs West Ham",
+"hteam": "West Ham",
+"ateam": "Tottenham",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 18",
+"time": "6:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
+"teams": "Ajax Vs Shakhtar Donetsk",
+"hteam": "Shakhtar Donetsk",
+"ateam": "Ajax",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 18",
+"time": "11:00 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/954908_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"teams": "FC Rottach-Egern Vs Bayern München",
+"hteam": "Bayern München",
+"ateam": "FC Rottach-Egern",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 18",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/357259_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"teams": "AD Ceuta FC Vs Sevilla",
+"hteam": "Sevilla",
+"ateam": "AD Ceuta FC",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 18",
+"time": "11:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+"teams": "Valencia Vs Nottm Forest",
+"hteam": "Nottm Forest",
+"ateam": "Valencia",
+"hotmat": "yes",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
 }
 ]
 }
