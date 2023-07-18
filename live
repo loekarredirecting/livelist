@@ -38,8 +38,8 @@
 },
 {
 "league": "Club Friendlies",
-"date": "July 18",
-"time": "6:30 PM",
+"date": "6:30 PM",
+"time": "live",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
 "teams": "Ajax Vs Shakhtar Donetsk",
@@ -48,49 +48,20 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "360 SD",
-"livelink": ""
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1689684503-0-0-7ec33c328020a6aa3e1860c9d54fe7d9&user_session_id=484370e40f2ff1a32de96abe4d590f8a&edge_slice=true&sub_m3u8=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1689684503-0-0-7ec33c328020a6aa3e1860c9d54fe7d9&user_session_id=484370e40f2ff1a32de96abe4d590f8a&edge_slice=true&sub_m3u8=true"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-239521_lhd.m3u8?auth_key=1689684050-0-0-bf784c479e5b5a2ee61f375625411d88"
 },
 {
-"type": "720 FHD",
-"livelink": ""
-}
-]
-},
-{
-"league": "Club Friendlies",
-"date": "July 18",
-"time": "11:00 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/954908_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-"teams": "FC Rottach-Egern Vs Bayern München",
-"hteam": "Bayern München",
-"ateam": "FC Rottach-Egern",
-"hotmat": "yes",
-"link": [
-{
-"type": "360 SD",
-"livelink": ""
-},
-{
-"type": "480 HD",
-"livelink": ""
-},
-{
-"type": "480 HD",
-"livelink": ""
-},
-{
-"type": "720 FHD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-239521_lsd.m3u8?auth_key=1689684050-0-0-bf784c479e5b5a2ee61f375625411d88"
 }
 ]
 },
@@ -106,20 +77,20 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "360 SD",
-"livelink": ""
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type":  "China SD",
+"livelink": "0"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "720 FHD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 },
@@ -135,20 +106,20 @@
 "hotmat": "yes",
 "link": [
 {
-"type": "360 SD",
-"livelink": ""
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type":  "China SD",
+"livelink": "0"
 },
 {
-"type": "480 HD",
-"livelink": ""
+"type": "Soco HD",
+"livelink": "0"
 },
 {
-"type": "720 FHD",
-"livelink": ""
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 }
