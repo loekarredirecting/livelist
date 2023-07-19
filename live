@@ -9,6 +9,14 @@
 "ateam": "Manchester United",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&auth_key=1689773603-0-0-6bb84236273b272720cbc396356b6019&user_session_id=b2336d9927a47531c1ae32fa44c3ddc2&sub_m3u8=true"
 },
