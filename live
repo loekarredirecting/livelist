@@ -68,19 +68,19 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-400382_lhd.m3u8?auth_key=1689784970-0-0-692410c304366d365f9d23f4c407bda3"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-400382_lsd.m3u8?auth_key=1689784970-0-0-692410c304366d365f9d23f4c407bda3"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-400382_lhd.m3u8?auth_key=1689784970-0-0-692410c304366d365f9d23f4c407bda3"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-400382_lsd.m3u8?auth_key=1689784970-0-0-692410c304366d365f9d23f4c407bda3"
 }
 ]
 },
