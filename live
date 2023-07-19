@@ -1,80 +1,12 @@
 [
 {
-"league": "Club Friendlies",
-"date": "5:05 PM",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"teams": "Tottenham Vs West Ham",
-"hteam": "West Ham",
-"ateam": "Tottenham",
-"hotmat": "yes",
-"link":[
-{
-"type": "English HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6k7ggq82/chunklist_w1526863038.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-zp5rzgh6k7ggq82/chunklist_w1526863038.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-991139_lhd.m3u8?auth_key=1689680390-0-0-7e8bd9faef7d8e1207e3d799f8c1a3ec"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-991139_lsd.m3u8?auth_key=1689680390-0-0-02491e30e70dc3286c9c1fcbbbd273ba"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-}
-]
-},
-{
-"league": "Club Friendlies",
-"date": "6:30 PM",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
-"teams": "Ajax Vs Shakhtar Donetsk",
-"hteam": "Shakhtar Donetsk",
-"ateam": "Ajax",
-"hotmat": "yes",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1689684503-0-0-7ec33c328020a6aa3e1860c9d54fe7d9&user_session_id=484370e40f2ff1a32de96abe4d590f8a&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1689684503-0-0-7ec33c328020a6aa3e1860c9d54fe7d9&user_session_id=484370e40f2ff1a32de96abe4d590f8a&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-239521_lhd.m3u8?auth_key=1689684050-0-0-bf784c479e5b5a2ee61f375625411d88"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-239521_lsd.m3u8?auth_key=1689684050-0-0-bf784c479e5b5a2ee61f375625411d88"
-}
-]
-},
-{
-"league": "Club Friendlies",
-"date": "July 18",
-"time": "11:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/357259_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"teams": "AD Ceuta FC Vs Sevilla",
-"hteam": "Sevilla",
-"ateam": "AD Ceuta FC",
-"hotmat": "yes",
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"hteam": "Lyon",
+"time": " 7:30 PM ",
+"date": "2023-07-19",
+"aimg": "https://mygoaltv.xyz//team/lyon.png",
+"ateam": "Manchester United",
 "link": [
 {
 "type": "China HD",
@@ -95,15 +27,94 @@
 ]
 },
 {
-"league": "Club Friendlies",
-"date": "July 18",
-"time": "11:30 PM",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-"teams": "Valencia Vs Nottm Forest",
-"hteam": "Nottm Forest",
-"ateam": "Valencia",
-"hotmat": "yes",
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Karlsruhe.gif",
+"hteam": "Liverpool",
+"time": " 11:00 PM ",
+"date": "2023-07-19",
+"aimg": "https://mygoaltv.xyz//team/liverpool.png",
+"ateam": "Karlsruher",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/chelsea.png",
+"hteam": "Wrexham",
+"time": " 6:00 AM ",
+"date": "2023-07-20",
+"aimg": "https://mygoaltv.xyz//team/Wrexham.gif",
+"ateam": "Chelsea",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/mls-all-stars.png",
+"hteam": "Arsenal",
+"time": " 7:00 AM ",
+"date": "2023-07-20",
+"aimg": "https://mygoaltv.xyz//team/arsenal.png",
+"ateam": "MLS All-Stars",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/psg.png",
+"hteam": "Le Havre",
+"time": " 9:30 PM ",
+"date": "2023-07-21",
+"aimg": "https://mygoaltv.xyz//team/Le-Havre.png",
+"ateam": "Paris Saint-Germain",
 "link": [
 {
 "type": "China HD",
