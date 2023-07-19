@@ -1,48 +1,5 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"hteam": "Lyon",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://mygoaltv.xyz//team/lyon.png",
-"ateam": "Manchester United",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?edge_slice=true&auth_key=1689773603-0-0-6bb84236273b272720cbc396356b6019&user_session_id=b2336d9927a47531c1ae32fa44c3ddc2&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?edge_slice=true&auth_key=1689773603-0-0-6bb84236273b272720cbc396356b6019&user_session_id=b2336d9927a47531c1ae32fa44c3ddc2&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-991143_lhd.m3u8?auth_key=1689773450-0-0-e6ae76d0cdf0e96313de93d7d5092146"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-991143_lsd.m3u8?auth_key=1689773450-0-0-e6ae76d0cdf0e96313de93d7d5092146"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-}
-]
-},
-{
 "league": "Club Friendlies",
 "date": "July 19",
 "time": "10:30 PM",
