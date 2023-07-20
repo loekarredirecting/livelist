@@ -3,26 +3,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/acmilan.png",
 "hteam": "Lumezzane",
-"time": " 9:30 PM ",
-"date": "2023-07-20",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "AC Milan",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=c7414c3e0422173888e4e5066c7ee6d0&txTime=64b99ae2"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991128_lsd.m3u8?txSecret=ee3af951f87572c4505b450ea185ae4d&txTime=64b99ae2"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-158814_lhd.m3u8?auth_key=1689867710-0-0-926feed39dbd0a4ffaf0dec69675541c"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-158814_lsd.m3u8?auth_key=1689867710-0-0-21e3e55ecadc5cf06810234c6f5debae"
 }
 ]
 },
