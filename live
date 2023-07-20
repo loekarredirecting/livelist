@@ -1,55 +1,83 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/chelsea.png",
-"hteam": "Wrexham",
-"time": " live ",
-"date": "6:00 AM",
-"aimg": "https://mygoaltv.xyz//team/Wrexham.gif",
-"ateam": "Chelsea",
+"himg": "https://mygoaltv.xyz//team/acmilan.png",
+"hteam": "Lumezzane",
+"time": " 9:30 PM ",
+"date": "2023-07-20",
+"aimg": "https://mygoaltv.xyz//team/no-logo.png",
+"ateam": "AC Milan",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lhd.m3u8?user_session_id=c37589e3827555a0be03cc2dc71b4038&edge_slice=true&auth_key=1689786324-0-0-b277d0f694b2ee909392ee725494262b&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-772803_lsd.m3u8?user_session_id=c37589e3827555a0be03cc2dc71b4038&edge_slice=true&auth_key=1689786324-0-0-b277d0f694b2ee909392ee725494262b&sub_m3u8=true"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-170430_lhd.m3u8?auth_key=1689785210-0-0-9d7cb50195b0fcf658081a57abd43a2b"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-170430_lsd.m3u8?auth_key=1689785210-0-0-9d7cb50195b0fcf658081a57abd43a2b"
+"livelink": "0"
+}
+]
+},
+{
+"league": "Club Friendlies",
+"date": "July 20",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+"aimg": "https://volleybox.net/media/upload/teams/1554471982wvuz0.png",
+"hotmat": "yes",
+"hteam": "Anaune",
+"ateam": "Napoli",
+"link": [
+{
+"type": "360 SD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "480 HD",
+"livelink": ""
+},
+{
+"type": "720 FHD",
+"livelink": ""
 }
 ]
 },
 {
 "league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/mls-all-stars.png",
-"hteam": "Arsenal",
-"time": " live ",
-"date": "7:00 AM",
-"aimg": "https://mygoaltv.xyz//team/arsenal.png",
-"ateam": "MLS All-Stars",
+"himg": "https://mygoaltv.xyz//team/al-nassr.png",
+"hteam": "Benfica",
+"time": " 2:00 AM ",
+"date": "2023-07-21",
+"aimg": "https://mygoaltv.xyz//team/Benfica.png",
+"ateam": "Al-Nassr",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&user_session_id=aa0d8095fc12144b20b2ce2bd16bf4e1&auth_key=1689786804-0-0-58ea538abf3a4407fc373ff67fa00051&edge_slice=true"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&user_session_id=aa0d8095fc12144b20b2ce2bd16bf4e1&auth_key=1689786804-0-0-58ea538abf3a4407fc373ff67fa00051&edge_slice=true"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-991139_lhd.m3u8?auth_key=1689785270-0-0-05b1e0e9820ccf1e4f8d395038543835"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-991139_lsd.m3u8?auth_key=1689785270-0-0-05b1e0e9820ccf1e4f8d395038543835"
+"livelink": "0"
 }
 ]
 },
