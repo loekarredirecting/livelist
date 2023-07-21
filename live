@@ -1,33 +1,6 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/philippines_flag.png",
-"hteam": "Switzerland Women",
-"time": " live ",
-"date": "11:00 AM",
-"aimg": "https://mygoaltv.xyz//team/Thuysy.png",
-"ateam": "Philippines Women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://pull.niues.live/live/stream-991143_lhd.m3u8?auth_key=1689917930-0-0-e99ca623e88f1c6070f770e47618f4e8"
-},
-{
-"type":  "China SD",
-"livelink": "https://pull.niues.live/live/stream-991143_lsd.m3u8?auth_key=1689917930-0-0-e62bf86098f9ad7042a88e05b9d3783f"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=47e70f52fa8166fdc1ffa908da7f860b&txTime=64ba6076"
-},
-{
-"type": "Soco SD",
-"livelink": "https://f51b27aafd4a386181ce926f59c41be2.livehwc3.cn/pull.juqihuo.com/live/stream-652799_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2a23f5bacae0870ebdde562849ce13d0"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Taybannha.png",
 "hteam": "Costa Rica Women",
 "time": " live ",
