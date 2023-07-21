@@ -1,55 +1,28 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Nigeria.png",
-"hteam": "Canada Women",
-"time": " live ",
-"date": "9:00 AM",
-"aimg": "https://mygoaltv.xyz//team/Canada.png",
-"ateam": "Nigeria Women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type":  "China SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-991143_lhd.m3u8?auth_key=1689908390-0-0-67ddfe2b1d076ed31d709a03999dbdf6"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-991143_lsd.m3u8?auth_key=1689908390-0-0-b2275c1d0b5042da587b7dd2889acd5e"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/philippines_flag.png",
 "hteam": "Switzerland Women",
-"time": " 11:00 AM ",
-"date": "2023-07-21",
+"time": " live ",
+"date": "11:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Thuysy.png",
 "ateam": "Philippines Women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-991143_lhd.m3u8?auth_key=1689917930-0-0-e99ca623e88f1c6070f770e47618f4e8"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-991143_lsd.m3u8?auth_key=1689917930-0-0-e62bf86098f9ad7042a88e05b9d3783f"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=47e70f52fa8166fdc1ffa908da7f860b&txTime=64ba6076"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://f51b27aafd4a386181ce926f59c41be2.livehwc3.cn/pull.juqihuo.com/live/stream-652799_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2a23f5bacae0870ebdde562849ce13d0"
 }
 ]
 },
