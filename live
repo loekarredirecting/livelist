@@ -30,26 +30,26 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Taybannha.png",
 "hteam": "Costa Rica Women",
-"time": " 2:00 PM ",
-"date": "2023-07-21",
+"time": " live ",
+"date": "2:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Costa-Rica.png",
 "ateam": "Spain women ",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-991134_lhd.m3u8?auth_key=1689927890-0-0-3ff1d36aa4693a2168e5cd5d5bc1fcea"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-991134_lsd.m3u8?auth_key=1689927890-0-0-b6905e392eee198de74f83816528e464"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-23xmvkhp6849qg8/chunklist_w1130509218.m3u8"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 }
 ]
 },
