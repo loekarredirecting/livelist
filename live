@@ -1,37 +1,10 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/My.png",
-"hteam": "Vietnam women",
-"time": " live ",
-"date": "7:30 AM",
-"aimg": "https://mygoaltv.xyz//team/vietnam_svg.png",
-"ateam": "USA women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991121_lhd.flv?txSecret=5e222c28610335950a28203b388ce9aa&txTime=64bb6a2c"
-},
-{
-"type":  "China SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991121_lsd.flv?txSecret=5e222c28610335950a28203b388ce9aa&txTime=64bb6a2c"
-},
-{
-"type": "Soco HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
-{
-"type": "Soco SD",
-"livelink": "https://1123793335.cdn.vnns.org/may3SD/playlist.m3u8"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Zambia.png",
 "hteam": "Japan women",
-"time": " 1:30 PM ",
-"date": "2023-07-22",
+"time": " live ",
+"date": "1:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Nhat.png",
 "ateam": "Zambia Women",
 "link": [
