@@ -9,20 +9,29 @@
 "ateam": "Zambia Women",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
+"type": "English HD",
+"livelink":"https://us.livenflstream.xyz/playlist/stream_1.m3u8"
+}, 
+ {
+"type": "English SD",
+"livelink":"https://yeszet1x1cdn23.goalarab.site/liveb1/b1/playlist.m3u8"
+}, 
+ 
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=eb15ecfa3dfcde72042109783d4beb9b&txTime=64bbce00"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam HD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+}
+{
+"type": "Vietnam SD",
+"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 }
 ]
 },
