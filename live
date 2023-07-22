@@ -1,118 +1,28 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Zambia.png",
-"hteam": "Japan women",
-"time": " live ",
-"date": "1:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Nhat.png",
-"ateam": "Zambia Women",
-"link": [
-{
-"type": "English HD",
-"livelink":"https://us.livenflstream.xyz/playlist/stream_1.m3u8"
-}, 
- {
-"type": "English SD",
-"livelink":"https://yeszet1x1cdn23.goalarab.site/liveb1/b1/playlist.m3u8"
-}, 
- 
-{
-"type": "Soco HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.flv?txSecret=eb15ecfa3dfcde72042109783d4beb9b&txTime=64bbce00"
-},
-{
-"type": "Soco SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Anh.png",
-"hteam": "Haiti Women",
-"time": " live ",
-"date": "4:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Haiti.png",
-"ateam": "England Women",
-"link": [
-{
-"type": "Soco HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lsd.m3u8?edge_slice=true&auth_key=1690020028-0-0-2dc0df1bfce1434e48c9d02676473243&user_session_id=05fcb9c572dda18c7335da8dc6cb49d7&sub_m3u8=true"
-}, 
-{
-"type": "Soco SD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690020028-0-0-ab6e2f3255c1978ceba89f76ba9584df&user_session_id=9ffb81e40a4be2d672c03cf435ad6255"
-},
-{
-"type": "China HD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690020028-0-0-aeeee038a2ea5d8024a261df745525ef&user_session_id=8c65eb783c2e16cc35d6453c4dcd021f"
-},
-{
-"type": "China SD",
-"livelink":"https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991130_lhd.m3u8?edge_slice=true&auth_key=1690020028-0-0-60aca9dc80976e6e1ad1a977addbe47e&user_session_id=cf7a5defd07a4db1a39b1be6e9c118fa&sub_m3u8=true"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Denmark.png",
 "hteam": "China Women",
-"time": " 6:30 PM ",
-"date": "2023-07-22",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://mygoaltv.xyz//team/China.png",
 "ateam": "Denmark women",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "English HD",
+"livelink": "https://us.livenflstream.xyz/playlist/stream_1.m3u8"
 },
 {
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
-"hteam": "Watford",
-"time": " 6:30 PM ",
-"date": "2023-07-22",
-"aimg": "https://mygoaltv.xyz//team/Watford.gif",
-"ateam": "Crystal Palace",
-"link":[
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
+"type":  "English SD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690030468-0-0-399f4c3bc0a0f3a0cc148e232d420d67&user_session_id=1b429d935e87853413d8b71567dab3f8"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991144_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690030528-0-0-36a2c2230280c66ca4839cd254da0fe0&user_session_id=6d6a36299ccb3cd4a9150227afa771ec"
 }
 ]
 },
