@@ -1,55 +1,28 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Denmark.png",
-"hteam": "China Women",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://mygoaltv.xyz//team/China.png",
-"ateam": "Denmark women",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://us.livenflstream.xyz/playlist/stream_1.m3u8"
-},
-{
-"type":  "English SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-348199_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690030468-0-0-399f4c3bc0a0f3a0cc148e232d420d67&user_session_id=1b429d935e87853413d8b71567dab3f8"
-},
-{
-"type": "Soco SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991144_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690030528-0-0-36a2c2230280c66ca4839cd254da0fe0&user_session_id=6d6a36299ccb3cd4a9150227afa771ec"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
 "hteam": "Monaco",
-"time": " 9:30 PM ",
-"date": "2023-07-22",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/monaco.png",
 "ateam": "Leeds",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-509730_lhd.m3u8?auth_key=1690040964-0-0-8eaf140060da76c9d6ffc1231cf4c1fe&user_session_id=593fbf9ce6dc0249802890e56fa29834&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-509730_lsd.m3u8?auth_key=1690040964-0-0-8eaf140060da76c9d6ffc1231cf4c1fe&user_session_id=593fbf9ce6dc0249802890e56fa29834&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-509730_lhd.m3u8?auth_key=1690040964-0-0-8eaf140060da76c9d6ffc1231cf4c1fe&user_session_id=593fbf9ce6dc0249802890e56fa29834&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-509730_lsd.m3u8?auth_key=1690040964-0-0-8eaf140060da76c9d6ffc1231cf4c1fe&user_session_id=593fbf9ce6dc0249802890e56fa29834&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
