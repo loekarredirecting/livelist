@@ -1,5 +1,59 @@
 [
 {
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Halan.png",
+"hteam": "Portugal women",
+"time": " 2:00 PM ",
+"date": "2023-07-23",
+"aimg": "https://mygoaltv.xyz//team/Bodaonha.png",
+"ateam": "Netherlands Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/France-women.png",
+"hteam": "Jamaica women",
+"time": " 4:30 PM ",
+"date": "2023-07-23",
+"aimg": "https://mygoaltv.xyz//team/Jamaica.png",
+"ateam": "France women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Yokohama-Marinos.gif",
 "hteam": "Manchester City",
