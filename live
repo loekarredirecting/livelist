@@ -50,6 +50,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690108288-0-0-680e6b1868d7a820c4b98548dd56f3c3&edge_slice=true&user_session_id=cc101b51b9c993d187915e56eb203435&sub_m3u8=true"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 }
 ]
 },
@@ -72,11 +80,19 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-921508_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=854a2b67c60fbb3dac523dfe367f75e4&auth_key=1690109188-0-0-1ce2a530808804c1281d4b8e7797f95e"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-921508_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=854a2b67c60fbb3dac523dfe367f75e4&auth_key=1690109188-0-0-1ce2a530808804c1281d4b8e7797f95e"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
 }
 ]
 },
