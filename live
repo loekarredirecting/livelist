@@ -1,55 +1,28 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Halan.png",
-"hteam": "Portugal women",
-"time": " 2:00 PM ",
-"date": "2023-07-23",
-"aimg": "https://mygoaltv.xyz//team/Bodaonha.png",
-"ateam": "Netherlands Women",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/France-women.png",
 "hteam": "Jamaica women",
-"time": " 4:30 PM ",
-"date": "2023-07-23",
+"time": " live ",
+"date": "4:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Jamaica.png",
 "ateam": "France women",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type":  "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?user_session_id=506e07f0578928628f2cef2bf4a36daf&auth_key=1690108168-0-0-945110f8e3c5e22725c9979867e87616&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?auth_key=1690108168-0-0-10f23841c6b172fe48ad444f3f2e59f4&edge_slice=true&user_session_id=a57bd06d591a410a907919e01700f78a&sub_m3u8=true"
 }
 ]
 },
@@ -57,26 +30,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Yokohama-Marinos.gif",
 "hteam": "Manchester City",
-"time": " 4:30 PM ",
-"date": "2023-07-23",
+"time": " live ",
+"date": "4:30 PM",
 "aimg": "https://mygoaltv.xyz//team/manchestercity.png",
 "ateam": "Yokohama Marinos",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690108824-0-0-420d3447d80e929fd2d6fada797ac5d6&user_session_id=f1c51b62406cc6ddf22619a8bfe841f1"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690108824-0-0-420d3447d80e929fd2d6fada797ac5d6&user_session_id=f1c51b62406cc6ddf22619a8bfe841f1"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1690108288-0-0-b78d01b17dce41af7f8c910824eb26f9&edge_slice=true&user_session_id=0f973a38d7b642b405f0ed8bda261213&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690108288-0-0-680e6b1868d7a820c4b98548dd56f3c3&edge_slice=true&user_session_id=cc101b51b9c993d187915e56eb203435&sub_m3u8=true"
 }
 ]
 },
@@ -84,18 +57,18 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "hteam": "Tottenham",
-"time": " 4:30 PM ",
-"date": "2023-07-23",
+"time": " live ",
+"date": "4:30 PM",
 "aimg": "https://mygoaltv.xyz//team/tottenham.png",
 "ateam": "Leicester City",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&auth_key=1690108944-0-0-992b7f9538370b4991d89774935d5fc3&user_session_id=2b133f0480f0753063cdade3bb7a6ca3&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1690108944-0-0-992b7f9538370b4991d89774935d5fc3&user_session_id=2b133f0480f0753063cdade3bb7a6ca3&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
