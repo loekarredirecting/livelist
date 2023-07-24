@@ -9,24 +9,37 @@
 "ateam": "Greuther Furth",
 "link": [
 {
-"type": "360 SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=74c575430e90e2b8cb175ecc2bdf2a54&txTime=64bea6e8"
-}, 
+"type": "English 1 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+},
 {
-"type": "480 HD",
+"type": "English 2 HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-965mkyh2v87zr1g/chunklist_w2008799132.m3u8"
+},
+
+{
+"type": "Soco HD",
 "livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=bf54326a095fae9516d42a7402bc3958&txTime=64bea6e8"
 },
+{
+"type": "Soco SD",
+"livelink":"https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=74c575430e90e2b8cb175ecc2bdf2a54&txTime=64bea6e8"
+}, 
  {
-"type": "360 SD",
+"type": "China HD",
 "livelink":""
 }, 
 {
-"type": "480 HD",
+"type": "China SD",
 "livelink":""
 },
 {
-"type": "720 FHD",
-"livelink":""
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
@@ -34,8 +47,8 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Brazil.png",
 "hteam": "Panama Women",
-"time": " 5:30 PM ",
-"date": "2023-07-24",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Panama.png",
 "ateam": "Brazil women",
 "link": [
