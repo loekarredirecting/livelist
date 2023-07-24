@@ -1,55 +1,32 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Germany.png",
-"hteam": "Morocco Women",
-"time": " live ",
-"date": "3:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Morocco.png",
-"ateam": "Germany women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991151_lhd.m3u8?auth_key=1690191748-0-0-43272870dbf46deeaf9ca1d4173c7127&user_session_id=e130d99f17bd1f51e781ad5dce9807a4&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991151_lsd.m3u8?auth_key=1690191748-0-0-43272870dbf46deeaf9ca1d4173c7127&user_session_id=e130d99f17bd1f51e781ad5dce9807a4&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991151_lhd.m3u8?auth_key=1690191748-0-0-43272870dbf46deeaf9ca1d4173c7127&user_session_id=e130d99f17bd1f51e781ad5dce9807a4&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991151_lsd.m3u8?auth_key=1690191748-0-0-43272870dbf46deeaf9ca1d4173c7127&user_session_id=e130d99f17bd1f51e781ad5dce9807a4&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Greuther_Furth.png",
 "hteam": "Liverpool",
-"time": " 5:30 PM ",
-"date": "2023-07-24",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://mygoaltv.xyz//team/liverpool.png",
 "ateam": "Greuther Furth",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "360 SD",
+"livelink":"https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=74c575430e90e2b8cb175ecc2bdf2a54&txTime=64bea6e8"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=bf54326a095fae9516d42a7402bc3958&txTime=64bea6e8"
+},
+ {
+"type": "360 SD",
+"livelink":""
+}, 
+{
+"type": "480 HD",
+"livelink":""
 },
 {
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"type": "720 FHD",
+"livelink":""
 }
 ]
 },
