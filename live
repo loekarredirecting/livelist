@@ -32,6 +32,14 @@
 "ateam": "Paris Saint-Germain",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://vglive.akamaized.net/in/vgrec-sk-981333/vgrec-sk-981333_720p/chunklist.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/XcDpx-66Uv6BI0Cx9hyuTU-WeGjq16B7L6IkAa5bYEowiEcp6T-KpOz7m1P6vmONTTjAcN8V2Gmyem7brjMnCg/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&user_session_id=0a97e60b7369011ce6d1c410e623fc77&sub_m3u8=true&auth_key=1690282704-0-0-7af0f6a783e6874749b23a8ef15cee10"
 },
