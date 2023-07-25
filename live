@@ -1,72 +1,383 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Greuther_Furth.png",
-"hteam": "Liverpool",
-"time": " live ",
-"date": "5:30 PM",
-"aimg": "https://mygoaltv.xyz//team/liverpool.png",
-"ateam": "Greuther Furth",
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/New-Zealand.png",
+"hteam": "Philippines Women",
+"time": " 12:00 PM ",
+"date": "2023-07-25",
+"aimg": "https://mygoaltv.xyz//team/philippines_flag.png",
+"ateam": "New Zealand Women's",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+"type": "China HD",
+"livelink": "0"
 },
 {
-"type": "English 2 HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-965mkyh2v87zr1g/chunklist_w2008799132.m3u8"
+"type":  "China SD",
+"livelink": "0"
 },
-
 {
 "type": "Soco HD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=bf54326a095fae9516d42a7402bc3958&txTime=64bea6e8"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink":"https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=74c575430e90e2b8cb175ecc2bdf2a54&txTime=64bea6e8"
-}, 
- {
-"type": "China HD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2cde2bb1a793c404ea5b80844285c208&auth_key=1690201644-0-0-342107100966746f6d7a8e113daeacf9"
-}, 
-{
-"type": "China SD",
-"livelink":"https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2cde2bb1a793c404ea5b80844285c208&auth_key=1690201644-0-0-342107100966746f6d7a8e113daeacf9"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+"livelink": "0"
 }
 ]
 },
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Brazil.png",
-"hteam": "Panama Women",
-"time": " live ",
-"date": "5:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Panama.png",
-"ateam": "Brazil women",
+"himg": "https://mygoaltv.xyz//team/Thuysy.png",
+"hteam": "Norway Women's",
+"time": " 2:30 PM ",
+"date": "2023-07-25",
+"aimg": "https://mygoaltv.xyz//team/Norway.png",
+"ateam": "Switzerland Women",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?auth_key=1690198348-0-0-fa455af44f996e379000c8b27eb7163a&edge_slice=true&sub_m3u8=true&user_session_id=6af2f1dd7312bc3f8f3f89f2ce804411"
+"livelink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lsd.m3u8?sub_m3u8=true&user_session_id=8f11be8bfa159c30081481f934cce8ce&edge_slice=true&auth_key=1690198348-0-0-1c30da8d2c509af5014aee383c07e8e3"
+"livelink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991150_lhd.m3u8?auth_key=1690198348-0-0-fa455af44f996e379000c8b27eb7163a&edge_slice=true&sub_m3u8=true&user_session_id=6af2f1dd7312bc3f8f3f89f2ce804411"
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/psg.png",
+"hteam": "Al-Nassr",
+"time": " 4:50 PM ",
+"date": "2023-07-25",
+"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
+"ateam": "Paris Saint-Germain",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": "Club Friendly Games",
+"date": "July 25",
+"time": "10:30 PM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+"teams": "RB Leipzig Vs Udinese",
+"hteam": "Udinese",
+"ateam": "RB Leipzig",
+"hotmat": "yes",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": "Club Friendly Games",
+"date": "July 26",
+"time": "12:30 AM",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+"teams": "FC Porto Vs Wolves",
+"hteam": "Wolves",
+"ateam": "FC Porto",
+"hotmat": "yes",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/southampton.png",
+"hteam": "Bournemouth",
+"time": " 1:15 AM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/Bournemouth.gif",
+"ateam": "Southampton",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Bolton.gif",
+"hteam": "Everton",
+"time": " 1:15 AM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/everton.png",
+"ateam": "Bolton",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Leagues Cup ",
+"himg": "https://mygoaltv.xyz//team/inter_miami.png",
+"hteam": "Atlanta United",
+"time": " 6:00 AM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/atlanta-united.png",
+"ateam": "Inter Miami",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"hteam": "Wrexham",
+"time": " 9:00 AM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/Wrexham.gif",
+"ateam": "Manchester United",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Nhat.png",
+"hteam": "Costa Rica Women",
+"time": " 11:30 AM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/Costa-Rica.png",
+"ateam": "Japan women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Taybannha.png",
+"hteam": "Zambia Women",
+"time": " 2:00 PM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/Zambia.png",
+"ateam": "Spain women ",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/manchestercity.png",
+"hteam": "Bayern Munich",
+"time": " 5:00 PM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"ateam": "Manchester City",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/tottenham.png",
+"hteam": "Lion City Sailors",
+"time": " 6:00 PM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/no-logo.png",
+"ateam": "Tottenham",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Canada.png",
+"hteam": "Ireland Women's",
+"time": " 6:30 PM ",
+"date": "2023-07-26",
+"aimg": "https://mygoaltv.xyz//team/Ireland.png",
+"ateam": "Canada Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 }
