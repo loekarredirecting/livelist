@@ -1,55 +1,24 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/New-Zealand.png",
-"hteam": "Philippines Women",
-"time": " live ",
-"date": "12:00 PM",
-"aimg": "https://mygoaltv.xyz//team/philippines_flag.png",
-"ateam": "New Zealand Women's",
-"link":[
-{
-"type": "Soco HD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991155_lsd.m3u8?sub_m3u8=true&user_session_id=ff384be3eefc4199c99b7f37e9c8a987&auth_key=1690265128-0-0-6015231c86cd39737ba9ad04e6edbc1f&edge_slice=true"
-}, 
-{
-"type": "Soco SD",
-"livelink":"https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991155_lhd.m3u8?auth_key=1690265128-0-0-8616dd910e13cfcc74f6303f7a9c8728&user_session_id=6999c02de06518867949ee69a772293e&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "China HD",
-"livelink":"https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
-},
- {
-"type": "China SD",
-"livelink":"https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Thuysy.png",
 "hteam": "Norway Women's",
-"time": " 2:30 PM ",
-"date": "2023-07-25",
+"time": " live ",
+"date": "2:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Norway.png",
 "ateam": "Switzerland Women",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "360 SD",
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=84551b22b1d0db166acab4cae363678b&txTime=64bfacf0"
+}, 
+{
+"type": "480 HD",
+"livelink":"https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=38a74c4a03babaf43b1f67f0b0479dc1&txTime=64bfacf0"
 },
 {
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"type": "720 FHD",
+"livelink":"https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 }
 ]
 },
