@@ -9,6 +9,14 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1690369704-0-0-45cd00f69b5722b03bcab3b1784ac452&sub_m3u8=true&user_session_id=bd0d68314c973b96d96a685299c24e1c"
 },
