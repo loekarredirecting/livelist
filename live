@@ -1,47 +1,20 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Taybannha.png",
-"hteam": "Zambia Women",
-"time": " live ",
-"date": "2:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Zambia.png",
-"ateam": "Spain women ",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?sub_m3u8=true&auth_key=1690305444-0-0-b0f0e2e99b8ad50cc23d92ad8807e174&edge_slice=true&user_session_id=6184fb10bf1de773ba02d803b527b078"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?sub_m3u8=true&auth_key=1690305444-0-0-b0f0e2e99b8ad50cc23d92ad8807e174&edge_slice=true&user_session_id=6184fb10bf1de773ba02d803b527b078"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991166_lhd.m3u8?sub_m3u8=true&auth_key=1690304128-0-0-5cdfff036a9c47da28d31ccb2723726e&user_session_id=734c9fe7966d18cbcf58c8f0733242ca&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991166_lsd.m3u8?sub_m3u8=true&auth_key=1690304128-0-0-5cdfff036a9c47da28d31ccb2723726e&user_session_id=734c9fe7966d18cbcf58c8f0733242ca&edge_slice=true"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Bayern Munich",
-"time": " 5:00 PM ",
-"date": "2023-07-26",
+"time": " live ",
+"date": "5:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Manchester City",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&auth_key=1690369704-0-0-45cd00f69b5722b03bcab3b1784ac452&sub_m3u8=true&user_session_id=bd0d68314c973b96d96a685299c24e1c"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&auth_key=1690369704-0-0-45cd00f69b5722b03bcab3b1784ac452&sub_m3u8=true&user_session_id=bd0d68314c973b96d96a685299c24e1c"
 },
 {
 "type": "Soco HD",
