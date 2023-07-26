@@ -52,6 +52,15 @@
 "ateam": "Tottenham",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+},
+
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3045619_lhd.m3u8?auth_key=1690305564-0-0-dbd832119b065553a6020f8f24dca976&user_session_id=f81ed60866f3070da716ac48312e0fd2&sub_m3u8=true&edge_slice=true"
 },
@@ -61,20 +70,29 @@
 },
 {
 "type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991155_lhd.m3u8?user_session_id=900a5313fbe527abaff1797f1b006450&auth_key=1690304248-0-0-8f4f139b9fe804ea75d509f59019e640&edge_slice=true&sub_m3u8=true"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991147_lhd.m3u8?edge_slice=true&user_session_id=1b9e25336f6c3b17450a4b4d9c80edf6&sub_m3u8=true&auth_key=1690373428-0-0-277be0e4d362204648c401d8aa4db71e"
 },
 {
 "type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991155_lsd.m3u8?user_session_id=900a5313fbe527abaff1797f1b006450&auth_key=1690304248-0-0-8f4f139b9fe804ea75d509f59019e640&edge_slice=true&sub_m3u8=true"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991147_lsd.m3u8?edge_slice=true&user_session_id=1b9e25336f6c3b17450a4b4d9c80edf6&sub_m3u8=true&auth_key=1690373428-0-0-277be0e4d362204648c401d8aa4db71e"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 }
+
 ]
 },
 {
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Canada.png",
 "hteam": "Ireland Women's",
-"time": " 6:30 PM ",
-"date": "2023-07-26",
+"time": "live ",
+"date": " 6:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Ireland.png",
 "ateam": "Canada Women",
 "link": [
