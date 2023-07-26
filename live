@@ -1,81 +1,10 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"hteam": "Wrexham",
-"time": " live ",
-"date": "9:00 AM",
-"aimg": "https://mygoaltv.xyz//team/Wrexham.gif",
-"ateam": "Manchester United",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-},
-
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?user_session_id=a0cecfee2f142bc1d03d8d2dbea7b8d4&auth_key=1690305204-0-0-ed8faafb3c0fdbf1c55aaa176432b6ac&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=a0cecfee2f142bc1d03d8d2dbea7b8d4&auth_key=1690305204-0-0-ed8faafb3c0fdbf1c55aaa176432b6ac&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991166_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=037cb8f5a81af6369c1dd8ced9d77f9a&auth_key=1690341688-0-0-478c9e09d74c020f9f180f0e4c1e6c33"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991166_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=037cb8f5a81af6369c1dd8ced9d77f9a&auth_key=1690341688-0-0-478c9e09d74c020f9f180f0e4c1e6c33"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Nhat.png",
-"hteam": "Costa Rica Women",
-"time": " 11:30 AM ",
-"date": "2023-07-26",
-"aimg": "https://mygoaltv.xyz//team/Costa-Rica.png",
-"ateam": "Japan women",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=4e2a96b72a363d70f71e303d99c58bae&txTime=64c04494"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991114_lsd.m3u8?txSecret=4e2a96b72a363d70f71e303d99c58bae&txTime=64c04494"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Taybannha.png",
 "hteam": "Zambia Women",
-"time": " 2:00 PM ",
-"date": "2023-07-26",
+"time": " live ",
+"date": "2:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Zambia.png",
 "ateam": "Spain women ",
 "link": [
