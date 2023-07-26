@@ -1,68 +1,10 @@
 [
 {
-"league": "Club Friendly Games",
-"date": "10 :30 PM",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-"teams": "RB Leipzig Vs Udinese",
-"hteam": "Udinese",
-"ateam": "RB Leipzig",
-"hotmat": "yes",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-},
-{
-"type":  "China SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lhd.m3u8?sub_m3u8=true&user_session_id=a650268873fd93b2391e9bff94d15490&auth_key=1690302568-0-0-cef128bcccfc2be3c518fb4e3a7001be&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-381973_lsd.m3u8?sub_m3u8=true&user_session_id=a650268873fd93b2391e9bff94d15490&auth_key=1690302568-0-0-cef128bcccfc2be3c518fb4e3a7001be&edge_slice=true"
-}
-]
-},
-{
-"league": "Club Friendly Games",
-"date": "12:30 AM",
-"time": "live",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"teams": "FC Porto Vs Wolves",
-"hteam": "Wolves",
-"ateam": "FC Porto",
-"hotmat": "yes",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-787092_lhd.m3u8?auth_key=1690304604-0-0-ec65e2805a2500550bc1689b99be7cb0&user_session_id=98eabe07c98e471468d34ad80a9eca05&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-787092_lsd.m3u8?auth_key=1690304604-0-0-ec65e2805a2500550bc1689b99be7cb0&user_session_id=98eabe07c98e471468d34ad80a9eca05&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-787092_lhd.m3u8?auth_key=1690304604-0-0-ec65e2805a2500550bc1689b99be7cb0&user_session_id=98eabe07c98e471468d34ad80a9eca05&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-787092_lsd.m3u8?auth_key=1690304604-0-0-ec65e2805a2500550bc1689b99be7cb0&user_session_id=98eabe07c98e471468d34ad80a9eca05&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Wrexham",
-"time": " 9:00 AM ",
-"date": "2023-07-26",
+"time": " live ",
+"date": "9:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Wrexham.gif",
 "ateam": "Manchester United",
 "link": [
