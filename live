@@ -57,26 +57,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/k-league-all-star.png",
 "hteam": "Atletico Madrid",
-"time": " 5:30 PM ",
-"date": "2023-07-27",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "K-League All Stars",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lhd.m3u8?auth_key=1690456884-0-0-d7bf9f907d5f5eb5cc62892f8c0cff00&edge_slice=true&sub_m3u8=true&user_session_id=ec963d48312df910f0e4301d857c4d25"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-431228_lsd.m3u8?auth_key=1690456884-0-0-d7bf9f907d5f5eb5cc62892f8c0cff00&edge_slice=true&sub_m3u8=true&user_session_id=ec963d48312df910f0e4301d857c4d25"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991172_lhd.m3u8?sub_m3u8=true&auth_key=1690457188-0-0-c2f0c154ee54501acf787addfd5c6101&edge_slice=true&user_session_id=a5cbfe37f135c8efd8e93ab0c0ac277e"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991172_lsd.m3u8?sub_m3u8=true&auth_key=1690457188-0-0-c2f0c154ee54501acf787addfd5c6101&edge_slice=true&user_session_id=a5cbfe37f135c8efd8e93ab0c0ac277e"
 }
 ]
 },
@@ -91,19 +91,19 @@
 "link":[
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
 }
 ]
 }
