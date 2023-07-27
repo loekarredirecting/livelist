@@ -1,50 +1,6 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/newcastle.png",
-"hteam": "Chelsea",
-"time": " live ",
-"date": "6:45 AM",
-"aimg": "https://mygoaltv.xyz//team/chelsea.png",
-"ateam": "Newcastle United",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://vglive.akamaized.net/in/vgrec-sk-981333/vgrec-sk-981333_576p/chunklist.m3u8"
-},
-{
-"type": "English SD",
-"livelink": "https://vglive.akamaized.net/in/vgrec-sk-981333/vgrec-sk-981333_576p/chunklist.m3u8"
-},
-
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?auth_key=1690388244-0-0-edcbf8fa6b72b44f9e5e96b6bc3ba15e&user_session_id=9399a6128e0c3acaf23635e09b45b236&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?auth_key=1690388244-0-0-edcbf8fa6b72b44f9e5e96b6bc3ba15e&user_session_id=9399a6128e0c3acaf23635e09b45b236&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991147_lhd.m3u8?auth_key=1690420528-0-0-7ff3a8df19c6a5a8a533bbe687433a10&edge_slice=true&user_session_id=9c466b3d379c3c36c7d8af8b6ed46cc6&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991147_lsd.m3u8?auth_key=1690420528-0-0-7ff3a8df19c6a5a8a533bbe687433a10&edge_slice=true&user_session_id=9c466b3d379c3c36c7d8af8b6ed46cc6&sub_m3u8=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/real-madrid.png",
 "hteam": "Manchester United",
 "time": " live ",
@@ -132,6 +88,15 @@
 "ateam": "Arsenal",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+},
+
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&auth_key=1690388304-0-0-7db65950002f67925efa637f11b6ec39&sub_m3u8=true&user_session_id=3dedc6cd781f8526f4a482573ec3bddc"
 },
@@ -146,6 +111,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?sub_m3u8=true&auth_key=1690389148-0-0-a0c0eae0e923606d0dae4c88f9237b29&user_session_id=648fe2e08e206b8428c6f0c61ddbb7cf&edge_slice=true"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
 }
 ]
 },
