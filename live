@@ -106,5 +106,113 @@
 "livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
 }
 ]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Argentina.png",
+"hteam": "South Africa women",
+"time": " 6:30 AM ",
+"date": "2023-07-28",
+"aimg": "https://mygoaltv.xyz//team/nam-phi.png",
+"ateam": "Argentina women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Juventus.png",
+"hteam": "AC Milan",
+"time": " 9:00 AM ",
+"date": "2023-07-28",
+"aimg": "https://mygoaltv.xyz//team/acmilan.png",
+"ateam": "Juventus",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Anh.png",
+"hteam": "Denmark women",
+"time": " 3:00 PM ",
+"date": "2023-07-28",
+"aimg": "https://mygoaltv.xyz//team/Denmark.png",
+"ateam": "England women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Cerezo-Osaka.gif",
+"hteam": "Paris Saint-Germain",
+"time": " 4:50 PM ",
+"date": "2023-07-28",
+"aimg": "https://mygoaltv.xyz//team/psg.png",
+"ateam": "Cerezo Osaka",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
