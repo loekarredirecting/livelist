@@ -1,33 +1,6 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Brentford.png",
-"hteam": "Brighton",
-"time": " live ",
-"date": "4:00 AM",
-"aimg": "https://mygoaltv.xyz//team/Brighton.gif",
-"ateam": "Brentford",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?auth_key=1690387884-0-0-00907ceffdcfc71af7df1bfcee253935&user_session_id=5b0c5bc93fd3f3f791b7b180309f5840&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?auth_key=1690387884-0-0-00907ceffdcfc71af7df1bfcee253935&user_session_id=5b0c5bc93fd3f3f791b7b180309f5840&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991174_lhd.m3u8?edge_slice=true&auth_key=1690388488-0-0-44844fde4de908d65087a9dfacf58270&user_session_id=3af1582666b78a028410604ef4cbaafe&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991174_lsd.m3u8?edge_slice=true&auth_key=1690388488-0-0-44844fde4de908d65087a9dfacf58270&user_session_id=3af1582666b78a028410604ef4cbaafe&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/fulham.png",
 "hteam": "Aston Villa",
 "time": " live ",
@@ -86,8 +59,8 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/newcastle.png",
 "hteam": "Chelsea",
-"time": " 6:45 AM ",
-"date": "2023-07-27",
+"time": " live ",
+"date": "6:45 AM",
 "aimg": "https://mygoaltv.xyz//team/chelsea.png",
 "ateam": "Newcastle United",
 "link": [
@@ -113,8 +86,8 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/real-madrid.png",
 "hteam": "Manchester United",
-"time": " 7:00 AM ",
-"date": "2023-07-27",
+"time": " live ",
+"date": "7:00 AM",
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Real Madrid",
 "link": [
