@@ -74,11 +74,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991147_lhd.m3u8?auth_key=1690420528-0-0-7ff3a8df19c6a5a8a533bbe687433a10&edge_slice=true&user_session_id=9c466b3d379c3c36c7d8af8b6ed46cc6&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991147_lsd.m3u8?auth_key=1690420528-0-0-7ff3a8df19c6a5a8a533bbe687433a10&edge_slice=true&user_session_id=9c466b3d379c3c36c7d8af8b6ed46cc6&sub_m3u8=true"
 }
 ]
 },
@@ -91,6 +91,15 @@
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Real Madrid",
 "link": [
+{
+"type": "English HD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+},
+
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1690388304-0-0-7db65950002f67925efa637f11b6ec39&user_session_id=8163a892ff375a2d3c88d79e497296af&edge_slice=true&sub_m3u8=true"
