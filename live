@@ -109,11 +109,19 @@
 "ateam": "Real Madrid",
 "link": [
 {
-"type": "English HD",
+"type": "English 1 HD",
+"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+},
+{
+"type": "English 1 SD",
+"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+},
+{
+"type": "English 2 HD",
 "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 },
 {
-"type": "English SD",
+"type": "English 2 SD",
 "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 },
 
@@ -147,18 +155,18 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/My.png",
 "hteam": "Netherlands Women",
-"time": " 7:30 AM ",
-"date": "2023-07-27",
+"time": " live ",
+"date": "7:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Halan.png",
 "ateam": "USA women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?auth_key=1690421604-0-0-fb1934a09ff7f4ae8053151498c658cf&edge_slice=true&sub_m3u8=true&user_session_id=3bd821fc12ba6622b57f697cf89723d5"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?auth_key=1690421604-0-0-fb1934a09ff7f4ae8053151498c658cf&edge_slice=true&sub_m3u8=true&user_session_id=3bd821fc12ba6622b57f697cf89723d5"
 },
 {
 "type": "Soco HD",
