@@ -30,26 +30,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/al-nassr.png",
 "hteam": "Inter Milan",
-"time": " 4:50 PM ",
-"date": "2023-07-27",
+"time": " live ",
+"date": "4:50 PM",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "Al-Nassr",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?auth_key=1690456464-0-0-0321ba1ba42409a98d64bfb4cb2358b3&edge_slice=true&sub_m3u8=true&user_session_id=54f32339b55a9a759f7fdbab9ef82a7a"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?auth_key=1690456464-0-0-0321ba1ba42409a98d64bfb4cb2358b3&edge_slice=true&sub_m3u8=true&user_session_id=54f32339b55a9a759f7fdbab9ef82a7a"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=57fc3dd3da49dabdd5de07ef1147b7c2&txTime=64c2976c"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=57fc3dd3da49dabdd5de07ef1147b7c2&txTime=64c2976c"
 }
 ]
 },
