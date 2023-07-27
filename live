@@ -1,37 +1,10 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Bodaonha.png",
-"hteam": "Vietnam women",
-"time": " live ",
-"date": "2:00 PM",
-"aimg": "https://mygoaltv.xyz//team/vietnam_svg.png",
-"ateam": "Portugal women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991146_lhd.m3u8?sub_m3u8=true&user_session_id=bb16ec6d70f2a86c1b30b00093c72387&auth_key=1690446628-0-0-a0ee1ee1a3d55b2560cdb4753c49db84&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991146_lsd.m3u8?sub_m3u8=true&user_session_id=bb16ec6d70f2a86c1b30b00093c72387&auth_key=1690446628-0-0-a0ee1ee1a3d55b2560cdb4753c49db84&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991146_lhd.m3u8?sub_m3u8=true&user_session_id=bb16ec6d70f2a86c1b30b00093c72387&auth_key=1690446628-0-0-a0ee1ee1a3d55b2560cdb4753c49db84&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991146_lsd.m3u8?sub_m3u8=true&user_session_id=bb16ec6d70f2a86c1b30b00093c72387&auth_key=1690446628-0-0-a0ee1ee1a3d55b2560cdb4753c49db84&edge_slice=true"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Australia.png",
 "hteam": "Nigeria Women",
-"time": " 4:30 PM ",
-"date": "2023-07-27",
+"time": " live ",
+"date": "4:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Nigeria.png",
 "ateam": "Australia women",
 "link": [
