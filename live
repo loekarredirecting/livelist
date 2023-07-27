@@ -65,6 +65,15 @@
 "ateam": "Newcastle United",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://vglive.akamaized.net/in/vgrec-sk-981333/vgrec-sk-981333_576p/chunklist.m3u8"
+},
+{
+"type": "English SD",
+"livelink": "https://vglive.akamaized.net/in/vgrec-sk-981333/vgrec-sk-981333_576p/chunklist.m3u8"
+},
+
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?auth_key=1690388244-0-0-edcbf8fa6b72b44f9e5e96b6bc3ba15e&user_session_id=9399a6128e0c3acaf23635e09b45b236&sub_m3u8=true&edge_slice=true"
 },
