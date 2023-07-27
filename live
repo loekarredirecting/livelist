@@ -1,32 +1,5 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/fulham.png",
-"hteam": "Aston Villa",
-"time": " live ",
-"date": "5:30 AM",
-"aimg": "https://mygoaltv.xyz//team/astonvilla.png",
-"ateam": "Fulham",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lhd.m3u8?user_session_id=90d030990a6fbb7839eafb49813cc985&auth_key=1690388548-0-0-813ad00d9f1830c8e5fb6ae1abe0d4a4&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lsd.m3u8?user_session_id=90d030990a6fbb7839eafb49813cc985&auth_key=1690388548-0-0-813ad00d9f1830c8e5fb6ae1abe0d4a4&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lhd.m3u8?user_session_id=90d030990a6fbb7839eafb49813cc985&auth_key=1690388548-0-0-813ad00d9f1830c8e5fb6ae1abe0d4a4&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991164_lsd.m3u8?user_session_id=90d030990a6fbb7839eafb49813cc985&auth_key=1690388548-0-0-813ad00d9f1830c8e5fb6ae1abe0d4a4&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
 "league": "Club Friendly Games",
 "date": "6:30 AM",
 "time": "live",
