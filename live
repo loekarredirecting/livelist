@@ -1,55 +1,28 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Argentina.png",
-"hteam": "South Africa women",
-"time": " live ",
-"date": "6:30 AM",
-"aimg": "https://mygoaltv.xyz//team/nam-phi.png",
-"ateam": "Argentina women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Juventus.png",
 "hteam": "AC Milan",
-"time": " 9:00 AM ",
-"date": "2023-07-28",
+"time": " live ",
+"date": "9:00 AM",
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "Juventus",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lhd.m3u8?sub_m3u8=true&auth_key=1690511664-0-0-8eae0208ff46502391dbce53bd582038&user_session_id=f0a11a20b16ec67627e028bb535b03b0&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lsd.m3u8?sub_m3u8=true&auth_key=1690511664-0-0-8eae0208ff46502391dbce53bd582038&user_session_id=f0a11a20b16ec67627e028bb535b03b0&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690511488-0-0-83aace9ace20c03fbefeb2439f7e774a&user_session_id=6e46c0f7d18c12c8420933667a35c904"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690511488-0-0-83aace9ace20c03fbefeb2439f7e774a&user_session_id=6e46c0f7d18c12c8420933667a35c904"
 }
 ]
 },
@@ -64,6 +37,114 @@
 "link": [
 {
 "type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&auth_key=1690511844-0-0-a49e8e7e7f71b0f973ca94d4608019ed&user_session_id=e451008d176a80a7c927a303b4031aeb&edge_slice=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&auth_key=1690511844-0-0-a49e8e7e7f71b0f973ca94d4608019ed&user_session_id=e451008d176a80a7c927a303b4031aeb&edge_slice=true"
+},
+{
+"type": "Soco HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991170_lhd.m3u8?auth_key=1690512148-0-0-4dccddeeaeba73bf2a5358a9ef2dbd29&sub_m3u8=true&user_session_id=b57b76571b06b1e3415f6123e1b1cfbf&edge_slice=true"
+},
+{
+"type": "Soco SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991170_lsd.m3u8?auth_key=1690512148-0-0-4dccddeeaeba73bf2a5358a9ef2dbd29&sub_m3u8=true&user_session_id=b57b76571b06b1e3415f6123e1b1cfbf&edge_slice=true"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Cerezo-Osaka.gif",
+"hteam": "Paris Saint-Germain",
+"time": " 4:50 PM ",
+"date": "2023-07-28",
+"aimg": "https://mygoaltv.xyz//team/psg.png",
+"ateam": "Cerezo Osaka",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-705956_lhd.m3u8?sub_m3u8=true&auth_key=1690511964-0-0-73cb6fa2e8fb70f27cd2d60d17187b06&edge_slice=true&user_session_id=db8d4665420f5bed07c2fe31d9c70452"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-705956_lsd.m3u8?sub_m3u8=true&auth_key=1690511964-0-0-73cb6fa2e8fb70f27cd2d60d17187b06&edge_slice=true&user_session_id=db8d4665420f5bed07c2fe31d9c70452"
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=5604414b23911130ff813e7051397ff0&txTime=64c371dc"
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=5604414b23911130ff813e7051397ff0&txTime=64c371dc"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/China.png",
+"hteam": "Haiti Women",
+"time": " 5:30 PM ",
+"date": "2023-07-28",
+"aimg": "https://mygoaltv.xyz//team/Haiti.png",
+"ateam": "China Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&auth_key=1690511784-0-0-af2bf4b9d23445d8b945aa8e0c548268&user_session_id=284299f17e12781372b14587721c03e6&sub_m3u8=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&auth_key=1690511784-0-0-af2bf4b9d23445d8b945aa8e0c548268&user_session_id=284299f17e12781372b14587721c03e6&sub_m3u8=true"
+},
+{
+"type": "Soco HD",
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991167_lhd.m3u8?auth_key=1690512328-0-0-34048b976dfb2db45ffcf9bb92c9e5cb&sub_m3u8=true&user_session_id=64224eaaf01971b0f77015d1c9610f5b&edge_slice=true"
+},
+{
+"type": "Soco SD",
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991167_lsd.m3u8?auth_key=1690512328-0-0-34048b976dfb2db45ffcf9bb92c9e5cb&sub_m3u8=true&user_session_id=64224eaaf01971b0f77015d1c9610f5b&edge_slice=true"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Brighton.gif",
+"hteam": "Newcastle United",
+"time": " 6:00 AM ",
+"date": "2023-07-29",
+"aimg": "https://mygoaltv.xyz//team/newcastle.png",
+"ateam": "Brighton",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Sweden.png",
+"hteam": "Italia women",
+"time": " 2:00 PM ",
+"date": "2023-07-29",
+"aimg": "https://mygoaltv.xyz//team/Italy.png",
+"ateam": "Sweden Women",
+"link": [
+{
+"type": "China HD",
 "livelink": "0"
 },
 {
@@ -82,12 +163,66 @@
 },
 {
 "league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Cerezo-Osaka.gif",
-"hteam": "Paris Saint-Germain",
-"time": " 4:50 PM ",
-"date": "2023-07-28",
-"aimg": "https://mygoaltv.xyz//team/psg.png",
-"ateam": "Cerezo Osaka",
+"himg": "https://mygoaltv.xyz//team/Kawasaki-Frontale.gif",
+"hteam": "Bayern Munich",
+"time": " 4:30 PM ",
+"date": "2023-07-29",
+"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"ateam": "Kawasaki Frontale",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/France-women.png",
+"hteam": "Brazil women",
+"time": " 4:30 PM ",
+"date": "2023-07-29",
+"aimg": "https://mygoaltv.xyz//team/Brazil.png",
+"ateam": "France women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Panama.png",
+"hteam": "Jamaica women",
+"time": " 7:00 PM ",
+"date": "2023-07-29",
+"aimg": "https://mygoaltv.xyz//team/Jamaica.png",
+"ateam": "Panama Women",
 "link": [
 {
 "type": "China HD",
