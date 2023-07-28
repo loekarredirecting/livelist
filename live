@@ -1,91 +1,10 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Anh.png",
-"hteam": "Denmark women",
-"time": " live ",
-"date": "3:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Denmark.png",
-"ateam": "England women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&auth_key=1690511844-0-0-a49e8e7e7f71b0f973ca94d4608019ed&user_session_id=e451008d176a80a7c927a303b4031aeb&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&auth_key=1690511844-0-0-a49e8e7e7f71b0f973ca94d4608019ed&user_session_id=e451008d176a80a7c927a303b4031aeb&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991170_lhd.m3u8?auth_key=1690512148-0-0-4dccddeeaeba73bf2a5358a9ef2dbd29&sub_m3u8=true&user_session_id=b57b76571b06b1e3415f6123e1b1cfbf&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991170_lsd.m3u8?auth_key=1690512148-0-0-4dccddeeaeba73bf2a5358a9ef2dbd29&sub_m3u8=true&user_session_id=b57b76571b06b1e3415f6123e1b1cfbf&edge_slice=true"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Cerezo-Osaka.gif",
-"hteam": "Paris Saint-Germain",
-"time": " live ",
-"date": "4:50 PM",
-"aimg": "https://mygoaltv.xyz//team/psg.png",
-"ateam": "Cerezo Osaka",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-705956_lhd.m3u8?sub_m3u8=true&auth_key=1690511964-0-0-73cb6fa2e8fb70f27cd2d60d17187b06&edge_slice=true&user_session_id=db8d4665420f5bed07c2fe31d9c70452"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-705956_lsd.m3u8?sub_m3u8=true&auth_key=1690511964-0-0-73cb6fa2e8fb70f27cd2d60d17187b06&edge_slice=true&user_session_id=db8d4665420f5bed07c2fe31d9c70452"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=5604414b23911130ff813e7051397ff0&txTime=64c371dc"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=5604414b23911130ff813e7051397ff0&txTime=64c371dc"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/China.png",
-"hteam": "Haiti Women",
-"time": " live ",
-"date": "2023-07-28",
-"aimg": "https://mygoaltv.xyz//team/Haiti.png",
-"ateam": "China Women",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&auth_key=1690511784-0-0-af2bf4b9d23445d8b945aa8e0c548268&user_session_id=284299f17e12781372b14587721c03e6&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&auth_key=1690511784-0-0-af2bf4b9d23445d8b945aa8e0c548268&user_session_id=284299f17e12781372b14587721c03e6&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991167_lhd.m3u8?auth_key=1690512328-0-0-34048b976dfb2db45ffcf9bb92c9e5cb&sub_m3u8=true&user_session_id=64224eaaf01971b0f77015d1c9610f5b&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991167_lsd.m3u8?auth_key=1690512328-0-0-34048b976dfb2db45ffcf9bb92c9e5cb&sub_m3u8=true&user_session_id=64224eaaf01971b0f77015d1c9610f5b&edge_slice=true"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "Newcastle United",
-"time": " 6:00 AM ",
-"date": "2023-07-29",
+"time": " live ",
+"date": "6:00 AM",
 "aimg": "https://mygoaltv.xyz//team/newcastle.png",
 "ateam": "Brighton",
 "link": [
