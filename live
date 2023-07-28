@@ -1,32 +1,5 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/nottingham_forest.png",
-"hteam": "Leeds",
-"time": " live ",
-"date": "1:30 AM",
-"aimg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
-"ateam": "Nottingham Forest",
-"link":[
-{
-"type": "China HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-372601_lsd.m3u8?auth_key=1690457068-0-0-0393997f875da1cb4a4b59b25b92ce85&edge_slice=true&user_session_id=1bac09a6e1f11dfa494778d2b7f34641&sub_m3u8=true"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Argentina.png",
 "hteam": "South Africa women",
