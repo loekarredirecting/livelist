@@ -1,37 +1,10 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Juventus.png",
-"hteam": "AC Milan",
-"time": " live ",
-"date": "9:00 AM",
-"aimg": "https://mygoaltv.xyz//team/acmilan.png",
-"ateam": "Juventus",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lhd.m3u8?sub_m3u8=true&auth_key=1690511664-0-0-8eae0208ff46502391dbce53bd582038&user_session_id=f0a11a20b16ec67627e028bb535b03b0&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lsd.m3u8?sub_m3u8=true&auth_key=1690511664-0-0-8eae0208ff46502391dbce53bd582038&user_session_id=f0a11a20b16ec67627e028bb535b03b0&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690511488-0-0-83aace9ace20c03fbefeb2439f7e774a&user_session_id=6e46c0f7d18c12c8420933667a35c904"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690511488-0-0-83aace9ace20c03fbefeb2439f7e774a&user_session_id=6e46c0f7d18c12c8420933667a35c904"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Anh.png",
 "hteam": "Denmark women",
-"time": " 3:00 PM ",
-"date": "2023-07-28",
+"time": " live ",
+"date": "3:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Denmark.png",
 "ateam": "England women",
 "link": [
