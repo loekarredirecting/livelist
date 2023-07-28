@@ -30,26 +30,26 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Argentina.png",
 "hteam": "South Africa women",
-"time": " 6:30 AM ",
-"date": "2023-07-28",
+"time": " live ",
+"date": "6:30 AM",
 "aimg": "https://mygoaltv.xyz//team/nam-phi.png",
 "ateam": "Argentina women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lhd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://81285a097b2cd341b7871fa3aafac269.livehwc3.cn/pull06.scstream.net/live/stream-991153_lsd.m3u8?sub_m3u8=true&auth_key=1690506628-0-0-77de4c2b6635ccc00d7feb0988cdd253&user_session_id=dc16727c5a56af92f33c14a383354ab5&edge_slice=true"
 }
 ]
 },
