@@ -38,26 +38,26 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Kawasaki-Frontale.gif",
 "hteam": "Bayern Munich",
-"time": " 4:30 PM ",
-"date": "2023-07-29",
+"time": " live ",
+"date": "4:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Kawasaki Frontale",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-623437_lhd.m3u8?sub_m3u8=true&user_session_id=aadb7805d0133e159caf9e8e235c4783&edge_slice=true&auth_key=1690627585-0-0-bee56b12cf7112532152384fcf4eb594"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-623437_lsd.m3u8?sub_m3u8=true&user_session_id=aadb7805d0133e159caf9e8e235c4783&edge_slice=true&auth_key=1690627585-0-0-bee56b12cf7112532152384fcf4eb594"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1690627408-0-0-2ea86c598d16fcad124bbc58dd34e83a&edge_slice=true&sub_m3u8=true&user_session_id=1f1e4bf5799fabd885e95aafc317dde5"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?auth_key=1690627408-0-0-2ea86c598d16fcad124bbc58dd34e83a&edge_slice=true&sub_m3u8=true&user_session_id=1f1e4bf5799fabd885e95aafc317dde5"
 }
 ]
 },
@@ -65,26 +65,26 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/France-women.png",
 "hteam": "Brazil women",
-"time": " 4:30 PM ",
-"date": "2023-07-29",
+"time": " live ",
+"date": "4:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Brazil.png",
 "ateam": "France women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?auth_key=1690627705-0-0-3eaca2ce9a6e771c70ea6c1fd7dc3833&edge_slice=true&user_session_id=1e6616dd13869fa9ff2c37c2074d090a&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lsd.m3u8?auth_key=1690627705-0-0-3eaca2ce9a6e771c70ea6c1fd7dc3833&edge_slice=true&user_session_id=1e6616dd13869fa9ff2c37c2074d090a&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690627768-0-0-c633e9c44577570de66ece05d471ca2b&user_session_id=44b9b731f52d3a5323ea4c2a30c0155c"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690627768-0-0-c633e9c44577570de66ece05d471ca2b&user_session_id=44b9b731f52d3a5323ea4c2a30c0155c"
 }
 ]
 },
