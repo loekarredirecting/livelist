@@ -1,40 +1,5 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Sweden.png",
-"hteam": "Italia women",
-"time": " live ",
-"date": "2:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Italy.png",
-"ateam": "Sweden Women",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportfootball/chunks.m3u8?nimblesessionid=3320860&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIzIDc6NDk6NTAgQU0maGFzaF92YWx1ZT11WE1FU3NnNXJGQkU3VWI0bWFOYlh3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzYmaWQ9NTg2Mzcw"
-},
-{
-"type":  "English 2 SD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/matchfootball1/chunks.m3u8?nimblesessionid=3321009&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIzIDc6NTQ6MzUgQU0maGFzaF92YWx1ZT02MmZab29DQXptZkR2ck9nYlhSeEZRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9MzcwNDAx"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690619544-0-0-a3b330b4107cc78a568eab059aa7f040&user_session_id=53cd742684217f67c9d4078152e2b471"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690619544-0-0-a3b330b4107cc78a568eab059aa7f040&user_session_id=53cd742684217f67c9d4078152e2b471"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?auth_key=1690619308-0-0-d6372291a98df102d176f5fdf2499f21&user_session_id=bd568778f82c15234302c599025f5d18&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lsd.m3u8?auth_key=1690619308-0-0-d6372291a98df102d176f5fdf2499f21&user_session_id=bd568778f82c15234302c599025f5d18&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Kawasaki-Frontale.gif",
 "hteam": "Bayern Munich",
@@ -58,7 +23,16 @@
 {
 "type": "Soco SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-118582_lsd.m3u8?auth_key=1690627408-0-0-2ea86c598d16fcad124bbc58dd34e83a&edge_slice=true&sub_m3u8=true&user_session_id=1f1e4bf5799fabd885e95aafc317dde5"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
 }
+
 ]
 },
 {
@@ -85,7 +59,16 @@
 {
 "type": "Soco SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690627768-0-0-c633e9c44577570de66ece05d471ca2b&user_session_id=44b9b731f52d3a5323ea4c2a30c0155c"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
 }
+
 ]
 },
 {
