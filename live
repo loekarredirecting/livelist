@@ -9,6 +9,14 @@
 "ateam": "Barcelona",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sportdigital/chunks.m3u8?nimblesessionid=3325386&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIzIDM6MTk6NDggUE0maGFzaF92YWx1ZT1yZ1ZKMHhYM3V0cWJqNE5kSldrT2lRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzAmaWQ9MjYyOTA3"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia2/pptv_480p/chunks.m3u8?nimblesessionid=3325400&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIzIDM6MjM6MTAgUE0maGFzaF92YWx1ZT1ORHNJakxtMUQyZHR2SjRsVnZvOUtRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjcmaWQ9ODUxOTYw"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?edge_slice=true&user_session_id=da568b665ef0ee2633a71aa447fc656d&auth_key=1690647385-0-0-8408716e15ead81c341aff0d880bba48&sub_m3u8=true"
 },
