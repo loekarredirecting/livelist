@@ -3,18 +3,18 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Real Madrid",
-"time": " 3:30 AM ",
-"date": "2023-07-30",
+"time": " live ",
+"date": "3:30 AM",
 "aimg": "https://mygoaltv.xyz//team/real-madrid.png",
 "ateam": "Barcelona",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?edge_slice=true&user_session_id=da568b665ef0ee2633a71aa447fc656d&auth_key=1690647385-0-0-8408716e15ead81c341aff0d880bba48&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?edge_slice=true&user_session_id=da568b665ef0ee2633a71aa447fc656d&auth_key=1690647385-0-0-8408716e15ead81c341aff0d880bba48&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
