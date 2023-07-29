@@ -9,6 +9,14 @@
 "ateam": "Sweden Women",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportfootball/chunks.m3u8?nimblesessionid=3320860&wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOS8yMDIzIDc6NDk6NTAgQU0maGFzaF92YWx1ZT11WE1FU3NnNXJGQkU3VWI0bWFOYlh3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzYmaWQ9NTg2Mzcw"
+},
+{
+"type":  "English SD",
+"livelink": "0"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690619544-0-0-a3b330b4107cc78a568eab059aa7f040&user_session_id=53cd742684217f67c9d4078152e2b471"
 },
