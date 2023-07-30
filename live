@@ -79,12 +79,28 @@
 "ateam": "Liverpool",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/tv3max/chunks.m3u8?nimblesessionid=3332042&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDg6NDM6MTMgQU0maGFzaF92YWx1ZT1KVEcyQXNSV3dkK0FpKzRETkF0eTBRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjQmaWQ9MzY2Mjg3"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lhd.m3u8?auth_key=1690709724-0-0-9fbb0eaf1484174079b23e990b8dc1cd&edge_slice=true&sub_m3u8=true&user_session_id=362f83d53be7af1f30c17ead1a85311d"
 },
 {
 "type":  "China SD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lsd.m3u8?auth_key=1690709724-0-0-9fbb0eaf1484174079b23e990b8dc1cd&edge_slice=true&sub_m3u8=true&user_session_id=362f83d53be7af1f30c17ead1a85311d"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 }
 ]
 },
