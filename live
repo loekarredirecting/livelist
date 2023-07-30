@@ -73,26 +73,18 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/liverpool.png",
 "hteam": "Leicester City",
-"time": " 3:30 PM ",
-"date": "2023-07-30",
+"time": " live ",
+"date": "3:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Leicester-City.gif",
 "ateam": "Liverpool",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lhd.m3u8?auth_key=1690709724-0-0-9fbb0eaf1484174079b23e990b8dc1cd&edge_slice=true&sub_m3u8=true&user_session_id=362f83d53be7af1f30c17ead1a85311d"
 },
 {
 "type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lsd.m3u8?auth_key=1690709724-0-0-9fbb0eaf1484174079b23e990b8dc1cd&edge_slice=true&sub_m3u8=true&user_session_id=362f83d53be7af1f30c17ead1a85311d"
 }
 ]
 },
