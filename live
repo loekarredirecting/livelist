@@ -10,11 +10,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?auth_key=1690703425-0-0-212a36811c8c78a687e50d5012999342&user_session_id=338ffb1ced932204f07701686af7d3c1&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lsd.m3u8?auth_key=1690703425-0-0-212a36811c8c78a687e50d5012999342&user_session_id=338ffb1ced932204f07701686af7d3c1&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
@@ -30,18 +30,18 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Thuysy.png",
 "hteam": "New Zealand Women's",
-"time": " 1:30 PM ",
-"date": "2023-07-30",
+"time": " live ",
+"date": "1:30 PM",
 "aimg": "https://mygoaltv.xyz//team/New-Zealand.png",
 "ateam": "Switzerland Women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?edge_slice=true&auth_key=1690703305-0-0-8e1d382ec7f9ca587bc70b21e3b9637a&user_session_id=37f97c494fa637760d207f51102bcca0&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?edge_slice=true&auth_key=1690703305-0-0-8e1d382ec7f9ca587bc70b21e3b9637a&user_session_id=37f97c494fa637760d207f51102bcca0&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
