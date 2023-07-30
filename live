@@ -9,6 +9,14 @@
 "ateam": "Norway Women's",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?auth_key=1690703425-0-0-212a36811c8c78a687e50d5012999342&user_session_id=338ffb1ced932204f07701686af7d3c1&edge_slice=true&sub_m3u8=true"
 },
@@ -35,6 +43,14 @@
 "aimg": "https://mygoaltv.xyz//team/New-Zealand.png",
 "ateam": "Switzerland Women",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportfootball/chunks.m3u8?nimblesessionid=3329845&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDY6NTU6MjIgQU0maGFzaF92YWx1ZT1lbmNDMUtOYit4MlpBQUdiSllxVGdBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzYmaWQ9Mzg2MzM4"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/tv3max/chunks.m3u8?nimblesessionid=3329857&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDY6NTY6NDQgQU0maGFzaF92YWx1ZT0zL3V3OU9UTlJwUmJvV1FOSWNocXFRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjQmaWQ9NjEzNjAz"
+},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?edge_slice=true&auth_key=1690703305-0-0-8e1d382ec7f9ca587bc70b21e3b9637a&user_session_id=37f97c494fa637760d207f51102bcca0&sub_m3u8=true"
