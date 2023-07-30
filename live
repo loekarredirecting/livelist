@@ -3,26 +3,26 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Hanquoc.png",
 "hteam": "Morocco Women",
-"time": " 11:00 AM ",
-"date": "2023-07-30",
+"time": " live ",
+"date": "11:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Morocco.png",
 "ateam": "South Korea women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?sub_m3u8=true&auth_key=1690694484-0-0-8d9efbb02b13223774abe6fa6a88968c&user_session_id=c848ecca719f526b9198c3d4122f7e4b&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?sub_m3u8=true&auth_key=1690694484-0-0-8d9efbb02b13223774abe6fa6a88968c&user_session_id=c848ecca719f526b9198c3d4122f7e4b&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991181_lhd.m3u8?auth_key=1690694548-0-0-73fbe28692282789c40eaab5f2875616&sub_m3u8=true&edge_slice=true&user_session_id=d78ba49f1cc0936b42d4aa6c7f852ba8"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991181_lsd.m3u8?auth_key=1690694548-0-0-73fbe28692282789c40eaab5f2875616&sub_m3u8=true&edge_slice=true&user_session_id=d78ba49f1cc0936b42d4aa6c7f852ba8"
 }
 ]
 },
