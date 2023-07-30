@@ -87,6 +87,14 @@
 "ateam": "Atletico Madrid",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/tv3max/chunks.m3u8?nimblesessionid=3362495&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDEwOjU0OjU3IEFNJmhhc2hfdmFsdWU9bkE0UlVGdVVLQ3MraGZVeEdUcUF5UT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI0JmlkPTk3OTcxOA=="
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&auth_key=1690717765-0-0-d8715a2d47dbe514831afb43683c2d94&user_session_id=97a8b2ba268acec37ac5442e45a66830&sub_m3u8=true"
 },
@@ -101,6 +109,14 @@
 {
 "type": "Soco SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991179_lsd.m3u8?auth_key=1690717889-0-0-1d20bbba05278d64b7ec2671e6c39161&user_session_id=2d16ad9e1d839163b9a1a8471fd935d5&sub_m3u8=true&edge_slice=true"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }
 ]
 },
