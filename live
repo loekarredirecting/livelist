@@ -1,84 +1,6 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/liverpool.png",
-"hteam": "Leicester City",
-"time": " live ",
-"date": "3:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Leicester-City.gif",
-"ateam": "Liverpool",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/tv3max/chunks.m3u8?nimblesessionid=3332042&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDg6NDM6MTMgQU0maGFzaF92YWx1ZT1KVEcyQXNSV3dkK0FpKzRETkF0eTBRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjQmaWQ9MzY2Mjg3"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lhd.m3u8?auth_key=1690709724-0-0-9fbb0eaf1484174079b23e990b8dc1cd&edge_slice=true&sub_m3u8=true&user_session_id=362f83d53be7af1f30c17ead1a85311d"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lsd.m3u8?auth_key=1690709724-0-0-9fbb0eaf1484174079b23e990b8dc1cd&edge_slice=true&sub_m3u8=true&user_session_id=362f83d53be7af1f30c17ead1a85311d"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Germany.png",
-"hteam": "Colombia women",
-"time": " live ",
-"date": "4:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Colombia.png",
-"ateam": "Germany women",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportfootball/chunks.m3u8?nimblesessionid=3337631&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1PbnZIWHFHVFU2UVVHYW80ZzBLbkhBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzYmaWQ9NjIzNTM2"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportfootball/chunks.m3u8?nimblesessionid=3337631&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDk6MDM6MzQgQU0maGFzaF92YWx1ZT1PbnZIWHFHVFU2UVVHYW80ZzBLbkhBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzYmaWQ9NjIzNTM2"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1690711045-0-0-e7d54fa3f62d13d97591f5fb42f97c1b&user_session_id=4dd904e8c6666b82c5eb28fe6a9d21c3&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?sub_m3u8=true&auth_key=1690711045-0-0-e7d54fa3f62d13d97591f5fb42f97c1b&user_session_id=4dd904e8c6666b82c5eb28fe6a9d21c3&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991192_lhd.m3u8?user_session_id=4d0e5175a274d10c2a3df228b767cb76&auth_key=1690711169-0-0-f9e2acdb95a5d3d3e5a567d77932a857&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991192_lsd.m3u8?user_session_id=4d0e5175a274d10c2a3df228b767cb76&auth_key=1690711169-0-0-f9e2acdb95a5d3d3e5a567d77932a857&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "hteam": "Manchester City",
 "time": " live ",
@@ -92,15 +14,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/tv3max/chunks.m3u8?nimblesessionid=3362495&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDEwOjU0OjU3IEFNJmhhc2hfdmFsdWU9bkE0UlVGdVVLQ3MraGZVeEdUcUF5UT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI0JmlkPTk3OTcxOA=="
-},
-{
-"type": "English 3 HD",
 "livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8"
-},
-{
-"type": "English 4 SD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/viasatfotboll/chunks.m3u8?nimblesessionid=3363512&wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDIzIDEwOjU4OjEzIEFNJmhhc2hfdmFsdWU9emhRdEtoOGFnbXN4cWVmcXZpNEpJdz09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTMxJmlkPTExMzY1Nw=="
 },
 {
 "type": "China HD",
