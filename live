@@ -25,5 +25,221 @@
 "livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
 }
 ]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Costa-Rica.png",
+"hteam": "Zambia Women",
+"time": " 1:30 PM ",
+"date": "2023-07-31",
+"aimg": "https://mygoaltv.xyz//team/Zambia.png",
+"ateam": "Costa Rica women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Nhat.png",
+"hteam": "Spain women ",
+"time": " 1:30 PM ",
+"date": "2023-07-31",
+"aimg": "https://mygoaltv.xyz//team/Taybannha.png",
+"ateam": "Japan women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Canada.png",
+"hteam": "Australia women",
+"time": " 4:30 PM ",
+"date": "2023-07-31",
+"aimg": "https://mygoaltv.xyz//team/Australia.png",
+"ateam": "Canada Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Ireland.png",
+"hteam": "Nigeria Women",
+"time": " 4:30 PM ",
+"date": "2023-07-31",
+"aimg": "https://mygoaltv.xyz//team/Nigeria.png",
+"ateam": "Ireland Women's",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/vietnam_svg.png",
+"hteam": "Netherlands Women",
+"time": " 1:30 PM ",
+"date": "2023-08-01",
+"aimg": "https://mygoaltv.xyz//team/Halan.png",
+"ateam": "Vietnam women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Bodaonha.png",
+"hteam": "USA women",
+"time": " 1:30 PM ",
+"date": "2023-08-01",
+"aimg": "https://mygoaltv.xyz//team/My.png",
+"ateam": "Portugal women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/China.png",
+"hteam": "England women",
+"time": " 5;30 PM ",
+"date": "2023-08-01",
+"aimg": "https://mygoaltv.xyz//team/Anh.png",
+"ateam": "China Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Haiti.png",
+"hteam": "Denmark women",
+"time": " 5:30 PM ",
+"date": "2023-08-01",
+"aimg": "https://mygoaltv.xyz//team/Denmark.png",
+"ateam": "Haiti Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
