@@ -44,6 +44,14 @@
 "ateam": "Ireland Women's",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1690801825-0-0-72b2e907c40ec2cbe6583a4705adf92a&user_session_id=32e5dc43a0305695522c00f3fbeb90a3&edge_slice=true"
 },
