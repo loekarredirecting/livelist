@@ -44,6 +44,14 @@
 "ateam": "Portugal women",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&user_session_id=a92fa1ed074725ba1c1a84414bcdd501&auth_key=1690875805-0-0-fefb3489cbe454524168019835559251&sub_m3u8=true"
 },
