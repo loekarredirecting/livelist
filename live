@@ -1,114 +1,28 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/vietnam_svg.png",
-"hteam": "Netherlands Women",
-"time": " live ",
-"date": "1:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Halan.png",
-"ateam": "Vietnam women",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/foxsports1usa/chunks.m3u8?nimblesessionid=3483269&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgNjo1Mjo0MSBBTSZoYXNoX3ZhbHVlPTFPVEZIMUhObHBmNnlhWWl3Y1dXZkE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zMSZpZD0zNjE0MDg="
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/bein2englisharab/chunks.m3u8?nimblesessionid=3483271&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgNjo1MzozMyBBTSZoYXNoX3ZhbHVlPUtuUkJnNjQ2MnVkbCtWRmFqZytFL2c9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNCZpZD0yOTQxNDI="
-},
-{
-"type": "Vietnam  HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?auth_key=1690875684-0-0-3439ea2d1580d2c3bbb990a17c3c39da&user_session_id=fd626effca93f5ef17ae38ff35870075&edge_slice=true&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lsd.m3u8?auth_key=1690875684-0-0-3439ea2d1580d2c3bbb990a17c3c39da&user_session_id=fd626effca93f5ef17ae38ff35870075&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991192_lhd.m3u8?edge_slice=true&auth_key=1690875869-0-0-a2e3f2732360e00b5ee40adee1407e24&sub_m3u8=true&user_session_id=0db914162121ee3e101bed09781cbed6"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991192_lsd.m3u8?edge_slice=true&auth_key=1690875869-0-0-a2e3f2732360e00b5ee40adee1407e24&sub_m3u8=true&user_session_id=0db914162121ee3e101bed09781cbed6"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Bodaonha.png",
-"hteam": "USA women",
-"time": " live ",
-"date": "1:30 PM",
-"aimg": "https://mygoaltv.xyz//team/My.png",
-"ateam": "Portugal women",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportfootball/chunks.m3u8?nimblesessionid=3483274&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgNjo1NDo1MCBBTSZoYXNoX3ZhbHVlPU5lUEtBN2M4eFlYYVZPalQveHk1cWc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNiZpZD05OTg3MTQ="
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv1/chunks.m3u8?nimblesessionid=3483275&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgNjo1NToyNCBBTSZoYXNoX3ZhbHVlPS9WOTQxamw2V1RwUDhQNFB0SGRselE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD05ODYxODI="
-},
-{
-"type": "Vietnam  HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&user_session_id=a92fa1ed074725ba1c1a84414bcdd501&auth_key=1690875805-0-0-fefb3489cbe454524168019835559251&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&user_session_id=a92fa1ed074725ba1c1a84414bcdd501&auth_key=1690875805-0-0-fefb3489cbe454524168019835559251&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991162_lhd.m3u8?auth_key=1690876049-0-0-ce390a71cd7ace5e23546249f039ce2b&sub_m3u8=true&edge_slice=true&user_session_id=851fa1da67f9be947f5c4053740b12e5"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991162_lsd.m3u8?auth_key=1690876049-0-0-ce390a71cd7ace5e23546249f039ce2b&sub_m3u8=true&edge_slice=true&user_session_id=851fa1da67f9be947f5c4053740b12e5"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https:\/\/images.fotmob.com\/image_resources\/logo\/teamlogo\/9847_small.png",
 "hteam": "Inter",
-"time": " 4:30 PM ",
-"date": "2023-08-01",
+"time": " live ",
+"date": "4:30 PM",
 "aimg": "https:\/\/images.fotmob.com\/image_resources\/logo\/teamlogo\/8636_small.png",
 "ateam": "PSG",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-667065_lhd.m3u8?sub_m3u8=true&auth_key=1690886364-0-0-29c00aaf3b3648cbd22de28b77dedfb4&edge_slice=true&user_session_id=2a9241a2356e4c7c9a0fecdda45ed744"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-667065_lsd.m3u8?sub_m3u8=true&auth_key=1690886364-0-0-29c00aaf3b3648cbd22de28b77dedfb4&edge_slice=true&user_session_id=2a9241a2356e4c7c9a0fecdda45ed744"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991179_lhd.m3u8?auth_key=1690886429-0-0-49727069c62e02b7751b489eac525cbb&user_session_id=e84695328418e48dddb5fd62fb1e6b51&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991179_lsd.m3u8?auth_key=1690886429-0-0-49727069c62e02b7751b489eac525cbb&user_session_id=e84695328418e48dddb5fd62fb1e6b51&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
