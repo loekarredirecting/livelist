@@ -149,5 +149,194 @@
 "livelink": "0"
 }
 ]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Argentina.png",
+"hteam": "Sweden Women",
+"time": " 1:30 PM ",
+"date": "2023-08-02",
+"aimg": "https://mygoaltv.xyz//team/Sweden.png",
+"ateam": "Argentina women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/nam-phi.png",
+"hteam": "Italia women",
+"time": " 1:30 PM ",
+"date": "2023-08-02",
+"aimg": "https://mygoaltv.xyz//team/Italy.png",
+"ateam": "South Africa women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Jamaica.png",
+"hteam": "Brazil women",
+"time": " 4:30 PM ",
+"date": "2023-08-02",
+"aimg": "https://mygoaltv.xyz//team/Brazil.png",
+"ateam": "Jamaica women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Panama.png",
+"hteam": "France women",
+"time": " 4:30 PM ",
+"date": "2023-08-02",
+"aimg": "https://mygoaltv.xyz//team/France-women.png",
+"ateam": "Panama Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/liverpool.png",
+"hteam": "Bayern Munich",
+"time": " 6:00 PM ",
+"date": "2023-08-02",
+"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"ateam": "Liverpool",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+"hteam": "Girona",
+"time": " 11:00 PM ",
+"date": "2023-08-02",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+"ateam": "Napoli",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"hteam": "Monaco",
+"time": " 11:30 PM ",
+"date": "2023-08-02",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+"ateam": "Arsenal",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
