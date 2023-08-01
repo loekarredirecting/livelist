@@ -3,18 +3,18 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/vietnam_svg.png",
 "hteam": "Netherlands Women",
-"time": " 1:30 PM ",
-"date": "2023-08-01",
+"time": " live ",
+"date": "1:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Halan.png",
 "ateam": "Vietnam women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?auth_key=1690875684-0-0-3439ea2d1580d2c3bbb990a17c3c39da&user_session_id=fd626effca93f5ef17ae38ff35870075&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lsd.m3u8?auth_key=1690875684-0-0-3439ea2d1580d2c3bbb990a17c3c39da&user_session_id=fd626effca93f5ef17ae38ff35870075&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
@@ -30,18 +30,18 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Bodaonha.png",
 "hteam": "USA women",
-"time": " 1:30 PM ",
-"date": "2023-08-01",
+"time": " live ",
+"date": "1:30 PM",
 "aimg": "https://mygoaltv.xyz//team/My.png",
 "ateam": "Portugal women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&user_session_id=a92fa1ed074725ba1c1a84414bcdd501&auth_key=1690875805-0-0-fefb3489cbe454524168019835559251&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&user_session_id=a92fa1ed074725ba1c1a84414bcdd501&auth_key=1690875805-0-0-fefb3489cbe454524168019835559251&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
