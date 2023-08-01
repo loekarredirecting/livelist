@@ -9,6 +9,22 @@
 "ateam": "PSG",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/beinsportsarabia2hd/chunks.m3u8?nimblesessionid=3485900&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgOTo0NTo1NCBBTSZoYXNoX3ZhbHVlPVF3YVh1Uk1lN1h5YkVZVTltTE12WUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNyZpZD0yOTk3NDM="
+},
+{
+"type": "English SD",
+"livelink": "https://us.livenflstream.xyz/playlist/stream_2.m3u8"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-667065_lhd.m3u8?sub_m3u8=true&auth_key=1690886364-0-0-29c00aaf3b3648cbd22de28b77dedfb4&edge_slice=true&user_session_id=2a9241a2356e4c7c9a0fecdda45ed744"
 },
