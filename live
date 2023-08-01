@@ -9,6 +9,14 @@
 "ateam": "Vietnam women",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?auth_key=1690875684-0-0-3439ea2d1580d2c3bbb990a17c3c39da&user_session_id=fd626effca93f5ef17ae38ff35870075&edge_slice=true&sub_m3u8=true"
 },
