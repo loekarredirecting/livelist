@@ -1,32 +1,5 @@
 [
 {
-"league": " Arab Club Champions Cup Grp. C ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/102109_small.png",
-"hteam": "Al Nassr FC",
-"time": " live ",
-"date": "1:30 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"ateam": "US Monastir",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?sub_m3u8=true&user_session_id=2ae2b9f87923c76b8d7d5d4f69231c4d&edge_slice=true&auth_key=1690829365-0-0-7339a9eec9aec323604f89b78eecc34b"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?sub_m3u8=true&user_session_id=2ae2b9f87923c76b8d7d5d4f69231c4d&edge_slice=true&auth_key=1690829365-0-0-7339a9eec9aec323604f89b78eecc34b"
-},
-{
-"type": "Soco HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-991171_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0047caa83280f1112a2715d5a1559b9e&auth_key=1690829489-0-0-de42db3febf672ef4a8984620f494f5b"
-},
-{
-"type": "Soco SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-991171_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0047caa83280f1112a2715d5a1559b9e&auth_key=1690829489-0-0-de42db3febf672ef4a8984620f494f5b"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/vietnam_svg.png",
 "hteam": "Netherlands Women",
