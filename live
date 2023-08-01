@@ -9,12 +9,12 @@
 "ateam": "PSG",
 "link": [
 {
-"type": "English HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/beinsportsarabia2hd/chunks.m3u8?nimblesessionid=3485900&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgOTo0NTo1NCBBTSZoYXNoX3ZhbHVlPVF3YVh1Uk1lN1h5YkVZVTltTE12WUE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNyZpZD0yOTk3NDM="
+"type": "Bein Sports HD",
+"livelink": "https://us.livenflstream.xyz/playlist/stream_2.m3u8"
 },
 {
-"type": "English SD",
-"livelink": "https://us.livenflstream.xyz/playlist/stream_2.m3u8"
+"type": "Bein Sports SD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/beinsport1fr/chunks.m3u8?nimblesessionid=3486190&wmsAuthSign=c2VydmVyX3RpbWU9OC8xLzIwMjMgMTA6MDA6MzYgQU0maGFzaF92YWx1ZT01NG9nL1VETm9lZWhrYzFhVUtQZjd3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzAmaWQ9Mjc3ODU4"
 },
 {
 "type": "Vietnam HD",
@@ -77,6 +77,60 @@
 "date": "2023-08-01",
 "aimg": "https://mygoaltv.xyz//team/Denmark.png",
 "ateam": "Haiti Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
+"hteam": "Athletic Club",
+"time": " 1:00 AM ",
+"date": "2023-08-02",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+"ateam": "Celtic",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/acmilan.png",
+"hteam": "Barcelona",
+"time": " 9:30 AM ",
+"date": "2023-08-02",
+"aimg": "https://mygoaltv.xyz//team/Barcelona.png",
+"ateam": "AC Milan",
 "link": [
 {
 "type": "China HD",
