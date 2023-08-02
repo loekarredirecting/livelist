@@ -1,47 +1,58 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/liverpool.png",
-"hteam": "Bayern Munich",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+"hteam": "Girona",
 "time": " live ",
-"date": "6:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"ateam": "Liverpool",
+"date": "11:00 PM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+"ateam": "Napoli",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist==.m3u8"
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551893_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690996326-0-0-1c38390986531d8fc2a9db3b7b45c131&user_session_id=cff62b6d0391aa463c63bf67131e5a20"
 },
 {
-"type":  "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia6/baygonhero3/chunks.m3u8?nimblesessionid=3554401&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjMgMTowNjoyNiBQTSZoYXNoX3ZhbHVlPVZLdXBIRmdxRFlnUmFKdTJHR2VlZEE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yOSZpZD01MTkzMDE="
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991172_lhd.m3u8?auth_key=1690978469-0-0-2fd6bdee6b35241d7116da09f52ed78d&user_session_id=fc23ecefdcdffe952e2a0c38cd1406fc&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991172_lsd.m3u8?auth_key=1690978469-0-0-2fd6bdee6b35241d7116da09f52ed78d&user_session_id=fc23ecefdcdffe952e2a0c38cd1406fc&sub_m3u8=true&edge_slice=true"
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551893_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1690996326-0-0-1c38390986531d8fc2a9db3b7b45c131&user_session_id=cff62b6d0391aa463c63bf67131e5a20"
 }
 ]
 },
 {
 "league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"hteam": "Girona",
-"time": " 11:00 PM ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"hteam": "Monaco",
+"time": " 11:30 PM ",
 "date": "2023-08-02",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"ateam": "Napoli",
+"ateam": "Arsenal",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-507138_lhd.m3u8?auth_key=1690996446-0-0-3104d52d343ca27a367e1d792ae813ae&sub_m3u8=true&edge_slice=true&user_session_id=a1b573b3579e7586bf1658ceb5b70a6c"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-507138_lsd.m3u8?auth_key=1690996446-0-0-3104d52d343ca27a367e1d792ae813ae&sub_m3u8=true&edge_slice=true&user_session_id=a1b573b3579e7586bf1658ceb5b70a6c"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+"hteam": "Rennes",
+"time": " 12:30 AM ",
+"date": "2023-08-03",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
+"ateam": "Nottm Forest",
 "link": [
 {
 "type": "China HD",
@@ -63,12 +74,282 @@
 },
 {
 "league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"hteam": "Monaco",
-"time": " 11:30 PM ",
-"date": "2023-08-02",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"ateam": "Arsenal",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+"hteam": "Luton",
+"time": " 1:00 AM ",
+"date": "2023-08-03",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+"ateam": "Wolves",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/no-logo.png",
+"hteam": "AS Roma",
+"time": " 1;15 AM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
+"ateam": "SC Farense",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
+"hteam": "Leverkusen",
+"time": " 1:15 AM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/Leverkusen.png",
+"ateam": "Marseille",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Juventus.png",
+"hteam": "Real Madrid",
+"time": " 6:00 AM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
+"ateam": "Juventus",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " League Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+"hteam": "Orlando",
+"time": " 6:30 AM ",
+"date": "2023-08-03",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/267810_small.png",
+"ateam": "Inter Miami CF",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/chelsea.png",
+"hteam": "Dortmund",
+"time": " 7:00 AM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/dortmund.png",
+"ateam": "Chelsea",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
+"hteam": "Real Sociedad",
+"time": " 7:30 AM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
+"ateam": "Atletico Madrid",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Sevilla.png",
+"hteam": "Betis",
+"time": " 9:30 AM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/betis.png",
+"ateam": "Sevilla",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/46038_small.png",
+"hteam": "PSG",
+"time": " 2:30 PM ",
+"date": "2023-08-03",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"ateam": "Jeonbuk FC",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Morocco.png",
+"hteam": "Colombia women",
+"time": " 4:30 PM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/Colombia.png",
+"ateam": "Morocco Women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Hanquoc.png",
+"hteam": "Germany women",
+"time": " 4:30 PM ",
+"date": "2023-08-03",
+"aimg": "https://mygoaltv.xyz//team/Germany.png",
+"ateam": "South Korea women",
 "link": [
 {
 "type": "China HD",
