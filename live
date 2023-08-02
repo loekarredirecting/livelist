@@ -9,6 +9,14 @@
 "ateam": "Jamaica women",
 "link": [
 {
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991192_lhd.m3u8?auth_key=1690976609-0-0-284971a722af4c0a3d6bd693da5d8a55&edge_slice=true&sub_m3u8=true&user_session_id=484f13ae45c6a671e0ec310408993f1a"
 },
@@ -36,6 +44,14 @@
 "ateam": "Panama Women",
 "link": [
 {
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991178_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1690976789-0-0-3a70f26c6e18c537c99698a795a86a91&user_session_id=84e23ab16231811b7975516039116c88"
 },
@@ -62,6 +78,14 @@
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Liverpool",
 "link": [
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+},
 {
 "type": "China HD",
 "livelink": "0"
