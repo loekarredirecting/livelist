@@ -9,6 +9,22 @@
 "ateam": "AC Milan",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/astrosupersport2/chunks.m3u8?nimblesessionid=3494638&wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjMgMjo0NjozMyBBTSZoYXNoX3ZhbHVlPVN3RTJUTzlNdTdpV0hJUFNaY211V1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zNCZpZD0zMTQxMTM="
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?user_session_id=ff452434e1cc793fa38a5f3d8f6bff4d&auth_key=1690947505-0-0-c430f22fb84e2f18b1e3650744cfd2a0&sub_m3u8=true&edge_slice=true"
 },
