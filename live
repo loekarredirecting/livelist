@@ -44,6 +44,14 @@
 "ateam": "Morocco Women",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?user_session_id=c1fc8f71ab3bc9f6d8c9801da13a9713&sub_m3u8=true&edge_slice=true&auth_key=1691032986-0-0-0c8d2ea38ed302593eaf301b904684e4"
 },
