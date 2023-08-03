@@ -1,6 +1,6 @@
 [
 {
-"league": " Friendly ",
+"league": " Arab Club Champions ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/80591_small.png",
 "hteam": "Al Nassr FC",
 "time": " live ",
@@ -88,6 +88,60 @@
 "date": "2023-08-05",
 "aimg": "https://mygoaltv.xyz//team/Norway.png",
 "ateam": "Japan women",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
+"hteam": "West Ham",
+"time": " 6:00 PM ",
+"date": "2023-08-05",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+"ateam": "Leverkusen",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+"hteam": "Villarreal",
+"time": " 6:00 PM ",
+"date": "2023-08-05",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+"ateam": "Nice",
 "link": [
 {
 "type": "China HD",
