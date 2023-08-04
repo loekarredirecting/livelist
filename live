@@ -1,59 +1,5 @@
 [
 {
-"league": " Arab Club Champions ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/80591_small.png",
-"hteam": "Al Nassr FC",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"ateam": "Zamalek SC",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911952_lhd.m3u8?edge_slice=true&user_session_id=0fa9647354913c693a722dd3e7f2bad7&auth_key=1691077109-0-0-d1d2a5ebb2587a5dbd60ddeb6312aa16&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911952_lsd.m3u8?edge_slice=true&user_session_id=0fa9647354913c693a722dd3e7f2bad7&auth_key=1691077109-0-0-d1d2a5ebb2587a5dbd60ddeb6312aa16&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
-},
-{
-"type": "Soco SD",
-"livelink": "https://1123139281.cdn.khmer-sd.com/myHD/chunks.m3u8"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/astonvilla.png",
-"hteam": "Lazio",
-"time": " live ",
-"date": "1:00 AM",
-"aimg": "https://mygoaltv.xyz//team/lazio.png",
-"ateam": "Aston Villa",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991171_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691082449-0-0-60516ced3e5f3f742c8a3583a301258a&user_session_id=7a5b1a791eb804f288cd45d2b55067b7"
-},
-{
-"type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991171_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1691082449-0-0-60516ced3e5f3f742c8a3583a301258a&user_session_id=7a5b1a791eb804f288cd45d2b55067b7"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911949_lhd.m3u8?auth_key=1691082389-0-0-e910463965b762c6c50cfceac31ad33a&sub_m3u8=true&user_session_id=3656de71b43430d7a717b8406f5d74d1&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911949_lsd.m3u8?auth_key=1691082389-0-0-e910463965b762c6c50cfceac31ad33a&sub_m3u8=true&user_session_id=3656de71b43430d7a717b8406f5d74d1&edge_slice=true"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Thuysy.png",
 "hteam": "Spain women ",
