@@ -142,11 +142,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=9e186a24b0bedebb5d2a32ef13784c78&txTime=64ce9fd1"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=9e186a24b0bedebb5d2a32ef13784c78&txTime=64ce9fd1"
 }
 ]
 },
