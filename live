@@ -82,20 +82,20 @@
 "ateam": "Newcastle United",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1691247906-0-0-b3e0d87f01de5d2e95abb941cba0f5bc&user_session_id=89b5460b0d43c959310f9cd8640a41cc&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1691247906-0-0-b3e0d87f01de5d2e95abb941cba0f5bc&user_session_id=89b5460b0d43c959310f9cd8640a41cc&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
 }
 ]
 },
