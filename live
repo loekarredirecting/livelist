@@ -1,60 +1,6 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-"hteam": "Nottm Forest",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-"ateam": "Frankfurt",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991173_lhd.m3u8?sub_m3u8=true&auth_key=1691244629-0-0-6b07d2672305ed3779bf6146ebe38e5d&user_session_id=caf4c30233cc3d594ddbf4ee75e1266c&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991173_lsd.m3u8?sub_m3u8=true&auth_key=1691244629-0-0-6b07d2672305ed3779bf6146ebe38e5d&user_session_id=caf4c30233cc3d594ddbf4ee75e1266c&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991154_lhd.m3u8?user_session_id=042994bd42dae5305383a19f9e10834c&auth_key=1691244689-0-0-664479b4cba74baeedec52c83ec54485&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991154_lsd.m3u8?user_session_id=042994bd42dae5305383a19f9e10834c&auth_key=1691244689-0-0-664479b4cba74baeedec52c83ec54485&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
-"hteam": "Everton",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-"ateam": "Sporting CP",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lhd.m3u8?auth_key=1691247606-0-0-598b135389eb0b59503184f6896be495&sub_m3u8=true&user_session_id=5b04769ed5f20e33551cc19fc3819f79&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?auth_key=1691247606-0-0-598b135389eb0b59503184f6896be495&sub_m3u8=true&user_session_id=5b04769ed5f20e33551cc19fc3819f79&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=9e186a24b0bedebb5d2a32ef13784c78&txTime=64ce9fd1"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=9e186a24b0bedebb5d2a32ef13784c78&txTime=64ce9fd1"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/newcastle.png",
 "hteam": "Fiorentina",
 "time": " live ",
@@ -84,8 +30,8 @@
 "league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "hteam": "Lyon",
-"time": " 11:00 PM ",
-"date": "2023-08-05",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
 "ateam": "Crystal Palace",
 "link": [
