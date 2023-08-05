@@ -3,26 +3,26 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Thuysy.png",
 "hteam": "Spain women ",
-"time": " 11:30 AM ",
-"date": "2023-08-05",
+"time": " live ",
+"date": "11:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Taybannha.png",
 "ateam": "Switzerland Women",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?user_session_id=3b3266bb98805990119fc20244be4022&sub_m3u8=true&auth_key=1691214126-0-0-5f9fec9f5a739ac329a0d2df37fe6c02&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?user_session_id=3b3266bb98805990119fc20244be4022&sub_m3u8=true&auth_key=1691214126-0-0-5f9fec9f5a739ac329a0d2df37fe6c02&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lhd.m3u8?auth_key=1691214269-0-0-12976651c5688120ec704e33d1589fc0&sub_m3u8=true&user_session_id=5e4eb2f0ca9664ba7bf799831b5ac3bc&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lsd.m3u8?auth_key=1691214269-0-0-12976651c5688120ec704e33d1589fc0&sub_m3u8=true&user_session_id=5e4eb2f0ca9664ba7bf799831b5ac3bc&edge_slice=true"
 }
 ]
 },
