@@ -1,25 +1,6 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"hteam": "Rennes",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-"ateam": "Wolves",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv2/chunks.m3u8?nimblesessionid=3628105&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMTI6NTU6MjMgUE0maGFzaF92YWx1ZT14azA2VytsOGVzNkt6ZHJmTjBtTEtnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9ODQ4NzM3"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv2/chunks.m3u8?nimblesessionid=3628105&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMTI6NTU6MjMgUE0maGFzaF92YWx1ZT14azA2VytsOGVzNkt6ZHJmTjBtTEtnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjYmaWQ9ODQ4NzM3"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "hteam": "Nottm Forest",
 "time": " live ",
@@ -101,60 +82,6 @@
 },
 {
 "league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"hteam": "Lille",
-"time": " 9:30 PM ",
-"date": "2023-08-05",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
-"ateam": "Brentford",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-"hteam": "Nantes",
-"time": " 10:30 PM ",
-"date": "2023-08-05",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-"ateam": "Köln",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "hteam": "Lyon",
 "time": " 11:00 PM ",
@@ -163,47 +90,20 @@
 "ateam": "Crystal Palace",
 "link": [
 {
-"type": "China HD",
-"livelink": "0"
+"type": "English HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv4/chunks.m3u8?nimblesessionid=3632084&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMjo1MzozNiBQTSZoYXNoX3ZhbHVlPXowRUNNeXFHc0xXZWlUVHFveWRnZXc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD0xNDE4Nzc="
 },
 {
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-"hteam": "Bournemouth",
-"time": " 11:00 PM ",
-"date": "2023-08-05",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-"ateam": "Lorient",
-"link": [
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
+"type":  "English SD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv4/chunks.m3u8?nimblesessionid=3632084&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMjo1MzozNiBQTSZoYXNoX3ZhbHVlPXowRUNNeXFHc0xXZWlUVHFveWRnZXc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD0xNDE4Nzc="
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991165_lhd.m3u8?txSecret=e7792f494aa826e1e16ecb1a7f053789&txTime=64ceb5d9"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991165_lsd.m3u8?txSecret=e7792f494aa826e1e16ecb1a7f053789&txTime=64ceb5d9"
 }
 ]
 },
@@ -352,6 +252,22 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportepl/chunks.m3u8?nimblesessionid=3632124&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMjo1NTo0MyBQTSZoYXNoX3ZhbHVlPU9ySnNyUjJoYTJZZ2QySXlnemJWY0E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0zMSZpZD0zNTcxODU="
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/mutv/chunks.m3u8?nimblesessionid=3632156&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMjo1NzoyMSBQTSZoYXNoX3ZhbHVlPVpXWCtaWldGSC9IWDRGaVJURThoTlE9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yMiZpZD0yNTk0MTY="
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
 "type": "China HD",
 "livelink": "0"
 },
@@ -378,6 +294,22 @@
 "aimg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
 "ateam": "Manchester United",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
 {
 "type": "China HD",
 "livelink": "0"
