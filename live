@@ -57,11 +57,35 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Lens",
-"time": " 6:15 PM ",
-"date": "2023-08-05",
+"time": " live ",
+"date": "6:15 PM",
 "aimg": "https://mygoaltv.xyz//team/Lens.png",
 "ateam": "Manchester United",
 "link": [
+{
+"type": "MUTV 1080 HD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+},
+{
+"type": "MUTV 540 HD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+},
+{
+"type": "MUTV 360 SD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
+},
+{
+"type": "MUTV 240 SD",
+"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
 {
 "type": "China HD",
 "livelink": "0"
