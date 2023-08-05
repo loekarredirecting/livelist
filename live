@@ -127,18 +127,18 @@
 "league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
 "hteam": "Everton",
-"time": " 8:30 PM ",
-"date": "2023-08-05",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "ateam": "Sporting CP",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lhd.m3u8?auth_key=1691247606-0-0-598b135389eb0b59503184f6896be495&sub_m3u8=true&user_session_id=5b04769ed5f20e33551cc19fc3819f79&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?auth_key=1691247606-0-0-598b135389eb0b59503184f6896be495&sub_m3u8=true&user_session_id=5b04769ed5f20e33551cc19fc3819f79&edge_slice=true"
 },
 {
 "type": "Soco HD",
