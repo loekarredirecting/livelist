@@ -538,5 +538,113 @@
 "livelink": "0"
 }
 ]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
+"hteam": "Athletic Bilbao",
+"time": " 9:30 PM ",
+"date": "2023-08-06",
+"aimg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
+"ateam": "Manchester United",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/dortmund.png",
+"hteam": "Ajax",
+"time": " 9:30 PM ",
+"date": "2023-08-06",
+"aimg": "https://mygoaltv.xyz//team/ajax.png",
+"ateam": "Dortmund",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/newcastle.png",
+"hteam": "Villarreal",
+"time": " 9:30 PM ",
+"date": "2023-08-06",
+"aimg": "https://mygoaltv.xyz//team/villarreal.png",
+"ateam": "Newcastle United",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
+"hteam": "Augsburg",
+"time": " 11:00 PM ",
+"date": "2023-08-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
+"ateam": "Napoli",
+"link": [
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
 }
 ]
