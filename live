@@ -1,84 +1,6 @@
 [
 {
 "league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"hteam": "West Ham",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"ateam": "Leverkusen",
-"link": [
-{
-"type": "Vietnan HD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8"
-},
-{
-"type":  "vietnan SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911955_lhd.m3u8?edge_slice=true&user_session_id=f789eab5b32f36118c58449744b3c0de&sub_m3u8=true&auth_key=1691237789-0-0-58a91b1e9e1374c90199febeffbd20b5"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911955_lsd.m3u8?edge_slice=true&user_session_id=f789eab5b32f36118c58449744b3c0de&sub_m3u8=true&auth_key=1691237789-0-0-58a91b1e9e1374c90199febeffbd20b5"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"hteam": "Lens",
-"time": " live ",
-"date": "6:15 PM",
-"aimg": "https://mygoaltv.xyz//team/Lens.png",
-"ateam": "Manchester United",
-"link": [
-{
-"type": "MUTV 1080 HD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-},
-{
-"type": "MUTV 540 HD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-},
-{
-"type": "MUTV 360 SD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8"
-},
-{
-"type": "MUTV 240 SD",
-"livelink": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lhd.m3u8?auth_key=1691239806-0-0-e47bc37e0e2f48ce56a703fa5590e919&edge_slice=true&sub_m3u8=true&user_session_id=b207983fee21a0a39d6e61d7fffd23be"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1756728_lsd.m3u8?auth_key=1691239806-0-0-e47bc37e0e2f48ce56a703fa5590e919&edge_slice=true&sub_m3u8=true&user_session_id=b207983fee21a0a39d6e61d7fffd23be"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lhd.m3u8?auth_key=1691239169-0-0-25e22e3504d20f347022862a776aa1a3&edge_slice=true&sub_m3u8=true&user_session_id=53b5effaf3c363cfd59e0b0b4dbab472"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lsd.m3u8?auth_key=1691239169-0-0-25e22e3504d20f347022862a776aa1a3&edge_slice=true&sub_m3u8=true&user_session_id=53b5effaf3c363cfd59e0b0b4dbab472"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "hteam": "Rennes",
 "time": " live ",
@@ -154,18 +76,18 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/newcastle.png",
 "hteam": "Fiorentina",
-"time": " 9:00 PM ",
-"date": "2023-08-05",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "ateam": "Newcastle United",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1691247906-0-0-b3e0d87f01de5d2e95abb941cba0f5bc&user_session_id=89b5460b0d43c959310f9cd8640a41cc&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1691247906-0-0-b3e0d87f01de5d2e95abb941cba0f5bc&user_session_id=89b5460b0d43c959310f9cd8640a41cc&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
