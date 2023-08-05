@@ -9,6 +9,14 @@
 "ateam": "Japan women",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1691220486-0-0-d0c8fda2c8597e3ac5157b2d952b23f4&edge_slice=true&sub_m3u8=true&user_session_id=f1673e4f044c2038d25f8d5bc770bd1f"
 },
