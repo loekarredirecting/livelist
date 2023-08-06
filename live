@@ -88,19 +88,19 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1691291466-0-0-6b8823d3fd4dbef5802774a4371b1038&sub_m3u8=true&edge_slice=true&user_session_id=f301fa4cef73868617928b2211f61580"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1691291466-0-0-6b8823d3fd4dbef5802774a4371b1038&sub_m3u8=true&edge_slice=true&user_session_id=f301fa4cef73868617928b2211f61580"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?auth_key=1691291969-0-0-57a59dbaf9424709fd6835dc98cf3d5d&user_session_id=27c20dd26c221a474b208e6337857975&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lsd.m3u8?auth_key=1691291969-0-0-57a59dbaf9424709fd6835dc98cf3d5d&user_session_id=27c20dd26c221a474b208e6337857975&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -166,11 +166,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991162_lhd.m3u8?auth_key=1691292029-0-0-a1d7202551b777643d1d351795a12add&edge_slice=true&user_session_id=0aedb027049901a61a482fd7e3710b08&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991162_lsd.m3u8?auth_key=1691292029-0-0-a1d7202551b777643d1d351795a12add&edge_slice=true&user_session_id=0aedb027049901a61a482fd7e3710b08&sub_m3u8=true"
 }
 ]
 },
@@ -236,19 +236,19 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&user_session_id=14ccb6a63e1a334eb885f702b95d9c71&auth_key=1691291466-0-0-6b8823d3fd4dbef5802774a4371b1038&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&user_session_id=14ccb6a63e1a334eb885f702b95d9c71&auth_key=1691291466-0-0-6b8823d3fd4dbef5802774a4371b1038&edge_slice=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991193_lhd.m3u8?auth_key=1691292089-0-0-b450dca24807eaf0022ac9580d3b8167&user_session_id=91860b4fa4e27c63919291ccb5b5e874&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991193_lsd.m3u8?auth_key=1691292089-0-0-b450dca24807eaf0022ac9580d3b8167&user_session_id=91860b4fa4e27c63919291ccb5b5e874&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -287,11 +287,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991171_lhd.m3u8?sub_m3u8=true&auth_key=1691292149-0-0-0fa94cf85410650c04da36098d31f59c&edge_slice=true&user_session_id=11be11d908807dcd1bf7618cda3da9fb"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991171_lsd.m3u8?sub_m3u8=true&auth_key=1691292149-0-0-0fa94cf85410650c04da36098d31f59c&edge_slice=true&user_session_id=11be11d908807dcd1bf7618cda3da9fb"
 }
 ]
 },
@@ -349,19 +349,19 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1691291826-0-0-7d745b0cd8142307ea99081d07a467f6&user_session_id=e89e4c4d78ddf6fd40a53b7ecd51a90b&edge_slice=true&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1691291826-0-0-7d745b0cd8142307ea99081d07a467f6&user_session_id=e89e4c4d78ddf6fd40a53b7ecd51a90b&edge_slice=true&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991173_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2d47ea2763b19f177a248549644cba2f&auth_key=1691292269-0-0-d118c9f2ff198f1300459a78b57a83f6"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991173_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=2d47ea2763b19f177a248549644cba2f&auth_key=1691292269-0-0-d118c9f2ff198f1300459a78b57a83f6"
 }
 ]
 },
@@ -408,6 +408,286 @@
 "date": "2023-08-06",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
 "ateam": "Napoli",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Toulouse.png",
+"hteam": "AS Roma",
+"time": " 12:00 AM ",
+"date": "2023-08-07",
+"aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
+"ateam": "Toulouse",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Leagues Cup ",
+"himg": "https://mygoaltv.xyz//team/Dallas.gif",
+"hteam": "Inter Miami",
+"time": " 8:00 AM ",
+"date": "2023-08-07",
+"aimg": "https://mygoaltv.xyz//team/inter_miami.png",
+"ateam": "Dallas",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Anh.png",
+"hteam": "Nigeria Women",
+"time": " 2:00 PM ",
+"date": "2023-08-07",
+"aimg": "https://mygoaltv.xyz//team/Nigeria.png",
+"ateam": "England women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Australia.png",
+"hteam": "Denmark women",
+"time": " 5:00 PM ",
+"date": "2023-08-07",
+"aimg": "https://mygoaltv.xyz//team/Denmark.png",
+"ateam": "Australia women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/liverpool.png",
+"hteam": "Darmstadt 98",
+"time": " 12:30 AM ",
+"date": "2023-08-08",
+"aimg": "https://mygoaltv.xyz//team/Darmstadt-98.png",
+"ateam": "Liverpool",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Colombia.png",
+"hteam": "Jamaica women",
+"time": " 2:30 PM ",
+"date": "2023-08-08",
+"aimg": "https://mygoaltv.xyz//team/Jamaica.png",
+"ateam": "Colombia women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/France-women.png",
+"hteam": "Morocco Women",
+"time": " 5:30 PM ",
+"date": "2023-08-08",
+"aimg": "https://mygoaltv.xyz//team/Morocco.png",
+"ateam": "France women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Barcelona.png",
+"hteam": "Tottenham",
+"time": " 12:30 AM ",
+"date": "2023-08-09",
+"aimg": "https://mygoaltv.xyz//team/tottenham.png",
+"ateam": "Barcelona",
 "link": [
 {
 "type": "Vietnam HD",
