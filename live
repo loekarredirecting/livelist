@@ -1,45 +1,10 @@
 [
 {
-"league": " Women World Cup Round of 16 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",
-"hteam": "USA",
-"time": " live ",
-"date": "3:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",
-"ateam": "Sweden",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1691291466-0-0-6b8823d3fd4dbef5802774a4371b1038&sub_m3u8=true&edge_slice=true&user_session_id=f301fa4cef73868617928b2211f61580"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1691291466-0-0-6b8823d3fd4dbef5802774a4371b1038&sub_m3u8=true&edge_slice=true&user_session_id=f301fa4cef73868617928b2211f61580"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lhd.m3u8?auth_key=1691291969-0-0-57a59dbaf9424709fd6835dc98cf3d5d&user_session_id=27c20dd26c221a474b208e6337857975&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991194_lsd.m3u8?auth_key=1691291969-0-0-57a59dbaf9424709fd6835dc98cf3d5d&user_session_id=27c20dd26c221a474b208e6337857975&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "hteam": "Shakhtar Donetsk",
-"time": " 7:30 PM ",
-"date": "2023-08-06",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
 "ateam": "Tottenham",
 "link": [
