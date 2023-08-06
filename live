@@ -1,40 +1,5 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"hteam": "Shakhtar Donetsk",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
-"ateam": "Tottenham",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1691317266-0-0-a4aac03e0ff36c158682cf55d6e7802b&user_session_id=93f800501fee8d9ebc0c33a94575ec50&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1691317266-0-0-a4aac03e0ff36c158682cf55d6e7802b&user_session_id=93f800501fee8d9ebc0c33a94575ec50&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991162_lhd.m3u8?auth_key=1691292029-0-0-a1d7202551b777643d1d351795a12add&edge_slice=true&user_session_id=0aedb027049901a61a482fd7e3710b08&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991162_lsd.m3u8?auth_key=1691292029-0-0-a1d7202551b777643d1d351795a12add&edge_slice=true&user_session_id=0aedb027049901a61a482fd7e3710b08&sub_m3u8=true"
-}
-]
-},
-{
 "league": " FA Community Shield ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Arsenal",
