@@ -1,64 +1,10 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/newcastle.png",
-"hteam": "Fiorentina",
-"time": " live ",
-"date": "9:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
-"ateam": "Newcastle United",
-"link": [
-{
-"type": "Vietnam  HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1691247906-0-0-b3e0d87f01de5d2e95abb941cba0f5bc&user_session_id=89b5460b0d43c959310f9cd8640a41cc&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1691247906-0-0-b3e0d87f01de5d2e95abb941cba0f5bc&user_session_id=89b5460b0d43c959310f9cd8640a41cc&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-"hteam": "Lyon",
-"time": " live ",
-"date": "11:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-"ateam": "Crystal Palace",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv4/chunks.m3u8?nimblesessionid=3632084&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMjo1MzozNiBQTSZoYXNoX3ZhbHVlPXowRUNNeXFHc0xXZWlUVHFveWRnZXc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD0xNDE4Nzc="
-},
-{
-"type":  "English SD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv4/chunks.m3u8?nimblesessionid=3632084&wmsAuthSign=c2VydmVyX3RpbWU9OC81LzIwMjMgMjo1MzozNiBQTSZoYXNoX3ZhbHVlPXowRUNNeXFHc0xXZWlUVHFveWRnZXc9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD0xNDE4Nzc="
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991165_lhd.m3u8?txSecret=e7792f494aa826e1e16ecb1a7f053789&txTime=64ceb5d9"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991165_lsd.m3u8?txSecret=e7792f494aa826e1e16ecb1a7f053789&txTime=64ceb5d9"
-}
-]
-},
-{
 "league": " Women World Cup Round of 16 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
 "hteam": "South Africa",
-"time": " 8:30 AM ",
-"date": "2023-08-06",
+"time": " live ",
+"date": "8:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/316118_small.png",
 "ateam": "Netherlands",
 "link": [
@@ -72,11 +18,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lhd.m3u8?auth_key=1691289246-0-0-f29dd961a448979a207f850316a9ffb2&sub_m3u8=true&edge_slice=true&user_session_id=e8ed402f0aab58071bb4203d41316b6e"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lsd.m3u8?auth_key=1691289246-0-0-f29dd961a448979a207f850316a9ffb2&sub_m3u8=true&edge_slice=true&user_session_id=e8ed402f0aab58071bb4203d41316b6e"
 },
 {
 "type": "Soco HD",
