@@ -36,41 +36,6 @@
 },
 {
 "league": " Friendly ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-"hteam": "Nice",
-"time": " 6:30 PM ",
-"date": "2023-08-06",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"ateam": "Fiorentina",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "hteam": "Shakhtar Donetsk",
 "time": " 7:30 PM ",
@@ -88,11 +53,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1691317266-0-0-a4aac03e0ff36c158682cf55d6e7802b&user_session_id=93f800501fee8d9ebc0c33a94575ec50&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1691317266-0-0-a4aac03e0ff36c158682cf55d6e7802b&user_session_id=93f800501fee8d9ebc0c33a94575ec50&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
