@@ -1,90 +1,20 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
-"hteam": "Sevilla",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
-"ateam": "Atletico Madrid",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?auth_key=1691290986-0-0-1a9a2e35e54b08a37339181e08c8d66e&sub_m3u8=true&user_session_id=e9336461154eb513681125f123977d5c&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?auth_key=1691290986-0-0-1a9a2e35e54b08a37339181e08c8d66e&sub_m3u8=true&user_session_id=e9336461154eb513681125f123977d5c&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991173_lhd.m3u8?edge_slice=true&auth_key=1691289269-0-0-3483f0eb14c4f24a5da8f76cd126e60e&sub_m3u8=true&user_session_id=a6355e3cb95a2fa90ecb8a7df627f75e"
-},
-{
-"type": "Soco SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991173_lsd.m3u8?edge_slice=true&auth_key=1691289269-0-0-3483f0eb14c4f24a5da8f76cd126e60e&sub_m3u8=true&user_session_id=a6355e3cb95a2fa90ecb8a7df627f75e"
-}
-]
-},
-{
-"league": " Women World Cup Round of 16 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
-"hteam": "South Africa",
-"time": " live ",
-"date": "8:30 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/316118_small.png",
-"ateam": "Netherlands",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lhd.m3u8?auth_key=1691289246-0-0-f29dd961a448979a207f850316a9ffb2&sub_m3u8=true&edge_slice=true&user_session_id=e8ed402f0aab58071bb4203d41316b6e"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lsd.m3u8?auth_key=1691289246-0-0-f29dd961a448979a207f850316a9ffb2&sub_m3u8=true&edge_slice=true&user_session_id=e8ed402f0aab58071bb4203d41316b6e"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lhd.m3u8?user_session_id=37e652e69b7f3d60cdaa5608ed5d27b8&auth_key=1691289629-0-0-2527f176a04863245a893124150d0120&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lsd.m3u8?user_session_id=37e652e69b7f3d60cdaa5608ed5d27b8&auth_key=1691289629-0-0-2527f176a04863245a893124150d0120&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Women World Cup Round of 16 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5814_small.png",
 "hteam": "USA",
-"time": " 3:30 PM ",
-"date": "2023-08-06",
+"time": " live ",
+"date": "3:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5909_small.png",
 "ateam": "Sweden",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
