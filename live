@@ -1,5 +1,40 @@
 [
 {
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
+"hteam": "Sevilla",
+"time": " live ",
+"date": "8:30 PM",
+"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
+"ateam": "Atletico Madrid",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
+},
+{
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?auth_key=1691290986-0-0-1a9a2e35e54b08a37339181e08c8d66e&sub_m3u8=true&user_session_id=e9336461154eb513681125f123977d5c&edge_slice=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?auth_key=1691290986-0-0-1a9a2e35e54b08a37339181e08c8d66e&sub_m3u8=true&user_session_id=e9336461154eb513681125f123977d5c&edge_slice=true"
+},
+{
+"type": "Soco HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991173_lhd.m3u8?edge_slice=true&auth_key=1691289269-0-0-3483f0eb14c4f24a5da8f76cd126e60e&sub_m3u8=true&user_session_id=a6355e3cb95a2fa90ecb8a7df627f75e"
+},
+{
+"type": "Soco SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull06.scstream.net/live/stream-991173_lsd.m3u8?edge_slice=true&auth_key=1691289269-0-0-3483f0eb14c4f24a5da8f76cd126e60e&sub_m3u8=true&user_session_id=a6355e3cb95a2fa90ecb8a7df627f75e"
+}
+]
+},
+{
 "league": " Women World Cup Round of 16 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/159980_small.png",
 "hteam": "South Africa",
