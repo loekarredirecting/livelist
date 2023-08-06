@@ -296,6 +296,41 @@
 ]
 },
 {
+"league": " Arab Club Champions Cup ",
+"himg": "https://mygoaltv.xyz//team/Raja-Casablanca.gif",
+"hteam": "Al-Nassr",
+"time": " 9:30 PM ",
+"date": "2023-08-06",
+"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
+"ateam": "Raja Casablanca",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/dortmund.png",
 "hteam": "Ajax",
