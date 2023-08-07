@@ -1,40 +1,5 @@
 [
 {
-"league": " Leagues Cup ",
-"himg": "https://mygoaltv.xyz//team/Dallas.gif",
-"hteam": "Inter Miami",
-"time": " live ",
-"date": "8:00 AM",
-"aimg": "https://mygoaltv.xyz//team/inter_miami.png",
-"ateam": "Dallas",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1691375226-0-0-7f4f7164ec5cbd8471de4db90d1a9433&edge_slice=true&sub_m3u8=true&user_session_id=0b5ccf6783ab1791e1cdf19f75fcddac"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1691375226-0-0-7f4f7164ec5cbd8471de4db90d1a9433&edge_slice=true&sub_m3u8=true&user_session_id=0b5ccf6783ab1791e1cdf19f75fcddac"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lhd.m3u8?edge_slice=true&user_session_id=dea5f1145bb0b9a84caad15dc4ce9534&sub_m3u8=true&auth_key=1691375369-0-0-1937d24ef637fca6119a9cfda1b856e7"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911950_lsd.m3u8?edge_slice=true&user_session_id=dea5f1145bb0b9a84caad15dc4ce9534&sub_m3u8=true&auth_key=1691375369-0-0-1937d24ef637fca6119a9cfda1b856e7"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Anh.png",
 "hteam": "Nigeria Women",
