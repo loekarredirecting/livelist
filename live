@@ -1,83 +1,5 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
-"hteam": "Monaco",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://mygoaltv.xyz//team/monaco.png",
-"ateam": "Bayern Munich",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1691317266-0-0-a4aac03e0ff36c158682cf55d6e7802b&user_session_id=93f800501fee8d9ebc0c33a94575ec50&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1691317266-0-0-a4aac03e0ff36c158682cf55d6e7802b&user_session_id=93f800501fee8d9ebc0c33a94575ec50&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?user_session_id=ab63f650813366cf89bccf3cc4329aa8&edge_slice=true&auth_key=1691422349-0-0-0e6fdddb55567e023f24e21818c75363&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lsd.m3u8?user_session_id=ab63f650813366cf89bccf3cc4329aa8&edge_slice=true&auth_key=1691422349-0-0-0e6fdddb55567e023f24e21818c75363&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/liverpool.png",
-"hteam": "Darmstadt 98",
-"time": " live ",
-"date": "12:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Darmstadt-98.png",
-"ateam": "Liverpool",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?sub_m3u8=true&auth_key=1691430367-0-0-9421606344cd6ebe823137886707e613&edge_slice=true&user_session_id=9a8b58fbc6600055c996b61b450e1f94"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?sub_m3u8=true&auth_key=1691430367-0-0-9421606344cd6ebe823137886707e613&edge_slice=true&user_session_id=9a8b58fbc6600055c996b61b450e1f94"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991188_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b5a26b67228e5dde2d44376f9c6d8716&auth_key=1691430509-0-0-63a8947aff76039bc56f4bb11264cce1"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991188_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b5a26b67228e5dde2d44376f9c6d8716&auth_key=1691430509-0-0-63a8947aff76039bc56f4bb11264cce1"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Colombia.png",
 "hteam": "Jamaica women",
@@ -155,6 +77,146 @@
 "date": "2023-08-09",
 "aimg": "https://mygoaltv.xyz//team/tottenham.png",
 "ateam": "Barcelona",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+"hteam": "Milan",
+"time": " 1:30 AM ",
+"date": "2023-08-09",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"ateam": "Monza",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101655_small.png",
+"hteam": "Al Nassr FC",
+"time": " 9:30 PM ",
+"date": "2023-08-09",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+"ateam": "Al Shorta",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"hteam": "Trento",
+"time": " 10:30 PM ",
+"date": "2023-08-09",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6097_small.png",
+"ateam": "Milan",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/salzburg.png",
+"hteam": "Inter Milan",
+"time": " 11:30 PM ",
+"date": "2023-08-09",
+"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
+"ateam": "Red Bull Salzburg",
 "link": [
 {
 "type": "Vietnam HD",
