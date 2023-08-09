@@ -3,34 +3,18 @@
 "league": " Arab Club Champions Cup Semi Final ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101655_small.png",
 "hteam": "Al Nassr FC",
-"time": " 9:30 PM ",
-"date": "2023-08-09",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "ateam": "Al Shorta",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=f45e556dcc902b87367c7fbf6e6127fd&txTime=64d3f90a"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=f45e556dcc902b87367c7fbf6e6127fd&txTime=64d3f90a"
 }
 ]
 },
