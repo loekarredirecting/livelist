@@ -9,20 +9,20 @@
 "ateam": "Al Shorta",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://vklive6-1.vkuser.net/hls/5181459532395.m3u8/sig/VsYDgtDHqaU/expires/1691676103690/srcIp/181.215.176.115/urls/45.136.21.56/clientType/36/srcAg/CHROME_ANDROID/mid/7535803647851/5181459532395_high/index.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://b7i4j3n3.stackpathcdn.com/kooracity/1691587380/src/live.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
 "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
 },
 {
 "type": "Soco HD",
