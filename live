@@ -38,34 +38,26 @@
 "league": " Friendly ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "hteam": "Trento",
-"time": " 10:30 PM ",
-"date": "2023-08-09",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6097_small.png",
 "ateam": "Milan",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }
 ]
 },
@@ -96,11 +88,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=ec663b927e46ecd26ecc57a5d62c50b6&txTime=64d40486"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=ec663b927e46ecd26ecc57a5d62c50b6&txTime=64d40486"
 }
 ]
 }
