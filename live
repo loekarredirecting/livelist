@@ -71,6 +71,14 @@
 "ateam": "Red Bull Salzburg",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv3/chunks.m3u8?nimblesessionid=3772812&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjMgMzo0MTo0MiBQTSZoYXNoX3ZhbHVlPTJJTnJOUjlRMGFVWmtESDBIOGJoZ1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD04MjE4OTg="
+},
+{
+"type": "English 2 HD",
+"livelink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "0"
 },
