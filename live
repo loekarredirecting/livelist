@@ -1,63 +1,20 @@
 [
 {
-"league": " Arab Club Champions Cup Semi Final ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101655_small.png",
-"hteam": "Al Nassr FC",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"ateam": "Al Shorta",
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Taybannha.png",
+"hteam": "Netherlands Women",
+"time": " 7:30 AM ",
+"date": "2023-08-11",
+"aimg": "https://mygoaltv.xyz//team/Halan.png",
+"ateam": "Spain women ",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "https://vklive6-1.vkuser.net/hls/5181459532395.m3u8/sig/VsYDgtDHqaU/expires/1691676103690/srcIp/181.215.176.115/urls/45.136.21.56/clientType/36/srcAg/CHROME_ANDROID/mid/7535803647851/5181459532395_high/index.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://b7i4j3n3.stackpathcdn.com/kooracity/1691587380/src/live.m3u8"
-},
-{
 "type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8"
+"livelink": "0"
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=f45e556dcc902b87367c7fbf6e6127fd&txTime=64d3f90a"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=f45e556dcc902b87367c7fbf6e6127fd&txTime=64d3f90a"
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/salzburg.png",
-"hteam": "Inter Milan",
-"time": " live ",
-"date": "11:30 PM",
-"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
-"ateam": "Red Bull Salzburg",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/sporttv3/chunks.m3u8?nimblesessionid=3772812&wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjMgMzo0MTo0MiBQTSZoYXNoX3ZhbHVlPTJJTnJOUjlRMGFVWmtESDBIOGJoZ1E9PSZ2YWxpZG1pbnV0ZXM9MSZzdHJtX2xlbj0yNiZpZD04MjE4OTg="
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+"livelink": "0"
 },
 {
 "type": "China HD",
@@ -69,11 +26,431 @@
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=ec663b927e46ecd26ecc57a5d62c50b6&txTime=64d40486"
+"livelink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=ec663b927e46ecd26ecc57a5d62c50b6&txTime=64d40486"
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Nhat.png",
+"hteam": "Sweden Women",
+"time": " 2:00 PM ",
+"date": "2023-08-11",
+"aimg": "https://mygoaltv.xyz//team/Sweden.png",
+"ateam": "Japan women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Almeria.png",
+"hteam": "Rayo Vallecano",
+"time": " 12:00 AM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
+"ateam": "Almeria",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Burnley.gif",
+"hteam": "Manchester City",
+"time": " 1;30 AM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/manchestercity.png",
+"ateam": "Burnley",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Nice.png",
+"hteam": "Lille",
+"time": " 1:30 AM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/lille.png",
+"ateam": "Nice",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Sevilla.png",
+"hteam": "Valencia",
+"time": " 2:30 AM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/Valencia.png",
+"ateam": "Sevilla",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Leagues Cup ",
+"himg": "https://mygoaltv.xyz//team/inter_miami.png",
+"hteam": "Charlotte",
+"time": " 7:00 AM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/no-logo.png",
+"ateam": "Inter Miami",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Australia.png",
+"hteam": "France women",
+"time": " 1:30 PM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/France-women.png",
+"ateam": "Australia women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Anh.png",
+"hteam": "Colombia women",
+"time": " 5:00 PM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/Colombia.png",
+"ateam": "England women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/arsenal.png",
+"hteam": "Nottingham Forest",
+"time": " 6:00 PM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
+"ateam": "Arsenal",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
+"hteam": "Crystal Palace",
+"time": " 8:30 PM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
+"ateam": "Sheffield United",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
+"hteam": "West Ham",
+"time": " 8:30 PM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/westham.png",
+"ateam": "Bournemouth",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/Brighton.gif",
+"hteam": "Luton Town",
+"time": " 8:30 PM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/luton-town-14.png",
+"ateam": "Brighton",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 }
