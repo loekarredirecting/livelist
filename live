@@ -1,32 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Almeria.png",
-"hteam": "Rayo Vallecano",
-"time": " live ",
-"date": "12:00 AM",
-"aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
-"ateam": "Almeria",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?auth_key=1691777107-0-0-7f3681fbaa4f72790f95fffd2790c21c&sub_m3u8=true&edge_slice=true&user_session_id=18ca92a070369e77128e456c0ee66ffc"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?auth_key=1691777107-0-0-7f3681fbaa4f72790f95fffd2790c21c&sub_m3u8=true&edge_slice=true&user_session_id=18ca92a070369e77128e456c0ee66ffc"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911945_lhd.m3u8?sub_m3u8=true&auth_key=1691777730-0-0-dbb9c7e22fd3213973b3b07a75c3d2eb&user_session_id=a45e4f9cec715ca21ae42b1575e73030&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911945_lsd.m3u8?sub_m3u8=true&auth_key=1691777730-0-0-dbb9c7e22fd3213973b3b07a75c3d2eb&user_session_id=a45e4f9cec715ca21ae42b1575e73030&edge_slice=true"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Burnley.gif",
 "hteam": "Manchester City",
@@ -108,8 +81,8 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Sevilla.png",
 "hteam": "Valencia",
-"time": " 2:30 AM ",
-"date": "2023-08-12",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Valencia.png",
 "ateam": "Sevilla",
 "link": [
@@ -135,18 +108,18 @@
 "league": " Leagues Cup ",
 "himg": "https://mygoaltv.xyz//team/inter_miami.png",
 "hteam": "Charlotte",
-"time": " 7:00 AM ",
-"date": "2023-08-12",
+"time": " live ",
+"date": "7:00 AM",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "Inter Miami",
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1691788027-0-0-ecee375d305efee67cad59418e0f7142&user_session_id=5a5e634f2f2fe91006b6b7bea0ae91cc&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1691788027-0-0-ecee375d305efee67cad59418e0f7142&user_session_id=5a5e634f2f2fe91006b6b7bea0ae91cc&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
