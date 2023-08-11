@@ -3,26 +3,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Rayo Vallecano",
-"time": " 12:00 AM ",
-"date": "2023-08-12",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "ateam": "Almeria",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?auth_key=1691777107-0-0-7f3681fbaa4f72790f95fffd2790c21c&sub_m3u8=true&edge_slice=true&user_session_id=18ca92a070369e77128e456c0ee66ffc"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?auth_key=1691777107-0-0-7f3681fbaa4f72790f95fffd2790c21c&sub_m3u8=true&edge_slice=true&user_session_id=18ca92a070369e77128e456c0ee66ffc"
 },
 {
 "type": "Soco HD",
@@ -38,7 +30,7 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Burnley.gif",
 "hteam": "Manchester City",
-"time": " 1;30 AM ",
+"time": " 1:30 AM ",
 "date": "2023-08-12",
 "aimg": "https://mygoaltv.xyz//team/manchestercity.png",
 "ateam": "Burnley",
