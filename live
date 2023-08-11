@@ -1,37 +1,10 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Taybannha.png",
-"hteam": "Netherlands Women",
-"time": " live ",
-"date": "7:30 AM",
-"aimg": "https://mygoaltv.xyz//team/Halan.png",
-"ateam": "Spain women ",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?auth_key=1691719687-0-0-73e0bbf2aa4e29f6f7570f29f8f8332c&user_session_id=cf3be73d1c1be07f07bed1432cc8c9e7&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?auth_key=1691719687-0-0-73e0bbf2aa4e29f6f7570f29f8f8332c&user_session_id=cf3be73d1c1be07f07bed1432cc8c9e7&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Nhat.png",
 "hteam": "Sweden Women",
-"time": " 2:00 PM ",
-"date": "2023-08-11",
+"time": " live ",
+"date": "2:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Sweden.png",
 "ateam": "Japan women",
 "link": [
