@@ -39,7 +39,7 @@
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Nottingham Forest",
 "time": " live ",
-"date": "6:00 PM",
+"date": "6:30 PM",
 "aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "ateam": "Arsenal",
 "link": [
@@ -52,8 +52,16 @@
 "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/diemasport2/chunks.m3u8?nimblesessionid=3858746&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDExOjUzOjM2IEFNJmhhc2hfdmFsdWU9b0JvUzBBaDMxRjdocDBaNEpGWXdPQT09JnZhbGlkbWludXRlcz0xJnN0cm1fbGVuPTI5JmlkPTc2NzEyNg=="
+},
+{
 "type": "Vietnam HD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
