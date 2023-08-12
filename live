@@ -1,45 +1,10 @@
 [
 {
 "league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Australia.png",
-"hteam": "France women",
-"time": " live ",
-"date": "1:30 PM",
-"aimg": "https://mygoaltv.xyz//team/France-women.png",
-"ateam": "Australia women",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/soiFHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/soiSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?edge_slice=true&auth_key=1691823607-0-0-682a84c614f7a67b1e7f89a68a09fb50&sub_m3u8=true&user_session_id=153ec56866db954e27762385b1a94bb4"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?edge_slice=true&auth_key=1691823607-0-0-682a84c614f7a67b1e7f89a68a09fb50&sub_m3u8=true&user_session_id=153ec56866db954e27762385b1a94bb4"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911979_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1691825070-0-0-920f8b3804d258154df75085335bf073&user_session_id=751087d42c87037118e809d8fb67db70"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911979_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1691825070-0-0-920f8b3804d258154df75085335bf073&user_session_id=751087d42c87037118e809d8fb67db70"
-}
-]
-},
-{
-"league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Anh.png",
 "hteam": "Colombia women",
-"time": " 5:00 PM ",
-"date": "2023-08-12",
+"time": " live ",
+"date": "5:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Colombia.png",
 "ateam": "England women",
 "link": [
