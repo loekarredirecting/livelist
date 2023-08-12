@@ -256,11 +256,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698313_lhd.m3u8?edge_slice=true&auth_key=1691855467-0-0-6e6ddfaf4f2462f042b625bfa50b1535&sub_m3u8=true&user_session_id=f270b048a41ba71b4e7e164ef8cdcab0"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698313_lsd.m3u8?edge_slice=true&auth_key=1691855467-0-0-6e6ddfaf4f2462f042b625bfa50b1535&sub_m3u8=true&user_session_id=f270b048a41ba71b4e7e164ef8cdcab0"
 },
 {
 "type": "Soco HD",
@@ -317,20 +317,12 @@
 "ateam": "Las Palmas",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lhd.m3u8?edge_slice=true&auth_key=1691855527-0-0-9de0e587329963448aa4f5fbeb015b25&sub_m3u8=true&user_session_id=a2b996d0f50bf5878063a7e76998214f"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lsd.m3u8?edge_slice=true&auth_key=1691855527-0-0-9de0e587329963448aa4f5fbeb015b25&sub_m3u8=true&user_session_id=a2b996d0f50bf5878063a7e76998214f"
 },
 {
 "type": "Soco HD",
@@ -344,25 +336,6 @@
 },
 {
 "league": " Friendly  ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10028_small.png",
-"hteam": "Roma",
-"time": " 12:30 AM ",
-"date": "2023-08-13",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"ateam": "Partizani",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " Friendly  ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Atalanta",
 "time": " 1:00 AM ",
@@ -371,20 +344,12 @@
 "ateam": "Juventus",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-342075_lhd.m3u8?edge_slice=true&user_session_id=4e2aff331372fd0a3f1c5bc83b72a535&auth_key=1691855970-0-0-e8ba6622f05393e3eeff75c70875d25b&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-342075_lsd.m3u8?edge_slice=true&user_session_id=4e2aff331372fd0a3f1c5bc83b72a535&auth_key=1691855970-0-0-e8ba6622f05393e3eeff75c70875d25b&sub_m3u8=true"
 }
 ]
 },
@@ -397,14 +362,6 @@
 "aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "ateam": "Bayern Munich",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?user_session_id=9cf5eb95e4f0d1248ccbe1c4173d4c0f&sub_m3u8=true&edge_slice=true&auth_key=1691832847-0-0-3e0e3933bb32d0a27c0f8f91ce973c96"
@@ -433,20 +390,12 @@
 "ateam": "Paris Saint-Germain",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?auth_key=1691855707-0-0-038813fed47b415c268f0ec3976e0e36&edge_slice=true&sub_m3u8=true&user_session_id=30dc07a81e9c77517faccda2db049d43"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?auth_key=1691855707-0-0-038813fed47b415c268f0ec3976e0e36&edge_slice=true&sub_m3u8=true&user_session_id=30dc07a81e9c77517faccda2db049d43"
 },
 {
 "type": "Soco HD",
@@ -468,20 +417,12 @@
 "ateam": "Athletic-club",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?edge_slice=true&user_session_id=616c9be2ec9db24615c8669a562d32bd&sub_m3u8=true&auth_key=1691855767-0-0-fd5a5098158672527bfc180268a11b95"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?edge_slice=true&user_session_id=616c9be2ec9db24615c8669a562d32bd&sub_m3u8=true&auth_key=1691855767-0-0-fd5a5098158672527bfc180268a11b95"
 },
 {
 "type": "Soco HD",
