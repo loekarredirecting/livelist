@@ -1,137 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Burnley.gif",
-"hteam": "Manchester City",
-"time": " live ",
-"date": "1:30 AM",
-"aimg": "https://mygoaltv.xyz//team/manchestercity.png",
-"ateam": "Burnley",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://storage.googleapis.com/unixertind/mux_video_ts/index-1.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/uKvGmBVrM_d_1H4Pq6hm4zxd4-qZMeoN9qNivO9efV-v4c5sYk0miNTBvs3JtB7fhq4MQ5QlSDtFnsCUdM3Gsw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?auth_key=1691777227-0-0-3ae7535b609327a20fc0a75edc1276f5&user_session_id=8de3a8e5e85f482d0b59a8f4d7de8247&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?auth_key=1691777227-0-0-3ae7535b609327a20fc0a75edc1276f5&user_session_id=8de3a8e5e85f482d0b59a8f4d7de8247&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lhd.m3u8?edge_slice=true&user_session_id=2295a156ae3605abd86a8b460805296e&auth_key=1691777850-0-0-a8cce2b54c528c218abc2d20428638b4&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lsd.m3u8?edge_slice=true&user_session_id=2295a156ae3605abd86a8b460805296e&auth_key=1691777850-0-0-a8cce2b54c528c218abc2d20428638b4&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Nice.png",
-"hteam": "Lille",
-"time": " live ",
-"date": "1:30 AM",
-"aimg": "https://mygoaltv.xyz//team/lille.png",
-"ateam": "Nice",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-637513_lhd.m3u8?user_session_id=b91d5ba9df0a335c41e0b607235fb833&sub_m3u8=true&auth_key=1691777347-0-0-a12bb7cbba7339ac789920dcae0ed35d&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-637513_lsd.m3u8?user_session_id=b91d5ba9df0a335c41e0b607235fb833&sub_m3u8=true&auth_key=1691777347-0-0-a12bb7cbba7339ac789920dcae0ed35d&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1691777970-0-0-b527b3a0f62e0e84291f004752b85265&user_session_id=bfc57311cf25feb1656528f6ec818584&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-494201_lsd.m3u8?auth_key=1691777970-0-0-b527b3a0f62e0e84291f004752b85265&user_session_id=bfc57311cf25feb1656528f6ec818584&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Sevilla.png",
-"hteam": "Valencia",
-"time": " live ",
-"date": "2:30 AM",
-"aimg": "https://mygoaltv.xyz//team/Valencia.png",
-"ateam": "Sevilla",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&auth_key=1691777467-0-0-44a4bacd52660da6505b2ba5e9b7fd70&sub_m3u8=true&user_session_id=f8d3facec2159b3a79084d4e4f3b5f02"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&auth_key=1691777467-0-0-44a4bacd52660da6505b2ba5e9b7fd70&sub_m3u8=true&user_session_id=f8d3facec2159b3a79084d4e4f3b5f02"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991186_lhd.m3u8?sub_m3u8=true&auth_key=1691778030-0-0-ebcdbbf47e33f154ae18089ec914c3aa&user_session_id=4dfe7ceff9bf235d54f6fdd98c82f713&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991186_lsd.m3u8?sub_m3u8=true&auth_key=1691778030-0-0-ebcdbbf47e33f154ae18089ec914c3aa&user_session_id=4dfe7ceff9bf235d54f6fdd98c82f713&edge_slice=true"
-}
-]
-},
-{
-"league": " Leagues Cup ",
-"himg": "https://mygoaltv.xyz//team/inter_miami.png",
-"hteam": "Charlotte",
-"time": " live ",
-"date": "7:00 AM",
-"aimg": "https://mygoaltv.xyz//team/no-logo.png",
-"ateam": "Inter Miami",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1691788027-0-0-ecee375d305efee67cad59418e0f7142&user_session_id=5a5e634f2f2fe91006b6b7bea0ae91cc&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1691788027-0-0-ecee375d305efee67cad59418e0f7142&user_session_id=5a5e634f2f2fe91006b6b7bea0ae91cc&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=948a0b6ca92cc4cac669ead8210dfa10&txTime=64d6c2b6"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=948a0b6ca92cc4cac669ead8210dfa10&txTime=64d6c2b6"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Australia.png",
 "hteam": "France women",
@@ -447,6 +315,41 @@
 ]
 },
 {
+"league": " Arab Club Champions Cup ",
+"himg": "https://mygoaltv.xyz//team/Al-Hilal.gif",
+"hteam": "Al-Nassr",
+"time": " 9:30 PM ",
+"date": "2023-08-12",
+"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
+"ateam": "Al Hilal",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "hteam": "Aston-villa",
@@ -454,6 +357,216 @@
 "date": "2023-08-12",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "ateam": "Newcastle",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Las-Palmas.png",
+"hteam": "Mallorca",
+"time": " 12:00 AM ",
+"date": "2023-08-13",
+"aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
+"ateam": "Las Palmas",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly  ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10028_small.png",
+"hteam": "Roma",
+"time": " 12:30 AM ",
+"date": "2023-08-13",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+"ateam": "Partizani",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Friendly  ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"hteam": "Atalanta",
+"time": " 1:00 AM ",
+"date": "2023-08-13",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+"ateam": "Juventus",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Super Cup Final ",
+"himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
+"hteam": "RB Leipzig",
+"time": " 1:15 AM ",
+"date": "2023-08-13",
+"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
+"ateam": "Bayern Munich",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/psg.png",
+"hteam": "Lorient",
+"time": " 1:30 AM ",
+"date": "2023-08-13",
+"aimg": "https://mygoaltv.xyz//team/Lorient.png",
+"ateam": "Paris Saint-Germain",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+"hteam": "Real-madrid",
+"time": " 2:00 AM ",
+"date": "2023-08-13",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"ateam": "Athletic-club",
 "link": [
 {
 "type": "Vietnam HD",
