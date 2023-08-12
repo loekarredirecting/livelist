@@ -176,21 +176,48 @@
 ]
 },
 {
+"league": " Arab Club Champions Cup ",
+"himg": "https://mygoaltv.xyz//team/Al-Hilal.gif",
+"hteam": "Al-Nassr",
+"time": " live ",
+"date": "9:30 PM",
+"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
+"ateam": "Al Hilal",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
+},
+{
+"type": "Soco HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911971_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=94395036577091ebda4c37a4b923c754&auth_key=1691831790-0-0-596080bfdd79091f7da07e557fbb0913"
+},
+{
+"type": "Soco SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911971_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=94395036577091ebda4c37a4b923c754&auth_key=1691831790-0-0-596080bfdd79091f7da07e557fbb0913"
+}
+]
+},
+{
 "league": " La Liga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "hteam": "Girona",
-"time": " 9:30 PM ",
-"date": "2023-08-12",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Real Sociedad",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
 },
 {
 "type": "China HD",
@@ -214,18 +241,18 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "hteam": "Reims",
-"time": " 9:30 PM ",
-"date": "2023-08-12",
+"time": " live",
+"date": "9:30 PM ",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 "ateam": "Marseille",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "China HD",
@@ -242,33 +269,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911969_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1691831730-0-0-505ced4d4459aa879943f69e9ae16d86&user_session_id=ab296d0b4983f8809b953ebe65502b29"
-}
-]
-},
-{
-"league": " Arab Club Champions Cup ",
-"himg": "https://mygoaltv.xyz//team/Al-Hilal.gif",
-"hteam": "Al-Nassr",
-"time": " 9:30 PM ",
-"date": "2023-08-12",
-"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
-"ateam": "Al Hilal",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911971_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=94395036577091ebda4c37a4b923c754&auth_key=1691831790-0-0-596080bfdd79091f7da07e557fbb0913"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911971_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=94395036577091ebda4c37a4b923c754&auth_key=1691831790-0-0-596080bfdd79091f7da07e557fbb0913"
 }
 ]
 },
