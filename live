@@ -64,8 +64,12 @@
 "livelink": "https://179720687.global.cdnfastest.com/live/sd-vjxm8gh51o0xr6o/chunklist_w604358430.m3u8"
 },
 {
-"type": "Yalla  HD",
+"type": "Yalla  SD",
 "livelink": "https://d35m7w262mdbox.cloudfront.net/yalla/1_240.m3u8"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://givemereddit.cloud/hls/espn/chunks.m3u8"
 },
 {
 "type": "Vietnam HD",
