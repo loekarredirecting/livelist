@@ -1,181 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
-"hteam": "Crystal Palace",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
-"ateam": "Sheffield United",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems4/chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersportfootball/chunks.m3u8?nimblesessionid=3958630&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDI6Mzc6MTIgUE0maGFzaF92YWx1ZT1lc21sSmxaTmEyVlllcC9uNjFhY253PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzYmaWQ9NDc3MTkw"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1691824387-0-0-6e6ed962765c8c03f50800d13213faea&user_session_id=cfa2ce7bd1df8eec4f2f0af1b760c3f5"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1691824387-0-0-6e6ed962765c8c03f50800d13213faea&user_session_id=cfa2ce7bd1df8eec4f2f0af1b760c3f5"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=733bd9f746818dfbabe19e20d2d51894&txTime=64d7925e"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=733bd9f746818dfbabe19e20d2d51894&txTime=64d7925e"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
-"hteam": "West Ham",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://mygoaltv.xyz//team/westham.png",
-"ateam": "Bournemouth",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/orangesport2ro/chunks.m3u8?nimblesessionid=3958888&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDI6Mzg6MTcgUE0maGFzaF92YWx1ZT0yK1JBZGxrRFZvQTZsMG1jZ3YyNHVBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9OTQ0NTM5"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/soiSD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/soiSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&user_session_id=db9690e4e4840c959d9fb4607925625b&auth_key=1691824507-0-0-843ff44f21e14cf75868c49103e281bd&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?sub_m3u8=true&user_session_id=db9690e4e4840c959d9fb4607925625b&auth_key=1691824507-0-0-843ff44f21e14cf75868c49103e281bd&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lhd.m3u8?auth_key=1691831430-0-0-444e602982a7467b93a3766822cc123d&edge_slice=true&user_session_id=c1f2897fa7a8b39eb6ed7aab4ae278ec&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911961_lsd.m3u8?auth_key=1691831430-0-0-444e602982a7467b93a3766822cc123d&edge_slice=true&user_session_id=c1f2897fa7a8b39eb6ed7aab4ae278ec&sub_m3u8=true"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Brighton.gif",
-"hteam": "Luton Town",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://mygoaltv.xyz//team/luton-town-14.png",
-"ateam": "Brighton",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://one.realbitsport.com/live/n-2/chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems2/chunks.m3u8"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?edge_slice=true&user_session_id=a3cfb2917280898cd65d0a45c2565488&auth_key=1691824207-0-0-b5475ab378cc5057183724ed6944c73f&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?edge_slice=true&user_session_id=a3cfb2917280898cd65d0a45c2565488&auth_key=1691824207-0-0-b5475ab378cc5057183724ed6944c73f&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=9a900d38e4261555ed07913ef0923b8c&txTime=64d7934e"
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=9a900d38e4261555ed07913ef0923b8c&txTime=64d7934e"
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-"hteam": "Fulham",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-"ateam": "Everton",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems3/chunks.m3u8"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia1/trueepl4_480p/chunks.m3u8?nimblesessionid=3959093&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDI6Mzk6MDggUE0maGFzaF92YWx1ZT1WejN5ZXh3Y3JqRjdOeE00ZENtbFdnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9ODk4MzAw"
-},
-{
-"type": "English HD",
-"livelink": "https://us.catchystream.xyz/playlist/stream_3.m3u8"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?auth_key=1691824687-0-0-0b413404c177abb6bfabbe9c0fbe53b8&user_session_id=3b0af5b8e561a16d02aa5bdbca958c2a&sub_m3u8=true&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lsd.m3u8?auth_key=1691824687-0-0-0b413404c177abb6bfabbe9c0fbe53b8&user_session_id=3b0af5b8e561a16d02aa5bdbca958c2a&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lhd.m3u8?auth_key=1691831610-0-0-faed3cd909f91ea0ad4d0b1758758972&user_session_id=4830d128efdf63d8b3de54a918dc4cc6&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lsd.m3u8?auth_key=1691831610-0-0-faed3cd909f91ea0ad4d0b1758758972&user_session_id=4830d128efdf63d8b3de54a918dc4cc6&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
 "league": " Arab Club Champions Cup ",
 "himg": "https://mygoaltv.xyz//team/Al-Hilal.gif",
 "hteam": "Al-Nassr",
@@ -281,6 +105,15 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "ateam": "Newcastle",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8
+"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/diemasport2/chunks.m3u8?nimblesessionid=3980016&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDQ6Mjg6MjYgUE0maGFzaF92YWx1ZT16MHUvd3pYRWY0V1VwVnk0T0g3andRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjkmaWQ9MzM4NDY1"
+},
 {
 "type": "Vietnam  HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
