@@ -282,6 +282,14 @@
 "ateam": "Newcastle",
 "link": [
 {
+"type": "Vietnam  HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1691832667-0-0-130fae6285822eb700aca9e179b289ca&user_session_id=b8a660bee1e330cfe77265939e97cb1c&sub_m3u8=true&edge_slice=true"
 },
