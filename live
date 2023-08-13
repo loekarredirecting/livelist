@@ -71,6 +71,14 @@
 "ateam": "Chelsea",
 "link": [
 {
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?auth_key=1691931247-0-0-8bd6c292d12b5131697f4903c726555c&edge_slice=true&sub_m3u8=true&user_session_id=ea463d374457167b50ab959ce59954e9"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?auth_key=1691931247-0-0-8bd6c292d12b5131697f4903c726555c&edge_slice=true&sub_m3u8=true&user_session_id=ea463d374457167b50ab959ce59954e9"
+},
+{
 "type": "English 1 HD",
 "livelink": "https://storage.googleapis.com/rlnetworks1/mux_video_ts/index-1.m3u8"
 },
@@ -87,20 +95,20 @@
 "livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
 },
 {
+"type": "English 5 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/orangesport1ro/chunks.m3u8?nimblesessionid=4113709&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDM6NDI6MTEgUE0maGFzaF92YWx1ZT1heHFFSGx2ZmNFUzZJMktEdlFXbHNnPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9Mzg2NTUy"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/supersport2al/chunks.m3u8?nimblesessionid=4117240&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDM6NTE6MjAgUE0maGFzaF92YWx1ZT0wZkNDZndGaXpWZ2VKT21rbTlyTyt3PT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzEmaWQ9ODk1NTQx"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?auth_key=1691931247-0-0-8bd6c292d12b5131697f4903c726555c&edge_slice=true&sub_m3u8=true&user_session_id=ea463d374457167b50ab959ce59954e9"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?auth_key=1691931247-0-0-8bd6c292d12b5131697f4903c726555c&edge_slice=true&sub_m3u8=true&user_session_id=ea463d374457167b50ab959ce59954e9"
 },
 {
 "type": "Soco HD",
