@@ -60,6 +60,10 @@
 "livelink": "https://us.catchystream.xyz/playlist/stream_3.m3u8"
 },
 {
+"type": "Arabic SD",
+"livelink": "https://live-ak.vimeocdn.com/exp=1691934821~acl=%2Fff758bf7-ee0e-4d1f-a731-e4435f7de41a%2F%2A~hmac=01095fbec44ef9d108301a96476b021e3ebd6cb3d4e7f25c19353e13d45f40bb/ff758bf7-ee0e-4d1f-a731-e4435f7de41a/chunklist_b416000.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
