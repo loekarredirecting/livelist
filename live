@@ -218,11 +218,19 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/chelsea.png",
 "hteam": "Liverpool",
-"time": " 10:00 PM ",
-"date": "2023-08-13",
+"time": " live ",
+"date": "10:00 PM",
 "aimg": "https://mygoaltv.xyz//team/liverpool.png",
 "ateam": "Chelsea",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://storage.googleapis.com/rlnetworks1/mux_video_ts/index-1.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://storage.googleapis.com/zuubbknr/mux_video_ts/index-1.m3u8"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
