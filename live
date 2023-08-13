@@ -156,18 +156,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "hteam": "Osasuna",
-"time": " 9:30 PM ",
-"date": "2023-08-13",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/osasuna.png",
 "ateam": "Celta Vigo",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8"
 },
 {
 "type": "China HD",
@@ -191,19 +191,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/rennes.png",
 "hteam": "Metz",
-"time": " 9:35 PM ",
-"date": "2023-08-13",
+"time": " live ",
+"date": "9:35 PM",
 "aimg": "https://mygoaltv.xyz//team/Metz.gif",
 "ateam": "Rennes",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?auth_key=1691931847-0-0-85d1f1b8166a1f97bd60248da9d3c972&sub_m3u8=true&edge_slice=true&user_session_id=1ec99e043644873cb14fc3335063a502"
