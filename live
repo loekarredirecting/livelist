@@ -44,6 +44,14 @@
 "ateam": "Brentford",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://one.realbitsport.com/live/n-1/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
@@ -78,14 +86,6 @@
 "aimg": "https://mygoaltv.xyz//team/Toulouse.png",
 "ateam": "Nantes",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?auth_key=1691931667-0-0-7f4f545bce2fd24d24fdc9cf8b804797&edge_slice=true&sub_m3u8=true&user_session_id=5f60725ba6add18f09722f1487ca24d1"
@@ -148,14 +148,6 @@
 "aimg": "https://mygoaltv.xyz//team/Le-Havre.png",
 "ateam": "Montpellier",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-641487_lhd.m3u8?edge_slice=true&auth_key=1691931427-0-0-c6c4045af41ac324ddc23882a959222e&user_session_id=f34bd3ba49881e3f9e84661be5a46727&sub_m3u8=true"
