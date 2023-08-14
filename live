@@ -37,12 +37,11 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "https://one.realbitsport.com/live/n-2/chunks.m3u8"
+"livelink": "https://us.catchystream.xyz/playlist/stream_3.m3u8"
 },
 {
 "type": "English 2 HD",
-"livelink": "https://us.catchystream.xyz/playlist/stream_3.m3u8
-"
+"livelink": "https://us.catchystream.xyz/playlist/stream_3.m3u8"
 },
 {
 "type": "Vietnam HD",
@@ -86,6 +85,14 @@
 {
 "type": "English 2 HD",
 "livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/orangesport2ro/chunks.m3u8?nimblesessionid=4198538&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNC8yMDIzIDY6NTA6MzQgUE0maGFzaF92YWx1ZT1wbXRQT1NTbUd4Y1VxaytsUVNwQ1hRPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9NTUzMzAx"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://storage.googleapis.com/ygfjsadeqw/mux_video_ts/index-1.m3u8"
 },
 {
 "type": "Vietnam HD",
