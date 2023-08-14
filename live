@@ -3,19 +3,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "hteam": "Alaves",
-"time": " 12:00 AM ",
-"date": "2023-08-15",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Alaves.png",
 "ateam": "Cadiz",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?auth_key=1692016447-0-0-e292d4f0efa6d23ded5a39304795bc68&edge_slice=true&sub_m3u8=true&user_session_id=ae86e8b1ca05efb47acc41088a3e7322"
@@ -38,19 +30,11 @@
 "league": " Saudi Pro League ",
 "himg": "https://mygoaltv.xyz//team/no-logo.png",
 "hteam": "Al-Nassr",
-"time": " 12:30 AM ",
-"date": "2023-08-15",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/al-nassr.png",
 "ateam": "Al-Ettifaq",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=354ae233f953a798bd187eca1a48ba59&edge_slice=true&auth_key=1692016567-0-0-71083a84f020dc2b66262af8bac4979c&sub_m3u8=true"
