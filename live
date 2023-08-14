@@ -79,6 +79,14 @@
 "ateam": "Manchester United",
 "link": [
 {
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?auth_key=1692028087-0-0-6a06446a7f51837e01688c7338b72aa3&sub_m3u8=true&user_session_id=14108b94d8db9ed816c3d4b5bf9cf9eb&edge_slice=true"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lsd.m3u8?auth_key=1692028087-0-0-6a06446a7f51837e01688c7338b72aa3&sub_m3u8=true&user_session_id=14108b94d8db9ed816c3d4b5bf9cf9eb&edge_slice=true"
+},
+{
 "type": "Vietnam HD",
 "livelink": "0"
 },
@@ -87,20 +95,12 @@
 "livelink": "0"
 },
 {
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911980_lhd.m3u8?sub_m3u8=true&user_session_id=0acc269f1d5ab40d970059f5e6a86887&edge_slice=true&auth_key=1692027930-0-0-5c34cff79c4133c10779af6843868568"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911980_lsd.m3u8?sub_m3u8=true&user_session_id=0acc269f1d5ab40d970059f5e6a86887&edge_slice=true&auth_key=1692027930-0-0-5c34cff79c4133c10779af6843868568"
 }
 ]
 },
