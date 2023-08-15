@@ -1,79 +1,28 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Taybannha.png",
-"hteam": "Sweden Women",
-"time": " live ",
-"date": "2:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Sweden.png",
-"ateam": "Spain women ",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://cdn123.live-kora-online.com/live3/bein1/video.m3u8?nimblesessionid=3966"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://cdn123.live-kora-online.com/live3/bein1/video.m3u8?nimblesessionid=3966"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?edge_slice=true&user_session_id=408c1a4b37cf2ff7fa463d6ef9d26aa2&auth_key=1692090247-0-0-714181cff04205cac6321223e29d4d52&sub_m3u8=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?edge_slice=true&user_session_id=408c1a4b37cf2ff7fa463d6ef9d26aa2&auth_key=1692090247-0-0-714181cff04205cac6321223e29d4d52&sub_m3u8=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911980_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=17e078d90566a2538199041f8dcc5c2b&auth_key=1692090330-0-0-edea45b35112e42d55a4c457607390ca"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911980_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=17e078d90566a2538199041f8dcc5c2b&auth_key=1692090330-0-0-edea45b35112e42d55a4c457607390ca"
-}
-]
-},
-{
 "league": " Leagues Cup ",
 "himg": "https://mygoaltv.xyz//team/Philadelphia-Union.gif",
 "hteam": "Inter Miami",
-"time": " 5:30 AM ",
-"date": "2023-08-16",
+"time": " live ",
+"date": "5:30 AM",
 "aimg": "https://mygoaltv.xyz//team/inter_miami.png",
 "ateam": "Philadelphia Union",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&user_session_id=41be114ac1997044df993a4a81f28a12&sub_m3u8=true&auth_key=1692119107-0-0-95cbec4603c70d0af2300351a9fe29b5"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?edge_slice=true&user_session_id=41be114ac1997044df993a4a81f28a12&sub_m3u8=true&auth_key=1692119107-0-0-95cbec4603c70d0af2300351a9fe29b5"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lhd.m3u8?sub_m3u8=true&auth_key=1692118950-0-0-e7135f04b311ff01f90707c3e52238d2&user_session_id=775e67e498ccf44a483f88c37b7bc2c0&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lsd.m3u8?sub_m3u8=true&auth_key=1692118950-0-0-e7135f04b311ff01f90707c3e52238d2&user_session_id=775e67e498ccf44a483f88c37b7bc2c0&edge_slice=true"
 }
 ]
 },
