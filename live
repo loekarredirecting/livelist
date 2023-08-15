@@ -9,6 +9,14 @@
 "ateam": "Spain women ",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://cdn123.live-kora-online.com/live3/bein1/video.m3u8?nimblesessionid=3966"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://cdn123.live-kora-online.com/live3/bein1/video.m3u8?nimblesessionid=3966"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8"
 },
