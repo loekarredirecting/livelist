@@ -1,48 +1,5 @@
 [
 {
-"league": " FIFA Women's World Cup ",
-"himg": "https://mygoaltv.xyz//team/Australia.png",
-"hteam": "England women",
-"time": " live ",
-"date": "4:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Anh.png",
-"ateam": "Australia women",
-"link": [
-{
-"type": "Match HD",
-"livelink": "https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
-},
-{
-"type": "Eng HD",
-"livelink": "https://qyfb8377447rtirq.fordems.live/live/for-dems1/chunks.m3u8"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauFHD/chunklist.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?sub_m3u8=true&user_session_id=e20a684832e8c1cf93d8962a4025151b&auth_key=1692186367-0-0-4300fcb243792409c45c61af4c23e4c5&edge_slice=true"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?sub_m3u8=true&user_session_id=e20a684832e8c1cf93d8962a4025151b&auth_key=1692186367-0-0-4300fcb243792409c45c61af4c23e4c5&edge_slice=true"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911978_lhd.m3u8?auth_key=1692186630-0-0-785248178622fa8413ca9beb1b4aef3b&user_session_id=163c498412828374a82465d75686b223&sub_m3u8=true&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911978_lsd.m3u8?auth_key=1692186630-0-0-785248178622fa8413ca9beb1b4aef3b&user_session_id=163c498412828374a82465d75686b223&sub_m3u8=true&edge_slice=true"
-}
-]
-},
-{
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/qpr.gif",
 "hteam": "Norwich City",
