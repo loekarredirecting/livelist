@@ -3,19 +3,11 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/qpr.gif",
 "hteam": "Norwich City",
-"time": " 1:15 AM ",
-"date": "2023-08-17",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/norwich.png",
 "ateam": "QPR",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "0"
@@ -26,11 +18,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-494201_lhd.m3u8?user_session_id=9ab78ac58c07de4ac75dee5062be062a&sub_m3u8=true&edge_slice=true&auth_key=1692215130-0-0-bdee368ccba786a7caf8f8c0c108ecd0"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-494201_lsd.m3u8?user_session_id=9ab78ac58c07de4ac75dee5062be062a&sub_m3u8=true&edge_slice=true&auth_key=1692215130-0-0-bdee368ccba786a7caf8f8c0c108ecd0"
 }
 ]
 },
