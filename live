@@ -10,11 +10,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?user_session_id=8b8135e54eae29fe56d7e473e043dd2e&edge_slice=true&sub_m3u8=true&auth_key=1692215287-0-0-2fca2aa07f47127b4160652cc4af2dd9"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?user_session_id=8b8135e54eae29fe56d7e473e043dd2e&edge_slice=true&sub_m3u8=true&auth_key=1692215287-0-0-2fca2aa07f47127b4160652cc4af2dd9"
 },
 {
 "type": "Soco HD",
@@ -30,26 +30,26 @@
 "league": " UEFA Super Cup Final ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Sevilla",
-"time": " 1:30 AM ",
-"date": "2023-08-17",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Sevilla.png",
 "ateam": "Manchester City",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?edge_slice=true&auth_key=1692215347-0-0-fc7075d9dface5d4bc8ade28fb0f5249&sub_m3u8=true&user_session_id=bf4d0bc4f5afca462468eb5fcefd80ee"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lsd.m3u8?edge_slice=true&auth_key=1692215347-0-0-fc7075d9dface5d4bc8ade28fb0f5249&sub_m3u8=true&user_session_id=bf4d0bc4f5afca462468eb5fcefd80ee"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
