@@ -1,32 +1,5 @@
 [
 {
-"league": " Leagues Cup ",
-"himg": "https://mygoaltv.xyz//team/Philadelphia-Union.gif",
-"hteam": "Inter Miami",
-"time": " live ",
-"date": "5:30 AM",
-"aimg": "https://mygoaltv.xyz//team/inter_miami.png",
-"ateam": "Philadelphia Union",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&user_session_id=41be114ac1997044df993a4a81f28a12&sub_m3u8=true&auth_key=1692119107-0-0-95cbec4603c70d0af2300351a9fe29b5"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?edge_slice=true&user_session_id=41be114ac1997044df993a4a81f28a12&sub_m3u8=true&auth_key=1692119107-0-0-95cbec4603c70d0af2300351a9fe29b5"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lhd.m3u8?sub_m3u8=true&auth_key=1692118950-0-0-e7135f04b311ff01f90707c3e52238d2&user_session_id=775e67e498ccf44a483f88c37b7bc2c0&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911967_lsd.m3u8?sub_m3u8=true&auth_key=1692118950-0-0-e7135f04b311ff01f90707c3e52238d2&user_session_id=775e67e498ccf44a483f88c37b7bc2c0&edge_slice=true"
-}
-]
-},
-{
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Australia.png",
 "hteam": "England women",
