@@ -80,11 +80,11 @@
 "link": [
 {
 "type": "China HD",
-"livelink": "https://pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1692382088-0-0-c99e9cf719d08babbbf27658aff83bce"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1692386168-0-0-39cebfcf1bb93d3f532e9589031803ab&edge_slice=true&user_session_id=101c76458ee94c9f7d0ca0fd88f5f5a4&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "https://pull.juqihuo.com/live/stream-710099_lsd.flv?auth_key=1692382088-0-0-c99e9cf719d08babbbf27658aff83bce"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1692386168-0-0-39cebfcf1bb93d3f532e9589031803ab&edge_slice=true&user_session_id=101c76458ee94c9f7d0ca0fd88f5f5a4&sub_m3u8=true"
 },
 {
 "type": "Soco HD",
