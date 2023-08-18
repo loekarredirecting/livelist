@@ -26,11 +26,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-359236_lhd.m3u8?edge_slice=true&auth_key=1692382531-0-0-0f567882c484023635289c2a5c15e329&user_session_id=bfa6f83332009f27e4d11948d3c5071e&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-359236_lsd.m3u8?edge_slice=true&auth_key=1692382531-0-0-0f567882c484023635289c2a5c15e329&user_session_id=bfa6f83332009f27e4d11948d3c5071e&sub_m3u8=true"
 }
 ]
 },
@@ -38,8 +38,8 @@
 "league": " Saudi Pro League ",
 "himg": "https://mygoaltv.xyz//team/al-nassr.png",
 "hteam": "Al-Taawon",
-"time": " 12:30 AM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/al-taawon.png",
 "ateam": "Al-Nassr",
 "link": [
@@ -53,19 +53,19 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-317957_lhd.flv?auth_key=1692381968-0-0-3eaeb77a25574334ac721eb9d9c8a95e"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-317957_lsd.flv?auth_key=1692381968-0-0-3eaeb77a25574334ac721eb9d9c8a95e"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911976_lhd.m3u8?auth_key=1692382591-0-0-263633b6b7a8b1c03f6b2a2c47ddf870&sub_m3u8=true&user_session_id=7c0be58a4437e3dce871ec36b7a978b9&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911976_lsd.m3u8?auth_key=1692382591-0-0-263633b6b7a8b1c03f6b2a2c47ddf870&sub_m3u8=true&user_session_id=7c0be58a4437e3dce871ec36b7a978b9&edge_slice=true"
 }
 ]
 },
@@ -79,28 +79,20 @@
 "ateam": "Werder Bremen",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-710099_lhd.flv?auth_key=1692382088-0-0-c99e9cf719d08babbbf27658aff83bce"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-710099_lsd.flv?auth_key=1692382088-0-0-c99e9cf719d08babbbf27658aff83bce"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911979_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1692382651-0-0-312a552792388e15cd1270a6f65f8818&user_session_id=e5d58073de127740ed1ed198f24bec17"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911979_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1692382651-0-0-312a552792388e15cd1270a6f65f8818&user_session_id=e5d58073de127740ed1ed198f24bec17"
 }
 ]
 },
@@ -114,28 +106,20 @@
 "ateam": "Nottingham Forest",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-746198_lhd.flv?auth_key=1692382148-0-0-7214d787501e75a55a3c43c4bab0beb5"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-746198_lsd.flv?auth_key=1692382148-0-0-7214d787501e75a55a3c43c4bab0beb5"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911972_lhd.m3u8?sub_m3u8=true&auth_key=1692382711-0-0-1b999b177b18c376da84039487d443c1&edge_slice=true&user_session_id=c8edd62ba5111023acfc1516d23b54a8"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911972_lsd.m3u8?sub_m3u8=true&auth_key=1692382711-0-0-1b999b177b18c376da84039487d443c1&edge_slice=true&user_session_id=c8edd62ba5111023acfc1516d23b54a8"
 }
 ]
 },
@@ -149,28 +133,20 @@
 "ateam": "Metz",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-579943_lhd.flv?auth_key=1692382208-0-0-20f1e64037c7a4c96094d1683d78b91b"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-579943_lsd.flv?auth_key=1692382208-0-0-20f1e64037c7a4c96094d1683d78b91b"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-231997_lhd.m3u8?edge_slice=true&user_session_id=a2582ed6289add1a5ed46d23548452ef&sub_m3u8=true&auth_key=1692382771-0-0-0f8f7259e7ce97a6fb17e8b227721d89"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-231997_lsd.m3u8?edge_slice=true&user_session_id=a2582ed6289add1a5ed46d23548452ef&sub_m3u8=true&auth_key=1692382771-0-0-0f8f7259e7ce97a6fb17e8b227721d89"
 }
 ]
 },
@@ -184,28 +160,20 @@
 "ateam": "Valencia",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-540088_lhd.flv?auth_key=1692382268-0-0-d2c4ac0466838cea232bc507a54413ef"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-540088_lsd.flv?auth_key=1692382268-0-0-d2c4ac0466838cea232bc507a54413ef"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-359236_lhd.m3u8?sub_m3u8=true&auth_key=1692382831-0-0-eb0735040358b5d7c68a28f80c5397d5&user_session_id=e224ecc74a0f454ac64a55557e176fdc&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-359236_lsd.m3u8?sub_m3u8=true&auth_key=1692382831-0-0-eb0735040358b5d7c68a28f80c5397d5&user_session_id=e224ecc74a0f454ac64a55557e176fdc&edge_slice=true"
 }
 ]
 },
