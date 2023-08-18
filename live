@@ -4,7 +4,7 @@
 "himg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "hteam": "Villarreal",
 "time": " live ",
-"date": "12:00 AM",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/villarreal.png",
 "ateam": "Mallorca",
 "link": [
@@ -18,11 +18,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-746089_lhd.flv?auth_key=1692381428-0-0-b6b88688c7c1e4bc34da9702815d2b4b"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-746089_lsd.flv?auth_key=1692381428-0-0-b6b88688c7c1e4bc34da9702815d2b4b"
 },
 {
 "type": "Soco HD",
