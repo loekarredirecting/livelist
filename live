@@ -160,6 +160,22 @@
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lsd.m3u8?user_session_id=098af8da223571e4e4795dfbdd6c55fd&edge_slice=true&sub_m3u8=true&auth_key=1692440408-0-0-a8b54e9effed251f3137b4957441e8a6"
 },
 {
+"type": "English 1 HD",
+"livelink": "https://storage.googleapis.com/nkdwmtrrrlwsbfc/mux_video_ts/index-1.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://storage.googleapis.com/workingover1/mux_video_ts/index-1.m3u8"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
