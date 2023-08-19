@@ -185,11 +185,11 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
@@ -253,14 +253,6 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "ateam": "Nashville Sc",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-622101_lhd.m3u8?edge_slice=true&user_session_id=af910a79ddc0e098234486a1478bbcf8&sub_m3u8=true&auth_key=1692442868-0-0-55bd83bca77c698e97f59da0b6487c2b"
