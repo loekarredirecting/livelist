@@ -221,19 +221,11 @@
 "league": " La Liga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
 "hteam": "Athletic-club",
-"time": " 2:00 AM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "ateam": "Osasuna",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?sub_m3u8=true&user_session_id=ea48081b4d364894a30acddbe4a9fc14&auth_key=1692442808-0-0-c44fa7877c54a9ef9e22ca1bce7cde83&edge_slice=true"
@@ -256,8 +248,8 @@
 "league": " Leagues Cup Final ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/915807_small.png",
 "hteam": "Inter Miami CF",
-"time": " 7:30 AM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "7:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "ateam": "Nashville Sc",
 "link": [
