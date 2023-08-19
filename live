@@ -66,7 +66,7 @@
 },
 {
 "type": "English 4 HD",
-"livelink": "https://rr8---sn-w5nuxa-c33l3.googleuservideo.com/doofootabll_asia4/orangesport1ro/l_6433_526935_53.ts?nimblesessionid=4462204&wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6Mjk6MzUgUE0maGFzaF92YWx1ZT1ZN0dPQklKYWhFS2xqVHJmampIUkhBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MzImaWQ9MTg4Nzg2"
+"livelink": "https://storage.googleapis.com/rcwhusjqgipgpke/mux_video_ts/index-1.m3u8"
 },
 {
 "type": " SkySport HD",
@@ -218,18 +218,26 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Real Madrid",
-"time": " 12:00 AM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/real-madrid.png",
 "ateam": "Almeria",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://work.realbitsport.com/live/n-2/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://eee.catchystream.xyz/playlist/stream_e2.m3u8"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
