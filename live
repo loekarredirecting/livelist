@@ -291,18 +291,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "hteam": "Celta Vigo",
-"time": " 9:30 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "ateam": "Real Sociedad",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8"
 },
 {
 "type": "China HD",
@@ -314,38 +314,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=eaac251a0ee25fb3af0b85214d16497f&txTime=64e12883"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/lyon.png",
-"hteam": "Montpellier",
-"time": " 9:30 PM ",
-"date": "2023-08-19",
-"aimg": "https://mygoaltv.xyz//team/Montpellier.png",
-"ateam": "Lyon",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=eaac251a0ee25fb3af0b85214d16497f&txTime=64e12883"
 }
 ]
 },
@@ -479,6 +452,25 @@
 "type":  "China SD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lsd.m3u8?sub_m3u8=true&user_session_id=05b0104af661fbd45f3822fb2abdf762&edge_slice=true&auth_key=1692441848-0-0-5be893d72e4b68dd844d3a77b1d56fd9"
 },
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/lyon.png",
+"hteam": "Montpellier",
+"time": " 11:30 PM ",
+"date": "2023-08-19",
+"aimg": "https://mygoaltv.xyz//team/Montpellier.png",
+"ateam": "Lyon",
+"link": [
 {
 "type": "Soco HD",
 "livelink": "0"
