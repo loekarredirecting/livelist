@@ -46,8 +46,8 @@
 "league": " AFF U23 ",
 "himg": "data:image/png;base64,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",
 "hteam": "Cambodia U23",
-"time": " 3:30 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "3:30 PM",
 "aimg": "data:image/png;base64,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",
 "ateam": "Myanmar U23",
 "link": [
@@ -88,11 +88,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-681230_lhd.m3u8?sub_m3u8=true&auth_key=1692439868-0-0-c419c7485436467896d02a2c53364f97&user_session_id=6abf04b574d3588d19e0b1d578137fa2&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-681230_lsd.m3u8?sub_m3u8=true&auth_key=1692439868-0-0-c419c7485436467896d02a2c53364f97&user_session_id=6abf04b574d3588d19e0b1d578137fa2&edge_slice=true"
 },
 {
 "type": "Soco HD",
@@ -123,11 +123,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1692439928-0-0-d788f97bddbadecfeabd4ac5014db3cb&sub_m3u8=true&edge_slice=true&user_session_id=2dc160c6bb5bd7c2a4c940582a599a90"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?auth_key=1692439928-0-0-d788f97bddbadecfeabd4ac5014db3cb&sub_m3u8=true&edge_slice=true&user_session_id=2dc160c6bb5bd7c2a4c940582a599a90"
 },
 {
 "type": "Soco HD",
@@ -158,11 +158,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-651278_lhd.m3u8?user_session_id=e7287598344809aa70dd6f68069cbe89&edge_slice=true&sub_m3u8=true&auth_key=1692439988-0-0-dec2667ba7ba0aaef04e518561dd09ea"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-651278_lsd.m3u8?user_session_id=e7287598344809aa70dd6f68069cbe89&edge_slice=true&sub_m3u8=true&auth_key=1692439988-0-0-dec2667ba7ba0aaef04e518561dd09ea"
 },
 {
 "type": "Soco HD",
@@ -193,11 +193,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?sub_m3u8=true&auth_key=1692440048-0-0-c3c1c090afb561537baedc27366bc946&edge_slice=true&user_session_id=f686d10f15ca65c7d26ad2758aeb9e7e"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lsd.m3u8?sub_m3u8=true&auth_key=1692440048-0-0-c3c1c090afb561537baedc27366bc946&edge_slice=true&user_session_id=f686d10f15ca65c7d26ad2758aeb9e7e"
 },
 {
 "type": "Soco HD",
@@ -228,11 +228,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lhd.m3u8?edge_slice=true&user_session_id=046be6ba1d493b0bed1820be13a3d679&sub_m3u8=true&auth_key=1692440228-0-0-86545bddd32efb806be2953a4af35864"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lsd.m3u8?edge_slice=true&user_session_id=046be6ba1d493b0bed1820be13a3d679&sub_m3u8=true&auth_key=1692440228-0-0-86545bddd32efb806be2953a4af35864"
 },
 {
 "type": "Soco HD",
@@ -254,19 +254,19 @@
 "ateam": "Liverpool",
 "link": [
 {
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?user_session_id=098af8da223571e4e4795dfbdd6c55fd&edge_slice=true&sub_m3u8=true&auth_key=1692440408-0-0-a8b54e9effed251f3137b4957441e8a6"
+},
+{
+"type":  "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lsd.m3u8?user_session_id=098af8da223571e4e4795dfbdd6c55fd&edge_slice=true&sub_m3u8=true&auth_key=1692440408-0-0-a8b54e9effed251f3137b4957441e8a6"
+},
+{
 "type": "Vietnam HD",
 "livelink": "0"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
 "livelink": "0"
 },
 {
@@ -298,11 +298,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?user_session_id=649ef0488e03ba06cc7714fdb1b28e08&auth_key=1692440468-0-0-150b02a4efb50b74923313c63a75f409&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?user_session_id=649ef0488e03ba06cc7714fdb1b28e08&auth_key=1692440468-0-0-150b02a4efb50b74923313c63a75f409&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
@@ -333,11 +333,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1692440708-0-0-06db14d549c1096cb081480e4f84684b&user_session_id=f61c3f421b173d4db3fea649b5f54e8e&sub_m3u8=true&edge_slice=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?auth_key=1692440708-0-0-06db14d549c1096cb081480e4f84684b&user_session_id=f61c3f421b173d4db3fea649b5f54e8e&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco HD",
@@ -368,11 +368,11 @@
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-563534_lhd.m3u8?auth_key=1692440828-0-0-4926a5bd9edc250f58970472d3227f82&sub_m3u8=true&edge_slice=true&user_session_id=7d8a4a7a2f9ca5bc75fcbd897c60f5eb"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-563534_lsd.m3u8?auth_key=1692440828-0-0-4926a5bd9edc250f58970472d3227f82&sub_m3u8=true&edge_slice=true&user_session_id=7d8a4a7a2f9ca5bc75fcbd897c60f5eb"
 },
 {
 "type": "Soco HD",
