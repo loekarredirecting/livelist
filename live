@@ -203,6 +203,14 @@
 "ateam": "Wolverhampton",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_3.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_3.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
@@ -237,6 +245,14 @@
 "aimg": "https://mygoaltv.xyz//team/Brentford.png",
 "ateam": "Fulham",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_2.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_2.m3u8"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
