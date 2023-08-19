@@ -186,8 +186,8 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/lyon.png",
 "hteam": "Montpellier",
-"time": " 11:30 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Montpellier.png",
 "ateam": "Lyon",
 "link": [
@@ -201,11 +201,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-120778_lhd.m3u8?sub_m3u8=true&auth_key=1692466592-0-0-ebfbc09cf993ee4b7626cfa2d0f0fe5e&user_session_id=9b98b374162ebd27d263363bfa650f54&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-120778_lsd.m3u8?sub_m3u8=true&auth_key=1692466592-0-0-ebfbc09cf993ee4b7626cfa2d0f0fe5e&user_session_id=9b98b374162ebd27d263363bfa650f54&edge_slice=true"
 }
 ]
 },
