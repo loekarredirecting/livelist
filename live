@@ -1,5 +1,40 @@
 [
 {
+"league": " FIFA Women's World Cup ",
+"himg": "https://mygoaltv.xyz//team/Sweden.png",
+"hteam": "Australia women",
+"time": " 2:30 PM ",
+"date": "2023-08-19",
+"aimg": "https://mygoaltv.xyz//team/Australia.png",
+"ateam": "Sweden Women",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/augsburg.png",
 "hteam": "Monchengladbach",
@@ -462,6 +497,251 @@
 "date": "2023-08-19",
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Tottenham",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Almeria.png",
+"hteam": "Real Madrid",
+"time": " 12:00 AM ",
+"date": "2023-08-20",
+"aimg": "https://mygoaltv.xyz//team/real-madrid.png",
+"ateam": "Almeria",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Genoa.png",
+"hteam": "Fiorentina",
+"time": " 1:15 AM ",
+"date": "2023-08-20",
+"aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
+"ateam": "Genoa",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/inter_milan.png",
+"hteam": "Monza",
+"time": " 1:15 AM ",
+"date": "2023-08-20",
+"aimg": "https://mygoaltv.xyz//team/ac-monza.png",
+"ateam": "Inter Milan",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://mygoaltv.xyz//team/manchestercity.png",
+"hteam": "Newcastle United",
+"time": " 1:30 AM ",
+"date": "2023-08-20",
+"aimg": "https://mygoaltv.xyz//team/newcastle.png",
+"ateam": "Manchester City",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/Toulouse.png",
+"hteam": "Paris Saint-Germain",
+"time": " 1:30 AM ",
+"date": "2023-08-20",
+"aimg": "https://mygoaltv.xyz//team/psg.png",
+"ateam": "Toulouse",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+"hteam": "Athletic-club",
+"time": " 2:00 AM ",
+"date": "2023-08-20",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+"ateam": "Osasuna",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
+}
+]
+},
+{
+"league": " Leagues Cup Final ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/915807_small.png",
+"hteam": "Inter Miami CF",
+"time": " 7:30 AM ",
+"date": "2023-08-20",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+"ateam": "Nashville Sc",
 "link": [
 {
 "type": "Vietnam HD",
