@@ -44,14 +44,6 @@
 "livelink": "https://eee.catchystream.xyz/playlist/stream_e2.m3u8"
 },
 {
-"type": "English 3 HD",
-"livelink": "https://storage.googleapis.com/w16siijc6o5c02l/mux_video_ts/index-1.m3u8"
-},
-{
-"type": "English 4 SD",
-"livelink": "https://ssss79.jokerplayer7.online:8081/live/tsn4.m3u8?e=1692477249&st=Ba8AO0HehMCf8tcf8eEDug"
-},
-{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
@@ -155,6 +147,14 @@
 {
 "type": "English 2 HD",
 "livelink": "https://dw2rhzxa9d7uo.cloudfront.net/hls/ac02b3203d32779c_source/index.m3u8"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://storage.googleapis.com/w16siijc6o5c02l/mux_video_ts/index-1.m3u8"
+},
+{
+"type": "English 4 SD",
+"livelink": "https://ssss79.jokerplayer7.online:8081/live/tsn4.m3u8?e=1692477249&st=Ba8AO0HehMCf8tcf8eEDug"
 },
 {
 "type": "Vietnam HD",
