@@ -3,34 +3,34 @@
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Sweden.png",
 "hteam": "Australia women",
-"time": " 2:30 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "2:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Australia.png",
 "ateam": "Sweden Women",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?edge_slice=true&user_session_id=aae1b2ea7e8d9f79b5d28262f9441dae&auth_key=1692435128-0-0-7411117f06fc29c158c405cd184841b4&sub_m3u8=true"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://pull.juqihuo.com/live/stream-2376781_lhd.flv?auth_key=1692434948-0-0-445dc61d2cbcf0a6f878f38e2716d1f2"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911985_lhd.m3u8?user_session_id=3ac1eda7bef9b50c23224f0b4bf50744&edge_slice=true&sub_m3u8=true&auth_key=1692435031-0-0-669d0c6fc03f2bb2f69fe186d5a2cc8f"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911985_lsd.m3u8?user_session_id=3ac1eda7bef9b50c23224f0b4bf50744&edge_slice=true&sub_m3u8=true&auth_key=1692435031-0-0-669d0c6fc03f2bb2f69fe186d5a2cc8f"
 }
 ]
 },
