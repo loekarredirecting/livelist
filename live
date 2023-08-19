@@ -130,14 +130,6 @@
 "ateam": "Empoli",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-535241_lhd.m3u8?auth_key=1692441728-0-0-65a7a453fc249b26a509ff8b3d14de3d&edge_slice=true&sub_m3u8=true&user_session_id=482b13a70a988db64fa99c7d71d43c2a"
 },
@@ -166,11 +158,11 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 },
 {
 "type": "China HD",
