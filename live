@@ -146,8 +146,8 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/liverpool.png",
 "hteam": "Bournemouth",
-"time": " 8:30 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Bournemouth.gif",
 "ateam": "Liverpool",
 "link": [
@@ -161,19 +161,19 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911983_lhd.m3u8?auth_key=1692455971-0-0-627edee64d588cbcdf83276150fb79ea&edge_slice=true&sub_m3u8=true&user_session_id=a3449392a3557eb0c550faf386882e15"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911983_lsd.m3u8?auth_key=1692455971-0-0-627edee64d588cbcdf83276150fb79ea&edge_slice=true&sub_m3u8=true&user_session_id=a3449392a3557eb0c550faf386882e15"
 }
 ]
 },
@@ -181,18 +181,18 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "hteam": "Brighton",
-"time": " 8:30 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Brighton.gif",
 "ateam": "Wolverhampton",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
@@ -204,11 +204,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911959_lhd.m3u8?user_session_id=f697917b8bf495c3a6aa5b92a071f3a6&auth_key=1692456031-0-0-8aaf33d2ad2bc67959ad0663a25465fd&sub_m3u8=true&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911959_lsd.m3u8?user_session_id=f697917b8bf495c3a6aa5b92a071f3a6&auth_key=1692456031-0-0-8aaf33d2ad2bc67959ad0663a25465fd&sub_m3u8=true&edge_slice=true"
 }
 ]
 },
@@ -216,18 +216,18 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/fulham.png",
 "hteam": "Brentford",
-"time": " 8:30 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Brentford.png",
 "ateam": "Fulham",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
@@ -239,11 +239,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?sub_m3u8=true&auth_key=1692456091-0-0-22b591312a3f3596c0b9e904f77bf56e&user_session_id=dd5a05f17e3fa2ac2cf72c1a4c04a672&edge_slice=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lsd.m3u8?sub_m3u8=true&auth_key=1692456091-0-0-22b591312a3f3596c0b9e904f77bf56e&user_session_id=dd5a05f17e3fa2ac2cf72c1a4c04a672&edge_slice=true"
 }
 ]
 },
