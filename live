@@ -183,8 +183,8 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/tottenham.png",
 "hteam": "Manchester United",
-"time": " 11:00 PM  ",
-"date": "2023-08-19",
+"time": " live  ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "ateam": "Tottenham",
 "link": [
@@ -213,14 +213,6 @@
 "livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
 },
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "Soco HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911983_lhd.m3u8?user_session_id=74cd018654de84b51a6f52ecc38bc53d&edge_slice=true&sub_m3u8=true&auth_key=1692461671-0-0-4ccdb15725a3437d5e724d68df6aa86b"
 },
@@ -234,8 +226,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/dortmund.png",
 "hteam": "Koln",
-"time": " 11:00 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Koln.png",
 "ateam": "Dortmund",
 "link": [
@@ -269,8 +261,8 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Empoli.gif",
 "hteam": "Hellas Verona",
-"time": " 11:00 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Verona.png",
 "ateam": "Empoli",
 "link": [
@@ -304,8 +296,8 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Frosinone_Calcio.png",
 "hteam": "Napoli",
-"time": " 11:00 PM ",
-"date": "2023-08-19",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/napoli.png",
 "ateam": "Frosinone",
 "link": [
