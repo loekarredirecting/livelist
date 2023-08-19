@@ -225,19 +225,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Genoa.png",
 "hteam": "Fiorentina",
-"time": " 1:15 AM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "ateam": "Genoa",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1692442148-0-0-0e070432cf16100440268dcc238e46ee&user_session_id=5519bea10130f412295926b7719f4306&edge_slice=true&sub_m3u8=true"
@@ -260,18 +252,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/inter_milan.png",
 "hteam": "Monza",
-"time": " 1:15 AM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/ac-monza.png",
 "ateam": "Inter Milan",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8"
 },
 {
 "type": "China HD",
