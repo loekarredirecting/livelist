@@ -36,6 +36,14 @@
 "ateam": "West Ham",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
