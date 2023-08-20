@@ -3,34 +3,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "hteam": "Salernitana",
-"time": " 11:00 PM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/salernitana.png",
 "ateam": "AS Roma",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 }
 ]
 },
@@ -38,34 +22,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/sassuolo.png",
 "hteam": "Atalanta",
-"time": " 11:00 PM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Atalanta.png",
 "ateam": "Sassuolo",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8"
 }
 ]
 },
@@ -73,34 +41,18 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/monaco.png",
 "hteam": "Strasbourg",
-"time": " 11:30 PM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://mygoaltv.xyz//team/strasbourg.png",
 "ateam": "Monaco",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8"
 }
 ]
 },
@@ -108,8 +60,8 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Girona.png",
 "hteam": "Getafe",
-"time": " 11:30 PM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Getafe.png",
 "ateam": "Girona",
 "link": [
@@ -143,18 +95,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Cadiz",
-"time": " 12:00 AM ",
-"date": "2023-08-21",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "ateam": "Barcelona",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
