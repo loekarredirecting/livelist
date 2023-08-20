@@ -10,6 +10,10 @@
 "ateam": "Spain women ",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
 },
@@ -17,14 +21,7 @@
 "type": "Vietnam SD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
 },
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
+
 {
 "type": "Soco HD",
 "livelink": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8,http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
