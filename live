@@ -36,34 +36,31 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/lille.png",
 "hteam": "Nantes",
-"time": " 5:30 PM ",
+"time": " live ",
 "date": "2023-08-20",
 "aimg": "https://mygoaltv.xyz//team/Nantes.png",
 "ateam": "Lille",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/soiFHD/chunklist.m3u8"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0"
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
 },
 {
-"type": "China HD",
-"livelink": "0"
+"type": "Vietnam HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/soiSD/chunklist.m3u8"
 },
-{
-"type":  "China SD",
-"livelink": "0"
-},
+
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lhd.m3u8?auth_key=1692530971-0-0-d24de46ab6189239eb552e4382d8c9ec&edge_slice=true&user_session_id=e70f3757149e19e9c3c10605fe0193e1&sub_m3u8=true"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911954_lsd.m3u8?auth_key=1692530971-0-0-2616559afefd0192bc89193b4f0cc45f&edge_slice=true&user_session_id=d134282e08e79dceaea9564f7362bcad&sub_m3u8=true"
 }
 ]
 },
