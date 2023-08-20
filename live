@@ -41,6 +41,14 @@
 "ateam": "Aston Villa",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
@@ -85,11 +93,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=b4bd9f1ce3ed8e3e420ac2019d20f450&txTime=64e25e1f"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991117_lsd.m3u8?txSecret=b4bd9f1ce3ed8e3e420ac2019d20f450&txTime=64e25e1f"
 }
 ]
 },
@@ -151,8 +159,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "hteam": "Mainz 05",
-"time": " 8:00 PM ",
-"date": "2023-08-20",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Mainz_05.png",
 "ateam": "Union Berlin",
 "link": [
@@ -166,11 +174,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=e9553d97b767e1aeba30dc41762a7467&txTime=64e25e97"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-171964_lsd.m3u8?txSecret=e9553d97b767e1aeba30dc41762a7467&txTime=64e25e97"
 }
 ]
 },
