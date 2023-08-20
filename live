@@ -1,47 +1,21 @@
 [
-{
-"league": " Leagues Cup Final ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/915807_small.png",
-"hteam": "Inter Miami CF",
-"time": " live ",
-"date": "7:30 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-"ateam": "Nashville Sc",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-622101_lhd.m3u8?edge_slice=true&user_session_id=af910a79ddc0e098234486a1478bbcf8&sub_m3u8=true&auth_key=1692442868-0-0-55bd83bca77c698e97f59da0b6487c2b"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-622101_lsd.m3u8?edge_slice=true&user_session_id=af910a79ddc0e098234486a1478bbcf8&sub_m3u8=true&auth_key=1692442868-0-0-55bd83bca77c698e97f59da0b6487c2b"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911983_lhd.m3u8?auth_key=1692462271-0-0-cf4bd141056c5e3021649ce187ec4409&edge_slice=true&sub_m3u8=true&user_session_id=a6fa4984022ef2652fc7e66d00da2015"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911983_lsd.m3u8?auth_key=1692462271-0-0-cf4bd141056c5e3021649ce187ec4409&edge_slice=true&sub_m3u8=true&user_session_id=a6fa4984022ef2652fc7e66d00da2015"
-}
-]
-},
+
 {
 "league": " FIFA Women's World Cup ",
 "himg": "https://mygoaltv.xyz//team/Taybannha.png",
 "hteam": "England women",
-"time": " 4:30 PM ",
+"time": " live ",
 "date": "2023-08-20",
 "aimg": "https://mygoaltv.xyz//team/Anh.png",
 "ateam": "Spain women ",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/cuonFHD/chunklist.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8"
 },
 {
 "type": "China HD",
@@ -53,11 +27,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8,http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911959_lsd.m3u8?user_session_id=6c48e1d8cfd21d510d11fd4e5e3bc2ee&auth_key=1692528091-0-0-42d480f720e9f4e2476a89a2c5384178&edge_slice=true&sub_m3u8=true"
 }
 ]
 },
