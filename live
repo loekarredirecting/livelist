@@ -65,18 +65,18 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Bologna.png",
 "hteam": "AC Milan",
-"time": " 1:15 am ",
-"date": "2023-08-22",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "Bologna",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8"
 },
 {
 "type": "China HD",
@@ -100,18 +100,18 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "hteam": "Arsenal",
-"time": " 1:30 AM ",
-"date": "2023-08-22",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/arsenal.png",
 "ateam": "Crystal Palace",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8"
 },
 {
 "type": "China HD",
