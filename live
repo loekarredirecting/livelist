@@ -124,26 +124,18 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/granada.png",
 "hteam": "Rayo Vallecano",
-"time": " 2:00 AM ",
-"date": "2023-08-22",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "ateam": "Granada",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
 "type": "China HD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1692648368-0-0-bd8bf56671a7bc8b87e3ca5e3e690997&sub_m3u8=true&edge_slice=true&user_session_id=83c0bd9b9b7cf8c7efa5c0c9517c6330"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1692648368-0-0-bd8bf56671a7bc8b87e3ca5e3e690997&sub_m3u8=true&edge_slice=true&user_session_id=83c0bd9b9b7cf8c7efa5c0c9517c6330"
 },
 {
 "type": "Soco HD",
