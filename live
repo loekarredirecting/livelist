@@ -1,32 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/Torino.png",
-"hteam": "Cagliari",
-"time": " live ",
-"date": "11:00 PM",
-"aimg": "https://mygoaltv.xyz//team/cagliari.png",
-"ateam": "Torino",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1692620528-0-0-ed81416306d265bbdb76ed61337d4c31&edge_slice=true&sub_m3u8=true&user_session_id=02dfcd882658fb7534b26c3abec3a758"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1692620528-0-0-ed81416306d265bbdb76ed61337d4c31&edge_slice=true&sub_m3u8=true&user_session_id=02dfcd882658fb7534b26c3abec3a758"
-},
-{
-"type": "Soco HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lhd.m3u8?sub_m3u8=true&user_session_id=585665cf07ef976e4428176e5f5a6b33&auth_key=1692619951-0-0-0c8a07e41c771f9abd599e7836135ea6&edge_slice=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911984_lsd.m3u8?sub_m3u8=true&user_session_id=585665cf07ef976e4428176e5f5a6b33&auth_key=1692619951-0-0-0c8a07e41c771f9abd599e7836135ea6&edge_slice=true"
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Alaves.png",
 "hteam": "Sevilla",
@@ -105,6 +78,14 @@
 "aimg": "https://mygoaltv.xyz//team/arsenal.png",
 "ateam": "Crystal Palace",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8"
