@@ -1,40 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Alaves.png",
-"hteam": "Sevilla",
-"time": " live ",
-"date": "11:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Sevilla.png",
-"ateam": "Alaves",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lhd.m3u8?edge_slice=true&auth_key=1692620588-0-0-0729c8b144c4bfe6c93a0e9fa21b1045&sub_m3u8=true&user_session_id=e057374904fc14965c613e5248f42cd7"
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lsd.m3u8?edge_slice=true&auth_key=1692620588-0-0-0729c8b144c4bfe6c93a0e9fa21b1045&sub_m3u8=true&user_session_id=e057374904fc14965c613e5248f42cd7"
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911979_lhd.m3u8?auth_key=1692620071-0-0-8ec08a76ebbf1d11308849bfb5ecec03&user_session_id=15ea869ea4a481f44da1eb0ec3778169&edge_slice=true&sub_m3u8=true"
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911979_lsd.m3u8?auth_key=1692620071-0-0-8ec08a76ebbf1d11308849bfb5ecec03&user_session_id=15ea869ea4a481f44da1eb0ec3778169&edge_slice=true&sub_m3u8=true"
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Bologna.png",
 "hteam": "AC Milan",
