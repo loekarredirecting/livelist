@@ -15,23 +15,28 @@
 },
 {
 "type": "Vietnam SD",
-"livelink": "0"
+"livelink": "0",
+"trylink": "0"
 },
 {
 "type": "China HD",
-"livelink": "0"
+"livelink": "0",
+"trylink": "0"
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "0",
+"trylink": "0"
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "0",
+"trylink": "0"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "0",
+"trylink": "0"
 }
 ]
 },
