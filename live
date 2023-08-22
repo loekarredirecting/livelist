@@ -36,13 +36,15 @@
 "trylink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0"
+"type": "Test Hello FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/10/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://livecdn-001.rumsport.com/stream/10/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
 },
 {
 "type": "China HD",
