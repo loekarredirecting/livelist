@@ -3,7 +3,7 @@
 "league": " AFC Champions League ",
 "himg": "https://mygoaltv.xyz//team/al-nassr.png",
 "hteam": "Al-Ahli Shabab",
-"time": " 11:50 PM ",
+"time": " live ",
 "date": "2023-08-22",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "Al-Nassr",
@@ -16,121 +16,29 @@
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912002_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1692711631-0-0-37d134b336d51c93fb1b8460d6d632ab&user_session_id=1d943e5d205fcdd4e38bc56c82eacb2b",
-"trylink": ""
-
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912002_lhd.m3u8?edge_slice=true&user_session_id=77a0d1e194bc366306b488f6e48becc3&sub_m3u8=true&auth_key=1692711631-0-0-802d6c1376fea7ecb3ad50412073f927",
-"trylink": ""
-},
-{
-"type":  "China 360 SD",
-"livelink": "https://us6.score911.cc/us_nbc/index.m3u8",
-"trylink": "https://ggsport.tv/"
-},
-{
-"type": "Soco FHD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "Test Hello FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream2/10/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://livecdn-001.rumsport.com/stream/10/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "China HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
 "trylink": ""
-},
-{
-"type":  "China SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
+
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=eccc674ab5eb0a21ad03ee6e76cddbb4&auth_key=1692719468-0-0-f6329346da6186ed5b3f02885053066a&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type":  "China SD",
-"livelink": "0",
+"type":  "China  SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?user_session_id=eccc674ab5eb0a21ad03ee6e76cddbb4&auth_key=1692719468-0-0-f6329346da6186ed5b3f02885053066a&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=50e54d91ba455195c02c2a9051293246&txTime=64e50647",
+"trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=50e54d91ba455195c02c2a9051293246&txTime=64e50647",
+"trylink": ""
 }
 ]
 },
