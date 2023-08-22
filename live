@@ -1,48 +1,5 @@
 [
 {
-"league": " AFC Champions League ",
-"himg": "https://mygoaltv.xyz//team/al-nassr.png",
-"hteam": "Al-Ahli Shabab",
-"time": " live ",
-"date": "2023-08-22",
-"aimg": "https://mygoaltv.xyz//team/no-logo.png",
-"ateam": "Al-Nassr",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
-"trylink": ""
-
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
-"trylink": ""
-
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=eccc674ab5eb0a21ad03ee6e76cddbb4&auth_key=1692719468-0-0-f6329346da6186ed5b3f02885053066a&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type":  "China  SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?user_session_id=eccc674ab5eb0a21ad03ee6e76cddbb4&auth_key=1692719468-0-0-f6329346da6186ed5b3f02885053066a&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991121_lhd.m3u8?txSecret=50e54d91ba455195c02c2a9051293246&txTime=64e50647",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991121_lsd.m3u8?txSecret=50e54d91ba455195c02c2a9051293246&txTime=64e50647",
-"trylink": ""
-}
-]
-},
-{
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/Hibernian.gif",
 "hteam": "Aston Villa",
