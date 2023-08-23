@@ -9,14 +9,24 @@
 "ateam": "Hibernian",
 "link": [
 {
-"type": "English 1 HD",
+"type": "English 1 FHD",
+"livelink": "https://trgoals.m3u8gala.store/yayinch8.m3u8",
+"trylink": "https://yehfullhd.live/"
+},
+{
+"type": "English 2 HD",
 "livelink": "https://us.catchystream.xyz/playlist/stream_1.m3u8",
 "trylink": "0"
 },
 {
-"type": "English 2 HD",
-"livelink": "https://trgoals.m3u8gala.store/yayinch8.m3u8",
-"trylink": "https://yehfullhd.live/"
+"type": "English 3 HD",
+"livelink": "https://livecdn.rumsport.com/stream/18/chunks.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "BBC Sports FHD",
+"livelink": "https://m4iswbjnhzrz.fordems.live/live/for-dems1/chunks.m3u8",
+"trylink": "https://fordems.live/"
 },
 {
 "type": "Vietnam HD",
