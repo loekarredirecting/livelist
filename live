@@ -79,38 +79,29 @@
 "league": " US Open Cup Semi Final ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/722265_small.png",
 "hteam": "Inter-miami",
-"time": " 5:30 AM ",
-"date": "2023-08-24",
+"time": " live ",
+"date": "5:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "ateam": "Cincinnati",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lhd.m3u8?auth_key=1692817508-0-0-6c857cecfcdf0a800d39c209502ee4a4&sub_m3u8=true&user_session_id=a340c778af1e7b33d0db33de6997dbd9&edge_slice=true",
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553172_lsd.m3u8?auth_key=1692817508-0-0-6c857cecfcdf0a800d39c209502ee4a4&sub_m3u8=true&user_session_id=a340c778af1e7b33d0db33de6997dbd9&edge_slice=true",
+"trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911996_lhd.m3u8?auth_key=1692817411-0-0-1f28f6852ad82fa4d0fbec918bea422b&user_session_id=ae214d99a9a965b210f012c651645126&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911996_lsd.m3u8?auth_key=1692817411-0-0-1f28f6852ad82fa4d0fbec918bea422b&user_session_id=ae214d99a9a965b210f012c651645126&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 }
 ]
