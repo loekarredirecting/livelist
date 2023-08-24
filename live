@@ -3,8 +3,8 @@
 "league": " AFF U-23 Championship ",
 "himg": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png",
 "hteam": "Indonesia U-23",
-"time": " 7:30 PM ",
-"date": "2023-08-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://ssl.gstatic.com/onebox/media/sports/logos/kErkaIWGPh_VGrd4T6NwUA_96x96.png",
 "ateam": "Thailand U-23",
 "link": [
@@ -20,22 +20,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lhd.m3u8?auth_key=1692883388-0-0-bb100cc5eb434e5f879e41f769e47ca7&edge_slice=true&sub_m3u8=true&user_session_id=c3bcf53de008d13b9738ce304c8287bc",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lsd.m3u8?auth_key=1692883388-0-0-bb100cc5eb434e5f879e41f769e47ca7&edge_slice=true&sub_m3u8=true&user_session_id=c3bcf53de008d13b9738ce304c8287bc",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911998_lhd.m3u8?sub_m3u8=true&user_session_id=649b1f1f4962bd6ed04cfb98ad45dd45&auth_key=1692883231-0-0-4ce716186b098706c038024f54a8bed7&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911998_lsd.m3u8?sub_m3u8=true&user_session_id=649b1f1f4962bd6ed04cfb98ad45dd45&auth_key=1692883231-0-0-4ce716186b098706c038024f54a8bed7&edge_slice=true",
 "trylink": ""
 }
 ]
