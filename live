@@ -27,6 +27,18 @@
 "type":  "China SD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?edge_slice=true&user_session_id=7a2d4d32ecd1fafc66cd3f0b6b872c62&auth_key=1692894428-0-0-b49455939e49b78e4f7e1a70b20f6cd1&sub_m3u8=true",
 "trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull06.scstream.net/live/stream-9911965_lhd.flv?auth_key=1692899371-0-0-c5c4caf6cf1ad3ac969d1a1a76098fe2
+",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull06.scstream.net/live/stream-9911965_lsd.flv?auth_key=1692899371-0-0-c5c4caf6cf1ad3ac969d1a1a76098fe2
+",
+"trylink": ""
 }
 ]
 },
