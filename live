@@ -75,21 +75,11 @@
 "league": " Europa League ",
 "himg": "https://mygoaltv.xyz//team/ludogorets.png",
 "hteam": "Ajax",
-"time": " 12:30 AM ",
-"date": "2023-08-25",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/ajax.png",
 "ateam": "Ludogorets",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1692894608-0-0-ca9005dd5bb4b1032ac1f8f8eedad32d&edge_slice=true&sub_m3u8=true&user_session_id=4bcb5cbcdcc95dc0cff4f4b2143453a3",
@@ -116,21 +106,11 @@
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/lille.png",
 "hteam": "HNK Rijeka",
-"time": " 12:30 AM ",
-"date": "2023-08-25",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/rijeka.png",
 "ateam": "Lille",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?user_session_id=0d21d31d39a875477a3c5ff0c0441f73&auth_key=1692894668-0-0-2c3e9cad8a617d4a2279be14e96b71ba&sub_m3u8=true&edge_slice=true",
