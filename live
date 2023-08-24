@@ -25,7 +25,8 @@
 },
 {
 "type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=eac42ec2dedb9f46d80b1791fb0f9b4a&edge_slice=true&sub_m3u8=true&auth_key=1692872888-0-0-d9ba67d2af182615759111385f96ce7c"
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=eac42ec2dedb9f46d80b1791fb0f9b4a&edge_slice=true&sub_m3u8=true&auth_key=1692872888-0-0-d9ba67d2af182615759111385f96ce7c",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -105,7 +106,8 @@
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -145,7 +147,8 @@
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -185,7 +188,8 @@
 },
 {
 "type":  "China SD",
-"livelink": "0"
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
