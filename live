@@ -9,6 +9,16 @@
 "ateam": "Malaysia U23",
 "link": [
 {
+"type": "True Sports 1 FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/10/stream2/10_fhd/audio_fmp4_dvr.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "True Sports 2 FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/10/stream/10_fhd/audio_fmp4_dvr.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
