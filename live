@@ -1,47 +1,6 @@
 [
 {
 "league": " AFF U-23 Championship ",
-"himg": "https://ssl.gstatic.com/onebox/media/sports/logos/cJH9pZPURSZ68UjxxS4nKw_96x96.png",
-"hteam": "Vietnam U23",
-"time": " live ",
-"date": "3:30 PM",
-"aimg": "https://ssl.gstatic.com/onebox/media/sports/logos/IUYV_ZAMxDdabQPzSpTJtg_96x96.png",
-"ateam": "Malaysia U23",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?user_session_id=eac42ec2dedb9f46d80b1791fb0f9b4a&edge_slice=true&sub_m3u8=true&auth_key=1692872888-0-0-d9ba67d2af182615759111385f96ce7c",
-"trylink": ""
-},
-{
-"type":  "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=eac42ec2dedb9f46d80b1791fb0f9b4a&edge_slice=true&sub_m3u8=true&auth_key=1692872888-0-0-d9ba67d2af182615759111385f96ce7c",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912000_lhd.m3u8?sub_m3u8=true&auth_key=1692872791-0-0-409ce7e3854fcea803f890f5fee360ab&edge_slice=true&user_session_id=69ceecb4b4979562b418e1bdf896b33c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912000_lsd.m3u8?sub_m3u8=true&auth_key=1692872791-0-0-409ce7e3854fcea803f890f5fee360ab&edge_slice=true&user_session_id=69ceecb4b4979562b418e1bdf896b33c",
-"trylink": ""
-}
-]
-},
-{
-"league": " AFF U-23 Championship ",
 "himg": "https://ssl.gstatic.com/onebox/media/sports/logos/aEBU_ri8U6F06oTqWmKY5g_96x96.png",
 "hteam": "Indonesia U-23",
 "time": " 7:30 PM ",
@@ -65,8 +24,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -228,8 +188,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -350,8 +311,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -390,8 +352,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -430,8 +393,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -470,8 +434,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -510,8 +475,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -550,8 +516,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -590,8 +557,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -630,8 +598,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -670,8 +639,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -710,8 +680,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -750,8 +721,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -790,8 +762,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -830,8 +803,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -870,8 +844,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -910,8 +885,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
@@ -950,8 +926,9 @@
 "trylink": ""
 },
 {
-"type":  "China SD",
-"livelink": "0"
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Soco HD",
