@@ -95,21 +95,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "hteam": "Stuttgart",
-"time": " 1:00 AM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "1:00 AM",
 "aimg": "https://mygoaltv.xyz//team/stuttgart.png",
 "ateam": "RB Leipzig",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?edge_slice=true&user_session_id=7c82fcf587d061c70542cfbff5e9eabd&sub_m3u8=true&auth_key=1692979268-0-0-747efc2e2454855735b480efc852084c",
