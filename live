@@ -132,6 +132,16 @@
 "ateam": "Chelsea",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://trgoals.m3u8gala.store/yayinch5.m3u8",
+"trylink": "https://yehfullhd.live/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
+"trylink": "0"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
