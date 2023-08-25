@@ -44,8 +44,8 @@
 "league": " Saudi Pro League ",
 "himg": "https://mygoaltv.xyz//team/Al-Fateh.gif",
 "hteam": "Al-Nassr",
-"time": " 12:30 AM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/al-nassr.png",
 "ateam": "Al Fateh",
 "link": [
@@ -112,12 +112,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912002_lhd.m3u8?sub_m3u8=true&auth_key=1692987331-0-0-9ef971c5a985fd102ecdbe193fa8fcf5&user_session_id=4e4ce41f29466cf1803562dc45731053&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912002_lsd.m3u8?sub_m3u8=true&auth_key=1692987331-0-0-9ef971c5a985fd102ecdbe193fa8fcf5&user_session_id=4e4ce41f29466cf1803562dc45731053&edge_slice=true",
 "trylink": ""
 }
 ]
