@@ -50,6 +50,16 @@
 "ateam": "Al Fateh",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://us.score911.cc/pt_sporttv2/index.m3u8",
+"trylink": "https://play.azencode.com/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/12/stream2/12_hd/video_fmp4_dvr.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
 "trylink": ""
