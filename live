@@ -3,19 +3,19 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Las-Palmas.png",
 "hteam": "Real Sociedad",
-"time": " 12:00 AM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "ateam": "Las Palmas",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8",
 "trylink": ""
 },
 {
