@@ -210,11 +210,20 @@
 "trylink": "0"
 },
 {
-"type": "English FHD",
+"type": "English 1 FHD",
 "livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
 "trylink": "0"
 },
-
+{
+"type": "English 2 HD",
+"livelink": "https://b7i4j3n3.stackpathcdn.com/loord697/1693056167/src/live.m3u8",
+"trylink": "0"
+},
+{
+"type": "360 SD",
+"livelink": "https://ssss79.jokerplayer7.online:8081/live/premier1.m3u8?e=1693065184&st=S6gRy4kIcGvAxos5_UX5jQ",
+"trylink": "0"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
