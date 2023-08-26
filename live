@@ -161,21 +161,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Heidenheim_1846.png",
 "hteam": "Hoffenheim",
-"time": " 8:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "ateam": "Heidenheim 1846",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?user_session_id=79fb42077168f5dcc96fc98913179dfb&auth_key=1693045809-0-0-d66f36527b9e0181c75ce2f61f3f5b6f&sub_m3u8=true&edge_slice=true",
@@ -202,8 +192,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Koln.png",
 "hteam": "Wolfsburg",
-"time": " 8:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/wolfsburg.png",
 "ateam": "Koln",
 "link": [
@@ -243,21 +233,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Darmstadt-98.png",
 "hteam": "Union Berlin",
-"time": " 8:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "ateam": "Darmstadt 98",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?auth_key=1693044489-0-0-97fcfe73a301d0000ef352995c3e01b6&edge_slice=true&sub_m3u8=true&user_session_id=703ed1a230acf8493b2601b330e5462f",
@@ -284,21 +264,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/freiburg.png",
 "hteam": "Werder Bremen",
-"time": " 8:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
 "ateam": "Freiburg",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lhd.m3u8?auth_key=1693044669-0-0-27f69718918f9d3ea77d113cee32ccba&edge_slice=true&sub_m3u8=true&user_session_id=a06643e7367a4af472651c61420a5088",
