@@ -120,19 +120,19 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Bochum.gif",
 "hteam": "Dortmund",
-"time": " 8:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/dortmund.png",
 "ateam": "Bochum",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8",
 "trylink": ""
 },
 {
