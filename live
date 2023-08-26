@@ -198,26 +198,6 @@
 "ateam": "Koln",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
 "livelink": "https://pull01.rrwes.live/live/stream-427562_lhd.m3u8?txSecret=75b390c85dc3fefbfea85460dd1a3563&txTime=64ea100b",
 "trylink": ""
