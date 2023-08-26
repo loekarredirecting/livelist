@@ -9,19 +9,19 @@
 "ateam": "Bournemouth",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "https://livecdn-001.rumsport.com/stream2/2/stream2/2_fhd/audio_fmp4_dvr.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
 "type": "Super Sports FHD",
 "livelink": "https://catchystream.xyz/playlist/stream_1.m3u8",
 "trylink": "0"
 },
 {
-"type": "English 2 HD",
+"type": "English 1 HD",
 "livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
 "trylink": "0"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://play2-cf.ddi2ank3.cc/auth%3D8b25b90636564dc7435ad63a9479ee46c539c7b45d1e90b0f1795233f11c40d954038568f9f868ac2d95bb54ca079b481cfb13093c25e5064e6e400de810c4fa9ccab9f571eaebab7c85b0af59c7347dbadbe11e6ce1f8d83e9c168271ce6dbd8678346de893d9fcd2511211b089b454616f22081835b24a7fe8cf14a4a8acc4%26cid%3DuJqX9WljbwP5ztnzA6pkX230823%26_v%3D2%26_r%3DNxNetU%26_vis%3D1c21740c2d69d1da2f1009cdb0666d000b4d065d1b18cbc3484964b1201b2a8a%26_vvs%3D6ef437191e0d3850f9956c863db5e119810e871c86226d75b9dfaa0f5b3fdf0e/app/c198647.m3u8",
+"trylink": "https://us.808scoretv.com/"
 },
 {
 "type": "English 3 HD",
