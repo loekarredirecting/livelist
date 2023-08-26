@@ -9,6 +9,11 @@
 "ateam": "Brighton",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/2/stream2/2_hd/video_fmp4_dvr.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "English 1 HD",
 "livelink": "https://fre1.freesport.info/playlist/stream_1.m3u8",
 "trylink": "https://www.freesport.info/"
