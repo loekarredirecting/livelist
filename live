@@ -204,21 +204,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/granada.png",
 "hteam": "Mallorca",
-"time": " 12:00 AM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "ateam": "Granada",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "Soco HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911994_lhd.m3u8?auth_key=1693043731-0-0-f2b64d66479bceb7922a4c7c6add22a9&edge_slice=true&user_session_id=5758aee477bde26f92e5d0cef4a2aba3&sub_m3u8=true",
