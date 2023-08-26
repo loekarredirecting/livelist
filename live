@@ -1,148 +1,6 @@
 [
 {
 "league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/manchesterunited.png",
-"hteam": "Nottingham",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
-"ateam": "Man United",
-"link": [
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream/2/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn-001.rumsport.com/stream2/2/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Super Sports FHD",
-"livelink": "https://livenflstream.xyz/playlist/stream_4.m3u8",
-"trylink": "0"
-},
-{
-"type": "English 1 FHD",
-"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
-"trylink": "0"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://b7i4j3n3.stackpathcdn.com/loord697/1693056167/src/live.m3u8",
-"trylink": "0"
-},
-{
-"type": "360 SD",
-"livelink": "https://ssss79.jokerplayer7.online:8081/live/premier1.m3u8?e=1693065184&st=S6gRy4kIcGvAxos5_UX5jQ",
-"trylink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723319_lhd.m3u8?auth_key=1693044729-0-0-24ec16eceb09f83151fdcc128a916c13&user_session_id=adc5ba6dd2ea5a94c9cacabfb231ba18&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-723319_lsd.m3u8?auth_key=1693044729-0-0-24ec16eceb09f83151fdcc128a916c13&user_session_id=adc5ba6dd2ea5a94c9cacabfb231ba18&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911994_lhd.m3u8?auth_key=1693042351-0-0-af19dd0b745d13c0feaa0b5547a99cda&user_session_id=c0eb524563a0f4d89e78396ad359363a&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911994_lsd.m3u8?auth_key=1693042351-0-0-af19dd0b745d13c0feaa0b5547a99cda&user_session_id=c0eb524563a0f4d89e78396ad359363a&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/arsenal.png",
-"hteam": "Fulham",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://mygoaltv.xyz//team/fulham.png",
-"ateam": "Arsenal",
-"link": [
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream/27/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn-001.rumsport.com/stream2/27/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Super Sports FHD",
-"livelink": "https://trgoals.m3u8gala.store/yayinch9.m3u8",
-"trylink": "https://yehfullhd.live/"
-},
-{
-"type": "English 1 FHD",
-"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "English HD",
-"livelink": "https://livenflstream.xyz/playlist/stream_1.m3u8",
-"trylink": "0"
-},
-{
-"type": "360 SD",
-"livelink": "https://ssss79.jokerplayer7.online:8081/live/usanet.m3u8?e=1693066978&st=cCxQkI6TLIs6W2faVYRnuQ",
-"trylink": "0"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?auth_key=1693044848-0-0-98298ff7677dab40d97125cefbbf48a5&edge_slice=true&sub_m3u8=true&user_session_id=f12ab6ac696c7c2aee34f59cf06ab81d",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lsd.m3u8?auth_key=1693044848-0-0-98298ff7677dab40d97125cefbbf48a5&edge_slice=true&sub_m3u8=true&user_session_id=f12ab6ac696c7c2aee34f59cf06ab81d",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911992_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6ac8893533776aa93d26c6a9460976cf&auth_key=1693042471-0-0-03a4ec3687cd293ec5e4ccd3a5290f50",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911992_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6ac8893533776aa93d26c6a9460976cf&auth_key=1693042471-0-0-03a4ec3687cd293ec5e4ccd3a5290f50",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Brentford.png",
 "hteam": "Crystal Palace",
 "time": " live ",
@@ -242,6 +100,26 @@
 "aimg": "https://mygoaltv.xyz//team/westham.png",
 "ateam": "Brighton",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://fre1.freesport.info/playlist/stream_1.m3u8",
+"trylink": "https://www.freesport.info/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://asbsyd.com/hls/0016.m3u8",
+"trylink": "https://reditsports.com/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8",
+"trylink": ""
+},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&user_session_id=f25e9fb2c4699e35a071352fea5432bc&sub_m3u8=true&auth_key=1693044249-0-0-3615f49519424d2a05ed5ed1cae35625",
