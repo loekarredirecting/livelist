@@ -275,19 +275,19 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchesterunited.png",
 "hteam": "Nottingham",
-"time": " 8:30 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "ateam": "Man United",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -316,8 +316,8 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/arsenal.png",
 "hteam": "Fulham",
-"time": " 8:30 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/fulham.png",
 "ateam": "Arsenal",
 "link": [
@@ -357,8 +357,8 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Brentford.png",
 "hteam": "Crystal Palace",
-"time": " 8:30 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "ateam": "Brentford",
 "link": [
@@ -398,8 +398,8 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/everton.png",
 "hteam": "Wolverhampton",
-"time": " 8:30 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "ateam": "Everton",
 "link": [
