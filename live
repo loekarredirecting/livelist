@@ -19,6 +19,11 @@
 "trylink": "0"
 },
 {
+"type": "VIP English HD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/stream/3390_hd/chunks.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "English 1 HD",
 "livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
 "trylink": "0"
@@ -43,11 +48,7 @@
 "livelink": "https://n11.aliflailaaliflaila.com/hls/do4-1554.ts",
 "trylink": "https://dofu.live/"
 },
-{
-"type": "VIP English HD",
-"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/stream/3390_hd/chunks.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
+
 {
 "type": "360 SD",
 "livelink": "https://ssss79.jokerplayer7.online:8081/live/usanet.m3u8?e=1693055554&st=rU1Isi-2qau8KUxbTLHIFg",
