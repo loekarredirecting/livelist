@@ -237,21 +237,11 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "West Ham",
-"time": " 11:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/westham.png",
 "ateam": "Brighton",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&user_session_id=f25e9fb2c4699e35a071352fea5432bc&sub_m3u8=true&auth_key=1693044249-0-0-3615f49519424d2a05ed5ed1cae35625",
@@ -278,21 +268,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Frosinone_Calcio.png",
 "hteam": "Atalanta",
-"time": " 11:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Atalanta.png",
 "ateam": "Frosinone",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693044909-0-0-c1ddabc7872c5566f447c70f224286a7&user_session_id=09e0ba9d536f3f51a862524481607433",
@@ -319,21 +299,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/ac-monza.png",
 "hteam": "Empoli",
-"time": " 11:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Empoli.gif",
 "ateam": "Monza",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lhd.m3u8?edge_slice=true&user_session_id=9a6c9b606a4a57c1648dec3499b2db37&auth_key=1693045209-0-0-948a28f27653ba01395c3c44e39f0709&sub_m3u8=true",
@@ -360,19 +330,19 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
 "hteam": "Leverkusen",
-"time": " 11:00 PM ",
-"date": "2023-08-26",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Leverkusen.png",
 "ateam": "Monchengladbach",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": ""
 },
 {
