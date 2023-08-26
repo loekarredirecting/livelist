@@ -253,13 +253,18 @@
 "link": [
 {
 "type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream2/27/stream2/27_hd/video_fmp4_dvr.m3u8",
+"livelink": "https://livecdn-001.rumsport.com/stream/27/index.fmp4.m3u8",
 "trylink": "https://live-streamfootball.com/"
 },
 {
 "type": "Super Sports FHD",
 "livelink": "https://storage.googleapis.com/akmdlazgsa/mux_video_ts/index-1.m3u8",
 "trylink": "0"
+},
+{
+"type": "English 1 FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
 },
 {
 "type": "English HD",
