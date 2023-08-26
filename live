@@ -205,6 +205,12 @@
 "trylink": "0"
 },
 {
+"type": "English FHD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
+"trylink": "0"
+},
+
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
@@ -253,6 +259,11 @@
 {
 "type": "Super Sports FHD",
 "livelink": "https://storage.googleapis.com/akmdlazgsa/mux_video_ts/index-1.m3u8",
+"trylink": "0"
+},
+{
+"type": "English HD",
+"livelink": "https://catchystream.xyz/playlist/stream_1.m3u8",
 "trylink": "0"
 },
 {
