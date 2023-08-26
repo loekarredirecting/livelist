@@ -1,5 +1,4 @@
 [
-
 {
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
@@ -705,6 +704,129 @@
 "date": "2023-08-27",
 "aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "ateam": "Hellas Verona",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/acmilan.png",
+"hteam": "Torino",
+"time": " 1:15 AM ",
+"date": "2023-08-27",
+"aimg": "https://mygoaltv.xyz//team/Torino.png",
+"ateam": "AC Milan",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://mygoaltv.xyz//team/psg.png",
+"hteam": "Lens",
+"time": " 1:30 AM ",
+"date": "2023-08-27",
+"aimg": "https://mygoaltv.xyz//team/Lens.png",
+"ateam": "Paris Saint-Germain",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Sevilla.png",
+"hteam": "Girona",
+"time": " 2:00 AM ",
+"date": "2023-08-27",
+"aimg": "https://mygoaltv.xyz//team/Girona.png",
+"ateam": "Sevilla",
 "link": [
 {
 "type": "Vietnam HD",
