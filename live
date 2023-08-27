@@ -91,6 +91,11 @@
 "ateam": "Newcastle United",
 "link": [
 {
+"type": "Super HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-y39mp1h0l88emoj/chunklist_w885799004.m3u8",
+"trylink": "0"
+},
+{
 "type": "K+ Sports  HD",
 "livelink": "https://livecdn-001.rumsport.com/stream2/2/index.fmp4.m3u8",
 "trylink": "https://live-streamfootball.com/"
