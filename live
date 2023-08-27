@@ -217,19 +217,29 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Juventus.png",
 "hteam": "Bologna",
-"time": " 11:00 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Bologna.png",
 "ateam": "Juventus",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://m4iswbjnhzrz.fordems.live/live/for-dems4/chunks.m3u8",
+"trylink": "0"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-4/chunks.m3u8",
+"trylink": "0"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -258,19 +268,19 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "hteam": "Lecce",
-"time": " 11:00 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/lecce.png",
 "ateam": "Fiorentina",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English HD",
+"livelink": "https://sports.freesport.info/playlist/stream_4.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
+"type": "English HD",
+"livelink": "https://usa.raino.xyz/hls/stream10.m3u8",
 "trylink": ""
 },
 {
