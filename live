@@ -142,6 +142,16 @@
 "ateam": "Villarreal",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://m4iswbjnhzrz.fordems.live/live/for-dems2/chunks.m3u8",
+"trylink": "0"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-2/chunks.m3u8",
+"trylink": "0"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
@@ -182,6 +192,16 @@
 "aimg": "https://mygoaltv.xyz//team/augsburg.png",
 "ateam": "Bayern Munich",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://m4iswbjnhzrz.fordems.live/live/for-dems3/chunks.m3u8",
+"trylink": "0"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-3/chunks.m3u8",
+"trylink": "0"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
