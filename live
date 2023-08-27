@@ -9,6 +9,11 @@
 "ateam": "Rennes",
 "link": [
 {
+"type": "Sports HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-1l4rjnhjwnn3m7v/chunklist_w1271743175.m3u8",
+"trylink": "0"
+},
+{
 "type": "English  FHD",
 "livelink": "https://livecdn-001.rumsport.com/stream2/15/index.fmp4.m3u8",
 "trylink": "https://live-streamfootball.com/"
