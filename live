@@ -65,6 +65,16 @@
 "trylink": "https://live-streamfootball.com/"
 },
 {
+"type": "English 1 FHD",
+"livelink": "https://asbsyd.com/hls/0011.m3u8",
+"trylink": "https://reditsports.com/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://83nzh7qpaxswin.sharecast.ws/hls/8a0612e86c60dcb8-ecaa21ca7c036b12e4bdb54095b38444c8abf00b9043a8a0b092363773658b18/live.m3u8",
+"trylink": "https://sharecast.ws/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
@@ -105,6 +115,16 @@
 "aimg": "https://mygoaltv.xyz//team/astonvilla.png",
 "ateam": "Burnley",
 "link": [
+{
+"type": "K+ Sports  FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/9/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports  HD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/9/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
