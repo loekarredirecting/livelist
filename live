@@ -76,12 +76,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911993_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693143632-0-0-9dd08bd5b902e380060ba13b72344900&user_session_id=e8032b2d91313b5369294cb36c9254e5",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911993_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693143632-0-0-9dd08bd5b902e380060ba13b72344900&user_session_id=e8032b2d91313b5369294cb36c9254e5",
 "trylink": ""
 }
 ]
@@ -117,12 +117,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=c36551103a72442ffdb77a64fc3cd715&txTime=64eb98a0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=c36551103a72442ffdb77a64fc3cd715&txTime=64eb98a0",
 "trylink": ""
 }
 ]
@@ -148,12 +148,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=8f59c62f984e22c0a096bff5e2037128&txTime=64eb98db",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-192778_lsd.m3u8?txSecret=8f59c62f984e22c0a096bff5e2037128&txTime=64eb98db",
 "trylink": ""
 }
 ]
@@ -179,12 +179,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-279893_lhd.m3u8?txSecret=5523c87777ec80b9117fe165139adc40&txTime=64eb9954",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-279893_lsd.m3u8?txSecret=5523c87777ec80b9117fe165139adc40&txTime=64eb9954",
 "trylink": ""
 }
 ]
@@ -210,12 +210,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911972_lhd.m3u8?user_session_id=f94e2ddf557b2fe2872c1a7b6e569f31&sub_m3u8=true&edge_slice=true&auth_key=1693143751-0-0-240ebfce6814c3133f200e9eea3744a6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://d83e8dc9b3450f5a2962a7b324817603.livehwc3.cn/pull06.scstream.net/live/stream-9911972_lsd.m3u8?user_session_id=f94e2ddf557b2fe2872c1a7b6e569f31&sub_m3u8=true&edge_slice=true&auth_key=1693143751-0-0-240ebfce6814c3133f200e9eea3744a6",
 "trylink": ""
 }
 ]
