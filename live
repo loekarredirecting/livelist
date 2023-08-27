@@ -274,13 +274,13 @@
 "ateam": "Fiorentina",
 "link": [
 {
-"type": "English HD",
-"livelink": "https://sports.freesport.info/playlist/stream_4.m3u8",
+"type": "English FHD",
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-318q66h69ko5qo9/chunklist_w24777368.m3u8",
 "trylink": ""
 },
 {
 "type": "English HD",
-"livelink": "https://usa.raino.xyz/hls/stream10.m3u8",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-318q66h69ko5qo9/chunklist_w1611772515.m3u8",
 "trylink": ""
 },
 {
@@ -356,16 +356,6 @@
 "ateam": "Lazio",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?edge_slice=true&user_session_id=005d0bbfd0be34b997b7af9d76e75e1b&auth_key=1693149309-0-0-9712a1472397b9d0a4ebfcf086c069c0&sub_m3u8=true",
 "trylink": ""
@@ -396,16 +386,6 @@
 "aimg": "https://mygoaltv.xyz//team/sassuolo.png",
 "ateam": "Napoli",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?user_session_id=3191f6720496854fbf6ce6ae9635aa0f&auth_key=1693149609-0-0-cf5725685d4ee9773777e2ec22d6a996&edge_slice=true&sub_m3u8=true",
@@ -438,16 +418,6 @@
 "ateam": "Nice",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698313_lhd.m3u8?user_session_id=01b795a5ab509e1bdf56de1953d42491&sub_m3u8=true&edge_slice=true&auth_key=1693149489-0-0-dab88464d0d0012bb9b70e66c33a907c",
 "trylink": ""
@@ -478,16 +448,6 @@
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Athletic Bilbao",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-535241_lhd.m3u8?user_session_id=70c18893828c3f2ddfd801a24e48d826&edge_slice=true&sub_m3u8=true&auth_key=1693149669-0-0-92010b45da6a0879f8dcb6c118f27a34",
