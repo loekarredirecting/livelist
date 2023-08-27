@@ -49,29 +49,29 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
 "hteam": "Manchester City",
-"time": " 7:30 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/manchestercity.png",
 "ateam": "Sheffield United",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?auth_key=1693143309-0-0-5a8429a31ebfb263c42db24d2d17839f&sub_m3u8=true&edge_slice=true&user_session_id=5d9eb431ea1a94be97110fed99959bbf",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?auth_key=1693143309-0-0-5a8429a31ebfb263c42db24d2d17839f&sub_m3u8=true&edge_slice=true&user_session_id=5d9eb431ea1a94be97110fed99959bbf",
 "trylink": ""
 },
 {
@@ -90,29 +90,29 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Burnley.gif",
 "hteam": "Aston Villa",
-"time": " 7:30 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/astonvilla.png",
 "ateam": "Burnley",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?auth_key=1693143189-0-0-2f11947afc921f79e42f955eaf80c266&edge_slice=true&sub_m3u8=true&user_session_id=e9a4d18f44c506bf5a11ed7e3bbf197c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?auth_key=1693143189-0-0-2f11947afc921f79e42f955eaf80c266&edge_slice=true&sub_m3u8=true&user_session_id=e9a4d18f44c506bf5a11ed7e3bbf197c",
 "trylink": ""
 },
 {
@@ -131,29 +131,19 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/clermont.png",
 "hteam": "Metz",
-"time": " 7:30 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Metz.gif",
 "ateam": "Clermont",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?user_session_id=23e0448581f8c0d886f9d95dfc388f54&edge_slice=true&sub_m3u8=true&auth_key=1693143379-0-0-71dc39079bf48cffa174521dce304940",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lsd.m3u8?user_session_id=23e0448581f8c0d886f9d95dfc388f54&edge_slice=true&sub_m3u8=true&auth_key=1693143379-0-0-71dc39079bf48cffa174521dce304940",
 "trylink": ""
 },
 {
@@ -172,29 +162,19 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/strasbourg.png",
 "hteam": "Toulouse",
-"time": " 7:30 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Toulouse.png",
 "ateam": "Strasbourg",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-563534_lhd.m3u8?auth_key=1693143489-0-0-92f188d10dd0384b78269ca74aa1956a&user_session_id=a53a1d3c66f95cd56fc000dbfa9cbee1&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-563534_lsd.m3u8?auth_key=1693143489-0-0-92f188d10dd0384b78269ca74aa1956a&user_session_id=a53a1d3c66f95cd56fc000dbfa9cbee1&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -213,29 +193,19 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Montpellier.png",
 "hteam": "Reims",
-"time": " 7:30 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/reims.png",
 "ateam": "Montpellier",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-535241_lhd.m3u8?user_session_id=807b417989b907d6346482bb84cc36da&sub_m3u8=true&auth_key=1693143429-0-0-f50943dd31d98f2eb3fe41ef4a4be8fb&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-535241_lsd.m3u8?user_session_id=807b417989b907d6346482bb84cc36da&sub_m3u8=true&auth_key=1693143429-0-0-f50943dd31d98f2eb3fe41ef4a4be8fb&edge_slice=true",
 "trylink": ""
 },
 {
