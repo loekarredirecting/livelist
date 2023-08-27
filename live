@@ -1,46 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Lorient.png",
-"hteam": "Lille",
-"time": " live ",
-"date": "9:35 PM",
-"aimg": "https://mygoaltv.xyz//team/lille.png",
-"ateam": "Lorient",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may9/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1693148949-0-0-f07be81c63d6e97bc1ea4889e3ef017f&edge_slice=true&sub_m3u8=true&user_session_id=0735386927a46de0b47a08bccd5961f7",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1693148949-0-0-f07be81c63d6e97bc1ea4889e3ef017f&edge_slice=true&sub_m3u8=true&user_session_id=0735386927a46de0b47a08bccd5961f7",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull06.scstream.net/live/stream-479849_lhd.m3u8?auth_key=1693150412-0-0-b0d149aef85c3d3ebec09a58884c0718",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull06.scstream.net/live/stream-479849_lsd.m3u8?auth_key=1693150412-0-0-b0d149aef85c3d3ebec09a58884c0718",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/newcastle.png",
 "hteam": "Liverpool",
