@@ -55,6 +55,11 @@
 "ateam": "Sheffield United",
 "link": [
 {
+"type": "English  FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/2/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
