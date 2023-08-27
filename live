@@ -1,46 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Mainz_05.png",
-"hteam": "Frankfurt",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
-"ateam": "Mainz 05",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?user_session_id=11ff0e235b7199f6cb5fbc7f75b1f49d&sub_m3u8=true&auth_key=1693146249-0-0-25704e25e514df4f2212082cc3a1bed6&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?user_session_id=11ff0e235b7199f6cb5fbc7f75b1f49d&sub_m3u8=true&auth_key=1693146249-0-0-25704e25e514df4f2212082cc3a1bed6&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1693146271-0-0-0a7a945d0a7eb3cdeac3ca2a7f209e34&sub_m3u8=true&user_session_id=b35f618e10cc24717dcdb8d49c48092d&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-106737_lsd.m3u8?auth_key=1693146271-0-0-0a7a945d0a7eb3cdeac3ca2a7f209e34&sub_m3u8=true&user_session_id=b35f618e10cc24717dcdb8d49c48092d&edge_slice=true",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Lorient.png",
 "hteam": "Lille",
@@ -91,6 +50,16 @@
 "ateam": "Newcastle United",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://storage.googleapis.com/linuceovo1/mux_video_ts/index-1.m3u8",
+"trylink": "0"
+},
+{
+"type": "Sky Sports HD",
+"livelink": "https://storage.googleapis.com/pjxrbneiix/mux_video_ts/index-1.m3u8",
+"trylink": "0"
+},
+{
 "type": "Super HD",
 "livelink": "https://179720687.global.cdnfastest.com/live/sd-y39mp1h0l88emoj/chunklist_w885799004.m3u8",
 "trylink": "0"
@@ -104,11 +73,6 @@
 "type": "K+ Sports  FHD",
 "livelink": "https://livecdn-001.rumsport.com/stream/2/index.fmp4.m3u8",
 "trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "English HD",
-"livelink": "https://storage.googleapis.com/linuceovo1/mux_video_ts/index-1.m3u8",
-"trylink": "0"
 },
 {
 "type": "Sky Sports HD",
