@@ -309,19 +309,19 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Valencia.png",
 "hteam": "Osasuna",
-"time": " 12:00 AM ",
-"date": "2023-08-28",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/osasuna.png",
 "ateam": "Valencia",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -350,8 +350,8 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/lazio.png",
 "hteam": "Genoa",
-"time": " 1:15 AM ",
-"date": "2023-08-28",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Genoa.png",
 "ateam": "Lazio",
 "link": [
@@ -381,8 +381,8 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/napoli.png",
 "hteam": "Sassuolo",
-"time": " 1:15 AM ",
-"date": "2023-08-28",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/sassuolo.png",
 "ateam": "Napoli",
 "link": [
@@ -412,8 +412,8 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Nice.png",
 "hteam": "Lyon",
-"time": " 1:15 AM ",
-"date": "2023-08-28",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/lyon.png",
 "ateam": "Nice",
 "link": [
@@ -443,8 +443,8 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
 "hteam": "Betis",
-"time": " 2:00 AM ",
-"date": "2023-08-28",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Athletic Bilbao",
 "link": [
