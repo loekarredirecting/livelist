@@ -3,39 +3,29 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/rennes.png",
 "hteam": "Le Havre",
-"time": " 5:30 PM ",
-"date": "2023-08-27",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Le-Havre.png",
 "ateam": "Rennes",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-563534_lhd.m3u8?user_session_id=854eec1b6c10b07a70a916096e22d3e8&edge_slice=true&sub_m3u8=true&auth_key=1693136169-0-0-e43028ca4fff640ef026f2a8121788ac",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-563534_lsd.m3u8?user_session_id=854eec1b6c10b07a70a916096e22d3e8&edge_slice=true&sub_m3u8=true&auth_key=1693136169-0-0-e43028ca4fff640ef026f2a8121788ac",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911976_lhd.m3u8?auth_key=1693136311-0-0-e5f88924d33d6dd6657e5b76959e7591&sub_m3u8=true&user_session_id=04b76174e63c57787e650286d084f417&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9911976_lsd.m3u8?auth_key=1693136311-0-0-e5f88924d33d6dd6657e5b76959e7591&sub_m3u8=true&user_session_id=04b76174e63c57787e650286d084f417&edge_slice=true",
 "trylink": ""
 }
 ]
