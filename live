@@ -80,19 +80,19 @@
 "league": " Saudi Professional League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
 "hteam": "Al-Ettifaq",
-"time": " 12:30 AM ",
-"date": "2023-08-29",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101915_small.png",
 "ateam": "Al-Hilal",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/myFHD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/mySD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -111,21 +111,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/cagliari.png",
 "hteam": "Inter Milan",
-"time": " 1:15 AM ",
-"date": "2023-08-29",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "Cagliari",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?auth_key=1693238769-0-0-7c80da39dd8b4a369ac3ff7a0be1730f&user_session_id=4b3051e73818239825006f1f19dad428&edge_slice=true&sub_m3u8=true",
@@ -152,21 +142,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "hteam": "Atletico Madrid",
-"time": " 2:00 AM ",
-"date": "2023-08-29",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "Rayo Vallecano",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1693238829-0-0-c7f0e562591b3e02b35a7cb258b32163&edge_slice=true&user_session_id=9d48415040538e359a36beb69e4371ca&sub_m3u8=true",
