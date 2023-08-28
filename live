@@ -20,22 +20,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5e0a3e4fb42060f6182b762d2b2813a6&auth_key=1693225029-0-0-6014662efdc140d330ea9883644046c7",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=5e0a3e4fb42060f6182b762d2b2813a6&auth_key=1693225029-0-0-6014662efdc140d330ea9883644046c7",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912019_lhd.m3u8?auth_key=1693224751-0-0-5f7d75a52547476a6b5d4b90d63164ba&sub_m3u8=true&user_session_id=2ea5fcdb4cb506a7556efc6b9860e90d&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912019_lsd.m3u8?auth_key=1693224751-0-0-5f7d75a52547476a6b5d4b90d63164ba&sub_m3u8=true&user_session_id=2ea5fcdb4cb506a7556efc6b9860e90d&edge_slice=true",
 "trylink": ""
 }
 ]
@@ -97,16 +97,6 @@
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
 "livelink": "0",
 "trylink": ""
 },
@@ -194,12 +184,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912019_lhd.m3u8?user_session_id=e1f1984087674c6395a426f210ac82d3&edge_slice=true&auth_key=1693224871-0-0-ab83bc386c2da9001a2385a637de7add&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912019_lsd.m3u8?user_session_id=e1f1984087674c6395a426f210ac82d3&edge_slice=true&auth_key=1693224871-0-0-ab83bc386c2da9001a2385a637de7add&sub_m3u8=true",
 "trylink": ""
 }
 ]
