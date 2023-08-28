@@ -44,21 +44,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Getafe.png",
 "hteam": "Alaves",
-"time": " 12:00 AM ",
-"date": "2023-08-29",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Alaves.png",
 "ateam": "Getafe",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&auth_key=1693238649-0-0-7e4a6e9503fbcc0871deebb6c70ed974&user_session_id=a956d574f8407ea175b7f72d37517dc6&sub_m3u8=true",
