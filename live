@@ -54,29 +54,19 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/swansea.png",
 "hteam": "Bournemouth",
-"time": " 1:00 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Bournemouth.gif",
 "ateam": "Swansea City",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912024_lhd.m3u8?auth_key=1693336472-0-0-dfcc6da1da8365a027f99135b5202390&edge_slice=true&sub_m3u8=true&user_session_id=1052dc8bca07828e5f60032e3be9c5a1",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912024_lsd.m3u8?auth_key=1693336472-0-0-dfcc6da1da8365a027f99135b5202390&edge_slice=true&sub_m3u8=true&user_session_id=1052dc8bca07828e5f60032e3be9c5a1",
 "trylink": ""
 }
 ]
