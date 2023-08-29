@@ -75,19 +75,19 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/fulham.png",
 "hteam": "Tottenham",
-"time": " 1:15 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/tottenham.png",
 "ateam": "Fulham",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -116,8 +116,8 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/newport-county.png",
 "hteam": "Brentford",
-"time": " 1:15 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Brentford.png",
 "ateam": "Newport County",
 "link": [
@@ -137,8 +137,8 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/Plymouth_Argyle.png",
 "hteam": "Crystal Palace",
-"time": " 1:15 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "ateam": "Plymouth Argyle",
 "link": [
@@ -168,8 +168,8 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "hteam": "Blackpool",
-"time": " 1:15 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Blackpool.gif",
 "ateam": "Wolverhampton",
 "link": [
@@ -199,8 +199,8 @@
 "league": " League Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8313_small.png",
 "hteam": "Leicester",
-"time": " 1:15 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
 "ateam": "Tranmere Rovers",
 "link": [
