@@ -135,11 +135,6 @@
 "type": "Eng HD",
 "livelink": "https://m3u8gala.store/chunklist/hugach12.m3u8",
 "trylink": "https://yehfullhd.live/"
-},
-{
-"type": "Eng 2 HD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -152,16 +147,6 @@
 "aimg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "ateam": "Plymouth Argyle",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-579943_lhd.m3u8?user_session_id=7f936aedaeaae8a3f4077024e0063276&edge_slice=true&sub_m3u8=true&auth_key=1693337289-0-0-348337478b299099c771c297f8974cda",
@@ -183,16 +168,6 @@
 "aimg": "https://mygoaltv.xyz//team/Blackpool.gif",
 "ateam": "Wolverhampton",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?edge_slice=true&auth_key=1693335309-0-0-67e656d574969b4df4a089035b8332f5&sub_m3u8=true&user_session_id=bb2f05d819644f4a345cfb7dac47ce57",
@@ -218,11 +193,6 @@
 "type": "Eng HD",
 "livelink": "https://m3u8gala.store/chunklist/hugach9.m3u8",
 "trylink": "https://yehfullhd.live/"
-},
-{
-"type": "Eng 1 HD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -230,29 +200,19 @@
 "league": " League Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/282326_small.png",
 "hteam": "Leeds",
-"time": " 1:30 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8463_small.png",
 "ateam": "Salford",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-265460_lhd.m3u8?auth_key=1693338609-0-0-a798dd10afa9dcd2b834589e90a46ff5&user_session_id=ad0725b9b53250f15c4d0d2561cd8744&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-265460_lsd.m3u8?auth_key=1693338609-0-0-a798dd10afa9dcd2b834589e90a46ff5&user_session_id=ad0725b9b53250f15c4d0d2561cd8744&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
