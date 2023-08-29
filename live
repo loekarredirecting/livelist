@@ -154,12 +154,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-579943_lhd.m3u8?user_session_id=7f936aedaeaae8a3f4077024e0063276&edge_slice=true&sub_m3u8=true&auth_key=1693337289-0-0-348337478b299099c771c297f8974cda",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-579943_lsd.m3u8?user_session_id=7f936aedaeaae8a3f4077024e0063276&edge_slice=true&sub_m3u8=true&auth_key=1693337289-0-0-348337478b299099c771c297f8974cda",
 "trylink": ""
 }
 ]
@@ -261,19 +261,19 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/Young-Boys.gif",
 "hteam": "Maccabi Haifa",
-"time": " 1:30 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/maccabi_haifa.png",
 "ateam": "Young Boys",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -302,19 +302,19 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/Galatasaray.png",
 "hteam": "Molde FK",
-"time": " 1:30 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/molde-FK.png",
 "ateam": "Galatasaray",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/cuonSD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -343,19 +343,19 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/Panathinaikos.gif",
 "hteam": "Sporting Braga",
-"time": " 1:30 AM ",
-"date": "2023-08-30",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Sporting-Braga.png",
 "ateam": "Panathinaikos",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/trauSD/chunklist.m3u8",
 "trylink": ""
 },
 {
