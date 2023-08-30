@@ -220,21 +220,11 @@
 "league": " MLS League ",
 "himg": "https://mygoaltv.xyz//team/inter_miami.png",
 "hteam": "Nashville SC",
-"time": " 6:00 AM ",
-"date": "2023-08-31",
+"time": " live ",
+"date": "6:00 AM",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "Inter Miami",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?user_session_id=ac92cc2016e0fc554cc4f41d6112e45b&edge_slice=true&sub_m3u8=true&auth_key=1693413669-0-0-cba949cc10e21e156183eb709b134f7f",
