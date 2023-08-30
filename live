@@ -40,16 +40,6 @@
 "ateam": "Nottingham Forest",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?user_session_id=a05a92da89a5070d25a630d8ef134993&auth_key=1693413249-0-0-2f96b3a3f3061fe0d7c088ea0d375e3c&edge_slice=true&sub_m3u8=true",
 "trylink": ""
@@ -71,23 +61,13 @@
 "ateam": "Sheffield United",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lhd.m3u8?auth_key=1693424709-0-0-2d31d290602981196872d49ee78d1c7a&user_session_id=6382938160dbdf6cea9fa09d8ef4e669&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-6892349_lsd.m3u8?auth_key=1693424709-0-0-2d31d290602981196872d49ee78d1c7a&user_session_id=6382938160dbdf6cea9fa09d8ef4e669&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 }
 ]
@@ -96,19 +76,19 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/copenhagen.png",
 "hteam": "Rakow Czestochowa",
-"time": " 1:30 AM ",
-"date": "2023-08-31",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "Copenhagen",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3SD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -120,16 +100,6 @@
 "type": "China SD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1693413429-0-0-6169bf74a71cdc5cd5543f3a87dccf51&edge_slice=true&sub_m3u8=true&user_session_id=a02e74fd704b2d9236e8448ea50acf96",
 "trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -137,21 +107,11 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/AEK_Athens.png",
 "hteam": "Royal Antwerp",
-"time": " 1:30 AM ",
-"date": "2023-08-31",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "AEK Athens",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-535241_lhd.m3u8?auth_key=1693413489-0-0-a9696cadc7954bec17b9ebd3f4667495&user_session_id=436b794b7a3d181716c5ac1cab32e7af&sub_m3u8=true&edge_slice=true",
@@ -161,16 +121,6 @@
 "type": "China SD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-535241_lsd.m3u8?auth_key=1693413489-0-0-a9696cadc7954bec17b9ebd3f4667495&user_session_id=436b794b7a3d181716c5ac1cab32e7af&sub_m3u8=true&edge_slice=true",
 "trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -178,19 +128,19 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/psv_eindhoven.png",
 "hteam": "Glasgow Rangers",
-"time": " 1:30 AM ",
-"date": "2023-08-31",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Rangers.gif",
 "ateam": "PSV Eindhoven",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -219,29 +169,19 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/Doncaster-Rovers.gif",
 "hteam": "Everton",
-"time": " 1:30 AM ",
-"date": "2023-08-31",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/everton.png",
 "ateam": "Doncaster Rovers",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
 "trylink": ""
 },
 {
