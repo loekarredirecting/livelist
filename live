@@ -3,19 +3,19 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/chelsea.png",
 "hteam": "Wimbledon",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-08-31",
 "aimg": "https://mygoaltv.xyz//team/Wimbledon_fc.png",
 "ateam": "Chelsea",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -34,8 +34,8 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "hteam": "Burnley",
-"time": " 1:15 AM ",
-"date": "2023-08-31",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Burnley.gif",
 "ateam": "Nottingham Forest",
 "link": [
@@ -65,8 +65,8 @@
 "league": " League Cup ",
 "himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
 "hteam": "Lincoln City",
-"time": " 1:15 AM ",
-"date": "2023-08-31",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Lincoln_city.png",
 "ateam": "Sheffield United",
 "link": [
