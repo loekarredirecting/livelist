@@ -65,19 +65,19 @@
 "league": " Europa League ",
 "himg": "https://mygoaltv.xyz//team/ajax.png",
 "hteam": "Ludogorets",
-"time": " 12:30 AM ",
-"date": "2023-09-1",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/ludogorets.png",
 "ateam": "Ajax",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1693504269-0-0-337c7b9ee1831ce9a7567c1d0871a6dc&user_session_id=b3b1dc8bc957c2e1f304013a1dae68b1&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1693504269-0-0-337c7b9ee1831ce9a7567c1d0871a6dc&user_session_id=b3b1dc8bc957c2e1f304013a1dae68b1&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -96,19 +96,19 @@
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/Besiktas.png",
 "hteam": "Dinamo Kiev",
-"time": " 12:30 AM ",
-"date": "2023-09-1",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/dynamo_kiev.png",
 "ateam": "Besiktas",
 "link": [
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-359236_lhd.m3u8?user_session_id=11eb4f4a956fb5d1b5ac2ff0baf1da72&sub_m3u8=true&edge_slice=true&auth_key=1693504652-0-0-155ef03f4e29efc64290eaf0f9e8607d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-359236_lsd.m3u8?user_session_id=11eb4f4a956fb5d1b5ac2ff0baf1da72&sub_m3u8=true&edge_slice=true&auth_key=1693504652-0-0-155ef03f4e29efc64290eaf0f9e8607d",
 "trylink": ""
 }
 ]
@@ -117,19 +117,19 @@
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "hteam": "Rapid Wien",
-"time": " 12:30 AM ",
-"date": "2023-09-1",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://mygoaltv.xyz//team/rapid_wien.png",
 "ateam": "Fiorentina",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lhd.m3u8?user_session_id=1f4a6ce10382c2034e9d46e0b05737a1&auth_key=1693504329-0-0-cdf994953b738bdd48d2bee51c34d0c0&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lsd.m3u8?user_session_id=1f4a6ce10382c2034e9d46e0b05737a1&auth_key=1693504329-0-0-cdf994953b738bdd48d2bee51c34d0c0&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
@@ -148,8 +148,8 @@
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/rijeka.png",
 "hteam": "Lille",
-"time": " 12:45 AM ",
-"date": "2023-09-1",
+"time": " live ",
+"date": "12:45 AM",
 "aimg": "https://mygoaltv.xyz//team/lille.png",
 "ateam": "HNK Rijeka",
 "link": [
@@ -179,29 +179,29 @@
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
 "hteam": "Levski Sofia",
-"time": " 1:00 AM ",
-"date": "2023-09-1",
+"time": " live ",
+"date": "1:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Levski-Sofia.gif",
 "ateam": "Frankfurt",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-572503_lhd.m3u8?sub_m3u8=true&user_session_id=fb9d1ffb9bae9ca4cbd075e0923ea213&edge_slice=true&auth_key=1693504449-0-0-ccbfb4a84e547606ab45b3c669313081",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-572503_lsd.m3u8?sub_m3u8=true&user_session_id=fb9d1ffb9bae9ca4cbd075e0923ea213&edge_slice=true&auth_key=1693504449-0-0-ccbfb4a84e547606ab45b3c669313081",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912029_lhd.m3u8?edge_slice=true&user_session_id=633bf24f97bdf61623a08ea324c6c8ef&auth_key=1693504712-0-0-cacb0fad08cf7af3c043a8cad282f82c&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912029_lsd.m3u8?edge_slice=true&user_session_id=633bf24f97bdf61623a08ea324c6c8ef&auth_key=1693504712-0-0-cacb0fad08cf7af3c043a8cad282f82c&sub_m3u8=true",
 "trylink": ""
 }
 ]
@@ -210,19 +210,19 @@
 "league": " Europa Conference League ",
 "himg": "https://mygoaltv.xyz//team/astonvilla.png",
 "hteam": "Hibernian",
-"time": " 1:30 AM ",
-"date": "2023-09-1",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Hibernian.gif",
 "ateam": "Aston Villa",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lhd.m3u8?user_session_id=5671ed93f7596f1e16d593e387a06c94&auth_key=1693504509-0-0-9149e447b2cdc33c30bfc6493df0094c&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lsd.m3u8?user_session_id=5671ed93f7596f1e16d593e387a06c94&auth_key=1693504509-0-0-9149e447b2cdc33c30bfc6493df0094c&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
