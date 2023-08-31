@@ -30,12 +30,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=bcfcf73c1ff8e178a5f39b58aa201dec&txTime=64f10768",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=bcfcf73c1ff8e178a5f39b58aa201dec&txTime=64f10768",
 "trylink": ""
 }
 ]
@@ -61,22 +61,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698313_lhd.m3u8?sub_m3u8=true&user_session_id=2c2806b195a3c567cb7db91ce6ab8984&edge_slice=true&auth_key=1693499409-0-0-36b6aca66a8e9a37925a458dd9c1099d",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698313_lsd.m3u8?sub_m3u8=true&user_session_id=2c2806b195a3c567cb7db91ce6ab8984&edge_slice=true&auth_key=1693499409-0-0-36b6aca66a8e9a37925a458dd9c1099d",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=01e37ecfaaab52e07ac8a2c4d12a3ec6&txTime=64f107a4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-420171_lsd.m3u8?txSecret=01e37ecfaaab52e07ac8a2c4d12a3ec6&txTime=64f107a4",
 "trylink": ""
 }
 ]
@@ -91,16 +91,6 @@
 "ateam": "Ajax",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "0",
 "trylink": ""
@@ -112,12 +102,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912014_lhd.m3u8?edge_slice=true&auth_key=1693499792-0-0-290982b299102e5cbe2eed4cb8287ec2&user_session_id=14536200696474d2bee25ead888d09b5&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912014_lsd.m3u8?edge_slice=true&auth_key=1693499792-0-0-290982b299102e5cbe2eed4cb8287ec2&user_session_id=14536200696474d2bee25ead888d09b5&sub_m3u8=true",
 "trylink": ""
 }
 ]
@@ -131,26 +121,6 @@
 "aimg": "https://mygoaltv.xyz//team/dynamo_kiev.png",
 "ateam": "Besiktas",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "Soco HD",
 "livelink": "0",
@@ -173,16 +143,6 @@
 "ateam": "Fiorentina",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "0",
 "trylink": ""
@@ -194,12 +154,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=dcdc3f48d726d4a97ef7b50a2ccf426e&txTime=64f1081c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-192778_lsd.m3u8?txSecret=dcdc3f48d726d4a97ef7b50a2ccf426e&txTime=64f1081c",
 "trylink": ""
 }
 ]
@@ -214,33 +174,23 @@
 "ateam": "HNK Rijeka",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?auth_key=1693499589-0-0-9cfe06a88d0c8ed839da19f7abb2716d&edge_slice=true&sub_m3u8=true&user_session_id=6bd507e8bce6bdf080ca8a217f35f0f9",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?auth_key=1693499589-0-0-9cfe06a88d0c8ed839da19f7abb2716d&edge_slice=true&sub_m3u8=true&user_session_id=6bd507e8bce6bdf080ca8a217f35f0f9",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-273736_lhd.m3u8?user_session_id=70d83951617f4e74e5034d3506c115e6&auth_key=1693499912-0-0-4865382216470ad9088cc28eff461979&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-273736_lsd.m3u8?user_session_id=70d83951617f4e74e5034d3506c115e6&auth_key=1693499912-0-0-4865382216470ad9088cc28eff461979&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 }
 ]
@@ -254,16 +204,6 @@
 "aimg": "https://mygoaltv.xyz//team/Levski-Sofia.gif",
 "ateam": "Frankfurt",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "0",
@@ -296,16 +236,6 @@
 "ateam": "Aston Villa",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "0",
 "trylink": ""
@@ -317,12 +247,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?edge_slice=true&auth_key=1693500032-0-0-9f7d91f1819e3863ed10631a14dc6af6&sub_m3u8=true&user_session_id=635ce25dfdadb204c4aaa9ae95924b83",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lsd.m3u8?edge_slice=true&auth_key=1693500032-0-0-9f7d91f1819e3863ed10631a14dc6af6&sub_m3u8=true&user_session_id=635ce25dfdadb204c4aaa9ae95924b83",
 "trylink": ""
 }
 ]
