@@ -234,16 +234,6 @@
 "ateam": "Luton Town",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?sub_m3u8=true&auth_key=1693568169-0-0-8d7774cca5493592abe93c8d5acfa706&user_session_id=6be8e41e4549b5f13d3c5ee18c236308&edge_slice=true",
 "trylink": ""
@@ -275,16 +265,6 @@
 "ateam": "Nantes",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689250_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=bf8f0a066bbd934f62b89dd7fc034103&auth_key=1693583829-0-0-be32aac82e88c622bb8fcd2a660f37d6",
 "trylink": ""
@@ -315,16 +295,6 @@
 "aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "ateam": "Almeria",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&auth_key=1693583529-0-0-896d810e48382cb8f372cdb34ec24de3&sub_m3u8=true&user_session_id=d69428b2a803877ed79a7007b8e7d304",
