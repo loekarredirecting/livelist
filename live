@@ -54,19 +54,19 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "hteam": "Villarreal",
-"time": " 12:00 AM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://mygoaltv.xyz//team/villarreal.png",
 "ateam": "Cadiz",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8",
 "trylink": ""
 },
 {
