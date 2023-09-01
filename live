@@ -146,19 +146,19 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/dortmund.png",
 "hteam": "Heidenheim 1846",
-"time": " 1:00 AM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "1:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Heidenheim_1846.png",
 "ateam": "Dortmund",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/chaSD/chunklist.m3u8",
 "trylink": ""
 },
 {
