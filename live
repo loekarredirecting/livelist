@@ -1,56 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/sassuolo.png",
-"hteam": "Hellas Verona",
-"time": " live ",
-"date": "11:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Verona.png",
-"ateam": "Sassuolo",
-"link": [
-{
-"type": "Live HD",
-"livelink": "https://ppping-cf.ddi2ank3.cc/auth%3Ddbd27326f53b9cdbed2408f4310d0f3440d907db54d054dff5e3b3a091839b7fc6c4ff94b85fe85501fd5e1e13c8700b0523f4658c8c91194feef00357efa8e90ba0f0331835e8db9f608df43f5bc66f8277af464d3e5a4426e71d65ecc11ee0bf363b69158a689e71c87a5aeb343ec0dc05712aae4696fa3a39ddb1551aff91ec050c809453618d3c8df62466697cb8ac610254b20107a1c37d9a9132c6ae81%26cid%3DQfAa1mQ6RvS1xHoz1_cWY230831%26_v%3D2%26_r%3DJ_2f8S%26_vis%3D2b3cf45dc1c8251d47056f4e5dd84ef8a6eea0f1ddd0d0b441105e0c99ccf6e2%26_vvs%3D8b7d21c716bb4716bef9047f5b05d40fc18da25af55b6ec4e105a32200962343/app/c199929.m3u8",
-"trylink": "https://play2.score808pro.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream2/15/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?auth_key=1693568169-0-0-8d7774cca5493592abe93c8d5acfa706&edge_slice=true&sub_m3u8=true&user_session_id=0d867ac683385fef8881d54316e47860",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?auth_key=1693568169-0-0-8d7774cca5493592abe93c8d5acfa706&edge_slice=true&sub_m3u8=true&user_session_id=0d867ac683385fef8881d54316e47860",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912015_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693583072-0-0-0386f1bf45469ccd18eaaf7c39cbbcef&user_session_id=5755ec7dc2706a8154919ae43fda9086",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912015_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1693583072-0-0-0386f1bf45469ccd18eaaf7c39cbbcef&user_session_id=5755ec7dc2706a8154919ae43fda9086",
-"trylink": ""
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
 "hteam": "Villarreal",
@@ -248,8 +197,8 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/luton-town-14.png",
 "hteam": "West Ham",
-"time": " 1:30 AM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/westham.png",
 "ateam": "Luton Town",
 "link": [
@@ -279,8 +228,8 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Nantes.png",
 "hteam": "Marseille",
-"time": " 1:30 AM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Marseille_logo.png",
 "ateam": "Nantes",
 "link": [
@@ -310,8 +259,8 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Celta Vigo",
-"time": " 2:30 AM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "ateam": "Almeria",
 "link": [
