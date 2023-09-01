@@ -187,19 +187,19 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "hteam": "AC Milan",
-"time": " 1:15 AM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "AS Roma",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "Vietnam FHD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/nenSD/chunklist.m3u8",
 "trylink": ""
 },
 {
