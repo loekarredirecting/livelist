@@ -9,6 +9,16 @@
 "ateam": "Sassuolo",
 "link": [
 {
+"type": "Live HD",
+"livelink": "0",
+"trylink": "0"
+},
+{
+"type": "English HD",
+"livelink": "https://ysxtzqgrs3t9b8ns.cdnministry.net:8443/hls/61i6q3jvgok.m3u8?s=nOgw4j-dp5RVyr1-sdVi2w&e=1693606315",
+"trylink": "https://53gld0mwc93wv7.dynamicrevival.net/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/playlist.m3u8",
 "trylink": ""
@@ -905,15 +915,15 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Alaves.png",
 "hteam": "Valencia",
-"time": " 11:00 PM ",
+"time": " live ",
 "date": "2023-09-02",
 "aimg": "https://mygoaltv.xyz//team/Valencia.png",
 "ateam": "Alaves",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://nl.score911.cc/uk_bts1/index.m3u8",
+"trylink": "https://play.azencode.com/"
 },
 {
 "type": "Vietnam SD",
