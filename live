@@ -152,6 +152,16 @@
 "ateam": "Dortmund",
 "link": [
 {
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/20/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Live HD",
+"livelink": "https://ppp3-cf.ddi2ank3.cc/auth%3D71cac8faca4dec68203178282160ad24fdfa68e43a50a3e40f3c7304416deb015540a569880e17a839abae37d607fc0a518a31f49a3b90bcb410a1a8d41b768fa62d922ac828026711de1b80fe930027b02620d58313143c1cfa51025eb895a232765f6c839307e14c0e69fb7c7b21da842b18c2384f2b023742435297d5c466121ade7cff1f74727f0dd29f4ea2ed9866e2311da4050455a90e7eed3b2cebfc%26cid%3DQfAa1mQ6RvS1xHoz1_cWY230831%26_v%3D2%26_r%3Dm-ojhF%26_vis%3Db04f554b00f040aa20cc885b9184aab4c85b9e2ace1585cb6ccbab894a5f7e16%26_vvs%3D47182abdc24fd579abd50a1268e142f1a1684fc4b2967d14f576fe45550df7a9/app/c200248.m3u8",
+"trylink": "https://play2.score808pro.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/chaFHD/chunklist.m3u8",
 "trylink": ""
@@ -192,6 +202,16 @@
 "aimg": "https://mygoaltv.xyz//team/acmilan.png",
 "ateam": "AS Roma",
 "link": [
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/15/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Live HD",
+"livelink": "0",
+"trylink": "0"
+},
 {
 "type": "Vietnam FHD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/nenFHD/chunklist.m3u8",
