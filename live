@@ -304,19 +304,19 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Brighton.gif",
 "hteam": "Newcastle United",
-"time": " 11:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/newcastle.png",
 "ateam": "Brighton",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -345,8 +345,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
 "hteam": "Bayern Munich",
-"time": " 11:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Monchengladbach",
 "link": [
@@ -386,21 +386,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Alaves.png",
 "hteam": "Valencia",
-"time": " 11:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Valencia.png",
 "ateam": "Alaves",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?user_session_id=a786e6b0cbf6a783f919da4f0b90d9a0&auth_key=1693670469-0-0-92aab504aaa6b56f88cfb48ba8191e5d&edge_slice=true&sub_m3u8=true",
@@ -427,21 +417,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Udinese.png",
 "hteam": "Frosinone",
-"time": " 11:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Frosinone_Calcio.png",
 "ateam": "Udinese",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=22526ee77c0d0ae5d33ec35e7e095b29&auth_key=1693670590-0-0-be5c5a8a4c3d66cea8e78101bf3776dd",
@@ -468,21 +448,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Bologna.png",
 "hteam": "Cagliari",
-"time": " 11:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/cagliari.png",
 "ateam": "Bologna",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689250_lhd.m3u8?user_session_id=d1c2fee682accffbece308d62f9bc0bf&auth_key=1693670650-0-0-0b9e4e2a303f12fa6ad1e644ae58ce23&edge_slice=true&sub_m3u8=true",
