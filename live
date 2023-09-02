@@ -3,19 +3,19 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
 "hteam": "Everton",
-"time": " 6:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://mygoaltv.xyz//team/everton.png",
 "ateam": "Sheffield United",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "Vietnam FHD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/phoFHD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/phoSD/chunklist.m3u8",
 "trylink": ""
 },
 {
