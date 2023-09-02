@@ -91,6 +91,16 @@
 "ateam": "Brighton",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_1.m3u8",
+"trylink": "0"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/2/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
@@ -131,6 +141,16 @@
 "aimg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "ateam": "Monchengladbach",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://webproxifiers.online/playlist/stream_e3.m3u8",
+"trylink": "0"
+},
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": "0"
+},
 {
 "type": "Vietnam HD",
 "livelink": "0",
