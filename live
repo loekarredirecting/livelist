@@ -220,6 +220,11 @@
 "trylink": "https://live-streamfootball.com/"
 },
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn-001.rumsport.com/stream/2/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Super Sports HD",
 "livelink": "https://htjngbfm.azureedge.net/live/SuperSportPremier/chunks.m3u8",
 "trylink": "https://bestsolaris.com/"
@@ -232,6 +237,11 @@
 {
 "type": "Vietnam SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/oldSD/chunklist.m3u8",
+"trylink": ""
+},
+{
+"type": "English Sports HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_4.m3u8",
 "trylink": ""
 },
 {
