@@ -1,56 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
-"hteam": "Granada",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://mygoaltv.xyz//team/granada.png",
-"ateam": "Real Sociedad",
-"link": [
-{
-"type": "True Sports FHD",
-"livelink": "https://livecdn.rumsport.com/stream/3_fhd/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Live Sports HD",
-"livelink": "https://play2-cf.ddi2ank3.cc/auth%3D1e8db204207b2279d9990ad8643a448867ff53b7e0b136664b2b30fae3b5a06693d7551dc317e02986ea50d158ad27722d6f172085df0d2afb76d13b4f83b40bfe509ae50e40e1a6f9986dc687d887e4d8d867b0fcdd448e5bbd3c075f8f74a75a989b5e3ce9eee9981998d4acf6184f734bcd819814c153371c3fbbeed4b9216d7a9f75dd12d6bbb0f2a24d71fe86d7aba973c13fba1e710638f0e1b5da75330b55bb650a005f17270c36a2d2972c9ee639e81e42aab50e9c5eff9d01685a65%26cid%3DQfAa1mQ6RvS1xHoz1_cWY230831%26_v%3D2%26_r%3Dt7GqBL%26_vis%3D6320228526519d53fa1a6344ea5237942f0357f33d66e288ea84a3c7e9186d0a%26_vvs%3Dd7e83e8262874f47e09f7b6388eb78bf3b1b3c8c4dbcf077429232fa90367dc7/app/c200681.m3u8",
-"trylink": "https://play2.score808pro.com/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2FHD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may2SD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1693659610-0-0-26ae8e7bf81ad9b8db4d5fce917dbeda&edge_slice=true&user_session_id=a83501294882c46c71cf2ae3df481e52&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1693659610-0-0-26ae8e7bf81ad9b8db4d5fce917dbeda&edge_slice=true&user_session_id=a83501294882c46c71cf2ae3df481e52&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=58ae0244f6d2a808257ebd6e6f0856ea&auth_key=1693659692-0-0-02b82e353d55aba86b58449638cc3c5b",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-991145_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=58ae0244f6d2a808257ebd6e6f0856ea&auth_key=1693659692-0-0-02b82e353d55aba86b58449638cc3c5b",
-"trylink": ""
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/augsburg.png",
 "hteam": "Bochum",
