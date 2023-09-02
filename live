@@ -276,6 +276,16 @@
 "ateam": "Chelsea",
 "link": [
 {
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/27/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://htjngbfm.azureedge.net/live/USANETWORK/chunks.m3u8",
+"trylink": "https://bestsolaris.com/"
+},
+{
 "type": "Vietnam FHD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8",
 "trylink": ""
