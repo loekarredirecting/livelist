@@ -428,21 +428,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Brest.gif",
 "hteam": "Rennes",
-"time": " 9:30 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/rennes.png",
 "ateam": "Brestois",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-489740_lhd.m3u8?edge_slice=true&auth_key=1693661590-0-0-8acabb5dd4fe865357d8da8499b156d7&user_session_id=67de521b2e9e071702d4fd5d9b9bec2d&sub_m3u8=true",
