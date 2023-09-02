@@ -1,56 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/real-madrid.png",
-"hteam": "Getafe",
-"time": " live ",
-"date": "8:45 PM",
-"aimg": "https://mygoaltv.xyz//team/Getafe.png",
-"ateam": "Real Madrid",
-"link": [
-{
-"type": "True sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/3/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "True Sports FHD",
-"livelink": "https://livecdn.rumsport.com/stream/3_fhd/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-562022_lhd.m3u8?user_session_id=f3621051a39380a6ecdcc8eeaab26e60&auth_key=1693661470-0-0-4136d3f9c9b58e3162c447fbf3d9a7d1&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-562022_lsd.m3u8?user_session_id=f3621051a39380a6ecdcc8eeaab26e60&auth_key=1693661470-0-0-4136d3f9c9b58e3162c447fbf3d9a7d1&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912026_lhd.m3u8?auth_key=1693662152-0-0-692b40dc77c44523f81f4c9d28487978&user_session_id=5a61a028dc3f2e93a17cedfa3a5fa273&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912026_lsd.m3u8?auth_key=1693662152-0-0-692b40dc77c44523f81f4c9d28487978&user_session_id=5a61a028dc3f2e93a17cedfa3a5fa273&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Brest.gif",
 "hteam": "Rennes",
@@ -124,6 +73,11 @@
 "type": "English FHD",
 "livelink": "https://work.realbitsport.com/live/n-3/chunks.m3u8",
 "trylink": "0"
+},
+{
+"type": "Live Sports HD",
+"livelink": "https://ppping-cf.ddi2ank3.cc/auth%3D75cdfb73cd0568509a02cb20771acf3979df4d93d906508d00cf739adc220261186dc0e2ac3f7a8215609807d121f621b1d4608deaf343c1ff8c108aa24f8fc42b4a01e2241f4ea4f4b248742c5e328ed9e8f0a41318693d83d5a728127939966ce5c81b99957610795f8cacae1243dbfcf099a72f5d375eed1715c772401366%26cid%3DQfAa1mQ6RvS1xHoz1_cWY230831%26_v%3D2%26_r%3DMufP8v%26_vis%3D541696b879f819a01d7d2bc6dc6d2f6d4cb39777d567e81ccfab6ad18b94d936%26_vvs%3Df573c2bfc17c0e98081dc0ae7c8961f4407a0cd21c1ffa6d5aea99de277398a8/app/c200208.m3u8",
+"trylink": "https://play2.score808pro.com/"
 },
 {
 "type": "Soco HD",
