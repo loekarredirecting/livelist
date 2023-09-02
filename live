@@ -125,21 +125,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/augsburg.png",
 "hteam": "Bochum",
-"time": " 8:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Bochum.gif",
 "ateam": "Augsburg",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-650855_lhd.m3u8?auth_key=1693660210-0-0-f2744d0aa9f966223fb06ecf3933b368&edge_slice=true&user_session_id=7b6d30c90d2632397ae754574fb281c1&sub_m3u8=true",
@@ -166,8 +156,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Leverkusen.png",
 "hteam": "Darmstadt 98",
-"time": " 8:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Darmstadt-98.png",
 "ateam": "Leverkusen",
 "link": [
@@ -207,8 +197,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "hteam": "Wolfsburg",
-"time": " 8:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/wolfsburg.png",
 "ateam": "Hoffenheim",
 "link": [
@@ -248,8 +238,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
 "hteam": "Mainz 05",
-"time": " 8:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Mainz_05.png",
 "ateam": "Werder Bremen",
 "link": [
@@ -289,8 +279,8 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/stuttgart.png",
 "hteam": "Freiburg",
-"time": " 8:00 PM ",
-"date": "2023-09-02",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/freiburg.png",
 "ateam": "Stuttgart",
 "link": [
