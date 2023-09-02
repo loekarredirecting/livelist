@@ -332,16 +332,6 @@
 "ateam": "Napoli",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3b11086629148cc19d190550adad9e7c&auth_key=1693670769-0-0-7778f4dd6bf72cbbe9e1fd134c494ecf",
 "trylink": ""
@@ -372,16 +362,6 @@
 "aimg": "https://mygoaltv.xyz//team/ac-monza.png",
 "ateam": "Atalanta",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?edge_slice=true&auth_key=1693670950-0-0-e867c75e40a4d237265ed592fac8a4e7&user_session_id=1a300f935b91bf3ed8f9712089af0877&sub_m3u8=true",
@@ -414,16 +394,6 @@
 "ateam": "Real Betis",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?user_session_id=4337aecb74b49a2477f7d9f02e6f93c7&auth_key=1693670529-0-0-779c6eeb460c18259c631145a429c12f&edge_slice=true&sub_m3u8=true",
 "trylink": ""
@@ -454,16 +424,6 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "ateam": "Monaco",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1693671190-0-0-7916d7dcf4c8c5e0ad297a74c31d0c43&edge_slice=true&sub_m3u8=true&user_session_id=cb433b3d700afdb7f6ca2079b0864bcc",
