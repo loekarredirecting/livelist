@@ -245,6 +245,16 @@
 "trylink": ""
 },
 {
+"type": "Live Sports HD",
+"livelink": "0",
+"trylink": "0"
+},
+{
+"type": "Optus Sports FHD",
+"livelink": "https://ddy4.cdnbos.lol/ddy4/premium22/tracks-v1a1/mono.m3u8",
+"trylink": "https://ddolahdplay.xyz/"
+},
+{
 "type": "Soco HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912010_lhd.m3u8?sub_m3u8=true&auth_key=1693661972-0-0-7d50c845d4d5af077b272dfbba306aa8&edge_slice=true&user_session_id=cb7ac5b25eea92445e07464a3d62ade9",
 "trylink": ""
