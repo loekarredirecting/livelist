@@ -183,6 +183,16 @@
 "ateam": "Lecce",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/24/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/24/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-721077_lhd.m3u8?user_session_id=1291bd4d085c1497e467a711a7fc8108&edge_slice=true&auth_key=1693737430-0-0-e10ebf8383c3c963c0f6d5e8a95f64f6&sub_m3u8=true",
 "trylink": ""
@@ -213,6 +223,16 @@
 "aimg": "https://mygoaltv.xyz//team/psg.png",
 "ateam": "Lyon",
 "link": [
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/20/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/20_fhd/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
