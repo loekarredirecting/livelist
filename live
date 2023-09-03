@@ -162,6 +162,21 @@
 "trylink": "0"
 },
 {
+"type": "English 1 HD",
+"livelink": "https://work.realbitsport.com/live/n-2/chunks.m3u8",
+"trylink": "0"
+},
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/9/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/18/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
