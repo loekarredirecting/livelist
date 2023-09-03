@@ -98,6 +98,26 @@
 "type": "Soco SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912012_lsd.m3u8?auth_key=1693738232-0-0-c2fe37313d04981ab24722a5a65123f9&edge_slice=true&sub_m3u8=true&user_session_id=45353905db0c9e0283de70179fb84bf5",
 "trylink": ""
+},
+{
+"type": "VPN Sport FHD",
+"livelink": "https://us.score911.cc/us_usa/index.m3u8",
+"trylink": "https://ggsport.tv/"
+},
+{
+"type": " VPN Sport HD",
+"livelink": "https://us.score911.cc/za_sspl/index.m3u8",
+"trylink": "https://ggsport.tv/"
+},
+{
+"type": "VPN Portuguese FHD",
+"livelink": "https://us.score911.cc/pt_elevensport1/index.m3u8",
+"trylink": "https://ggsport.tv/"
+},
+{
+"type": "VPN OPTUS FHD",
+"livelink": "https://us.score911.cc/au_optus3/index.m3u8",
+"trylink": "https://ggsport.tv/"
 }
 ]
 },
