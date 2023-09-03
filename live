@@ -9,6 +9,16 @@
 "ateam": "Toulouse",
 "link": [
 {
+"type": "True Sport HD",
+"livelink": "https://livecdn.rumsport.com/stream/25_fhd/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "True Sport FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/284530/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?edge_slice=true&auth_key=1693735689-0-0-eb21c9dc3737e153ab09a6383b619e15&user_session_id=11092dc03ca34bf0663dc11c28065ff9&sub_m3u8=true",
 "trylink": ""
