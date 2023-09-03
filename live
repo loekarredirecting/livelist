@@ -132,6 +132,16 @@
 "trylink": ""
 },
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/2/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/25/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Soco HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912012_lhd.m3u8?sub_m3u8=true&auth_key=1693738772-0-0-829af780dbc6c3bb1e8d73e346412987&edge_slice=true&user_session_id=21e328e5f2b89faefaf4f391acecb827",
 "trylink": ""
