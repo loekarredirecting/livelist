@@ -136,21 +136,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Empoli.gif",
 "hteam": "Juventus",
-"time": " 1:15 AM ",
-"date": "2023-09-04",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Juventus.png",
 "ateam": "Empoli",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?auth_key=1693746489-0-0-6f865ca8e024228aa573d01c6623cd91&user_session_id=0ec6a75451dcfd1d1ee5c8671e278e24&sub_m3u8=true&edge_slice=true",
@@ -177,21 +167,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/lecce.png",
 "hteam": "Salernitana",
-"time": " 1:15 AM ",
-"date": "2023-09-04",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/salernitana.png",
 "ateam": "Lecce",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-721077_lhd.m3u8?user_session_id=1291bd4d085c1497e467a711a7fc8108&edge_slice=true&auth_key=1693737430-0-0-e10ebf8383c3c963c0f6d5e8a95f64f6&sub_m3u8=true",
@@ -218,19 +198,19 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/lyon.png",
 "hteam": "Paris Saint-Germain",
-"time": " 1:15 AM ",
-"date": "2023-09-04",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/psg.png",
 "ateam": "Lyon",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -259,29 +239,19 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/osasuna.png",
 "hteam": "Barcelona",
-"time": " 1:30 AM ",
-"date": "2023-09-04",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Barcelona.png",
 "ateam": "Osasuna",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": ""
 },
 {
