@@ -44,21 +44,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Girona.png",
 "hteam": "Las Palmas",
-"time": " 6:30 PM ",
-"date": "2023-09-03",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Las-Palmas.png",
 "ateam": "Girona",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lhd.m3u8?auth_key=1693735809-0-0-2d3355c6f9596f15aad41209931e604a&user_session_id=4dcce1f725ae7179a35b5982b4956eef&sub_m3u8=true&edge_slice=true",
