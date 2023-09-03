@@ -3,21 +3,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Toulouse.png",
 "hteam": "Clermont",
-"time": " 5:30 PM ",
-"date": "2023-09-03",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://mygoaltv.xyz//team/clermont.png",
 "ateam": "Toulouse",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?edge_slice=true&auth_key=1693735689-0-0-eb21c9dc3737e153ab09a6383b619e15&user_session_id=11092dc03ca34bf0663dc11c28065ff9&sub_m3u8=true",
@@ -30,12 +20,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912036_lhd.m3u8?edge_slice=true&auth_key=1693739912-0-0-903ef4731c32de1d9913f9cafafc9477&user_session_id=c5d1d64e52a5bcca73c6909eb8a411ea&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912036_lsd.m3u8?edge_slice=true&auth_key=1693739912-0-0-903ef4731c32de1d9913f9cafafc9477&user_session_id=c5d1d64e52a5bcca73c6909eb8a411ea&sub_m3u8=true",
 "trylink": ""
 }
 ]
