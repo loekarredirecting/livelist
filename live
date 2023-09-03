@@ -111,6 +111,26 @@
 "trylink": ""
 },
 {
+"type": "English HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_2.m3u8",
+"trylink": "0"
+},
+{
+"type": "English 1 HD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
+"trylink": "0"
+},
+{
+"type": "K+ Sports HD",
+"livelink": "https//livecdn.rumsport.com/stream/2/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https//livecdn-001.rumsport.com/stream2/25/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Soco HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull06.scstream.net/live/stream-9912012_lhd.m3u8?auth_key=1693738232-0-0-c2fe37313d04981ab24722a5a65123f9&edge_slice=true&sub_m3u8=true&user_session_id=45353905db0c9e0283de70179fb84bf5",
 "trylink": ""
