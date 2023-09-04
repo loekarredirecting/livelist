@@ -9,6 +9,16 @@
 "ateam": "Los Angeles",
 "link": [
 {
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306760_lhd.m3u8?user_session_id=f02b0bf1e850561ccd9b0aa23b25b641&auth_key=1693737789-0-0-91f5b5da825117736315ddb15f5fdc7b&sub_m3u8=true&edge_slice=true",
 "trylink": ""
