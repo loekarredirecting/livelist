@@ -1,6 +1,6 @@
 [
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group H ",
 "himg": "https://mygoaltv.xyz//team/Kazakhstan.png",
 "hteam": "Finland",
 "time": " 8:30 PM ",
@@ -41,7 +41,7 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group G ",
 "himg": "https://mygoaltv.xyz//team/Lithuania.png",
 "hteam": "Montenegro",
 "time": " 10:30 PM ",
@@ -82,7 +82,7 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group E ",
 "himg": "https://mygoaltv.xyz//team/Czech.png",
 "hteam": "Albania",
 "time": " 1:15 AM ",
@@ -123,7 +123,7 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group E ",
 "himg": "https://mygoaltv.xyz//team/balan.png",
 "hteam": "Faroe Island",
 "time": " 1:15 AM ",
@@ -164,7 +164,7 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group H ",
 "himg": "https://mygoaltv.xyz//team/Slovenia.png",
 "hteam": "Northern Ireland",
 "time": " 1:15 AM ",
@@ -205,7 +205,7 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group B ",
 "himg": "https://mygoaltv.xyz//team/Halan.png",
 "hteam": "Greece",
 "time": " 1:15 AM ",
@@ -246,7 +246,7 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group G ",
 "himg": "https://mygoaltv.xyz//team/Serbia.png",
 "hteam": "Hungary",
 "time": " 1:15 AM ",
@@ -287,7 +287,7 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group B ",
 "himg": "https://mygoaltv.xyz//team/Phap.png",
 "hteam": "Ireland",
 "time": " 1:15 AM ",
@@ -328,13 +328,54 @@
 ]
 },
 {
-"league": " UEFA EURO ",
+"league": " EURO Qualification Group H ",
 "himg": "https://mygoaltv.xyz//team/Denmark.png",
 "hteam": "San Marino",
 "time": " 1:15 AM ",
 "date": "2023-09-08",
 "aimg": "https://mygoaltv.xyz//team/San-Marino.png",
 "ateam": "Denmark",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Friendlies ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+"hteam": "South korea",
+"time": " 1:15 AM ",
+"date": "2023-09-08",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+"ateam": "Wales",
 "link": [
 {
 "type": "Vietnam HD",
@@ -458,6 +499,47 @@
 "date": "2023-09-08",
 "aimg": "https://mygoaltv.xyz//team/Ecuador.png",
 "ateam": "Argentina",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification Group A ",
+"himg": "https://mygoaltv.xyz//team/Georgia.png",
+"hteam": "Spain",
+"time": " 10:30 PM ",
+"date": "2023-09-08",
+"aimg": "https://mygoaltv.xyz//team/Taybannha.png",
+"ateam": "Georgia",
 "link": [
 {
 "type": "Vietnam HD",
