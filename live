@@ -1,12 +1,12 @@
 [
 {
-"league": " EURO Qualification Group G ",
-"himg": "https://mygoaltv.xyz//team/Lithuania.png",
-"hteam": "Montenegro",
+"league": " EURO Qualification Group B ",
+"himg": "https://mygoaltv.xyz//team/Phap.png",
+"hteam": "Ireland",
 "time": " live ",
-"date": "10:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Montenegro.png",
-"ateam": "Lithuania",
+"date": "1:15 AM",
+"aimg": "https://mygoaltv.xyz//team/Ireland.png",
+"ateam": "France",
 "link": [
 {
 "type": "K+ Sports HD",
@@ -15,27 +15,119 @@
 },
 {
 "type": "K+ Sports FHD",
-"livelink": "https://livecdn-iptv001.rumsport.com/stream/757/index.m3u8",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream%2F757/index.m3u8",
 "trylink": "https://live-streamfootball.com/"
 },
 {
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=efd52726c12a1b8f4cde683b4e2669ea&auth_key=1694105590-0-0-a2081f8852666050829d6dad8e76c62d",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?user_session_id=877f24ce78ccf54cb9177f7b6c260d9f&sub_m3u8=true&auth_key=1694106610-0-0-dcb27a068a298dafd0099e15bfb322c7&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=efd52726c12a1b8f4cde683b4e2669ea&auth_key=1694105590-0-0-a2081f8852666050829d6dad8e76c62d",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?user_session_id=877f24ce78ccf54cb9177f7b6c260d9f&sub_m3u8=true&auth_key=1694106610-0-0-dcb27a068a298dafd0099e15bfb322c7&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694105441-0-0-c22ab02ec85b11a13084602e19e35a32",
+"livelink": "https://pull01.rrwes.live/live/stream-9912043_lhd.m3u8?txSecret=5ba47097ee63bdf8a74d360e4b81017f&txTime=64fa4da9",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694105441-0-0-c22ab02ec85b11a13084602e19e35a32",
+"livelink": "https://pull01.rrwes.live/live/stream-9912043_lsd.m3u8?txSecret=5ba47097ee63bdf8a74d360e4b81017f&txTime=64fa4da9",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification Group B ",
+"himg": "https://mygoaltv.xyz//team/Halan.png",
+"hteam": "Greece",
+"time": " live ",
+"date": "1:15 AM",
+"aimg": "https://mygoaltv.xyz//team/Hylap.png",
+"ateam": "Netherlands",
+"link": [
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/46/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/147553/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?sub_m3u8=true&user_session_id=30a4dedd5c7eb38e529dc58fd7b1cc2b&edge_slice=true&auth_key=1694106430-0-0-a654eb9f30639ca082be4e5d6e82fe6e",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?sub_m3u8=true&user_session_id=30a4dedd5c7eb38e529dc58fd7b1cc2b&edge_slice=true&auth_key=1694106430-0-0-a654eb9f30639ca082be4e5d6e82fe6e",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912014_lhd.m3u8?auth_key=1694107121-0-0-ac990f480623db72b980db3e9e35c7b9",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912014_lsd.m3u8?auth_key=1694107121-0-0-ac990f480623db72b980db3e9e35c7b9",
+"trylink": ""
+}
+]
+},
+{
+"league": " Friendlies ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
+"hteam": "South korea",
+"time": " live ",
+"date": "1:15 AM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+"ateam": "Wales",
+"link": [
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/43/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/43/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": ""
 }
 ]
@@ -44,8 +136,8 @@
 "league": " EURO Qualification Group E ",
 "himg": "https://mygoaltv.xyz//team/Czech.png",
 "hteam": "Albania",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Albania.png",
 "ateam": "Czech",
 "link": [
@@ -75,8 +167,8 @@
 "league": " EURO Qualification Group E ",
 "himg": "https://mygoaltv.xyz//team/balan.png",
 "hteam": "Faroe Island",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Faroe_Islands.png",
 "ateam": "Poland",
 "link": [
@@ -106,8 +198,8 @@
 "league": " EURO Qualification Group H ",
 "himg": "https://mygoaltv.xyz//team/Slovenia.png",
 "hteam": "Northern Ireland",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/northern_ireland.png",
 "ateam": "Slovenia",
 "link": [
@@ -134,42 +226,11 @@
 ]
 },
 {
-"league": " EURO Qualification Group B ",
-"himg": "https://mygoaltv.xyz//team/Halan.png",
-"hteam": "Greece",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
-"aimg": "https://mygoaltv.xyz//team/Hylap.png",
-"ateam": "Netherlands",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?sub_m3u8=true&user_session_id=30a4dedd5c7eb38e529dc58fd7b1cc2b&edge_slice=true&auth_key=1694106430-0-0-a654eb9f30639ca082be4e5d6e82fe6e",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?sub_m3u8=true&user_session_id=30a4dedd5c7eb38e529dc58fd7b1cc2b&edge_slice=true&auth_key=1694106430-0-0-a654eb9f30639ca082be4e5d6e82fe6e",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912014_lhd.m3u8?auth_key=1694107121-0-0-ac990f480623db72b980db3e9e35c7b9",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912014_lsd.m3u8?auth_key=1694107121-0-0-ac990f480623db72b980db3e9e35c7b9",
-"trylink": ""
-}
-]
-},
-{
 "league": " EURO Qualification Group G ",
 "himg": "https://mygoaltv.xyz//team/Serbia.png",
 "hteam": "Hungary",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Hungary.png",
 "ateam": "Serbia",
 "link": [
@@ -196,42 +257,11 @@
 ]
 },
 {
-"league": " EURO Qualification Group B ",
-"himg": "https://mygoaltv.xyz//team/Phap.png",
-"hteam": "Ireland",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
-"aimg": "https://mygoaltv.xyz//team/Ireland.png",
-"ateam": "France",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?user_session_id=877f24ce78ccf54cb9177f7b6c260d9f&sub_m3u8=true&auth_key=1694106610-0-0-dcb27a068a298dafd0099e15bfb322c7&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?user_session_id=877f24ce78ccf54cb9177f7b6c260d9f&sub_m3u8=true&auth_key=1694106610-0-0-dcb27a068a298dafd0099e15bfb322c7&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912043_lhd.m3u8?txSecret=5ba47097ee63bdf8a74d360e4b81017f&txTime=64fa4da9",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912043_lsd.m3u8?txSecret=5ba47097ee63bdf8a74d360e4b81017f&txTime=64fa4da9",
-"trylink": ""
-}
-]
-},
-{
 "league": " EURO Qualification Group H ",
 "himg": "https://mygoaltv.xyz//team/Denmark.png",
 "hteam": "San Marino",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/San-Marino.png",
 "ateam": "Denmark",
 "link": [
@@ -258,42 +288,11 @@
 ]
 },
 {
-"league": " Friendlies ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
-"hteam": "South korea",
-"time": " 1:15 AM ",
-"date": "2023-09-08",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
-"ateam": "Wales",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
 "league": " World Cup Qualification ",
 "himg": "https://mygoaltv.xyz//team/Paraguay.png",
 "hteam": "Peru",
-"time": " 5:00 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "5:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Peru.png",
 "ateam": "Paraguay",
 "link": [
@@ -323,8 +322,8 @@
 "league": " World Cup Qualification ",
 "himg": "https://mygoaltv.xyz//team/Colombia.png",
 "hteam": "Venezuela",
-"time": " 5:30 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "5:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Venezuela.png",
 "ateam": "Colombia",
 "link": [
@@ -354,8 +353,8 @@
 "league": " World Cup Qualification ",
 "himg": "https://mygoaltv.xyz//team/Argentina.png",
 "hteam": "Ecuador",
-"time": " 6:30 AM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "6:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Ecuador.png",
 "ateam": "Argentina",
 "link": [
