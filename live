@@ -54,20 +54,20 @@
 "league": " EURO Qualification Group G ",
 "himg": "https://mygoaltv.xyz//team/Lithuania.png",
 "hteam": "Montenegro",
-"time": " 10:30 PM ",
-"date": "2023-09-07",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Montenegro.png",
 "ateam": "Lithuania",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/9/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/757/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
 },
 {
 "type": "China HD",
@@ -81,12 +81,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694105441-0-0-c22ab02ec85b11a13084602e19e35a32",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694105441-0-0-c22ab02ec85b11a13084602e19e35a32",
 "trylink": ""
 }
 ]
