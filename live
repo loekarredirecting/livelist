@@ -1,72 +1,41 @@
 [
 {
-"league": " Friendlies ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-"hteam": "Nepal",
-"time": " live ",
-"date": "5:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/95799_small.png",
-"ateam": "Myanmar",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-239803_lhd.m3u8?edge_slice=true&user_session_id=79157aecffac7a2c207f06dcb99063d4&sub_m3u8=true&auth_key=1694174110-0-0-7f2427f0fa774d7dc9ff9da880f5c727",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-239803_lsd.m3u8?edge_slice=true&user_session_id=79157aecffac7a2c207f06dcb99063d4&sub_m3u8=true&auth_key=1694174110-0-0-7f2427f0fa774d7dc9ff9da880f5c727",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9911989_lhd.m3u8?auth_key=1694173721-0-0-fc10d969b46063f76deb401588f5c055",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9911989_lsd.m3u8?auth_key=1694173721-0-0-fc10d969b46063f76deb401588f5c055",
-"trylink": ""
-}
-]
-},
-{
 "league": " EURO Qualification Group A ",
 "himg": "https://mygoaltv.xyz//team/Georgia.png",
 "hteam": "Spain",
-"time": " 10:30 PM ",
-"date": "2023-09-08",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Taybannha.png",
 "ateam": "Georgia",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&auth_key=1694190850-0-0-0e98868ca2b5ee06244e31413a28daa6&user_session_id=71ea44046188337eeb919f193cbc1545&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&auth_key=1694190850-0-0-0e98868ca2b5ee06244e31413a28daa6&user_session_id=71ea44046188337eeb919f193cbc1545&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694190941-0-0-1e78531fcd7e726095479e5636869008",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694190941-0-0-1e78531fcd7e726095479e5636869008",
 "trylink": ""
 }
 ]
