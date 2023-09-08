@@ -9,6 +9,16 @@
 "ateam": "Myanmar",
 "link": [
 {
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?user_session_id=6c86cbfcec2647eaad55a5a5e9f75941&edge_slice=true&sub_m3u8=true&auth_key=1694173930-0-0-57b4ddd9f453adde8fbe8f8158aeab75",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?user_session_id=6c86cbfcec2647eaad55a5a5e9f75941&edge_slice=true&sub_m3u8=true&auth_key=1694173930-0-0-57b4ddd9f453adde8fbe8f8158aeab75",
+"trylink": ""
+},
+{
 "type": "Soco HD",
 "livelink": "https://pull.niues.live/live/stream-9911989_lhd.m3u8?auth_key=1694173721-0-0-fc10d969b46063f76deb401588f5c055",
 "trylink": ""
