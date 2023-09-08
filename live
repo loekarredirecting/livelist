@@ -1,5 +1,26 @@
 [
 {
+"league": " Friendlies ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
+"hteam": "Nepal",
+"time": " live ",
+"date": "5:00 PM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/95799_small.png",
+"ateam": "Myanmar",
+"link": [
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9911989_lhd.m3u8?auth_key=1694173721-0-0-fc10d969b46063f76deb401588f5c055",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9911989_lsd.m3u8?auth_key=1694173721-0-0-fc10d969b46063f76deb401588f5c055",
+"trylink": ""
+}
+]
+},
+{
 "league": " EURO Qualification Group A ",
 "himg": "https://mygoaltv.xyz//team/Georgia.png",
 "hteam": "Spain",
