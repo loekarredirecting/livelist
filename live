@@ -19,6 +19,16 @@
 "trylink": "https://live-streamfootball.com/"
 },
 {
+"type": "Super Sports HD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
+"trylink": "0"
+},
+{
+"type": "English HD",
+"livelink": "https://vladruman.com/hls/007.m3u8?md5=7RJgDnSWDVwxEnDT2LMzbQ&expires=1694203890",
+"trylink": "https://stsgmrs.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
