@@ -362,20 +362,20 @@
 "league": " World Cup Qualification Conmebol ",
 "himg": "https://mygoaltv.xyz//team/Brazil.png",
 "hteam": "Bolivia",
-"time": " live ",
+"time": " 7:15 AM ",
 "date": "2023-09-09",
 "aimg": "https://mygoaltv.xyz//team/Bolivia.png",
 "ateam": "Brazil",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "http://etria.lindsn.me:21223/hls/102.m3u8?token=token=c875dfce5de926963e6db651bc2de106%20WjdiSGlRWDJWWktRUkJYKzNIU21aQT09%20h9YALYhZ8lLdXjs7q6Zrg17Fsjmhvq",
-"trylink": "http://nowlive.me/"
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://vladruman.com/hls/007.m3u8?md5=G_ZWjErYgnIEB9Cskjpwtw&expires=1694207559",
-"trylink": "https://stsgmrs.com/"
+"livelink": "0",
+"trylink": ""
 },
 {
 "type": "China HD",
