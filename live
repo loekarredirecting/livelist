@@ -9,6 +9,26 @@
 "ateam": "Argentina",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/20/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/20_fhd/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1694106970-0-0-09fc1d39efacb2a04fcc85bc17039854&user_session_id=678196ed3982ed274e2bb7e48af873e3",
 "trylink": ""
