@@ -3,8 +3,8 @@
 "league": " AFC U23 Championship ",
 "himg": "https://api.sofascore.app/api/v1/team/4792/image",
 "hteam": "Myanmar U23",
-"time": " 1:30 PM ",
-"date": "2023-09-09",
+"time": " live ",
+"date": "1:30 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/23484/image",
 "ateam": "Qatar U23",
 "link": [
@@ -26,11 +26,11 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-9912005_lhd.m3u8?auth_key=1694245301-0-0-78bffefe88da1ba6876833ad751d04be"
 },
 {
 "type": "Soco SD",
-"livelink": "0"
+"livelink": "https://pull.niues.live/live/stream-9912005_lsd.m3u8?auth_key=1694245301-0-0-78bffefe88da1ba6876833ad751d04be"
 }
 ]
 },
