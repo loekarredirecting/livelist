@@ -1,47 +1,6 @@
 [
 {
 "league": " AFC U23 Championship ",
-"himg": "https://api.sofascore.app/api/v1/team/7930/image",
-"hteam": "South Korea U23",
-"time": " live ",
-"date": "5:30 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/4735/image",
-"ateam": "Kyrgyzstan U23",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702409_lhd.m3u8?auth_key=1694260030-0-0-37a3997bfeef65d66cb5888c5d2ff851&user_session_id=bb79e61a374342758404c483258d0098&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702409_lsd.m3u8?auth_key=1694260030-0-0-37a3997bfeef65d66cb5888c5d2ff851&user_session_id=bb79e61a374342758404c483258d0098&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=77f609b436a6b23c3bfa9a1da2316ec8&txTime=64fca261",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=77f609b436a6b23c3bfa9a1da2316ec8&txTime=64fca261",
-"trylink": ""
-}
-]
-},
-{
-"league": " AFC U23 Championship ",
 "himg": "https://api.sofascore.app/api/v1/team/4721/image",
 "hteam": "Vietnam U23",
 "time": " live ",
