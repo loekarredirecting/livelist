@@ -91,7 +91,7 @@
 "ateam": "Azerbaijan",
 "link": [
 {
-"type": "English 1 HD",
+"type": "English HD",
 "livelink": "https://179720687.global.cdnfastest.com/live/sd-k82rekh0gyokrep/chunklist_w1291748916.m3u8",
 "trylink": ""
 },
@@ -136,19 +136,19 @@
 "league": " AFC U23 Championship ",
 "himg": "https://api.sofascore.app/api/v1/team/6080/image",
 "hteam": "Thailand U23",
-"time": " 8:00 PM ",
-"date": "2023-09-09",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/4730/image",
 "ateam": "Bangladesh U23",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
 "trylink": ""
 },
 {
