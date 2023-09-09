@@ -9,6 +9,16 @@
 "ateam": "Germany",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://work.realbitsport.com/live/n-4/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://sports.freesport.info/playlist/streamfree5.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
