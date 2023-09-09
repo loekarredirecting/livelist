@@ -1,92 +1,41 @@
 [
 {
-"league": " EURO Qualification Grup F ",
-"himg": "https://mygoaltv.xyz//team/Azerbaijan.png",
-"hteam": "Belgium",
+"league": " EURO Qualification Grup C ",
+"himg": "https://mygoaltv.xyz//team/Ukraine.png",
+"hteam": "England",
 "time": " live ",
-"date": "7:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Bi.png",
-"ateam": "Azerbaijan",
+"date": "10:30 PM",
+"aimg": "https://mygoaltv.xyz//team/Anh.png",
+"ateam": "Ukraine",
 "link": [
 {
-"type": "English HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-k82rekh0gyokrep/chunklist_w1291748916.m3u8",
-"trylink": ""
-},
-{
-"type": "Super HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-k82rekh0gyokrep/chunklist_w420797037.m3u8",
-"trylink": ""
-},
-{
 "type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?auth_key=1694262130-0-0-4073dd7e7a6222aefc36dd96bea1c0c8&sub_m3u8=true&user_session_id=6685938a7d940ede7d1d95e01ec79e0e&edge_slice=true",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&auth_key=1694262370-0-0-8727460279aa2971d43e5c331953d6f7&user_session_id=40044529261a1b2ada88e4dea6bca367&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?auth_key=1694262130-0-0-4073dd7e7a6222aefc36dd96bea1c0c8&sub_m3u8=true&user_session_id=6685938a7d940ede7d1d95e01ec79e0e&edge_slice=true",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?sub_m3u8=true&auth_key=1694262370-0-0-8727460279aa2971d43e5c331953d6f7&user_session_id=40044529261a1b2ada88e4dea6bca367&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1694260661-0-0-3143a8dd84a5e9822a3483cccf06521c",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694260841-0-0-1616328366c570e8b9af0bc9eb87f6ff",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1694260661-0-0-3143a8dd84a5e9822a3483cccf06521c",
-"trylink": ""
-}
-]
-},
-{
-"league": " AFC U23 Championship ",
-"himg": "https://api.sofascore.app/api/v1/team/6080/image",
-"hteam": "Thailand U23",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/4730/image",
-"ateam": "Bangladesh U23",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-650855_lhd.m3u8?sub_m3u8=true&user_session_id=f01add48a962085936dbc83caa13e309&edge_slice=true&auth_key=1694234530-0-0-c27a49c1818253c9bfbe3274a0c6df0b",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-650855_lsd.m3u8?sub_m3u8=true&user_session_id=f01add48a962085936dbc83caa13e309&edge_slice=true&auth_key=1694234530-0-0-c27a49c1818253c9bfbe3274a0c6df0b",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=dff8f331e17d4e3940910878eab1723a&txTime=64fca405",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=dff8f331e17d4e3940910878eab1723a&txTime=64fca405",
+"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694260841-0-0-1616328366c570e8b9af0bc9eb87f6ff",
 "trylink": ""
 }
 ]
@@ -95,21 +44,11 @@
 "league": " EURO Qualification Grup I ",
 "himg": "https://mygoaltv.xyz//team/andorre.png",
 "hteam": "Belarus",
-"time": " 10:30 PM ",
-"date": "2023-09-09",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Belarus.png",
 "ateam": "Andorra",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?sub_m3u8=true&auth_key=1694262250-0-0-cc04477ed78522988a296c79dea912a1&user_session_id=cc48aef6d12ab02335c3f28c15bbfac4&edge_slice=true",
@@ -136,19 +75,19 @@
 "league": " EURO Qualification Grup F ",
 "himg": "https://mygoaltv.xyz//team/Estonia.png",
 "hteam": "Sweden",
-"time": " 10:30 PM ",
-"date": "2023-09-09",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Sweden.png",
 "ateam": "Estonia",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": ""
 },
 {
@@ -169,47 +108,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://pull.niues.live/live/stream-9912012_lsd.m3u8?auth_key=1694260781-0-0-79d2dac8ab988edb7d9a0aa63892be91",
-"trylink": ""
-}
-]
-},
-{
-"league": " EURO Qualification Grup C ",
-"himg": "https://mygoaltv.xyz//team/Ukraine.png",
-"hteam": "England",
-"time": " 10:30 PM ",
-"date": "2023-09-09",
-"aimg": "https://mygoaltv.xyz//team/Anh.png",
-"ateam": "Ukraine",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&auth_key=1694262370-0-0-8727460279aa2971d43e5c331953d6f7&user_session_id=40044529261a1b2ada88e4dea6bca367&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?sub_m3u8=true&auth_key=1694262370-0-0-8727460279aa2971d43e5c331953d6f7&user_session_id=40044529261a1b2ada88e4dea6bca367&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694260841-0-0-1616328366c570e8b9af0bc9eb87f6ff",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694260841-0-0-1616328366c570e8b9af0bc9eb87f6ff",
 "trylink": ""
 }
 ]
