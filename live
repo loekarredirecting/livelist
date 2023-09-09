@@ -10,27 +10,33 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8"
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8"
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8".
+"trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-650855_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694234530-0-0-c27a49c1818253c9bfbe3274a0c6df0b&user_session_id=2abe14d86dd3e5bb568d7f0295157159"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-650855_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694234530-0-0-c27a49c1818253c9bfbe3274a0c6df0b&user_session_id=2abe14d86dd3e5bb568d7f0295157159",
+"trylink": ""
 },
 {
 "type":  "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-650855_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694234530-0-0-c27a49c1818253c9bfbe3274a0c6df0b&user_session_id=2abe14d86dd3e5bb568d7f0295157159"
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-650855_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694234530-0-0-c27a49c1818253c9bfbe3274a0c6df0b&user_session_id=2abe14d86dd3e5bb568d7f0295157159",
+"trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912005_lhd.m3u8?auth_key=1694245301-0-0-78bffefe88da1ba6876833ad751d04be"
+"livelink": "https://pull.niues.live/live/stream-9912005_lhd.m3u8?auth_key=1694245301-0-0-78bffefe88da1ba6876833ad751d04be",
+"trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912005_lsd.m3u8?auth_key=1694245301-0-0-78bffefe88da1ba6876833ad751d04be"
+"livelink": "https://pull.niues.live/live/stream-9912005_lsd.m3u8?auth_key=1694245301-0-0-78bffefe88da1ba6876833ad751d04be",
+"trylink": ""
 }
 ]
 },
