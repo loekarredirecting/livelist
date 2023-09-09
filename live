@@ -9,6 +9,16 @@
 "ateam": "Kyrgyzstan U23",
 "link": [
 {
+"type": "Live Sports HD",
+"livelink": "https://ppp3-cf.ddi2ank3.cc/auth%3D97bc8d6b4746900ff06d7c6c04a544293d9752db6cbe2b85505ad7c83da7e0350d09e409c0799a965d6f0c0689d49ee1fa483aaa3f06701889c61ab4926d1013009edba2ad3a0ab559865f977817fbc4099eb00879e1dba60cfab51d2025945acc389c12ae18b418f4b6fad15a2848170e9ef55eb6aab942881766ea3f249a5ba5e13048ed1fcac7961a67a995261a22c1ca3e509a5a12f3da96e701544a3c2b%26cid%3DbA-05k5D6H__H4N0E0hnU230909%26_v%3D2%26_r%3DnP4FqN%26_vis%3Dc798b0a7613e4d99041665e94aa4b2297c1a0c31e1d1f324a80886fc1b061cb5%26_vvs%3D4a20f20c9e4b72701d03bbd0b7ea85aedad6c493ee322a8814d064a2491326fe/app/c201850.m3u8",
+"trylink": "https://play2.score808pro.com/"
+},
+{
+"type": "Live Sports SD",
+"livelink": "https://ppp3-cf.ddi2ank3.cc/auth%3D97bc8d6b4746900ff06d7c6c04a544293d9752db6cbe2b85505ad7c83da7e0350d09e409c0799a965d6f0c0689d49ee1fa483aaa3f06701889c61ab4926d1013009edba2ad3a0ab559865f977817fbc4099eb00879e1dba60cfab51d2025945acc389c12ae18b418f4b6fad15a2848170e9ef55eb6aab942881766ea3f249a5ba5e13048ed1fcac7961a67a995261a22c1ca3e509a5a12f3da96e701544a3c2b%26cid%3DbA-05k5D6H__H4N0E0hnU230909%26_v%3D2%26_r%3DnP4FqN%26_vis%3Dc798b0a7613e4d99041665e94aa4b2297c1a0c31e1d1f324a80886fc1b061cb5%26_vvs%3D4a20f20c9e4b72701d03bbd0b7ea85aedad6c493ee322a8814d064a2491326fe/app/c201850.m3u8",
+"trylink": "https://play2.score808pro.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": ""
@@ -71,12 +81,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694260481-0-0-4857215d8a0dbc8ed97af90aafa370b6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694260481-0-0-4857215d8a0dbc8ed97af90aafa370b6",
 "trylink": ""
 }
 ]
@@ -112,12 +122,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1694260661-0-0-3143a8dd84a5e9822a3483cccf06521c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1694260661-0-0-3143a8dd84a5e9822a3483cccf06521c",
 "trylink": ""
 }
 ]
@@ -153,12 +163,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=dff8f331e17d4e3940910878eab1723a&txTime=64fca405",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=dff8f331e17d4e3940910878eab1723a&txTime=64fca405",
 "trylink": ""
 }
 ]
@@ -194,12 +204,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1694260781-0-0-14afbf04691096592684ada0673db76c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1694260781-0-0-14afbf04691096592684ada0673db76c",
 "trylink": ""
 }
 ]
@@ -235,12 +245,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912012_lhd.m3u8?auth_key=1694260781-0-0-79d2dac8ab988edb7d9a0aa63892be91",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912012_lsd.m3u8?auth_key=1694260781-0-0-79d2dac8ab988edb7d9a0aa63892be91",
 "trylink": ""
 }
 ]
@@ -276,12 +286,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694260841-0-0-1616328366c570e8b9af0bc9eb87f6ff",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694260841-0-0-1616328366c570e8b9af0bc9eb87f6ff",
 "trylink": ""
 }
 ]
@@ -317,12 +327,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=88e8153e07d9e5fbfd1a6eb1c4f842f1&txTime=64fca531",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=88e8153e07d9e5fbfd1a6eb1c4f842f1&txTime=64fca531",
 "trylink": ""
 }
 ]
@@ -358,12 +368,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911989_lhd.m3u8?auth_key=1694261021-0-0-a95246c556d8603563aea71977c24d41",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911989_lsd.m3u8?auth_key=1694261021-0-0-a95246c556d8603563aea71977c24d41",
 "trylink": ""
 }
 ]
@@ -399,12 +409,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912043_lhd.m3u8?txSecret=8f423859514f988e56ec3ece5d5efb57&txTime=64fca56d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912043_lsd.m3u8?txSecret=8f423859514f988e56ec3ece5d5efb57&txTime=64fca56d",
 "trylink": ""
 }
 ]
@@ -440,12 +450,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912021_lhd.m3u8?auth_key=1694261081-0-0-30ccf1f8b072791d1a1b0bfe4e3d1b0f",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912021_lsd.m3u8?auth_key=1694261081-0-0-30ccf1f8b072791d1a1b0bfe4e3d1b0f",
 "trylink": ""
 }
 ]
@@ -522,12 +532,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912022_lhd.m3u8?auth_key=1694261201-0-0-790cfa93a4ca50c06130558d2f632c78",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912022_lsd.m3u8?auth_key=1694261201-0-0-790cfa93a4ca50c06130558d2f632c78",
 "trylink": ""
 }
 ]
