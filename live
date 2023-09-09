@@ -105,41 +105,6 @@
 ]
 },
 {
-"league": " AFC U23 Championship ",
-"himg": "https://api.sofascore.app/api/v1/team/6080/image",
-"hteam": "Thailand U23",
-"time": " 8:00 PM ",
-"date": "2023-09-09",
-"aimg": "https://api.sofascore.app/api/v1/team/4730/image",
-"ateam": "Bangladesh U23",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0"
-},
-{
-"type": "Vietnam SD",
-"livelink": "0"
-},
-{
-"type": "China HD",
-"livelink": "0"
-},
-{
-"type":  "China SD",
-"livelink": "0"
-},
-{
-"type": "Soco HD",
-"livelink": "0"
-},
-{
-"type": "Soco SD",
-"livelink": "0"
-}
-]
-},
-{
 "league": " EURO Qualification Grup F ",
 "himg": "https://mygoaltv.xyz//team/Azerbaijan.png",
 "hteam": "Belgium",
@@ -177,6 +142,41 @@
 "type": "Soco SD",
 "livelink": "0",
 "trylink": ""
+}
+]
+},
+{
+"league": " AFC U23 Championship ",
+"himg": "https://api.sofascore.app/api/v1/team/6080/image",
+"hteam": "Thailand U23",
+"time": " 8:00 PM ",
+"date": "2023-09-09",
+"aimg": "https://api.sofascore.app/api/v1/team/4730/image",
+"ateam": "Bangladesh U23",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0"
+},
+{
+"type": "Vietnam SD",
+"livelink": "0"
+},
+{
+"type": "China HD",
+"livelink": "0"
+},
+{
+"type":  "China SD",
+"livelink": "0"
+},
+{
+"type": "Soco HD",
+"livelink": "0"
+},
+{
+"type": "Soco SD",
+"livelink": "0"
 }
 ]
 },
