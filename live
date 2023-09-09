@@ -1,46 +1,5 @@
 [
 {
-"league": " AFC U23 Championship ",
-"himg": "https://api.sofascore.app/api/v1/team/4721/image",
-"hteam": "Vietnam U23",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/132958/image",
-"ateam": "Yemen U23",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?auth_key=1694263510-0-0-cd37bdb38ebcefaf9121c42c67df57f1&sub_m3u8=true&edge_slice=true&user_session_id=e7ddfcf796650ade1f7a8841232af664",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?auth_key=1694263510-0-0-cd37bdb38ebcefaf9121c42c67df57f1&sub_m3u8=true&edge_slice=true&user_session_id=e7ddfcf796650ade1f7a8841232af664",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694260481-0-0-4857215d8a0dbc8ed97af90aafa370b6",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694260481-0-0-4857215d8a0dbc8ed97af90aafa370b6",
-"trylink": ""
-}
-]
-},
-{
 "league": " EURO Qualification Grup F ",
 "himg": "https://mygoaltv.xyz//team/Azerbaijan.png",
 "hteam": "Belgium",
