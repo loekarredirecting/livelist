@@ -450,12 +450,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=2b985f37299fb83a019a8793c90366c1&txTime=64fcc4d6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-273067_lsd.m3u8?txSecret=2b985f37299fb83a019a8793c90366c1&txTime=64fcc4d6",
 "trylink": ""
 }
 ]
