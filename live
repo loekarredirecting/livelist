@@ -9,6 +9,16 @@
 "ateam": "Faroe Island",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1694363590-0-0-71cbdb839ac1448c89c8a1e82c7597fd&sub_m3u8=true&user_session_id=72125654d409f07e3ba190b6331b30a9&edge_slice=true",
 "trylink": ""
@@ -39,6 +49,16 @@
 "aimg": "https://mygoaltv.xyz//team/Bulgaria.png",
 "ateam": "Montenegro",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-2/chunks.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
@@ -80,6 +100,16 @@
 "aimg": "https://mygoaltv.xyz//team/Denmark.png",
 "ateam": "Finland",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.realbitsport.com/live/n-3/chunks.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
