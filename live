@@ -1,36 +1,5 @@
 [
 {
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Mexico.png",
-"hteam": "Australia",
-"time": " live ",
-"date": "8:30 AM",
-"aimg": "https://mygoaltv.xyz//team/Australia.png",
-"ateam": "Mexico",
-"link": [
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/42/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn.rumsport.com/stream/42/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
-"trylink": ""
-}
-]
-},
-{
 "league": " EURO Qualification Grup H ",
 "himg": "https://mygoaltv.xyz//team/Kazakhstan.png",
 "hteam": "Northern Ireland",
