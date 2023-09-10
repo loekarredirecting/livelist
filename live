@@ -1,33 +1,85 @@
 [
 {
-"league": " EURO Qualification Grup H ",
-"himg": "https://mygoaltv.xyz//team/Kazakhstan.png",
-"hteam": "Northern Ireland",
+"league": " EURO Qualification Grup E ",
+"himg": "https://mygoaltv.xyz//team/Faroe_Islands.png",
+"hteam": "Moldova",
 "time": " live ",
-"date": "7:30 PM",
-"aimg": "https://mygoaltv.xyz//team/northern_ireland.png",
-"ateam": "Kazakhstan",
+"date": "10:30 PM",
+"aimg": "https://mygoaltv.xyz//team/Moldova.png",
+"ateam": "Faroe Island",
 "link": [
 {
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/17/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-iptv001.rumsport.com/stream/757/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "English 1 HD",
-"livelink": "https://sports.freesport.info/playlist/streamfree1.m3u8",
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1694363590-0-0-71cbdb839ac1448c89c8a1e82c7597fd&sub_m3u8=true&user_session_id=72125654d409f07e3ba190b6331b30a9&edge_slice=true",
 "trylink": ""
 },
 {
-"type": "English 2 HD",
-"livelink": "https://livenflstream.xyz/playlist/stream_1.m3u8",
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1694363590-0-0-71cbdb839ac1448c89c8a1e82c7597fd&sub_m3u8=true&user_session_id=72125654d409f07e3ba190b6331b30a9&edge_slice=true",
 "trylink": ""
 },
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912012_lhd.m3u8?auth_key=1694363022-0-0-301fd508f0994342325d48ee0da4012e",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912012_lsd.m3u8?auth_key=1694363022-0-0-301fd508f0994342325d48ee0da4012e",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification Grup G ",
+"himg": "https://mygoaltv.xyz//team/Montenegro.png",
+"hteam": "Bulgaria",
+"time": " live ",
+"date": "10:30 PM",
+"aimg": "https://mygoaltv.xyz//team/Bulgaria.png",
+"ateam": "Montenegro",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cef6118e6c476ecd937ce38f1f306c3f&auth_key=1694362570-0-0-3df64b621d521ada73fb75fa9eada6eb",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=cef6118e6c476ecd937ce38f1f306c3f&auth_key=1694362570-0-0-3df64b621d521ada73fb75fa9eada6eb",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912005_lhd.m3u8?auth_key=1694363502-0-0-266cb283eb3dab4a0e1f170328b84450",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912005_lsd.m3u8?auth_key=1694363502-0-0-266cb283eb3dab4a0e1f170328b84450",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification Grup H ",
+"himg": "https://mygoaltv.xyz//team/Finland.png",
+"hteam": "Denmark",
+"time": " live ",
+"date": "10:30 PM",
+"aimg": "https://mygoaltv.xyz//team/Denmark.png",
+"ateam": "Finland",
+"link": [
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
@@ -40,145 +92,22 @@
 },
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694353210-0-0-f85292712c6af3690fdfd1ebeec5fbd8&user_session_id=17196d853fe0079b9fdc4060b0f00e4b",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?user_session_id=d35901f2b3f5faf9fb78e552d1b50f34&auth_key=1694363710-0-0-2ddebc5a42ea8d0d0bdff949147ceb50&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694353210-0-0-f85292712c6af3690fdfd1ebeec5fbd8&user_session_id=17196d853fe0079b9fdc4060b0f00e4b",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?user_session_id=d35901f2b3f5faf9fb78e552d1b50f34&auth_key=1694363710-0-0-2ddebc5a42ea8d0d0bdff949147ceb50&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694353122-0-0-c74a42d1a63abef6335d53855a0615b6",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694363082-0-0-48f891ffdac446d4fdd7a43f6d412ad4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1694353122-0-0-c74a42d1a63abef6335d53855a0615b6",
-"trylink": ""
-}
-]
-},
-{
-"league": " EURO Qualification Grup E ",
-"himg": "https://mygoaltv.xyz//team/Faroe_Islands.png",
-"hteam": "Moldova",
-"time": " 10:30 PM ",
-"date": "2023-09-10",
-"aimg": "https://mygoaltv.xyz//team/Moldova.png",
-"ateam": "Faroe Island",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " EURO Qualification Grup G ",
-"himg": "https://mygoaltv.xyz//team/Montenegro.png",
-"hteam": "Bulgaria",
-"time": " 10:30 PM ",
-"date": "2023-09-10",
-"aimg": "https://mygoaltv.xyz//team/Bulgaria.png",
-"ateam": "Montenegro",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " EURO Qualification Grup H ",
-"himg": "https://mygoaltv.xyz//team/Finland.png",
-"hteam": "Denmark",
-"time": " 10:30 PM ",
-"date": "2023-09-10",
-"aimg": "https://mygoaltv.xyz//team/Denmark.png",
-"ateam": "Finland",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694363082-0-0-48f891ffdac446d4fdd7a43f6d412ad4",
 "trylink": ""
 }
 ]
@@ -204,22 +133,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?user_session_id=d3ebea522d04bd0f3a45f7edca303f70&auth_key=1694362750-0-0-d3f68a090d8f271a38c390ec46222ee1&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?user_session_id=d3ebea522d04bd0f3a45f7edca303f70&auth_key=1694362750-0-0-d3f68a090d8f271a38c390ec46222ee1&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912023_lhd.m3u8?auth_key=1694363202-0-0-630b031c353bc81b17e8f6a40600d3b5",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912023_lsd.m3u8?auth_key=1694363202-0-0-630b031c353bc81b17e8f6a40600d3b5",
 "trylink": ""
 }
 ]
@@ -245,22 +174,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?user_session_id=4b4ee2c1968d00e3ce7f55773f7dce3b&auth_key=1694363830-0-0-18730d48e9be32523992cc390d0559b5&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?user_session_id=4b4ee2c1968d00e3ce7f55773f7dce3b&auth_key=1694363830-0-0-18730d48e9be32523992cc390d0559b5&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lhd.m3u8?auth_key=1694363262-0-0-9c366f85f8b5e5ee2094a954daa9481c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912010_lsd.m3u8?auth_key=1694363262-0-0-9c366f85f8b5e5ee2094a954daa9481c",
 "trylink": ""
 }
 ]
@@ -296,12 +225,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912021_lhd.m3u8?auth_key=1694363322-0-0-088043423f8a5f3ea88ade9cb174ec98",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912021_lsd.m3u8?auth_key=1694363322-0-0-088043423f8a5f3ea88ade9cb174ec98",
 "trylink": ""
 }
 ]
@@ -327,22 +256,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1694363590-0-0-71cbdb839ac1448c89c8a1e82c7597fd&user_session_id=b16289303fcdd71c066f3c7b52b23bed&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1694363590-0-0-71cbdb839ac1448c89c8a1e82c7597fd&user_session_id=b16289303fcdd71c066f3c7b52b23bed&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912012_lhd.m3u8?auth_key=1694363382-0-0-3810fbba62ea67a911431fddb520b707",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912012_lsd.m3u8?auth_key=1694363382-0-0-3810fbba62ea67a911431fddb520b707",
 "trylink": ""
 }
 ]
@@ -368,22 +297,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?user_session_id=8892ad094530056b9b4280fb24751d15&auth_key=1694362870-0-0-3850616c944f756f5c3415d7f53207ed&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?user_session_id=8892ad094530056b9b4280fb24751d15&auth_key=1694362870-0-0-3850616c944f756f5c3415d7f53207ed&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912003_lhd.m3u8?txSecret=f1bb0df3d3ec13772ea828497ebcdf3c&txTime=64fe3582",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912003_lsd.m3u8?txSecret=f1bb0df3d3ec13772ea828497ebcdf3c&txTime=64fe3582",
 "trylink": ""
 }
 ]
