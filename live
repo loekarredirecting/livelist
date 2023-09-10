@@ -3,39 +3,49 @@
 "league": " EURO Qualification Grup H ",
 "himg": "https://mygoaltv.xyz//team/Kazakhstan.png",
 "hteam": "Northern Ireland",
-"time": " 7:30 PM ",
-"date": "2023-09-10",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/northern_ireland.png",
 "ateam": "Kazakhstan",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/17/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/757/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694353210-0-0-f85292712c6af3690fdfd1ebeec5fbd8&user_session_id=17196d853fe0079b9fdc4060b0f00e4b",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694353210-0-0-f85292712c6af3690fdfd1ebeec5fbd8&user_session_id=17196d853fe0079b9fdc4060b0f00e4b",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694353122-0-0-c74a42d1a63abef6335d53855a0615b6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1694353122-0-0-c74a42d1a63abef6335d53855a0615b6",
 "trylink": ""
 }
 ]
