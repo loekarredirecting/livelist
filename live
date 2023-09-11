@@ -34,39 +34,39 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/vietnam_svg.png",
 "hteam": "Palestine",
-"time": " 7:00 PM ",
-"date": "2023-09-11",
+"time": " live ",
+"date": "7:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Palestine.png",
 "ateam": "Vietnam",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lhd.m3u8?edge_slice=true&user_session_id=3b9ef396e9d604e8cd7a9e58706f360f&auth_key=1694437090-0-0-b6a2aa032b8e334b7b6e27eb110a279b&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lsd.m3u8?edge_slice=true&user_session_id=3b9ef396e9d604e8cd7a9e58706f360f&auth_key=1694437090-0-0-b6a2aa032b8e334b7b6e27eb110a279b&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694437182-0-0-0c5bcbcbfa58152e8bad5aad935c76d5",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1694437182-0-0-0c5bcbcbfa58152e8bad5aad935c76d5",
 "trylink": ""
 }
 ]
