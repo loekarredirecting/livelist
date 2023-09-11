@@ -3,39 +3,29 @@
 "league": " Friendly ",
 "himg": "https://api.sofascore.app/api/v1/team/23484/image",
 "hteam": "Nepal",
-"time": " 5:00 PM ",
-"date": "2023-09-11",
+"time": " live ",
+"date": "5:00 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/23489/image",
 "ateam": "Myanmar",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1694430490-0-0-1a3fe619c18c554745bf1da61eba526c&user_session_id=ab09880e6b3549e9673760ddc73241b6&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1694430490-0-0-1a3fe619c18c554745bf1da61eba526c&user_session_id=ab09880e6b3549e9673760ddc73241b6&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=1bb4fb5384eca5961efae9af6d5fedff&txTime=64ff3bc6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=1bb4fb5384eca5961efae9af6d5fedff&txTime=64ff3bc6",
 "trylink": ""
 }
 ]
