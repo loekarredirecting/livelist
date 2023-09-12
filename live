@@ -1,47 +1,6 @@
 [
 {
 "league": " AFC U23 Chanpionship ",
-"himg": "https://api.sofascore.app/api/v1/team/4735/image",
-"hteam": "Myanmar U23",
-"time": " live ",
-"date": "5:30 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/23484/image",
-"ateam": "South Korea U23",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&auth_key=1694518870-0-0-a730ffbb7b4f7f428ff1e7d947bb5d03&user_session_id=1a8c354c3f5723dc3463439ba6f5862f&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?sub_m3u8=true&auth_key=1694518870-0-0-a730ffbb7b4f7f428ff1e7d947bb5d03&user_session_id=1a8c354c3f5723dc3463439ba6f5862f&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=2abdb490298aadfa17f1707c6f9cd0bb&txTime=65009502",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=2abdb490298aadfa17f1707c6f9cd0bb&txTime=65009502",
-"trylink": ""
-}
-]
-},
-{
-"league": " AFC U23 Chanpionship ",
 "himg": "https://api.sofascore.app/api/v1/team/132958/image",
 "hteam": "Singapore U23",
 "time": " live ",
@@ -80,16 +39,6 @@
 "aimg": "https://mygoaltv.xyz//team/Turkey.png",
 "ateam": "Japan",
 "link": [
-{
-"type": "English HD",
-"livelink": "https://ppp3-cf.ddi2ank3.cc/auth%3D6a94d8179bc01005f727e896ddc365f1fc0ea16cac871b3b31e7ace5bc9a7411b42f6af6b072fc3ce6a7cb7ff394c8d35e72e173ed5e037e5d35e2ad716e86c03354fd52f5d6154178a12be9ce644a9701089f742070c2c3c583ff7ccc4c612facbd064a384790b717bf206e8419761839684f854be9a665b8294604347522374617fae0919de51fe782a5ede6ad8ad99966a7b0ab9593eacebdcac2b610f1b51cdc0144ac1f02ec30a0f41c21d9e6c8a5c209f08cb13abcd5121363f3a6a922%26cid%3DNYPKr2d8cEK9E156Bjhgw230912%26_v%3D2%26_r%3DbJtw18%26_vis%3D2b988895ca51c2f80efaac4c3063a8b2908ab0c24d99568632d965b94a6fd45e%26_vvs%3D7aa448b6c834bd156e75c3e9916d64b62dd4b3df05ebf120825c82f23dc34639/app/c202315.m3u8",
-"trylink": "https://play3.808livetv2.com/"
-},
-{
-"type": "English SD",
-"livelink": "https://ecloud.twolive.sbs:8089/hls/z9xdmu8BKkRH/index.m3u8?st=mJcpOG45rqjM3fvX9Oy8xA&e=1694530898",
-"trylink": ""
-},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
