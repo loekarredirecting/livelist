@@ -246,6 +246,47 @@
 ]
 },
 {
+"league": " Friendly ",
+"himg": "https://mygoaltv.xyz//team/Scotland.png",
+"hteam": "England",
+"time": " 1:15 AM ",
+"date": "2023-09-13",
+"aimg": "https://mygoaltv.xyz//team/Anh.png",
+"ateam": "Scotland",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
 "league": " EURO Qualification Grup A ",
 "himg": "https://mygoaltv.xyz//team/Norway.png",
 "hteam": "Georgia",
@@ -581,47 +622,6 @@
 "date": "2023-09-13",
 "aimg": "https://mygoaltv.xyz//team/andorre.png",
 "ateam": "Switzerland",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Friendly ",
-"himg": "https://mygoaltv.xyz//team/Scotland.png",
-"hteam": "England",
-"time": " 1:15 AM ",
-"date": "2023-09-13",
-"aimg": "https://mygoaltv.xyz//team/Anh.png",
-"ateam": "Scotland",
 "link": [
 {
 "type": "Vietnam HD",
