@@ -44,39 +44,29 @@
 "league": " AFC U23 Chanpionship ",
 "himg": "https://api.sofascore.app/api/v1/team/132958/image",
 "hteam": "Singapore U23",
-"time": " 6:30 PM ",
-"date": "2023-09-12",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/4738/image",
 "ateam": "Vietnam U23",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694522742-0-0-fe5a3a968d85d761b789f4d229d7aa19",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1694522742-0-0-fe5a3a968d85d761b789f4d229d7aa19",
 "trylink": ""
 }
 ]
