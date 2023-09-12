@@ -820,6 +820,47 @@
 ]
 },
 {
+"league": " World Cup Qualification ",
+"himg": "https://mygoaltv.xyz//team/Peru.png",
+"hteam": "Brazil",
+"time": " 8:30 AM ",
+"date": "2023-09-13",
+"aimg": "https://mygoaltv.xyz//team/Brazil.png",
+"ateam": "Peru",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Mexico.png",
 "hteam": "Uzbekistan",
