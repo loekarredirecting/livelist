@@ -1,26 +1,5 @@
 [
 {
-"league": " AFC U23 Chanpionship ",
-"himg": "https://api.sofascore.app/api/v1/team/4730/image",
-"hteam": "Malaysia U23",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/195589/image",
-"ateam": "Thailand U23",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lhd.m3u8?user_session_id=bca68324556b6267b864227ebeecf623&auth_key=1694523130-0-0-e1401f15f81556690f8b56e4819da63f&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-552917_lsd.m3u8?user_session_id=bca68324556b6267b864227ebeecf623&auth_key=1694523130-0-0-e1401f15f81556690f8b56e4819da63f&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-}
-]
-},
-{
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Qatar.png",
 "hteam": "Russia",
@@ -41,7 +20,7 @@
 },
 {
 "type": "English 1 HD",
-"livelink": "https://sb2.livemodo.click/vvno5ruJFQVAi606zsb8XA/1694561564/3230322e3136352e38362e323135/ff118/playlist.m3u8",
+"livelink": "https://sb3.livemodo.click/HS21j19ZRSNLl2Wu1uMSwA/1694564334/3230322e3136352e38362e323135/ff118/playlist.m3u8",
 "trylink": ""
 },
 {
@@ -55,19 +34,19 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Hanquoc.png",
 "hteam": "Saudi Arabia",
-"time": " 11:00 PM ",
-"date": "2023-09-12",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Saudi-Arabia.png",
 "ateam": "South Korea",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8",
 "trylink": ""
 },
 {
