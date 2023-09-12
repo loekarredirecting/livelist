@@ -17,16 +17,6 @@
 "type": "Vietnam SD",
 "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
 "trylink": ""
-},
-{
-"type": "English 1 HD",
-"livelink": "https://sb3.livemodo.click/HS21j19ZRSNLl2Wu1uMSwA/1694564334/3230322e3136352e38362e323135/ff118/playlist.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://83nzh7qpaxswin.sharecast.ws/hls/af6ca3244776bdbf-90d2b5fde2ab0df63c0f35163007c29fa174dd1549acc2d8c07397aea51d4929480fcb0cf3f6e11 14325386f0cc06059 /live.m3u8",
-"trylink": "https://sharecast.ws/"
 }
 ]
 },
@@ -39,6 +29,16 @@
 "aimg": "https://mygoaltv.xyz//team/Saudi-Arabia.png",
 "ateam": "South Korea",
 "link": [
+{
+"type": "English HD",
+"livelink": "https://cdn-nl3-assets.p2pswarm.online/assets/dist//Ara_cf/styles.css",
+"trylink": "https://ww2.pawastreams.top/"
+},
+{
+"type": "English HD",
+"livelink": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=N_38x4ZwsDah5Hx9&ver=2&cmt=46804.982&fmt=244&fs=0&rt=6.216&euri&lact=4445&live=dvr&cl=562622789&mos=0&volume=100&cbr=Chrome&cbrver=116.0.0.0&c=WEB_EMBEDDED_PLAYER&cver=1.20230904.00.00&cplayer=UNIPLAYER&cos=Windows&cosver=10.0&cplatform=DESKTOP&epm=1&delay=5&hl=en_US&cr=US&fexp=v1%2C23848210%2C135086%2C21348%2C2602%2C73492%2C54572%2C73455%2C153920%2C6146%2C70530%2C84737%2C25387%2C9843%2C1088%2C4973%2C976%2C322%2C965%2C2235%2C26436267%2C27%2C171%2C136%2C839%2C2372%2C535%2C1254%2C677%2C612%2C243%2C279%2C4047&afmt=140&lio=1694489900.521&muted=0&docid=vI7Fmg4wKts&ei=EZQAZYTPEOvA4t4PmpeD8A4&plid=AAYFLBNVbBBgFWg_&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2FvI7Fmg4wKts&of=1q9dIkvpBcaYtF4FflPONg&vm=CAEQARgEOjJBQWpSVTZrel9tRlRuenVxekl2a3Zza0x6b3E0ekhfWTFzV2VSaXlNM3ZGeXlsa01MZ2JbQVBta0tETFBUV2N0bTBibk9pdnFqS3RWYnRvREROcjI2ZEV5UmxKUzRPZTh0ZkxYdkU1MmtnOHhfcFZTbHYtcjkxa0dsZ3AzWTh0U0ZVTG1xWjZOVUl6M3VEc2gB",
+"trylink": "https://www.youtube.com/embed/vI7Fmg4wKts"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
