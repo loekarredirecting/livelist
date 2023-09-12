@@ -3,39 +3,39 @@
 "league": " AFC U23 Chanpionship ",
 "himg": "https://api.sofascore.app/api/v1/team/4735/image",
 "hteam": "Myanmar U23",
-"time": " 5:30 PM ",
-"date": "2023-09-12",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/23484/image",
 "ateam": "South Korea U23",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&auth_key=1694518870-0-0-a730ffbb7b4f7f428ff1e7d947bb5d03&user_session_id=1a8c354c3f5723dc3463439ba6f5862f&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?sub_m3u8=true&auth_key=1694518870-0-0-a730ffbb7b4f7f428ff1e7d947bb5d03&user_session_id=1a8c354c3f5723dc3463439ba6f5862f&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=2abdb490298aadfa17f1707c6f9cd0bb&txTime=65009502",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=2abdb490298aadfa17f1707c6f9cd0bb&txTime=65009502",
 "trylink": ""
 }
 ]
