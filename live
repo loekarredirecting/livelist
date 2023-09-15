@@ -105,21 +105,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Rayo-Vallecano.png",
 "hteam": "Alaves",
-"time": " 1:30 AM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Alaves.png",
 "ateam": "Rayo Vallecano",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-669368_lhd.m3u8?sub_m3u8=true&user_session_id=a5ec0b59786c07240fc884aff2d5261d&auth_key=1694799911-0-0-c5f958e2e9d44fd7d20fd905330cc1ad&edge_slice=true",
@@ -146,20 +136,20 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/psg.png",
 "hteam": "Nice",
-"time": " 1:30 AM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Nice.png",
 "ateam": "Paris Saint-Germain",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://a5.bath001.site/watch/unQ2DKvIDiorqKN5yx0Xuw/1694805393/1694805647/1/tnt1_1.m3u8",
+"trylink": "https://hesgoal-live.io/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
+"type": "English 2 HD",
+"livelink": "https://3eatvx2wbh6naw3w.cdnministry.net:8443/hls/iubkxytogk0uw.m3u8?s=grlZGdOTurtb2r7W2bdc1Q&e=1694823721",
+"trylink": "https://abolishstand.net/"
 },
 {
 "type": "China HD",
