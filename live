@@ -44,20 +44,40 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "hteam": "Leverkusen",
-"time": " 1:00 AM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "1:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Leverkusen.png",
 "ateam": "Bayern Munich",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "Sky Sports HD",
+"livelink": "https://embed.sportsurge.stream/playlist/streamfree1.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
+"type": "Eleven Sports HD",
+"livelink": "https://ds1.sportea.online/stream/es5/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NDgwMDUwMiZoYXNoX3ZhbHVlPU9XRmxNVFZpTURVMU9UZGlPV1EwT0daaU9EbGpZV1l4T0RSbVl6UTBZVFEmZXhwaXJ5PTE2OTQ4MTEzMDImaXA9MjAyLjE2NS44Ni4yMTU=",
 "trylink": ""
+},
+{
+"type": "English HD",
+"livelink": "http://37.49.225.118:8080/hls/streama213039/index.m3u8?cst=a89210513e5c65b537f66f1216c64e91",
+"trylink": ""
+},
+{
+"type": "Sports HD",
+"livelink": "https://3eatvx2wbh6naw3w.cdnministry.net:8443/hls/wjgb6m.m3u8?s=IsObrqUzg8feYvKq6jluig&e=1694823318",
+"trylink": "https://abolishstand.net/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
