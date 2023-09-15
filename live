@@ -3,19 +3,19 @@
 "league": " Saudi Professional League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
 "hteam": "AI Riyadh",
-"time": "12:30 AM",
-"date": "2023-09-16",
+"time": "live",
+"date": "12:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/582739_small.png",
 "ateam": "AI Hilal",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": ""
 },
 {
