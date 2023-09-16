@@ -26,13 +26,13 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -46,12 +46,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694866302-0-0-f37d7eeb8c3a7dea04a12d274f1b61f6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1694866302-0-0-f37d7eeb8c3a7dea04a12d274f1b61f6",
 "trylink": ""
 }
 ]
