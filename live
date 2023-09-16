@@ -566,6 +566,16 @@
 "ateam": "Al Raed",
 "link": [
 {
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Soco HD",
 "livelink": "https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1694863362-0-0-796cc269620a2d45e4554da1bb55dc2f",
 "trylink": ""
