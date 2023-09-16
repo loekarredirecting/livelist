@@ -9,6 +9,16 @@
 "ateam": "Genoa",
 "link": [
 {
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lhd.m3u8?edge_slice=true&user_session_id=0e665c29069c5f676d0fea6608a92879&auth_key=1694861891-0-0-7a71b288181c503ba7341f9e979d8832&sub_m3u8=true",
 "trylink": ""
@@ -34,20 +44,20 @@
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Real Betic",
-"time": " 1:30 AM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "ateam": "Barcelona",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -75,21 +85,11 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "hteam": "Metz",
-"time": " 1:30 AM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
 "ateam": "Lens",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-535241_lhd.m3u8?auth_key=1694885231-0-0-50e13fce0167878b7bee2cca74425fee&user_session_id=d8b84a0efc9429ac5df61c859ae2f378&edge_slice=true&sub_m3u8=true",
