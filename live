@@ -477,21 +477,11 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/newcastle.png",
 "hteam": "Brentford",
-"time": " 11:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Brentford.png",
 "ateam": "Newcastle United",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?user_session_id=ec1e98cad1a78c29b668c667cef40723&auth_key=1694860511-0-0-e1c710edd54b54d61ef19a1c1fd8aac7&edge_slice=true&sub_m3u8=true",
@@ -518,21 +508,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
 "hteam": "Mallorca",
-"time": " 11:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "ateam": "Celta Vigo",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lhd.m3u8?user_session_id=118da9c7e77483ebbb0495bf88db850c&sub_m3u8=true&auth_key=1694861771-0-0-9344b5d9a19f10f68d7d8b00df977d43&edge_slice=true",
@@ -559,21 +539,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Bochum.gif",
 "hteam": "Frankfurt",
-"time": " 11:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Eintracht_Frankfurt.png",
 "ateam": "Bochum",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-580311_lhd.m3u8?edge_slice=true&user_session_id=42d6d0d2c173753f51e71b8588a2c783&auth_key=1694861291-0-0-2cd30a19699fa35ab266f538694fe493&sub_m3u8=true",
