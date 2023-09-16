@@ -168,8 +168,8 @@
 },
 {
 "type": "English HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://n9.aliflailaaliflaila.com:999/hls/do33.m3u8?md5=5tBGxeD7yfTDFmN-kpGgfg&expires=1694881147",
+"trylink": "https://jewelavid.com/"
 },
 {
 "type": "Vietnam HD",
@@ -223,13 +223,13 @@
 "trylink": "https://live-streamfootball.com/"
 },
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "Eng HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx4w8eryk/chunklist_w1768777408.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
+"type": "Eng SD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-pxwrxlhx4w8eryk/chunklist_w1768777408.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -301,47 +301,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=363331db5f1f5d8d83ab5af5c9ff3899&txTime=6505d5da",
-"trylink": ""
-}
-]
-},
-{
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/athletic-bilbao.png",
-"hteam": "Cadiz",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Cadiz_CF.png",
-"ateam": "Athletic Bilbao",
-"link": [
-{
-"type": "Football HD",
-"livelink": "https://livecdn.rumsport.com/stream/15/chunks.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Football FHD",
-"livelink": "https://livecdn.rumsport.com/stream/15_fhd/chunks.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694860631-0-0-fc27f023708a0148e4a976aae6e91510&user_session_id=3c25c4ad56b3b6c8201138b639b36d98",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694860631-0-0-fc27f023708a0148e4a976aae6e91510&user_session_id=3c25c4ad56b3b6c8201138b639b36d98",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1694862702-0-0-765bbcd5d4dac259402124a555a37bc1",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1694862702-0-0-765bbcd5d4dac259402124a555a37bc1",
 "trylink": ""
 }
 ]
