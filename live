@@ -1,46 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Valencia.png",
-"hteam": "Atletico Madrid",
-"time": " live ",
-"date": "8:45 PM",
-"aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
-"ateam": "Valencia",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-965mkyh2vjd0r1g/chunklist_w1901014814.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-965mkyh2vjd0r1g/chunklist_w1168558993.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?sub_m3u8=true&user_session_id=cf5fa0de9ca1d4708dc6cbefae6eda59&edge_slice=true&auth_key=1694860631-0-0-fc27f023708a0148e4a976aae6e91510",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?sub_m3u8=true&user_session_id=cf5fa0de9ca1d4708dc6cbefae6eda59&edge_slice=true&auth_key=1694860631-0-0-fc27f023708a0148e4a976aae6e91510",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1694863302-0-0-3b63dd4763ff1aa4c6c68b611cbb8953",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1694863302-0-0-3b63dd4763ff1aa4c6c68b611cbb8953",
-"trylink": ""
-}
-]
-},
-{
 "league": " Saudi Pro League ",
 "himg": "https://mygoaltv.xyz//team/al-raed.png",
 "hteam": "Al-Nassr",
@@ -181,6 +140,16 @@
 "type": "Super Sports FHD",
 "livelink": "https://livenflstream.xyz/playlist/stream_1.m3u8",
 "trylink": ""
+},
+{
+"type": "Premier HD",
+"livelink": "https://n6.aliflailaaliflaila.com:999/hls/spstream15.m3u8?md5=8lyfrjDjNOF2PEb0_pkunw&expires=1694888385",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "Portugal HD",
+"livelink": "https://pl5.aliflailaaliflaila.com:999/hls/mhub1.m3u8?md5=Ak6rezVxWqI5bp2eFL9XeA&expires=1694888547",
+"trylink": "https://b4ucast.com/"
 },
 {
 "type": "Vietnam HD",
