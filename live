@@ -121,6 +121,16 @@
 "ateam": "Juventus",
 "link": [
 {
+"type": "Football HD",
+"livelink": "https://livecdn.rumsport.com/stream/15/chunks.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Football FHD",
+"livelink": "https://livecdn.rumsport.com/stream/15_fhd/chunks.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": "https://player.4shares.live/"
