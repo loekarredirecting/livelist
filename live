@@ -560,31 +560,11 @@
 "league": " Saudi Pro League ",
 "himg": "https://mygoaltv.xyz//team/al-raed.png",
 "hteam": "Al-Nassr",
-"time": " 9:30 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/al-nassr.png",
 "ateam": "Al Raed",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "Soco HD",
 "livelink": "https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1694863362-0-0-796cc269620a2d45e4554da1bb55dc2f",
@@ -601,21 +581,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/rennes.png",
 "hteam": "Lille",
-"time": " 9:30 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/lille.png",
 "ateam": "Rennes",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lhd.m3u8?sub_m3u8=true&auth_key=1694861531-0-0-188f3eb459e54f741197bf9724bc7cf3&user_session_id=d7de723706bdf6024eb122a1c5214cd6&edge_slice=true",
