@@ -9,6 +9,16 @@
 "ateam": "Man United",
 "link": [
 {
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/2/stream/2_fhd/chunks.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/2/chunks.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": "https://player.4shares.live/"
