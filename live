@@ -1,21 +1,5 @@
 [
 {
-"league": " M5 Myanmar Qualifier Day 3 ",
-"himg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png",
-"hteam": "Team Two",
-"time": "live",
-"date": "2023-09-16",
-"aimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/1200px-Flag_of_Myanmar.svg.png",
-"ateam": "Team One",
-"link": [
-{
-"type": "Youtube FHD ",
-"livelink": "https://www.youtube.com/embed/hVWbKLvLZpc?si=QKdcnDb50462aGjh",
-"trylink": "embed"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "hteam": "Liverpool",
@@ -24,6 +8,16 @@
 "aimg": "https://mygoaltv.xyz//team/liverpool.png",
 "ateam": "Wolverhampton",
 "link": [
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/2/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
