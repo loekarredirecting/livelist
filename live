@@ -9,13 +9,13 @@
 "ateam": "Man United",
 "link": [
 {
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream/2/stream/2_fhd/chunks.m3u8",
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/2/index.m3u8",
 "trylink": "https://live-streamfootball.com/"
 },
 {
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/2/chunks.m3u8",
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/2/index.fmp4.m3u8",
 "trylink": "https://live-streamfootball.com/"
 },
 {
@@ -60,6 +60,16 @@
 "ateam": "West Ham",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/27/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": "https://player.4shares.live/"
@@ -100,6 +110,16 @@
 "aimg": "https://mygoaltv.xyz//team/Sheffield-Utd.gif",
 "ateam": "Tottenham",
 "link": [
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/9/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/9/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
@@ -142,6 +162,16 @@
 "ateam": "Fulham",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/17/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/17/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "0",
 "trylink": "https://player.4shares.live/"
@@ -183,6 +213,16 @@
 "ateam": "Aston Villa",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/25/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/25_fhd/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": "https://player.4shares.live/"
@@ -210,77 +250,6 @@
 {
 "type": "Soco SD",
 "livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=363331db5f1f5d8d83ab5af5c9ff3899&txTime=6505d5da",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/Wolverhampton.png",
-"hteam": "Liverpool",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://mygoaltv.xyz//team/liverpool.png",
-"ateam": "Wolverhampton",
-"link": [
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/2/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "TNT Sports HD",
-"livelink": "https://a5.bath001.site/watch/wBgzsA3CzxWK59Ma-ObmIg/1694870643/1694870897/1/tnt1_2.m3u8",
-"trylink": "https://tv.shoot-yalla.live/"
-},
-{
-"type": "TNT Sports SD",
-"livelink": "https://a4.bath001.site/watch/tZOI4B7WguHYHQlcM4AItg/1694870597/1694870851/1/tnt1_1.m3u8",
-"trylink": "https://tv.shoot-yalla.live/"
-},
-{
-"type": "English 1 HD",
-"livelink": "https://work.realbitsport.com/live/n-1/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://wanaty111ff.azureedge.net/live/usa/chunks.m3u8",
-"trylink": "https://weakspell.org/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694860511-0-0-e1c710edd54b54d61ef19a1c1fd8aac7&user_session_id=e86ebfecb3bb8af8dfd5e0cf38f40f28",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1694860511-0-0-e1c710edd54b54d61ef19a1c1fd8aac7&user_session_id=e86ebfecb3bb8af8dfd5e0cf38f40f28",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1694866302-0-0-f37d7eeb8c3a7dea04a12d274f1b61f6",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1694866302-0-0-f37d7eeb8c3a7dea04a12d274f1b61f6",
 "trylink": ""
 }
 ]
