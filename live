@@ -121,16 +121,6 @@
 "ateam": "Juventus",
 "link": [
 {
-"type": "Football HD",
-"livelink": "https://livecdn.rumsport.com/stream/15/chunks.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Football FHD",
-"livelink": "https://livecdn.rumsport.com/stream/15_fhd/chunks.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": "https://player.4shares.live/"
@@ -166,20 +156,20 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/freiburg.png",
 "hteam": "Dortmund",
-"time": " 8:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/dortmund.png",
 "ateam": "Freiburg",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -207,21 +197,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/wolfsburg.png",
 "hteam": "Union Berlin",
-"time": " 8:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "ateam": "Wolfsburg",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=8cc9ee66700c7adb503c02fa38728e6c&auth_key=1694860811-0-0-bfe308d4cde9ea73b151c9bc5de31115",
@@ -248,21 +228,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Mainz_05.png",
 "hteam": "Stuttgart",
-"time": " 8:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/stuttgart.png",
 "ateam": "Mainz 05",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-265460_lhd.m3u8?edge_slice=true&user_session_id=d794dde3681fc972eaca670e9f6ff126&sub_m3u8=true&auth_key=1694860931-0-0-3165742aa62bae200e524294c889608e",
@@ -289,21 +259,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "hteam": "Augsburg",
-"time": " 8:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/augsburg.png",
 "ateam": "RB Leipzig",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-532085_lhd.m3u8?auth_key=1694860991-0-0-cf48ab7b9c3436d267c236f87d46c5c7&sub_m3u8=true&user_session_id=e0f7b83a97ea561f3cf7b516d2ee0d4a&edge_slice=true",
@@ -330,21 +290,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Koln.png",
 "hteam": "Hoffenheim",
-"time": " 8:00 PM ",
-"date": "2023-09-16",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "ateam": "Koln",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1694862551-0-0-cf7a7026ac09b5c31375df3acbbea1fa&sub_m3u8=true&edge_slice=true&user_session_id=b0c52ca5fdd15224bc24af2b2dea715a",
