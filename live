@@ -9,6 +9,16 @@
 "ateam": "Genoa",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/15/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/15_fhd/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
 "trylink": ""
@@ -49,6 +59,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "ateam": "Barcelona",
 "link": [
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/3/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/3_fhd/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
@@ -116,21 +136,11 @@
 "league": " MLS League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/773958_small.png",
 "hteam": "Inter Miami CF",
-"time": " 3:30 AM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "3:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "ateam": "Atlanta United",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-632730_lhd.m3u8?user_session_id=210cc44e36b97db9ea02a72d75c35d2d&sub_m3u8=true&edge_slice=true&auth_key=1694862071-0-0-5855266aa53e456243c4027c6cf339b1",
