@@ -1,56 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/villarreal.png",
-"hteam": "Almeria",
-"time": " live ",
-"date": "8:45 PM",
-"aimg": "https://mygoaltv.xyz//team/Almeria.png",
-"ateam": "Villarreal",
-"link": [
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/3/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream/3/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?auth_key=1694951411-0-0-5ef8940cbc6579b3f574165993332593&user_session_id=37f2e7fb32aa5044f57ea997060287e1&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?auth_key=1694951411-0-0-5ef8940cbc6579b3f574165993332593&user_session_id=37f2e7fb32aa5044f57ea997060287e1&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=1669563b45477e939ac6e4c36ac8709a&txTime=650726e2",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911969_lsd.m3u8?txSecret=1669563b45477e939ac6e4c36ac8709a&txTime=650726e2",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Marseille_logo.png",
 "hteam": "Toulouse",
@@ -268,19 +217,29 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Sevilla.png",
 "hteam": "Las Palmas",
-"time": " 11:00 PM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Las-Palmas.png",
 "ateam": "Sevilla",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn-001.rumsport.com/stream/3/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn.rumsport.com/stream/3/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
