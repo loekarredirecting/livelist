@@ -1,36 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://mygoaltv.xyz//team/Heidenheim_1846.png",
-"hteam": "Werder Bremen",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Werder-Bremen.png",
-"ateam": "Heidenheim 1846",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?user_session_id=b8f9f96e84bbf67b3bc74a320ae77fc2&auth_key=1694952251-0-0-69d8e2bd8258ea6564bf02b29bee6ce5&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?user_session_id=b8f9f96e84bbf67b3bc74a320ae77fc2&auth_key=1694952251-0-0-69d8e2bd8258ea6564bf02b29bee6ce5&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=88402e220b63cf351edfd9eb4ddec7e5&txTime=650726a6",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=88402e220b63cf351edfd9eb4ddec7e5&txTime=650726a6",
-"trylink": ""
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/villarreal.png",
 "hteam": "Almeria",
@@ -258,20 +227,20 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "hteam": "Atalanta",
-"time": " 10:30 PM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Atalanta.png",
 "ateam": "Fiorentina",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/15/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/15/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
 },
 {
 "type": "China HD",
@@ -398,12 +367,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lhd.m3u8?edge_slice=true&user_session_id=6b348125c115fce3cf58a4f012d6ca6d&auth_key=1694968211-0-0-9b384a668048c146aa38265d1d8a114f&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lsd.m3u8?edge_slice=true&user_session_id=6b348125c115fce3cf58a4f012d6ca6d&auth_key=1694968211-0-0-9b384a668048c146aa38265d1d8a114f&sub_m3u8=true",
 "trylink": ""
 },
 {
