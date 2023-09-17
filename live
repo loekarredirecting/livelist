@@ -50,6 +50,16 @@
 "ateam": "Lorient",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/20/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/284530/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
 "trylink": ""
