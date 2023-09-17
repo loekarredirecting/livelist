@@ -44,39 +44,39 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Lorient.png",
 "hteam": "Monaco",
-"time": " 5:30 PM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://mygoaltv.xyz//team/monaco.png",
 "ateam": "Lorient",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lhd.m3u8?user_session_id=4d592692e836d2033fe897c175d66843&sub_m3u8=true&auth_key=1694950931-0-0-46434a61ada3f93e35101416ab4469ee&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lsd.m3u8?user_session_id=4d592692e836d2033fe897c175d66843&sub_m3u8=true&auth_key=1694950931-0-0-46434a61ada3f93e35101416ab4469ee&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=971244bcd0a821831ad05089dddad697&txTime=65072c0a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=971244bcd0a821831ad05089dddad697&txTime=65072c0a",
 "trylink": ""
 }
 ]
