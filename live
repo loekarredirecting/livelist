@@ -162,6 +162,22 @@
 "trylink": "https://live-streamfootball.com/"
 },
 {
+"type": "English 1 FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/263/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "English 2 FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/2/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "English 3 FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/2/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
