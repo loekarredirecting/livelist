@@ -1,107 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/Lorient.png",
-"hteam": "Monaco",
-"time": " live ",
-"date": "5:30 PM",
-"aimg": "https://mygoaltv.xyz//team/monaco.png",
-"ateam": "Lorient",
-"link": [
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/20/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-iptv001.rumsport.com/stream/284530/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lhd.m3u8?user_session_id=4d592692e836d2033fe897c175d66843&sub_m3u8=true&auth_key=1694950931-0-0-46434a61ada3f93e35101416ab4469ee&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lsd.m3u8?user_session_id=4d592692e836d2033fe897c175d66843&sub_m3u8=true&auth_key=1694950931-0-0-46434a61ada3f93e35101416ab4469ee&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=971244bcd0a821831ad05089dddad697&txTime=65072c0a",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=971244bcd0a821831ad05089dddad697&txTime=65072c0a",
-"trylink": ""
-}
-]
-},
-{
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Getafe.png",
-"hteam": "Osasuna",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://mygoaltv.xyz//team/osasuna.png",
-"ateam": "Getafe",
-"link": [
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/3/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream/3/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?sub_m3u8=true&user_session_id=87b71ca2dbfdb559bf7db65fb27ada30&auth_key=1694951411-0-0-5ef8940cbc6579b3f574165993332593&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?sub_m3u8=true&user_session_id=87b71ca2dbfdb559bf7db65fb27ada30&auth_key=1694951411-0-0-5ef8940cbc6579b3f574165993332593&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1694949222-0-0-9535a4c62571943b73b2bc00a4ec5c6d",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1694949222-0-0-9535a4c62571943b73b2bc00a4ec5c6d",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Bournemouth.gif",
 "hteam": "Chelsea",
@@ -362,19 +260,29 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/villarreal.png",
 "hteam": "Almeria",
-"time": " 8:45 PM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "8:45 PM",
 "aimg": "https://mygoaltv.xyz//team/Almeria.png",
 "ateam": "Villarreal",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/3/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-001.rumsport.com/stream/3/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
