@@ -362,19 +362,19 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/everton.png",
 "hteam": "Arsenal",
-"time": " 10:00 PM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "10:00 PM",
 "aimg": "https://mygoaltv.xyz//team/arsenal.png",
 "ateam": "Everton",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -403,21 +403,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Darmstadt-98.png",
 "hteam": "Monchengladbach",
-"time": " 10:00 PM ",
-"date": "2023-09-17",
+"time": " live ",
+"date": "10:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
 "ateam": "Darmstadt 98",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?user_session_id=50cd894a69fb38b999263fc99d2222f7&auth_key=1694951651-0-0-ed2c85a2563e2d911734e43541235fdb&sub_m3u8=true&edge_slice=true",
