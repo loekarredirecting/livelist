@@ -44,19 +44,19 @@
 "league": " AFC Champions League ",
 "himg": "https://api.sofascore.app/api/v1/team/21895/image",
 "hteam": "Navbahor Namangan",
-"time": " 12:30 AM ",
-"date": "2023-09-19",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://img.thesports.com/football/team/6146e1433c504c243d92f724e75b7805.png",
 "ateam": "AI Hilal",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
