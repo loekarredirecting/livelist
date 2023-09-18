@@ -3,39 +3,49 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/salernitana.png",
 "hteam": "Torino",
-"time": " 11:00 PM ",
-"date": "2023-09-18",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Torino.png",
 "ateam": "Salernitana",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn-001.rumsport.com/stream/15/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports HD",
+"livelink": "https://livecdn-001.rumsport.com/stream2/15/index.fmp4.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698313_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=53f01ee6855095a03e0490e9112647fc&auth_key=1695057131-0-0-231103da14d602939032784f4b2771da",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-698313_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=53f01ee6855095a03e0490e9112647fc&auth_key=1695057131-0-0-231103da14d602939032784f4b2771da",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=6468530c1cdcdac509c486673aeacc2a&txTime=6508c93c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=6468530c1cdcdac509c486673aeacc2a&txTime=6508c93c",
 "trylink": ""
 }
 ]
@@ -44,7 +54,7 @@
 "league": " AFC Champions League ",
 "himg": "https://api.sofascore.app/api/v1/team/21895/image",
 "hteam": "Navbahor Namangan",
-"time": " 12;30 AM ",
+"time": " 12:30 AM ",
 "date": "2023-09-19",
 "aimg": "https://img.thesports.com/football/team/6146e1433c504c243d92f724e75b7805.png",
 "ateam": "AI Hilal",
@@ -71,12 +81,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912054_lhd.m3u8?txSecret=16fca06433ccbff2f9dd8954061132c0&txTime=6508c978",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912054_lhd.m3u8?txSecret=16fca06433ccbff2f9dd8954061132c0&txTime=6508c978",
 "trylink": ""
 }
 ]
@@ -112,12 +122,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=606d36ffd54f8705a79d31bb710e1e71&txTime=6508c9b4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=606d36ffd54f8705a79d31bb710e1e71&txTime=6508c9b4",
 "trylink": ""
 }
 ]
@@ -153,12 +163,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1695056800-0-0-31d670f9971fd888ab6ac3fbea4df64b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1695056800-0-0-31d670f9971fd888ab6ac3fbea4df64b",
 "trylink": ""
 }
 ]
@@ -194,12 +204,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-991158_lhd.m3u8?auth_key=1695056860-0-0-9dae187e834f6a5ca123f73ff863e48e",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-991158_lsd.m3u8?auth_key=1695056860-0-0-9dae187e834f6a5ca123f73ff863e48e",
 "trylink": ""
 }
 ]
