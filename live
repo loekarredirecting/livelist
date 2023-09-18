@@ -41,6 +41,47 @@
 ]
 },
 {
+"league": " AFC Champions League ",
+"himg": "https://api.sofascore.app/api/v1/team/21895/image",
+"hteam": "Navbahor Namangan",
+"time": " 12;30 AM ",
+"date": "2023-09-19",
+"aimg": "https://img.thesports.com/football/team/6146e1433c504c243d92f724e75b7805.png",
+"ateam": "AI Hilal",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "hteam": "Burnley",
