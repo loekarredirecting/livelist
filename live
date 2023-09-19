@@ -9,16 +9,6 @@
 "ateam": "AC Milan",
 "link": [
 {
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/3/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream/3/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
 "type": "TNT Sports HD",
 "livelink": "https://spedd2work.realbitsport.com/live/n-1/chunks.m3u8",
 "trylink": ""
@@ -79,16 +69,6 @@
 "aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "ateam": "Young Boys",
 "link": [
-{
-"type": "K+ Sports HD",
-"livelink": "https://livecdn.rumsport.com/stream/9/index.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
-{
-"type": "K+ Sports FHD",
-"livelink": "https://livecdn-001.rumsport.com/stream/9/index.fmp4.m3u8",
-"trylink": "https://live-streamfootball.com/"
-},
 {
 "type": "TNT Sports HD",
 "livelink": "https://spedd2work.realbitsport.com/live/n-2/chunks.m3u8",
