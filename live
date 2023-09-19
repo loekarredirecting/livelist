@@ -264,13 +264,23 @@
 "ateam": "Manchester City",
 "link": [
 {
+"type": "CBS Sports HD",
+"livelink": "https://webproxifiers.online/playlist/stream_city.m3u8",
+"trylink": ""
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://storage.googleapis.com/cloohwzxrihk/video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
 "type": "TNT Sports HD",
 "livelink": "https://asdas.azzureedge.xyz/scripts/MTM0NTk=/caxi.m3u8",
 "trylink": "https://1stream.eu/"
 },
 {
-"type": "Sky Sports HD",
-"livelink": "https://jgqb9p476xtffa3q.cdnspectrum.net:8443/hls/71urpyq.m3u8?s=JJt3xSKwLhrXfLr0me07Cw&e=1695171519",
+"type": "Eleven Sports HD",
+"livelink": "https://jgqb9p476xtffa3q.cdnspectrum.net:8443/hls/hqwwgwycxiiy.m3u8?s=lXyMfYOXcu149NIfANkC4w&e=1695172350",
 "trylink": "https://wgstream.sx/"
 },
 {
