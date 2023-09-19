@@ -1,127 +1,5 @@
 [
 {
-"league": " Champions League ",
-"himg": "https://mygoaltv.xyz//team/acmilan.png",
-"hteam": "Newcastle United",
-"time": " live ",
-"date": "11:15 PM",
-"aimg": "https://mygoaltv.xyz//team/newcastle.png",
-"ateam": "AC Milan",
-"link": [
-{
-"type": "TNT Sports HD",
-"livelink": "https://spedd2work.realbitsport.com/live/n-1/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "TNT Sports FHD",
-"livelink": "https://livenflstream.xyz/playlist/stream_1.m3u8",
-"trylink": ""
-},
-{
-"type": "CBS Sport HD",
-"livelink": "https://watchmotogp.live/playlist/stream_paramountplus2.m3u8",
-"trylink": ""
-},
-{
-"type": "CBS Sport SD",
-"livelink": "https://webproxifiers.online/playlist/stream_uefa2.m3u8",
-"trylink": ""
-},
-{
-"type": "Math HD",
-"livelink": "https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8",
-"trylink": ""
-},
-{
-"type": "Sony HD",
-"livelink": "https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?user_session_id=9ae0621204c86e7fa09607f446b45e3e&edge_slice=true&auth_key=1695142991-0-0-0f63d36be9fac9d59561ba0657120059&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?user_session_id=9ae0621204c86e7fa09607f446b45e3e&edge_slice=true&auth_key=1695142991-0-0-0f63d36be9fac9d59561ba0657120059&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912037_lhd.m3u8?auth_key=1695144040-0-0-cc051970ad4643ad8de89e12f2a44553",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912037_lsd.m3u8?auth_key=1695144040-0-0-cc051970ad4643ad8de89e12f2a44553",
-"trylink": ""
-}
-]
-},
-{
-"league": " Champions League ",
-"himg": "https://mygoaltv.xyz//team/Young-Boys.gif",
-"hteam": "RB Leipzig",
-"time": " live ",
-"date": "11:15 PM",
-"aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
-"ateam": "Young Boys",
-"link": [
-{
-"type": "TNT Sports HD",
-"livelink": "https://spedd2work.realbitsport.com/live/n-2/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "English HD",
-"livelink": "https://watchmotogp.live/playlist/stream_paramountplus1.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lhd.m3u8?auth_key=1695143111-0-0-5eae9b6d333d72e2f477fcfe390e81fa&sub_m3u8=true&edge_slice=true&user_session_id=75f7e8221df7a35b4bd71738152783d2",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lsd.m3u8?auth_key=1695143111-0-0-5eae9b6d333d72e2f477fcfe390e81fa&sub_m3u8=true&edge_slice=true&user_session_id=75f7e8221df7a35b4bd71738152783d2",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lhd.m3u8?txSecret=98d631c37651039e62f7a00c4ad8b8f4&txTime=650a1eb8",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911977_lsd.m3u8?txSecret=98d631c37651039e62f7a00c4ad8b8f4&txTime=650a1eb8",
-"trylink": ""
-}
-]
-},
-{
 "league": " AFC Champions League ",
 "himg": "https://mygoaltv.xyz//team/Persepolis.gif",
 "hteam": "Al-Nassr",
@@ -193,12 +71,12 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
