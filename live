@@ -176,11 +176,21 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Royal Antwerp",
-"time": " 1:30 AM ",
-"date": "2023-09-20",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "Barcelona",
 "link": [
+{
+"type": "English HD",
+"livelink": "https://e7.ainakwalajeen.com:999/hls/do10.m3u8?md5=4Sb9P0yfkdebIXy34l61-g&expires=1695155074",
+"trylink": "https://jewelavid.com/"
+},
+{
+"type": "TNT Sports HD",
+"livelink": "https://e9.ainakwalajeen.com:999/hls/do4.m3u8?md5=ZDE16q3MHiCaDlGvMraONQ&expires=1695155187",
+"trylink": "https://jewelavid.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "0",
@@ -217,19 +227,29 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/psg.png",
 "hteam": "Dortmund",
-"time": " 1:30 AM ",
-"date": "2023-09-20",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/dortmund.png",
 "ateam": "Paris Saint-Germain",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://wl3.ainakwalajeen.com:999/hls/do14.m3u8?md5=QcRsqKwXF7g9_tnTeDwZFg&expires=1695155363",
+"trylink": "https://jewelavid.com/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://e11.ainakwalajeen.com:999/hls/do9.m3u8?md5=_LkN2auW8_bYMsMFA8hZDg&expires=1695155446",
+"trylink": "https://jewelavid.com/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -258,11 +278,21 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/Feyenoord.gif",
 "hteam": "Celtic",
-"time": " 1:30 AM ",
-"date": "2023-09-20",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/celtic.png",
 "ateam": "Feyenoord",
 "link": [
+{
+"type": "TNT Sports HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTM0NTg=/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English HD",
+"livelink": "https://wl2.ainakwalajeen.com:999/hls/do8.m3u8?md5=LAULHWwLSMvfVbs__LxRCA&expires=1695155747",
+"trylink": "https://capture1flag.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "0",
@@ -299,19 +329,29 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/lazio.png",
 "hteam": "Atletico Madrid",
-"time": " 1:30 AM ",
-"date": "2023-09-20",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "Lazio",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTM0NjI=/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "TNT Sports HD",
+"livelink": "https://vladrums.com/hls/004.m3u8?md5=7IjHCsvFA41kNNL46irCrw&expires=1695155718",
+"trylink": "https://vladrustov.sx/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -340,11 +380,21 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Crvena Zvezda",
-"time": " 1:30 AM ",
-"date": "2023-09-20",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Crvena-Zvezda.gif",
 "ateam": "Manchester City",
 "link": [
+{
+"type": "English HD",
+"livelink": "https://asdas.azzureedge.xyz/scripts/MTM0NTk=/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "TNT Sports HD",
+"livelink": "https://cap3.techstribes.com/hls/t5.m3u8",
+"trylink": "https://techstribes.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "0",
@@ -381,19 +431,19 @@
 "league": " Champions League ",
 "himg": "https://mygoaltv.xyz//team/shakhtar_Donetsk.png",
 "hteam": "Porto",
-"time": " 1:30 AM ",
-"date": "2023-09-20",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/porto.png",
 "ateam": "Shakhtar Donetsk",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
