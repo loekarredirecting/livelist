@@ -243,6 +243,16 @@
 "ateam": "Benfica",
 "link": [
 {
+"type": "TNT Sports HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_5.m3u8",
+"trylink": ""
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://spedd2work.realbitsport.com/live/n-5/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may00HD/chunks.m3u8",
 "trylink": ""
@@ -284,13 +294,23 @@
 "ateam": "Sporting Braga",
 "link": [
 {
+"type": "TNT Sports HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://spedd2work.realbitsport.com/live/n-6/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -325,6 +345,16 @@
 "ateam": "Sevilla",
 "link": [
 {
+"type": "TNT Sports HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://spedd2work.realbitsport.com/live/n-4/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
 "trylink": ""
@@ -346,12 +376,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=77d3d8501218be78043b6398296c20cf&txTime=650b9018",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=77d3d8501218be78043b6398296c20cf&txTime=650b9018",
 "trylink": ""
 }
 ]
@@ -365,6 +395,16 @@
 "aimg": "https://mygoaltv.xyz//team/inter_milan.png",
 "ateam": "Real Sociedad",
 "link": [
+{
+"type": "TNT Sports HD",
+"livelink": "https://livenflstream.xyz/playlist/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://spedd2work.realbitsport.com/live/n-3/chunks.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
