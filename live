@@ -9,22 +9,27 @@
 "ateam": "Real Madrid",
 "link": [
 {
-"type": "TNT Sports HD",
+"type": "TNT Sports HD 1",
 "livelink": "https://livenflstream.xyz/playlist/stream_2.m3u8",
 "trylink": ""
 },
 {
-"type": "TNT Sports HD",
+"type": "Super Sport HD",
 "livelink": "https://realbitsport.com/n-1.m3u8",
 "trylink": ""
 },
 {
-"type": "SuperSports HD",
+"type": "TNT Sports HD 2",
 "livelink": "https://embed.sportsurge.stream/playlist/streamfree2.m3u8",
 "trylink": ""
 },
 {
-"type": "SuperSports HD",
+"type": "TNT Sports HD 3",
+"livelink": "https://forlive01.fordems.live/live/for-dems2/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "TNT Sports HD 4 ",
 "livelink": "https://spedd2work.realbitsport.com/live/n-1/chunks.m3u8",
 "trylink": ""
 },
