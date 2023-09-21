@@ -1,46 +1,5 @@
 [
 {
-"league": " Saudi Pro League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/582823_small.png",
-"hteam": "AI Hilal",
-"time": "live ",
-"date": " 9:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
-"ateam": "Damac FC",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?sub_m3u8=true&auth_key=1695310931-0-0-5da884fb795bef7abbb8f4d54a44831d&user_session_id=f49cee281754a804b053698fc78cfc91&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?sub_m3u8=true&auth_key=1695310931-0-0-5da884fb795bef7abbb8f4d54a44831d&user_session_id=f49cee281754a804b053698fc78cfc91&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1695311020-0-0-fadebb8cbe04388020fcc35712ab89ca",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1695311020-0-0-fadebb8cbe04388020fcc35712ab89ca",
-"trylink": ""
-}
-]
-},
-{
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9977_small.png",
 "hteam": "Liverpool",
