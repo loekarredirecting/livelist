@@ -9,6 +9,16 @@
 "ateam": "Damac FC",
 "link": [
 {
+"type": "Sports HD",
+"livelink": "https://jgqb9p476xtffa3q.cdnspectrum.net:8443/hls/dm4f0c0bxcxxsau.m3u8?s=1zsVdNiXusMDN0e7e07R4g&e=1695329458",
+"trylink": "https://p5881d1ra3pgj2.dynamicrevival.net/"
+},
+{
+"type": "English HD",
+"livelink": "https://tens.liveassia.com/hls/67.m3u8?md5=llCC_BokGh68l1gG5CoHEw&expires=1695311781",
+"trylink": "https://newassia.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
@@ -57,7 +67,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -98,7 +108,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -139,7 +149,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -180,7 +190,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -221,7 +231,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -262,7 +272,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -303,7 +313,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -344,7 +354,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -385,7 +395,7 @@
 {
 "type": "Vietnam SD",
 "livelink": "0",
-"trylink": ""
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
