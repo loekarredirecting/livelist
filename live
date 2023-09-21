@@ -111,16 +111,6 @@
 "ateam": "Union St.Gilloise",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-664361_lhd.m3u8?auth_key=1695312131-0-0-c58a9db932230ce06f010bd6d6faf38b&edge_slice=true&user_session_id=ed6fcdbf337ef03755e00eb74ad71d28&sub_m3u8=true",
 "trylink": ""
@@ -173,12 +163,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912029_lhd.m3u8?auth_key=1695317080-0-0-aa4afdbffc8cf907c381fba60059143e",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912029_lsd.m3u8?auth_key=1695317080-0-0-aa4afdbffc8cf907c381fba60059143e",
 "trylink": ""
 }
 ]
@@ -193,23 +183,13 @@
 "ateam": "Rennes",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-427562_lhd.m3u8?txSecret=350f3005b85fe02f2aafee82759d0f72&txTime=650cc2e4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-427562_lsd.m3u8?txSecret=350f3005b85fe02f2aafee82759d0f72&txTime=650cc2e4",
 "trylink": ""
 }
 ]
@@ -245,12 +225,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912054_lhd.m3u8?txSecret=8616739181660b80f653cff313dd56f1&txTime=650cc320",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912054_lsd.m3u8?txSecret=8616739181660b80f653cff313dd56f1&txTime=650cc320",
 "trylink": ""
 }
 ]
@@ -265,23 +245,13 @@
 "ateam": "Servette",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912003_lhd.m3u8?txSecret=3bb7150b8943f00d51e76877ddc6a169&txTime=650cc35c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912003_lsd.m3u8?txSecret=3bb7150b8943f00d51e76877ddc6a169&txTime=650cc35c",
 "trylink": ""
 }
 ]
@@ -337,23 +307,13 @@
 "ateam": "Qarabag FK",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1695317320-0-0-99639fc9377abde470d358d0e546a9f9",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1695317320-0-0-99639fc9377abde470d358d0e546a9f9",
 "trylink": ""
 }
 ]
