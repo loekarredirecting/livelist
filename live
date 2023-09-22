@@ -3,39 +3,29 @@
 "league": " Women's Asian Games ",
 "himg": "https://api.sofascore.app/api/v1/team/4735/image",
 "hteam": "Myanmar (W)",
-"time": " 6:00 PM ",
-"date": "2023-09-22",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/23484/image",
 "ateam": "Korea Rep (W)",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lhd.m3u8?auth_key=1695383351-0-0-d423b3b25f22993cc9fe9eb357097414&sub_m3u8=true&edge_slice=true&user_session_id=97917e7d1aa247b8bc03712f28fcb531",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lsd.m3u8?auth_key=1695383351-0-0-d423b3b25f22993cc9fe9eb357097414&sub_m3u8=true&edge_slice=true&user_session_id=97917e7d1aa247b8bc03712f28fcb531",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=2cb2edde483281c78ed057a811bf7ad3&txTime=650dc61c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-273067_lsd.m3u8?txSecret=2cb2edde483281c78ed057a811bf7ad3&txTime=650dc61c",
 "trylink": ""
 }
 ]
@@ -44,70 +34,19 @@
 "league": " Women's Asian Games ",
 "himg": "https://api.sofascore.app/api/v1/team/4770/image",
 "hteam": "Bangladesh (W)",
-"time": " 6:00 PM ",
-"date": "2023-09-22",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/6080/image",
 "ateam": "Japan (W)",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6c08064c21d2adf8800d286e0fb25c7f&auth_key=1695383411-0-0-956c07419497d41c28fcc50987f8a20b",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Women's Asian Games ",
-"himg": "https://api.sofascore.app/api/v1/team/132958/image",
-"hteam": "Nepal (W)",
-"time": " 6:00 PM ",
-"date": "2023-09-22",
-"aimg": "https://api.sofascore.app/api/v1/team/23489/image",
-"ateam": "Vietnam (W)",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=6c08064c21d2adf8800d286e0fb25c7f&auth_key=1695383411-0-0-956c07419497d41c28fcc50987f8a20b",
 "trylink": ""
 },
 {
