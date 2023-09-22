@@ -3,21 +3,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/salernitana.png",
 "hteam": "Frosinone",
-"time": " 11:00 PM ",
-"date": "2023-09-22",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Frosinone_Calcio.png",
 "ateam": "Salernitana",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&auth_key=1695386952-0-0-0fef5cc8076147daa9119a92edbcd945&sub_m3u8=true&user_session_id=f68cefc5ad8d1e62dfe7b0436fc689d3",
