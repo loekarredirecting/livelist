@@ -51,12 +51,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912020_lhd.m3u8?auth_key=1695384460-0-0-030af3827b89825317285f99bd141b56",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1695384460-0-0-030af3827b89825317285f99bd141b56",
 "trylink": ""
 }
 ]
