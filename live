@@ -249,6 +249,16 @@
 "ateam": "Sassuolo",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://ds1.sportea.online/stream/es148/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NTQ4NDM5OSZoYXNoX3ZhbHVlPU9UQTNOR05sWlRsa05EQTFaVEV6TVRjM05ERmhNV1EzWWpWaE5HTXhaakEmZXhwaXJ5PTE2OTU0OTUxOTkmaXA9MjAyLjE2NS44Ny4yNDk%3D",
+"trylink": "https://sportea.online/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://sdcdsf.azureedge.net/live/SuperSportFootball/chunks.m3u8",
+"trylink": "https://bestsolaris.com/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&user_session_id=dac494f878a552777ce42a2370750d71&auth_key=1695473532-0-0-ee2fa30fb8557f00e9807584c816cf83&sub_m3u8=true",
 "trylink": ""
