@@ -1,51 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/sassuolo.png",
-"hteam": "Juventus",
-"time": " live ",
-"date": "10:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Juventus.png",
-"ateam": "Sassuolo",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://ds1.sportea.online/stream/es148/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NTQ4NDM5OSZoYXNoX3ZhbHVlPU9UQTNOR05sWlRsa05EQTFaVEV6TVRjM05ERmhNV1EzWWpWaE5HTXhaakEmZXhwaXJ5PTE2OTU0OTUxOTkmaXA9MjAyLjE2NS44Ny4yNDk%3D",
-"trylink": "https://sportea.online/"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://sdcdsf.azureedge.net/live/SuperSportFootball/chunks.m3u8",
-"trylink": "https://bestsolaris.com/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&user_session_id=dac494f878a552777ce42a2370750d71&auth_key=1695473532-0-0-ee2fa30fb8557f00e9807584c816cf83&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?edge_slice=true&user_session_id=dac494f878a552777ce42a2370750d71&auth_key=1695473532-0-0-ee2fa30fb8557f00e9807584c816cf83&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9911990_lhd.m3u8?auth_key=1695475240-0-0-683fffd61debff931ca8d5603f8de5cd",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9911990_lsd.m3u8?auth_key=1695475240-0-0-683fffd61debff931ca8d5603f8de5cd",
-"trylink": ""
-},
-{
-"type": "VPN Test HD",
-"livelink": "https://nl.score911.cc/pt_sporttv3/index.m3u8",
-"trylink": "https://ggsport.tv/"
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Brentford.png",
 "hteam": "Everton",
@@ -202,19 +156,19 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "hteam": "Lazio",
-"time": " 1:15 AM ",
+"time": " live ",
 "date": "2023-09-24",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 "ateam": "Monza",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
