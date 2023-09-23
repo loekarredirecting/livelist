@@ -95,19 +95,29 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Bayern-Munchen.png",
 "hteam": "Bochum",
-"time": " 8:00 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Bochum.gif",
 "ateam": "Bayern Munich",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://work.ovo-line.com/live/n-6/video.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://topsgun.online/chunklist/hlsch13.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDIzIDE6MDM6NDAgUE0maGFzaF92YWx1ZT1GaXlBZjJWSzlXTG9xSkZ6TmlmUzFBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjI0OSZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -136,19 +146,29 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/dortmund.png",
 "hteam": "Wolfsburg",
-"time": " 8:00 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/wolfsburg.png",
 "ateam": "Dortmund",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://work.ovo-line.com/live/n-7/video.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch14.m3u8",
+"trylink": "https://backfirstwo.site/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -177,21 +197,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/augsburg.png",
 "hteam": "Mainz 05",
-"time": " 8:00 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Mainz_05.png",
 "ateam": "Augsburg",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-520790_lhd.m3u8?sub_m3u8=true&user_session_id=72bee9799e21fcb14b24f18c0dfb80fe&edge_slice=true&auth_key=1695472632-0-0-744ef8ef6a17d00d95a91584afbd3296",
@@ -218,21 +228,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Moenchengladbach.png",
 "hteam": "RB Leipzig",
-"time": " 8:00 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/RB_Leipzig.png",
 "ateam": "Monchengladbach",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?auth_key=1695472872-0-0-27c2b4237b34a982a869c47943e596c4&user_session_id=a5a058a6f206151ca3154d05e69e3c59&sub_m3u8=true&edge_slice=true",
@@ -259,21 +259,11 @@
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Union-Berlin.png",
 "hteam": "Hoffenheim",
-"time": " 8:00 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "ateam": "Union Berlin",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?edge_slice=true&auth_key=1695472932-0-0-99932e301929a01428f4171ff037608b&user_session_id=94bb6d1f9c979816a2276d450a3f76cd&sub_m3u8=true",
