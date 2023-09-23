@@ -50,6 +50,11 @@
 "ateam": "AC Milan",
 "link": [
 {
+"type": "English  FHD",
+"livelink": "https://forlive01.fordems.live/live/for-dems4/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "English 1 HD",
 "livelink": "https://work.ovo-line.com/live/n-5/audio.m3u8",
 "trylink": ""
