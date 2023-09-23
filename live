@@ -243,21 +243,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/sassuolo.png",
 "hteam": "Juventus",
-"time": " 10:30 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Juventus.png",
 "ateam": "Sassuolo",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&user_session_id=dac494f878a552777ce42a2370750d71&auth_key=1695473532-0-0-ee2fa30fb8557f00e9807584c816cf83&sub_m3u8=true",
