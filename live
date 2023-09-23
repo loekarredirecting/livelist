@@ -290,19 +290,29 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/manchestercity.png",
 "hteam": "Nottingham Forest",
-"time": " 8:30 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/nottingham_forest.png",
 "ateam": "Manchester City",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://cap3.techstribes.com/hls/t4.m3u8",
+"trylink": "https://techstribes.com/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch11.m3u8",
+"trylink": "https://backfirstwo.site/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -331,20 +341,20 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
 "hteam": "Fulham",
-"time": " 8:30 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/fulham.png",
 "ateam": "Crystal Palace",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://cap3.techstribes.com/hls/t2.m3u8",
+"trylink": "https://techstribes.com/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 hD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch7.m3u8",
+"trylink": "https://backfirstwo.site/"
 },
 {
 "type": "China HD",
@@ -372,20 +382,20 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/luton-town-14.png",
 "hteam": "Wolverhampton",
-"time": " 8:30 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Wolverhampton.png",
 "ateam": "Luton Town",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://cap3.techstribes.com/hls/t3.m3u8",
+"trylink": "https://techstribes.com/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch9.m3u8",
+"trylink": "https://backfirstwo.site/"
 },
 {
 "type": "China HD",
@@ -413,21 +423,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/osasuna.png",
 "hteam": "Sevilla",
-"time": " 8:45 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "8:45 PM",
 "aimg": "https://mygoaltv.xyz//team/Sevilla.png",
 "ateam": "Osasuna",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&user_session_id=e1a94fbaa5aae903fd7d2b0a816dad7c&auth_key=1695473412-0-0-26cb1369ff3dde1606df4373f3600540&sub_m3u8=true",
