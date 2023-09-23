@@ -3,39 +3,39 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Girona.png",
 "hteam": "Mallorca",
-"time": " 6:30 PM ",
-"date": "2023-09-23",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "ateam": "Girona",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?auth_key=1695471432-0-0-39f589a9fc843b65ccf457cbdbb183b8&sub_m3u8=true&user_session_id=1f174e67c3e24bd12eaab70ed72bb9ea&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?auth_key=1695471432-0-0-39f589a9fc843b65ccf457cbdbb183b8&sub_m3u8=true&user_session_id=1f174e67c3e24bd12eaab70ed72bb9ea&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=a34098856e0e0eefab5a44d2647e9cfd&txTime=650f2084",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=a34098856e0e0eefab5a44d2647e9cfd&txTime=650f2084",
 "trylink": ""
 }
 ]
