@@ -50,6 +50,16 @@
 "ateam": "Bunley",
 "link": [
 {
+"type": "QAZ Sports HD",
+"livelink": "https://b7i4j3n3.stackpathcdn.com/jewoli5782/1695488863/src/live.m3u8",
+"trylink": ""
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://nflarcadia.xyz/hls/s2.m3u8",
+"trylink": "https://techclips.net/clip/s2.html"
+},
+{
 "type": "English 1 HD",
 "livelink": "https://dsctu7e8e3bvs.cloudfront.net/index_1.m3u8",
 "trylink": ""
