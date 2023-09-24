@@ -3,39 +3,39 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 "hteam": "Inter",
-"time": " 5:00 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "5:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "ateam": "Empoli",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lhd.m3u8?sub_m3u8=true&user_session_id=8dd98030607441908f1da8e6eab25245&auth_key=1695553751-0-0-2c4d9b6c3b2626f9d5695a37176512a2&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-318894_lsd.m3u8?sub_m3u8=true&user_session_id=8dd98030607441908f1da8e6eab25245&auth_key=1695553751-0-0-2c4d9b6c3b2626f9d5695a37176512a2&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1695553660-0-0-878e4658595f989743ee22e0f40b6192",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1695553660-0-0-878e4658595f989743ee22e0f40b6192",
 "trylink": ""
 }
 ]
