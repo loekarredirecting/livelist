@@ -60,6 +60,16 @@
 "ateam": "Metz",
 "link": [
 {
+"type": "Bein Sports HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-ednm9wh235oxryo/chunklist_w1361088386.m3u8",
+"trylink": ""
+},
+{
+"type": "Bein Sports FHD",
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-ednm9wh235oxryo/chunklist_w2068798161.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1695556392-0-0-0211c9e04c55eb68ac790f28760cc0f5&edge_slice=true&user_session_id=4d42f14fa5577c8f0229ade4445c915d&sub_m3u8=true",
 "trylink": ""
