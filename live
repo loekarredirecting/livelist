@@ -1,46 +1,4 @@
 [
-
-{
-"league": " Laliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-"hteam": "Getafe",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-"ateam": "Real Sociedad",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?user_session_id=f4adbfb2a110de295a1439f4f5492766&auth_key=1695554952-0-0-627e4bbd215e220f47da2261ef2190ee&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?user_session_id=f4adbfb2a110de295a1439f4f5492766&auth_key=1695554952-0-0-627e4bbd215e220f47da2261ef2190ee&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=c21834af25f5a3fec18f9f28209a1038&txTime=65107420",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912035_lsd.m3u8?txSecret=c21834af25f5a3fec18f9f28209a1038&txTime=65107420",
-"trylink": ""
-}
-]
-},
 {
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
@@ -495,29 +453,19 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "hteam": "Rennes",
-"time": " 9:35 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "9:35 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "ateam": "Montpellier",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lhd.m3u8?auth_key=1695570192-0-0-ea0b0048d91c63f9e11f174c49af6cce&user_session_id=54f976398f6b00af41d0a197f2aa302e&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lsd.m3u8?auth_key=1695570192-0-0-ea0b0048d91c63f9e11f174c49af6cce&user_session_id=54f976398f6b00af41d0a197f2aa302e&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
