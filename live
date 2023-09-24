@@ -157,19 +157,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "hteam": "Tottenham",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "ateam": "Arsenal",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -198,19 +198,19 @@
 "league": " Premier League",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "hteam": "West Ham",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "ateam": "Liverpool",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -239,8 +239,8 @@
 "league": " Premier League",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "hteam": "Aston Villa",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "ateam": "Chelsea",
 "link": [
