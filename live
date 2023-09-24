@@ -93,6 +93,27 @@
 },
 {
 "league": " Asian Game ",
+"himg": "https://api.sofascore.app/api/v1/team/23484/image",
+"hteam": "India U23",
+"time": " live ",
+"date": "6:00 PM",
+"aimg": "https://api.sofascore.app/api/v1/team/187765/image",
+"ateam": "Myanmar U23",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-23xmvkh8vl38qg8/chunklist_w1209576619.m3u8",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-23xmvkh8vl38qg8/chunklist_w745731049.m3u8",
+"trylink": ""
+}
+]
+},
+{
+"league": " Asian Game ",
 "himg": "https://api.sofascore.app/api/v1/team/4735/image",
 "hteam": "Bahrain U23",
 "time": " live ",
