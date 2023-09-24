@@ -111,6 +111,16 @@
 "ateam": "Atletico Madrid",
 "link": [
 {
+"type": "English FHD",
+"livelink": "https://s4.anania.xyz/hls/stream-1/index.m3u8",
+"trylink": "https://www.sportshub.to/"
+},
+{
+"type": "English SD",
+"livelink": "https://s3.alnorum.xyz/hls/abr-stream-1/index.m3u8",
+"trylink": "https://www.sportshub.to/"
+},
+{
 "type": "English 1 HD",
 "livelink": "https://d8wqyifgov8ev.cloudfront.net/index_1.m3u8",
 "trylink": ""
@@ -156,20 +166,20 @@
 "league": " MLS League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/267810_small.png",
 "hteam": "Inter Miami",
-"time": " 6:00 AM ",
-"date": "2023-09-25",
+"time": " live ",
+"date": "6:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "ateam": "Orlando City",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English FHD",
+"livelink": "https://s1.adusta.xyz/hls/stream-1/index.m3u8",
+"trylink": "https://www.sportshub.to/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English SD",
+"livelink": "https://s2.albula.xyz/hls/abr-stream-1/index.m3u8",
+"trylink": "https://www.sportshub.to/"
 },
 {
 "type": "China HD",
