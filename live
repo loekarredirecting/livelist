@@ -1,46 +1,5 @@
 [
-{
-"league": " Asian Game ",
-"himg": "https://api.sofascore.app/api/v1/team/23484/image",
-"hteam": "India U23",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/187765/image",
-"ateam": "Myanmar U23",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-23xmvkh8vl38qg8/chunklist_w1209576619.m3u8",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-23xmvkh8vl38qg8/chunklist_w745731049.m3u8",
-"trylink": ""
-}
-]
-},
-{
-"league": " Asian Game ",
-"himg": "https://api.sofascore.app/api/v1/team/4735/image",
-"hteam": "Bahrain U23",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/5161/image",
-"ateam": "South Korea U23",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912051_lhd.m3u8?auth_key=1695557800-0-0-cc02b7c2c233a0810dc8591fd2ac60b9",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912051_lsd.m3u8?auth_key=1695557800-0-0-cc02b7c2c233a0810dc8591fd2ac60b9",
-"trylink": ""
-}
-]
-},
+
 {
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
