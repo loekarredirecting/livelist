@@ -116,19 +116,19 @@
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "hteam": "Getafe",
-"time": " 6:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "ateam": "Real Sociedad",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -143,12 +143,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=c21834af25f5a3fec18f9f28209a1038&txTime=65107420",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lsd.m3u8?txSecret=c21834af25f5a3fec18f9f28209a1038&txTime=65107420",
 "trylink": ""
 }
 ]
@@ -922,12 +922,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1695558760-0-0-bfd5de93cd14a1f7187950db87bfe96a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1695558760-0-0-bfd5de93cd14a1f7187950db87bfe96a",
 "trylink": ""
 }
 ]
@@ -963,12 +963,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695559060-0-0-4a51c9139b18451c0ad955cb8a0e0adb",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1695559060-0-0-4a51c9139b18451c0ad955cb8a0e0adb",
 "trylink": ""
 }
 ]
