@@ -93,62 +93,21 @@
 },
 {
 "league": " Asian Game ",
-"himg": "https://api.sofascore.app/api/v1/team/23484/image",
-"hteam": "India U23",
-"time": " 6:00 PM ",
-"date": "2023-09-24",
-"aimg": "https://api.sofascore.app/api/v1/team/187765/image",
-"ateam": "Myanmar U23",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Asian Game ",
 "himg": "https://api.sofascore.app/api/v1/team/4735/image",
 "hteam": "Bahrain U23",
-"time": " 6:00 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/5161/image",
 "ateam": "South Korea U23",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912051_lhd.m3u8?auth_key=1695557800-0-0-cc02b7c2c233a0810dc8591fd2ac60b9",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912051_lsd.m3u8?auth_key=1695557800-0-0-cc02b7c2c233a0810dc8591fd2ac60b9",
 "trylink": ""
 }
 ]
@@ -225,12 +184,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1695557500-0-0-e18e433dbeaba65cbab4d1e3aa009d35",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1695557500-0-0-e18e433dbeaba65cbab4d1e3aa009d35",
 "trylink": ""
 }
 ]
@@ -266,12 +225,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=b29ac30290e517b363f5006f99000ff7&txTime=65106fe8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=b29ac30290e517b363f5006f99000ff7&txTime=65106fe8",
 "trylink": ""
 }
 ]
@@ -307,12 +266,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695557680-0-0-0bdecf9aca3f58cd506db00c1d046ad0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1695557680-0-0-0bdecf9aca3f58cd506db00c1d046ad0",
 "trylink": ""
 }
 ]
@@ -348,12 +307,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-104707_lhd.m3u8?txSecret=d497402bfbed0dcd09f67d245e3d2160&txTime=65106e44",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-104707_lsd.m3u8?txSecret=d497402bfbed0dcd09f67d245e3d2160&txTime=65106e44",
 "trylink": ""
 }
 ]
@@ -471,12 +430,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912020_lhd.m3u8?auth_key=1695558100-0-0-7e33bc5a7695df0e5672152d7d3f54e7",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1695558100-0-0-7e33bc5a7695df0e5672152d7d3f54e7",
 "trylink": ""
 }
 ]
@@ -512,12 +471,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1695558220-0-0-00b28c36749cc1b93e839a719bf8c54f",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1695558220-0-0-00b28c36749cc1b93e839a719bf8c54f",
 "trylink": ""
 }
 ]
@@ -553,12 +512,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=d61578f795c740988f1f5569f97fdbf7&txTime=651070d8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=d61578f795c740988f1f5569f97fdbf7&txTime=651070d8",
 "trylink": ""
 }
 ]
@@ -594,12 +553,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1695558340-0-0-5961552eec100e999ee7693292149ab4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1695558340-0-0-5961552eec100e999ee7693292149ab4",
 "trylink": ""
 }
 ]
@@ -635,12 +594,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lhd.m3u8?auth_key=1695558340-0-0-75f64b0e1e29b162ba80217fa3ff2b1e",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lsd.m3u8?auth_key=1695558340-0-0-75f64b0e1e29b162ba80217fa3ff2b1e",
 "trylink": ""
 }
 ]
@@ -676,12 +635,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1695558400-0-0-71de7897b4836c7e554fe5c969acc31a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1695558400-0-0-71de7897b4836c7e554fe5c969acc31a",
 "trylink": ""
 }
 ]
@@ -799,12 +758,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912027_lhd.m3u8?txSecret=be267cc133f83958bc9679f639a01109&txTime=651071c8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912027_lsd.m3u8?txSecret=be267cc133f83958bc9679f639a01109&txTime=651071c8",
 "trylink": ""
 }
 ]
@@ -840,12 +799,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912023_lhd.m3u8?auth_key=1695558580-0-0-df62a1448a0bbd0c5df1f62a58b68efa",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912023_lsd.m3u8?auth_key=1695558580-0-0-df62a1448a0bbd0c5df1f62a58b68efa",
 "trylink": ""
 }
 ]
@@ -922,12 +881,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912050_lhd.m3u8?txSecret=d67ec21c28d8739527b4da66de02bd08&txTime=65107240",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912050_lsd.m3u8?txSecret=d67ec21c28d8739527b4da66de02bd08&txTime=65107240",
 "trylink": ""
 }
 ]
