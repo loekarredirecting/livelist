@@ -41,6 +41,129 @@
 ]
 },
 {
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
+"hteam": "Strasbourg",
+"time": " 5:30 PM ",
+"date": "2023-09-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+"ateam": "Metz",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Asian Game ",
+"himg": "https://api.sofascore.app/api/v1/team/23484/image",
+"hteam": "India U23",
+"time": " 6:00 PM ",
+"date": "2023-09-24",
+"aimg": "https://api.sofascore.app/api/v1/team/187765/image",
+"ateam": "Myanmar U23",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Asian Game ",
+"himg": "https://api.sofascore.app/api/v1/team/4735/image",
+"hteam": "Bahrain U23",
+"time": " 6:00 PM ",
+"date": "2023-09-24",
+"aimg": "https://api.sofascore.app/api/v1/team/5161/image",
+"ateam": "South Korea U23",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "hteam": "Getafe",
@@ -212,6 +335,170 @@
 "date": "2023-09-24",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "ateam": "Brighton",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+"hteam": "Cagliari",
+"time": " 7:30 PM ",
+"date": "2023-09-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
+"ateam": "Atalanta",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+"hteam": "Fiorentina",
+"time": " 7:30 PM ",
+"date": "2023-09-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+"ateam": "Udinese",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
+"hteam": "Clermont",
+"time": " 7:30 PM ",
+"date": "2023-09-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
+"ateam": "Le Havre",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
+"hteam": "Toulouse",
+"time": " 7:30 PM ",
+"date": "2023-09-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
+"ateam": "Lens",
 "link": [
 {
 "type": "Vietnam HD",
@@ -499,6 +786,47 @@
 "date": "2023-09-24",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
 "ateam": "Real Betis",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Laliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
+"hteam": "Granada",
+"time": " 11:00 PM ",
+"date": "2023-09-24",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
+"ateam": "Las Palmas",
 "link": [
 {
 "type": "Vietnam HD",
