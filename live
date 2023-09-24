@@ -441,12 +441,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-608411_lhd.m3u8?auth_key=1695559992-0-0-eab3eca662285f91b2e89a76228207b9&edge_slice=true&user_session_id=008cf7dd582b62be03ad172a16bb8882&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-608411_lsd.m3u8?auth_key=1695559992-0-0-eab3eca662285f91b2e89a76228207b9&edge_slice=true&user_session_id=008cf7dd582b62be03ad172a16bb8882&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -523,12 +523,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?edge_slice=true&auth_key=1695560112-0-0-239d5f320a47e07fef6460daef1bf9dc&user_session_id=9120b32a67a8d85b88379acd1ef0cf86&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?edge_slice=true&auth_key=1695560112-0-0-239d5f320a47e07fef6460daef1bf9dc&user_session_id=9120b32a67a8d85b88379acd1ef0cf86&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -564,12 +564,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?user_session_id=9c8fa4b2a3511212f09857bfb78b2e7a&sub_m3u8=true&auth_key=1695560172-0-0-738f9c2507074342f08305d8e22a0ef1&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?user_session_id=9c8fa4b2a3511212f09857bfb78b2e7a&sub_m3u8=true&auth_key=1695560172-0-0-738f9c2507074342f08305d8e22a0ef1&edge_slice=true",
 "trylink": ""
 },
 {
@@ -738,12 +738,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1695559780-0-0-7c6b1a0d323dcbb5865fa482d1a47b51",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1695559780-0-0-7c6b1a0d323dcbb5865fa482d1a47b51",
 "trylink": ""
 }
 ]
