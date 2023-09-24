@@ -122,6 +122,11 @@
 "trylink": "https://live-streamfootball.com/"
 },
 {
+"type": "Sky Sports HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTM3MDY=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
 "type": "English 1 HD",
 "livelink": "https://work.ovo-line.com/live/n-2/chunks.m3u8",
 "trylink": ""
@@ -242,6 +247,11 @@
 "type": "K+ Sports FHD",
 "livelink": "https://livecdn-001.rumsport.com/stream2/17/index.fmp4.m3u8",
 "trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "Live Sports HD",
+"livelink": "https://s3asjkbd.101streams.co/scripts/MTM3MDc=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
