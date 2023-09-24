@@ -9,6 +9,26 @@
 "ateam": "Torino",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-1l4rjnhj8ex7m7v/chunklist_w407616252.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-1l4rjnhj8ex7m7v/chunklist_w1222866479.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?auth_key=1695555492-0-0-f3266bf8e64da0170ab064f37d5caefd&sub_m3u8=true&edge_slice=true&user_session_id=a0a5ade18244d19732aaf2989eba8529",
 "trylink": ""
@@ -40,6 +60,16 @@
 "ateam": "PSG",
 "link": [
 {
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lhd.m3u8?sub_m3u8=true&auth_key=1695555912-0-0-8c19aded19535655cc693cb86a98784f&edge_slice=true&user_session_id=2163ad7d739e832b9df236575963ff60",
 "trylink": ""
@@ -70,6 +100,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "ateam": "Atletico Madrid",
 "link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?sub_m3u8=true&auth_key=1695555792-0-0-88f59407cfe38dc2fe90487dc334d1f2&user_session_id=1c9daac9ac7fa37c7203c18cdc56fc2a&edge_slice=true",
