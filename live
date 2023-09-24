@@ -184,6 +184,16 @@
 "ateam": "Arsenal",
 "link": [
 {
+"type": "Sky Sports HD",
+"livelink": "https://s3asjkbd.101streams.co/scripts/MTM3MDU=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 1 HD",
+"livelink": "https://forlive01.fordems.live/live/for-dems1/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
@@ -224,6 +234,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "ateam": "Liverpool",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://work.ovo-line.com/live/n-2/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://forlive01.fordems.live/live/for-dems3/chunks.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
@@ -266,13 +286,23 @@
 "ateam": "Chelsea",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTM3MDQ=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://forlive01.fordems.live/live/for-dems2/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -301,19 +331,19 @@
 "league": " Premier League",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "hteam": "Bournemouth",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "ateam": "Brighton",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -342,19 +372,19 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "hteam": "Cagliari",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
 "ateam": "Atalanta",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://1123139281.cdn.khmer-hd.com/may81/chunks.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may81/chunks.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -383,8 +413,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "hteam": "Fiorentina",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "ateam": "Udinese",
 "link": [
@@ -424,8 +454,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "hteam": "Clermont",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "live",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "ateam": "Le Havre",
 "link": [
@@ -465,8 +495,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "hteam": "Toulouse",
-"time": " 7:30 PM ",
-"date": "2023-09-24",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "ateam": "Lens",
 "link": [
