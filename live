@@ -1,103 +1,21 @@
 [
 {
 "league": " Womens Asian Games ",
-"himg": "https://api.sofascore.app/api/v1/team/23484/image",
-"hteam": "Hong Kong (W)",
-"time": " live ",
-"date": "2:30 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/4765/image",
-"ateam": "Myanmar (W)",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-2y8m4zh60eggql0/chunklist_w589927442.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://179720687.global.cdnfastest.com/live/sd-2y8m4zh60eggql0/chunklist_w589927442.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?user_session_id=29b49b21f9bdcd32a6c7d1ac3177f24a&edge_slice=true&auth_key=1695631931-0-0-a77bd8cea45241157fc9b1676b59efba&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?user_session_id=29b49b21f9bdcd32a6c7d1ac3177f24a&edge_slice=true&auth_key=1695631931-0-0-a77bd8cea45241157fc9b1676b59efba&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912032_lhd.m3u8?auth_key=1695632080-0-0-4a56b4594f61e01c3eeccfcb8aea245f",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912032_lsd.m3u8?auth_key=1695632080-0-0-4a56b4594f61e01c3eeccfcb8aea245f",
-"trylink": ""
-}
-]
-},
-{
-"league": " Womens Asian Games ",
-"himg": "https://api.sofascore.app/api/v1/team/6080/image",
-"hteam": "Vietnam (W)",
-"time": " live ",
-"date": "2:30 PM",
-"aimg": "https://api.sofascore.app/api/v1/team/132958/image",
-"ateam": "Bangladesh (W)",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1695632052-0-0-9c689c41664649caa93e7d3d82b9bfe8&user_session_id=2ee72456887dc4575b7dd1d7b8cf116c",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1695632052-0-0-9c689c41664649caa93e7d3d82b9bfe8&user_session_id=2ee72456887dc4575b7dd1d7b8cf116c",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1695632200-0-0-600fb4a25303f4d1724f5c150dde7d65",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1695632200-0-0-600fb4a25303f4d1724f5c150dde7d65",
-"trylink": ""
-}
-]
-},
-{
-"league": " Womens Asian Games ",
 "himg": "https://api.sofascore.app/api/v1/team/195588/image",
 "hteam": "Korea Rep (W)",
-"time": " 6:00 PM ",
-"date": "2023-09-25",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/4735/image",
 "ateam": "Philippines (W)",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may6/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may6/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -126,8 +44,8 @@
 "league": " Womens Asian Games ",
 "himg": "https://api.sofascore.app/api/v1/team/23489/image",
 "hteam": "Japan (W)",
-"time": " 6:00 PM ",
-"date": "2023-09-25",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/4770/image",
 "ateam": "Nepal (W)",
 "link": [
