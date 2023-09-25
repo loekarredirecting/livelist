@@ -3,29 +3,19 @@
 "league": " Womens Asian Games ",
 "himg": "https://api.sofascore.app/api/v1/team/23484/image",
 "hteam": "Hong Kong (W)",
-"time": " 2:30 PM ",
-"date": "2023-09-25",
+"time": " live ",
+"date": "2:30 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/4765/image",
 "ateam": "Myanmar (W)",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lhd.m3u8?user_session_id=29b49b21f9bdcd32a6c7d1ac3177f24a&edge_slice=true&auth_key=1695631931-0-0-a77bd8cea45241157fc9b1676b59efba&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-2445688_lsd.m3u8?user_session_id=29b49b21f9bdcd32a6c7d1ac3177f24a&edge_slice=true&auth_key=1695631931-0-0-a77bd8cea45241157fc9b1676b59efba&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -44,19 +34,19 @@
 "league": " Womens Asian Games ",
 "himg": "https://api.sofascore.app/api/v1/team/6080/image",
 "hteam": "Vietnam (W)",
-"time": " 2:30 PM ",
-"date": "2023-09-25",
+"time": " live ",
+"date": "2:30 PM",
 "aimg": "https://api.sofascore.app/api/v1/team/132958/image",
 "ateam": "Bangladesh (W)",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
