@@ -54,21 +54,11 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Lecce",
-"time": " 1:15 AM ",
-"date": "2023-09-27",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "ateam": "Juventus",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-669368_lhd.m3u8?auth_key=1695743592-0-0-652028cfc630db11cb3b812363da5f99&sub_m3u8=true&edge_slice=true&user_session_id=16261df95dc11c9ec6c6f5567f50ab6b",
@@ -95,21 +85,11 @@
 "league": " EFL Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9902_small.png",
 "hteam": "Wolverhampton",
-"time": " 1:15 AM ",
-"date": "2023-09-27",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "ateam": "Ipswich Town",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?edge_slice=true&user_session_id=67647f4f97c6f6af6d13590107f19ac2&auth_key=1695751272-0-0-f3af43f4cc14ce693369c7f656e7a355&sub_m3u8=true",
@@ -136,19 +116,19 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8171_small.png",
 "hteam": "Bayern Munchen",
-"time": " 1:15 AM ",
-"date": "2023-09-27",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Preussen Munster",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
