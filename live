@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"hteam": "Almeria",
-"time": " live ",
-"date": "11:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-"ateam": "Sevilla",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "http://cdn1.cyclingnews.live/hls/Z1.m3u8",
-"trylink": "http://bikesports.live/ada/total/28-novo-spain-z1/"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://e10.ainakwalajeen.com:999/hls/hdchnl2.m3u8?md5=HsmSfySXOVTfT9lJxi1xXg&expires=1695753514",
-"trylink": "https://lovesomecommunity.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?user_session_id=842af366a6720307a6ed39526bab43d1&sub_m3u8=true&edge_slice=true&auth_key=1695743472-0-0-a3a261b86209e6f3440aeef6461ba1f8",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?user_session_id=842af366a6720307a6ed39526bab43d1&sub_m3u8=true&edge_slice=true&auth_key=1695743472-0-0-a3a261b86209e6f3440aeef6461ba1f8",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912003_lhd.m3u8?txSecret=e1db77fe245195ec58ba8b943fd41014&txTime=6513463d",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912003_lsd.m3u8?txSecret=e1db77fe245195ec58ba8b943fd41014&txTime=6513463d",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Lecce",
