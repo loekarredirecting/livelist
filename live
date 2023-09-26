@@ -3,19 +3,29 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "hteam": "Almeria",
-"time": " 11:30 PM ",
-"date": "2023-09-26",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "ateam": "Sevilla",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://forlive01.fordems.live/live/for-dems2/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://e10.ainakwalajeen.com:999/hls/hdchnl2.m3u8?md5=HsmSfySXOVTfT9lJxi1xXg&expires=1695753514",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
