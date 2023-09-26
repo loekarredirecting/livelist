@@ -60,6 +60,16 @@
 "ateam": "Juventus",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://forlive01.fordems.live/live/for-dems1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-4/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-669368_lhd.m3u8?auth_key=1695743592-0-0-652028cfc630db11cb3b812363da5f99&sub_m3u8=true&edge_slice=true&user_session_id=16261df95dc11c9ec6c6f5567f50ab6b",
 "trylink": ""
@@ -91,6 +101,16 @@
 "ateam": "Ipswich Town",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://forlive01.fordems.live/live/for-dems3/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?edge_slice=true&user_session_id=67647f4f97c6f6af6d13590107f19ac2&auth_key=1695751272-0-0-f3af43f4cc14ce693369c7f656e7a355&sub_m3u8=true",
 "trylink": ""
@@ -121,6 +141,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Preussen Munster",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://work.ovo-line.com/live/n-5/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch7.m3u8",
+"trylink": "https://backfirstwo.site/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
