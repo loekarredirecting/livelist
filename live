@@ -126,21 +126,11 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "hteam": "Getafe",
-"time": " 11:30 PM ",
-"date": "2023-09-27",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "ateam": "Athletic Club",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lhd.m3u8?sub_m3u8=true&auth_key=1695818052-0-0-118dcee80304e2326452ca163dc53c51&edge_slice=true&user_session_id=0c4b97ea15411239c203439faee93989",
@@ -167,19 +157,19 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "hteam": "Las Palmas",
-"time": " 11:30 PM ",
-"date": "2023-09-27",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
 "ateam": "Real Madrid",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -208,21 +198,11 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "hteam": "Girona",
-"time": " 11:30 PM ",
-"date": "2023-09-27",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Villarreal",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?user_session_id=9d7add54c92a2e122a26094573c8bb1f&sub_m3u8=true&edge_slice=true&auth_key=1695818172-0-0-a311cea7fa2c60850234732c06b46600",
@@ -276,12 +256,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912059_lhd.m3u8?auth_key=1695834881-0-0-246324c42aa8d87eb939f774873db14a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912059_lsd.m3u8?auth_key=1695834881-0-0-246324c42aa8d87eb939f774873db14a",
 "trylink": ""
 }
 ]
@@ -317,12 +297,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=57a25807ce9262672c2ced235c2eb668&txTime=6514a98d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379816_lsd.m3u8?txSecret=57a25807ce9262672c2ced235c2eb668&txTime=6514a98d",
 "trylink": ""
 }
 ]
@@ -358,12 +338,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1695835001-0-0-5227216bf701a6411922fd902f008372",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1695835001-0-0-5227216bf701a6411922fd902f008372",
 "trylink": ""
 }
 ]
@@ -389,12 +369,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-403677_lhd.m3u8?txSecret=09ab7d307c633c5fbb9c82b45008713d&txTime=6514aa05",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-403677_lsd.m3u8?txSecret=09ab7d307c633c5fbb9c82b45008713d&txTime=6514aa05",
 "trylink": ""
 }
 ]
@@ -420,12 +400,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lsd.m3u8?user_session_id=e91ae70bcc33aaabd91da94d6f70688d&auth_key=1695835632-0-0-37013c9e0b9604889897005983a4ddc0&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?user_session_id=e91ae70bcc33aaabd91da94d6f70688d&auth_key=1695835632-0-0-37013c9e0b9604889897005983a4ddc0&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
@@ -461,22 +441,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1695835692-0-0-8eeb6b189b0a17385c787229557e36ba&user_session_id=27eff4a20b3a8ceb900a6d7f96cc864d&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1695835692-0-0-8eeb6b189b0a17385c787229557e36ba&user_session_id=27eff4a20b3a8ceb900a6d7f96cc864d&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1695835121-0-0-61cc7e64059f83c92a5946f4d8b8af2a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1695835121-0-0-61cc7e64059f83c92a5946f4d8b8af2a",
 "trylink": ""
 }
 ]
@@ -543,12 +523,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?user_session_id=a3551b9b0043bababeb492f253c8fd93&sub_m3u8=true&edge_slice=true&auth_key=1695835752-0-0-522c8f1a28ab5cdad52dfcd22a47d77a",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?user_session_id=a3551b9b0043bababeb492f253c8fd93&sub_m3u8=true&edge_slice=true&auth_key=1695835752-0-0-522c8f1a28ab5cdad52dfcd22a47d77a",
 "trylink": ""
 },
 {
@@ -584,12 +564,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1695835872-0-0-e11763238cab303f3be7e66ada10bcef&sub_m3u8=true&edge_slice=true&user_session_id=bcb532d72d54045957427b4857884b81",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1695835872-0-0-e11763238cab303f3be7e66ada10bcef&sub_m3u8=true&edge_slice=true&user_session_id=bcb532d72d54045957427b4857884b81",
 "trylink": ""
 },
 {
@@ -625,12 +605,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?edge_slice=true&user_session_id=22e2b134925892eb4cc4ebd378ad6439&auth_key=1695835932-0-0-c2db79c0e2d6d02ce0a411bda52ba918&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?edge_slice=true&user_session_id=22e2b134925892eb4cc4ebd378ad6439&auth_key=1695835932-0-0-c2db79c0e2d6d02ce0a411bda52ba918&sub_m3u8=true",
 "trylink": ""
 },
 {
