@@ -9,6 +9,11 @@
 "ateam": "Cagliari",
 "link": [
 {
+"type": "TNT Sports HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTM4MTQ=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
