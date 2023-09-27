@@ -469,21 +469,11 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
 "hteam": "Rayo Vallecano",
-"time": " 2:00 AM ",
-"date": "2023-09-28",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "ateam": "Cadiz",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?auth_key=1695835872-0-0-e11763238cab303f3be7e66ada10bcef&sub_m3u8=true&edge_slice=true&user_session_id=bcb532d72d54045957427b4857884b81",
@@ -493,16 +483,6 @@
 "type": "China SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?auth_key=1695835872-0-0-e11763238cab303f3be7e66ada10bcef&sub_m3u8=true&edge_slice=true&user_session_id=bcb532d72d54045957427b4857884b81",
 "trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -510,21 +490,11 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 "hteam": "Real Sociedad",
-"time": " 2:00 AM ",
-"date": "2023-09-28",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Valencia",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?edge_slice=true&user_session_id=22e2b134925892eb4cc4ebd378ad6439&auth_key=1695835932-0-0-c2db79c0e2d6d02ce0a411bda52ba918&sub_m3u8=true",
@@ -551,8 +521,8 @@
 "league": " US Open Cup Final ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "hteam": "Houston Dynamo",
-"time": " 7:00 AM ",
-"date": "2023-09-28",
+"time": " live ",
+"date": "7:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8259_small.png",
 "ateam": "Inter Miami",
 "link": [
