@@ -3,19 +3,19 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Frosinone_Calcio.png",
 "hteam": "Fiorentina",
-"time": " 11:00 PM ",
-"date": "2023-09-28",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
 "ateam": "Frosinone",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
