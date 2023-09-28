@@ -126,21 +126,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/granada.png",
 "hteam": "Betis",
-"time": " 11:30 PM ",
-"date": "2023-09-28",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Granada",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?user_session_id=a858feb04cd8e46eecbe8fbbd545c11a&sub_m3u8=true&auth_key=1695897852-0-0-87390604edc03f402294ab2f24c73f87&edge_slice=true",
