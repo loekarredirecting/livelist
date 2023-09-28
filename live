@@ -44,19 +44,19 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/ac-monza.png",
 "hteam": "Bologna",
-"time": " 11:00 PM ",
-"date": "2023-09-28",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://mygoaltv.xyz//team/Bologna.png",
 "ateam": "Monza",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may101/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
