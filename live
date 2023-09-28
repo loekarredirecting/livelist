@@ -9,6 +9,16 @@
 "ateam": "Inter Miami",
 "link": [
 {
+"type": "CBS Sports HD",
+"livelink": "https://ds1.enjoyhd.club/stream/ch44/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NTg2MDk4OCZoYXNoX3ZhbHVlPVpEVTBPV0pqTURBeU1UaGhZMlprTlRNMU5qWXhNRE5sWWpRNVlqSTRabUkmZXhwaXJ5PTE2OTU4NzE3ODgmaXA9MjAyLjE2NS44Ny4yNDk%3D",
+"trylink": "https://enjoyhd.club/"
+},
+{
+"type": "CBS Sports FHD",
+"livelink": "https://s2.albula.xyz/hls/stream-1/index.m3u8",
+"trylink": "https://www.sportshub.to/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
