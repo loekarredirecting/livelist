@@ -157,21 +157,11 @@
 "league": " Serie A ",
 "himg": "https://mygoaltv.xyz//team/Genoa.png",
 "hteam": "AS Roma",
-"time": " 1:15 AM ",
-"date": "2023-09-29",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
 "ateam": "Genoa",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1695897432-0-0-d4ba290bc8ae8f7cd740c267176251f8&edge_slice=true&sub_m3u8=true&user_session_id=01c8073f34f05c74f6e70ac3e5f8b294",
@@ -198,21 +188,11 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/osasuna.png",
 "hteam": "Atletico Madrid",
-"time": " 2:00 AM ",
-"date": "2023-09-29",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
 "ateam": "Osasuna",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-632730_lhd.m3u8?user_session_id=a27d317066d641e62873d040985f5eff&sub_m3u8=true&edge_slice=true&auth_key=1695897552-0-0-d68c075ac23d77c4b3c8ecc009a6e02b",
