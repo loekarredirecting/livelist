@@ -1,51 +1,328 @@
 [
 {
-"league": " US Open Cup Final ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-"hteam": "Houston Dynamo",
-"time": " live ",
-"date": "7:00 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8259_small.png",
-"ateam": "Inter Miami",
+"league": " Asian Games ",
+"himg": "https://api.sofascore.app/api/v1/team/4770/image",
+"hteam": "Myanmar U23",
+"time": " 6:00 PM ",
+"date": "2023-09-28",
+"aimg": "https://api.sofascore.app/api/v1/team/23484/image",
+"ateam": "Japan U23",
 "link": [
 {
-"type": "CBS Sports HD",
-"livelink": "https://ds1.enjoyhd.club/stream/ch44/tracks-v1a1/mono.m3u8?token=c2VydmVyX3RpbWU9MTY5NTg2MDk4OCZoYXNoX3ZhbHVlPVpEVTBPV0pqTURBeU1UaGhZMlprTlRNMU5qWXhNRE5sWWpRNVlqSTRabUkmZXhwaXJ5PTE2OTU4NzE3ODgmaXA9MjAyLjE2NS44Ny4yNDk%3D",
-"trylink": "https://enjoyhd.club/"
-},
-{
-"type": "CBS Sports FHD",
-"livelink": "https://s2.albula.xyz/hls/stream-1/index.m3u8",
-"trylink": "https://www.sportshub.to/"
-},
-{
 "type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"livelink": "0",
 "trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lhd.m3u8?sub_m3u8=true&user_session_id=ad39c4efcdc24e29297fb23acd3fce15&edge_slice=true&auth_key=1695818652-0-0-195544d61131927903429aa5d3644a48",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-466758_lsd.m3u8?sub_m3u8=true&user_session_id=ad39c4efcdc24e29297fb23acd3fce15&edge_slice=true&auth_key=1695818652-0-0-195544d61131927903429aa5d3644a48",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912064_lhd.m3u8?auth_key=1695819041-0-0-56bd3b628ef94403c92061708037a05f",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912064_lsd.m3u8?auth_key=1695819041-0-0-56bd3b628ef94403c92061708037a05f",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Women's Asian Games ",
+"himg": "https://api.sofascore.app/api/v1/team/195588/image",
+"hteam": "Myanmar (W)",
+"time": " 6:00 PM ",
+"date": "2023-09-28",
+"aimg": "https://api.sofascore.app/api/v1/team/23484/image",
+"ateam": "Philippines (W)",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Frosinone_Calcio.png",
+"hteam": "Fiorentina",
+"time": " 11:00 PM ",
+"date": "2023-09-28",
+"aimg": "https://mygoaltv.xyz//team/Fiorentina.png",
+"ateam": "Frosinone",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/ac-monza.png",
+"hteam": "Bologna",
+"time": " 11:00 PM ",
+"date": "2023-09-28",
+"aimg": "https://mygoaltv.xyz//team/Bologna.png",
+"ateam": "Monza",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/Celta_Vigo.png",
+"hteam": "Alaves",
+"time": " 11:30 PM ",
+"date": "2023-09-28",
+"aimg": "https://mygoaltv.xyz//team/Alaves.png",
+"ateam": "Celta Vigo",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/granada.png",
+"hteam": "Betis",
+"time": " 11:30 PM ",
+"date": "2023-09-28",
+"aimg": "https://mygoaltv.xyz//team/betis.png",
+"ateam": "Granada",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://mygoaltv.xyz//team/Genoa.png",
+"hteam": "AS Roma",
+"time": " 1:15 AM ",
+"date": "2023-09-29",
+"aimg": "https://mygoaltv.xyz//team/AS-Roma.png",
+"ateam": "Genoa",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " La Liga ",
+"himg": "https://mygoaltv.xyz//team/osasuna.png",
+"hteam": "Atletico Madrid",
+"time": " 2:00 AM ",
+"date": "2023-09-29",
+"aimg": "https://mygoaltv.xyz//team/Atletico_Madrid.png",
+"ateam": "Osasuna",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
 "trylink": ""
 }
 ]
