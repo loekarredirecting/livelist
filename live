@@ -1,56 +1,5 @@
 [
 {
-"league": " Saudi Pro League ",
-"himg": "https://mygoaltv.xyz//team/no-logo.png",
-"hteam": "Al-Nassr",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://mygoaltv.xyz//team/al-nassr.png",
-"ateam": "Al Taee",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://chop.fordems.live/hls/for-dems3.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://work.ovo-line.com/live/n-4/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1695997272-0-0-d2914668bae88dd8bab4499620c1a381&user_session_id=febec7edebd122fc959682f063d8f7da",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1695997272-0-0-d2914668bae88dd8bab4499620c1a381&user_session_id=febec7edebd122fc959682f063d8f7da",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1695996881-0-0-85506fa454152c0d8f4b00546fe788a9",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1695996881-0-0-85506fa454152c0d8f4b00546fe788a9",
-"trylink": ""
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://mygoaltv.xyz//team/Hoffenheim.png",
 "hteam": "Dortmund",
