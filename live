@@ -44,20 +44,20 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Barcelona.png",
 "hteam": "Sevilla",
-"time": " 1:30 AM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Sevilla.png",
 "ateam": "Barcelona",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems1.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-1/chunks.m3u8",
+"trylink": ""
 },
 {
 "type": "China HD",
@@ -85,21 +85,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/strasbourg.png",
 "hteam": "Lens",
-"time": " 1:30 AM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Lens.png",
 "ateam": "Strasbourg",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-486498_lhd.m3u8?sub_m3u8=true&auth_key=1696007952-0-0-ab828165d97326b9bd03e498af0cdb3e&user_session_id=a72bf9cf665d1f68f7194434e8c7de69&edge_slice=true",
