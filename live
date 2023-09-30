@@ -586,20 +586,20 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "hteam": "PSG",
-"time": " 9:30 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "ateam": "clermont",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems9.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-9/chunks.m3u8",
+"trylink": ""
 },
 {
 "type": "China HD",
