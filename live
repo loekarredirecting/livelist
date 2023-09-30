@@ -115,19 +115,19 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "hteam": "Napoli",
-"time": " 7:30 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "ateam": "Lecce",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may71/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may71/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
