@@ -1,36 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"hteam": "Mallorca",
-"time": " live ",
-"date": "8:45 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-"ateam": "Rayo Vallecano",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?sub_m3u8=true&auth_key=1696076833-0-0-7ac21c66ddb1fecc26a3653becaa7d18&edge_slice=true&user_session_id=f8650fc2498cbbeb12fc4864306c472a",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?sub_m3u8=true&auth_key=1696076833-0-0-7ac21c66ddb1fecc26a3653becaa7d18&edge_slice=true&user_session_id=f8650fc2498cbbeb12fc4864306c472a",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1696073321-0-0-5d9465e89c4162e37491102769564e31",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1696073321-0-0-5d9465e89c4162e37491102769564e31",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "hteam": "PSG",
