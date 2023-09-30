@@ -123,12 +123,12 @@
 {
 "type": "Vietnam HD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may71/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
+"trylink": ""
 },
 {
 "type": "Vietnam SD",
 "livelink": "https://obevcimanyd179314182.thapcam.link/live/may71/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
+"trylink": ""
 },
 {
 "type": "China HD",
@@ -156,29 +156,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
 "hteam": "Borussia M'Gladbach",
-"time": " 8:00 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "ateam": "Bochum",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-608411_lhd.m3u8?sub_m3u8=true&auth_key=1696083553-0-0-9912bac572b1034aa9bbf2e30b10fbd4&edge_slice=true&user_session_id=f4df289afb3413365ee13a3c24ca3c32",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-608411_lsd.m3u8?sub_m3u8=true&auth_key=1696083553-0-0-9912bac572b1034aa9bbf2e30b10fbd4&edge_slice=true&user_session_id=f4df289afb3413365ee13a3c24ca3c32",
 "trylink": ""
 },
 {
