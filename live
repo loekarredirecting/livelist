@@ -187,21 +187,11 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
 "hteam": "Union Berlin",
-"time": " 8:00 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
 "ateam": "Heidenheim",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1696074072-0-0-0b6766ab37f8a8e11b79f41283abfd13&user_session_id=e817265d38ab9d6bb298c417198110e8",
@@ -228,21 +218,11 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
 "hteam": "Stuttgart",
-"time": " 8:00 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
 "ateam": "Koln",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1696070052-0-0-2a0833e24d79a2cb089afd5b076b3602&user_session_id=80989aad665855e1083f1959b9deab21",
@@ -269,20 +249,20 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
 "hteam": "Leverkusen",
-"time": " 8:00 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "ateam": "Mainz 05",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may12/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"livelink": "https://1123139281.cdn.khmer-hd.com/may12/chunks.m3u8",
+"trylink": ""
 },
 {
 "type": "China HD",
@@ -310,19 +290,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "hteam": "Frankfurt",
-"time": " 8:00 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "ateam": "Wolfsburg",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may121/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may121/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
