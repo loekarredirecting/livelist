@@ -317,12 +317,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=12ecaf75a77a523b3a5fe7ce014bc185&txTime=65187581",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lsd.m3u8?txSecret=12ecaf75a77a523b3a5fe7ce014bc185&txTime=65187581",
 "trylink": ""
 }
 ]
@@ -331,19 +331,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "hteam": "Arsenal",
-"time": " 8:30 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "ateam": "Bournemouth",
 "link": [
 {
+"type": "Premier HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTM5Njg=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://chop.fordems.live/hls/for-dems2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://work.ovo-line.com/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://gunswigso.site/chunklist/hlsch9.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -372,19 +392,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "hteam": "Crystal Palace",
-"time": " 8:30 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "ateam": "Man United",
 "link": [
 {
+"type": "USA Sports HD",
+"livelink": "https://s3asjkbd.101streams.co/scripts/MTM5NzA=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "Super Sports HD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-2/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -413,19 +453,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "hteam": "Man City",
-"time": " 8:30 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "ateam": "Wolverhampton",
 "link": [
 {
+"type": "Super Sports HD",
+"livelink": "https://s3asjkbd.101streams.co/scripts/MTM5Njk=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 1 HD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://d2sbynx9kmnbhq.cloudfront.net/index_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://work.ovo-line.com/live/n-3/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
