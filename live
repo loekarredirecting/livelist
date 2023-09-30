@@ -1,66 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-"hteam": "Brighton",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"ateam": "Aston Villa",
-"link": [
-{
-"type": "TNT Sports HD",
-"livelink": "https://s3asjkbd.101streams.co/scripts/MTM5NjI=/caxi.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Super Sports HD",
-"livelink": "https://gfduenkie.site/chunklist/hlsch5.m3u8",
-"trylink": ""
-},
-{
-"type": "English 1 HD",
-"livelink": "https://chop.fordems.live/hls/for-dems1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://work.ovo-line.com/live/n-1/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&auth_key=1696069692-0-0-2a7196b201d75eda35617da9f7ad4da5&user_session_id=dd78ce89f980c8720c507371b018e371&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&auth_key=1696069692-0-0-2a7196b201d75eda35617da9f7ad4da5&user_session_id=dd78ce89f980c8720c507371b018e371&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=5a49a202df0df33539bd8ad11d319671&txTime=651856cd",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=5a49a202df0df33539bd8ad11d319671&txTime=651856cd",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "hteam": "Villarreal",
@@ -514,20 +453,20 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "hteam": "Luton Town",
-"time": " 8:30 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
 "ateam": "Everton",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://fdaskj.1stream.one/scripts/MTM5NzI=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems5.m3u8",
+"trylink": ""
 },
 {
 "type": "China HD",
@@ -555,20 +494,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "hteam": "Burnley",
-"time": " 8:30 PM ",
-"date": "2023-09-30",
-
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
 "ateam": "Newcastle",
 "link": [
 {
+"type": "Super Sports HD",
+"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTM5Njc=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 1 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-5/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://gfduenkie.site/chunklist/hlsch8.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -597,19 +555,29 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "hteam": "Sheffield",
-"time": " 8:30 PM ",
-"date": "2023-09-30",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
 "ateam": "West Ham",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://fdaskj.1stream.one/scripts/MTM5NzE=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems6.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
