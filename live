@@ -336,57 +336,6 @@
 ]
 },
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
-"hteam": "Villarreal",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"ateam": "Getafe",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://chop.fordems.live/hls/for-dems8.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://work.ovo-line.com/live/n-7/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?user_session_id=94feae4e59c9fa59fbf4d6e971d1eaf9&sub_m3u8=true&auth_key=1696069872-0-0-d684a9ed64623931e0384bfb34438c17&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?user_session_id=94feae4e59c9fa59fbf4d6e971d1eaf9&sub_m3u8=true&auth_key=1696069872-0-0-d684a9ed64623931e0384bfb34438c17&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1696071761-0-0-245f3f252857031262b1003f53287028",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1696071761-0-0-245f3f252857031262b1003f53287028",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "hteam": "Napoli",
