@@ -147,19 +147,29 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "hteam": "Juventus",
-"time": " 10:30 PM ",
-"date": "2023-10-1",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "ateam": "Atalanta",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-3/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -328,22 +338,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&user_session_id=f64d0019e955653ac8a714e5d9d3a01c&edge_slice=true&auth_key=1696176732-0-0-c9112ccb1e7e0779b8757fe39e2f91d5",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?sub_m3u8=true&user_session_id=f64d0019e955653ac8a714e5d9d3a01c&edge_slice=true&auth_key=1696176732-0-0-c9112ccb1e7e0779b8757fe39e2f91d5",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=6d581213d114bff038678e7ed1d1922c&txTime=6519e105",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lsd.m3u8?txSecret=6d581213d114bff038678e7ed1d1922c&txTime=6519e105",
 "trylink": ""
 }
 ]
