@@ -1,46 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/Bologna.png",
-"hteam": "Empoli",
-"time": " live ",
-"date": "5:00 PM",
-"aimg": "https://mygoaltv.xyz//team/Empoli.gif",
-"ateam": "Bologna",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://chop.fordems.live/hls/for-dems2.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://work.ovo-line.com/live/n-3/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?auth_key=1696158072-0-0-aaea0d44ee1814e4d5f915a19a851ded&sub_m3u8=true&user_session_id=151cc32ac4af1ce2121771749d169c74&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lsd.m3u8?auth_key=1696158072-0-0-aaea0d44ee1814e4d5f915a19a851ded&sub_m3u8=true&user_session_id=151cc32ac4af1ce2121771749d169c74&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1696158221-0-0-1d1d57440bd4535dcca05621de739aff",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1696158221-0-0-1d1d57440bd4535dcca05621de739aff",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/reims.png",
 "hteam": "Lyon",
