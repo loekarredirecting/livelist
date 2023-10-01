@@ -85,39 +85,29 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Granada",
-"time": " 6:30 PM ",
-"date": "2023-10-01",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://mygoaltv.xyz//team/granada.png",
 "ateam": "Almeria",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?edge_slice=true&auth_key=1696164913-0-0-24062c52da0c399b59597b5bbbc3344e&sub_m3u8=true&user_session_id=1db1ff068c0bec5d293d33b4b49663c6",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?edge_slice=true&auth_key=1696164913-0-0-24062c52da0c399b59597b5bbbc3344e&sub_m3u8=true&user_session_id=1db1ff068c0bec5d293d33b4b49663c6",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=8d35ab1c042821e2f82a1c0ed0372ca2&txTime=6519aea1",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=8d35ab1c042821e2f82a1c0ed0372ca2&txTime=6519aea1",
 "trylink": ""
 }
 ]
