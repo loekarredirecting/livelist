@@ -1,36 +1,5 @@
 [
 {
-"league": " La Liga ",
-"himg": "https://mygoaltv.xyz//team/Almeria.png",
-"hteam": "Granada",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://mygoaltv.xyz//team/granada.png",
-"ateam": "Almeria",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?edge_slice=true&auth_key=1696164913-0-0-24062c52da0c399b59597b5bbbc3344e&sub_m3u8=true&user_session_id=1db1ff068c0bec5d293d33b4b49663c6",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?edge_slice=true&auth_key=1696164913-0-0-24062c52da0c399b59597b5bbbc3344e&sub_m3u8=true&user_session_id=1db1ff068c0bec5d293d33b4b49663c6",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=8d35ab1c042821e2f82a1c0ed0372ca2&txTime=6519aea1",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-434154_lsd.m3u8?txSecret=8d35ab1c042821e2f82a1c0ed0372ca2&txTime=6519aea1",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "hteam": "Brentford",
@@ -261,21 +230,11 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "hteam": "Montpellier",
-"time": " 9:35 PM ",
-"date": "2023-10-1",
+"time": " live ",
+"date": "9:35 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "ateam": "Lorient",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?user_session_id=0559b64adab9fa1620796ba87797fdbc&sub_m3u8=true&auth_key=1696160112-0-0-664bde202c70399e3a2265eb59356b40&edge_slice=true",
