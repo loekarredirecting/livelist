@@ -1,36 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
-"hteam": "Werder Bremen",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-"ateam": "SV Darmstadt",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lhd.m3u8?sub_m3u8=true&user_session_id=72814ac6e5552e38f0289bb41006a63a&auth_key=1696159992-0-0-f503ad54396b714df285b83675677656&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lsd.m3u8?sub_m3u8=true&user_session_id=72814ac6e5552e38f0289bb41006a63a&auth_key=1696159992-0-0-f503ad54396b714df285b83675677656&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1696161521-0-0-e1eb492cc841f6aa132153d762d93958",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1696161521-0-0-e1eb492cc841f6aa132153d762d93958",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "hteam": "Osasuna",
