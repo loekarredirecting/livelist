@@ -116,20 +116,20 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "hteam": "Brentford",
-"time": " 7:30 PM ",
-"date": "2023-10-01",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "ateam": "Nottingham Forest",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "Super Sports HD",
+"livelink": "https://chop.fordems.live/hls/for-dems1.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English HD",
+"livelink": "https://work.ovo-line.com/live/n-1/chunks.m3u8",
+"trylink": ""
 },
 {
 "type": "China HD",
@@ -157,21 +157,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Le-Havre.png",
 "hteam": "Lille",
-"time": " 7:30 PM ",
-"date": "2023-10-01",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/lille.png",
 "ateam": "Le Havre",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?auth_key=1696160112-0-0-664bde202c70399e3a2265eb59356b40&sub_m3u8=true&user_session_id=ca498e759a451a051d9f2cf9efa1fdac&edge_slice=true",
@@ -184,12 +174,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-921508_lhd.m3u8?auth_key=1696166681-0-0-66442f5a582a37f925b5234927af9f00",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-921508_lsd.m3u8?auth_key=1696166681-0-0-66442f5a582a37f925b5234927af9f00",
 "trylink": ""
 }
 ]
@@ -198,21 +188,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Toulouse.png",
 "hteam": "Metz",
-"time": " 7:30 PM ",
-"date": "2023-10-01",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Metz.gif",
 "ateam": "Toulouse",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-306929_lhd.m3u8?sub_m3u8=true&auth_key=1696160172-0-0-161ced11585499c8cab012b75e0e6e2a&edge_slice=true&user_session_id=18645cfe662929c2094584994a131264",
@@ -239,21 +219,11 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/Nice.png",
 "hteam": "Brestois",
-"time": " 7:30 PM ",
-"date": "2023-10-01",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Brest.gif",
 "ateam": "Nice",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-655865_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1696160232-0-0-1ba9157a0d45cec7dffc7b5dda9c7b83&user_session_id=893e7da6177f1bd055dd9f9d2b8e7d6e",
@@ -280,21 +250,11 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "hteam": "Genoa",
-"time": " 7:30 PM ",
-"date": "2023-10-1",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
 "ateam": "Udinese",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-282956_lhd.m3u8?auth_key=1696160292-0-0-3993ed05ace99f6492f3d7493cfa5b87&sub_m3u8=true&user_session_id=360db6b32f2c41016def4c40b2ee561a&edge_slice=true",
