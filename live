@@ -1,46 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://mygoaltv.xyz//team/reims.png",
-"hteam": "Lyon",
-"time": " live ",
-"date": "5:30 PM",
-"aimg": "https://mygoaltv.xyz//team/lyon.png",
-"ateam": "Reims",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://obevcimanyd179314182.thapcam.link/live/may91/chunklist.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lhd.m3u8?sub_m3u8=true&auth_key=1696159992-0-0-f503ad54396b714df285b83675677656&edge_slice=true&user_session_id=17fdb290d60c8da303357aaed8760a2b",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lsd.m3u8?sub_m3u8=true&auth_key=1696159992-0-0-f503ad54396b714df285b83675677656&edge_slice=true&user_session_id=17fdb290d60c8da303357aaed8760a2b",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1696160981-0-0-d2c613a1fe21819c68ea45dee1b1d24f",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1696160981-0-0-d2c613a1fe21819c68ea45dee1b1d24f",
-"trylink": ""
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Almeria.png",
 "hteam": "Granada",
