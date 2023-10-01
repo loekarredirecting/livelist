@@ -230,8 +230,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "hteam": "Osasuna",
-"time": " 8:45 PM ",
-"date": "2023-10-1",
+"time": " live ",
+"date": "8:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
 "ateam": "Deportivo Alaves",
 "link": [
@@ -247,12 +247,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lhd.m3u8?auth_key=1696172052-0-0-c67990b910a706e0a0ba9742a269403f&sub_m3u8=true&edge_slice=true&user_session_id=3346bfa391ebf0bd9a94b7f5c34ea18f",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lsd.m3u8?auth_key=1696172052-0-0-c67990b910a706e0a0ba9742a269403f&sub_m3u8=true&edge_slice=true&user_session_id=3346bfa391ebf0bd9a94b7f5c34ea18f",
 "trylink": ""
 },
 {
