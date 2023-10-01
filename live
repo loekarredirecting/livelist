@@ -9,6 +9,16 @@
 "ateam": "Bologna",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-3/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-900003_lhd.m3u8?auth_key=1696158072-0-0-aaea0d44ee1814e4d5f915a19a851ded&sub_m3u8=true&user_session_id=151cc32ac4af1ce2121771749d169c74&edge_slice=true",
 "trylink": ""
