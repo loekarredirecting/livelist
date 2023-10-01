@@ -236,6 +236,16 @@
 "ateam": "Lorient",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-l5ergphl9kd7r8k/chunklist_w1780170245.m3u8",
+"trylink": ""
+},
+{
+"type": "English FHD",
+"livelink": "https://179720687.global.cdnfastest.com/live/hd-en-l5ergphl9kd7r8k/chunklist_w1780170245.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?user_session_id=0559b64adab9fa1620796ba87797fdbc&sub_m3u8=true&auth_key=1696160112-0-0-664bde202c70399e3a2265eb59356b40&edge_slice=true",
 "trylink": ""
@@ -261,19 +271,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 "hteam": "Augsburg",
-"time": " 10:00 PM ",
-"date": "2023-10-1",
+"time": " live ",
+"date": "10:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
 "ateam": "Freiburg",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
