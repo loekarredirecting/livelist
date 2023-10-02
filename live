@@ -105,19 +105,19 @@
 "league": " AFC Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "hteam": "FC Istiklol",
-"time": " 12:30 AM ",
-"date": "2023-10-3",
+"time": " live ",
+"date": "12:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/606032_small.png",
 "ateam": "AI Nassr",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
