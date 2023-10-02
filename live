@@ -9,6 +9,16 @@
 "ateam": "Sassuolo",
 "link": [
 {
+"type": "English HD",
+"livelink": "http://cdn1.cyclingnews.live/hls/Z2.m3u8",
+"trylink": "http://bikesports.live/ada/lol/02-per-monza-z2/"
+},
+{
+"type": "English FHD",
+"livelink": "http://cdn1.cyclingnews.live/hls/Z2.m3u8",
+"trylink": "http://bikesports.live/ada/lol/02-per-monza-z2/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
 "trylink": ""
@@ -49,6 +59,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "ateam": "Torino",
 "link": [
+{
+"type": "English HD",
+"livelink": "http://cdn1.cyclingnews.live/hls/Z3.m3u8",
+"trylink": "http://bikesports.live/ada/lol/02-per-torino-fiorentina-z3/"
+},
+{
+"type": "English FHD",
+"livelink": "http://cdn1.cyclingnews.live/hls/Z3.m3u8",
+"trylink": "http://bikesports.live/ada/lol/02-per-torino-fiorentina-z3/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
