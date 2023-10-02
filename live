@@ -146,21 +146,11 @@
 "league": " Serie A",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "hteam": "Cagliari",
-"time": " 1:15 AM ",
-"date": "2023-10-03",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
 "ateam": "Fiorentina",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?sub_m3u8=true&auth_key=1696266253-0-0-e7dfc879b515dda28c9fab7cf3993653&user_session_id=bc247aca83182efdca4bcae1e598e027&edge_slice=true",
@@ -187,20 +177,20 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "hteam": "Chelsea",
-"time": " 1:30 AM ",
-"date": "2023-10-03",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "ateam": "Fulham",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTQxMTI=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTQxMTI=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
@@ -228,21 +218,11 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
 "hteam": "Celta Vigo",
-"time": " 1:30 AM ",
-"date": "2023-10-03",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "ateam": "Las Palmas",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?sub_m3u8=true&auth_key=1696266073-0-0-93a0ad4e40f27a6db8fce580c702a053&user_session_id=501a471054f1b94501e5b1af9a8ad0b7&edge_slice=true",
