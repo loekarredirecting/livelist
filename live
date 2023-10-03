@@ -1,87 +1,5 @@
 [
 {
-"league": " Champions League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-"hteam": "Braga",
-"time": " live ",
-"date": "11:15 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
-"ateam": "Union Berlin",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://fdaskj.1stream.one/scripts/MTQxNDA=/caxi.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "English FHD",
-"livelink": "https://fdaskj.1stream.one/scripts/MTQxNDA=/caxi.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c93d4fb50658d662321b47869f76ee72&auth_key=1696349533-0-0-c4cf65f81e5120f358d4a647f809c372",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-799317_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c93d4fb50658d662321b47869f76ee72&auth_key=1696349533-0-0-c4cf65f81e5120f358d4a647f809c372",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1696350221-0-0-80fb1419d6637d9f4f7c63c7f051fb7d",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1696350221-0-0-80fb1419d6637d9f4f7c63c7f051fb7d",
-"trylink": ""
-}
-]
-},
-{
-"league": " Champions League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10013_small.png",
-"hteam": "Real Sociedad",
-"time": " live ",
-"date": "11:15 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-"ateam": "Salzburg",
-"link": [
-{
-"type": "English HD",
-"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTQxNDE=/caxi.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "English FHD",
-"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTQxNDE=/caxi.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lhd.m3u8?auth_key=1696349653-0-0-202f4e5677f57dc41a7bd46b5e783fce&user_session_id=d42f86b670be3c6bcf241ba0302e7cf6&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-886731_lsd.m3u8?auth_key=1696349653-0-0-202f4e5677f57dc41a7bd46b5e783fce&user_session_id=d42f86b670be3c6bcf241ba0302e7cf6&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912023_lhd.m3u8?auth_key=1696350281-0-0-c35e3d4c3134e048c12cfd7dc7d228c9",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912023_lsd.m3u8?auth_key=1696350281-0-0-c35e3d4c3134e048c12cfd7dc7d228c9",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
 "hteam": "Burnley",
@@ -131,6 +49,26 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8637_small.png",
 "ateam": "Man United",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://work.ovo-line.com/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "http://cdn1.cyclingnews.live/hls/Z1.m3u8",
+"trylink": "http://bikesports.live/ada/total/03-novo-uniteeed-z1/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://storage.googleapis.com/laninputet1/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://jgqb9p476xtffa3q.cdnspectrum.net:8443/hls/cwdjkhlh9g.m3u8?s=spMv23F21_uQ2yG8Pg4mlw&e=1696380655",
+"trylink": "https://w85p0dmwc11ww5.performancepavement.net/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
