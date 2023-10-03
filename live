@@ -111,6 +111,16 @@
 "ateam": "Lens",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "http://cdn1.cyclingnews.live/hls/Z2.m3u8",
+"trylink": "http://bikesports.live/ada/total/03-novoo-gunners-z2/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://storage.googleapis.com/laninputet2/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
