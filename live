@@ -105,19 +105,19 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
 "hteam": "Man City",
-"time": " 1:30 AM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "ateam": "RB Leipzig",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -146,19 +146,19 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "hteam": "PSG",
-"time": " 1:30 AM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "ateam": "Newcastle",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -187,19 +187,19 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "hteam": "AC Milan",
-"time": " 1:30 AM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "ateam": "Borussia Dortmund",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -228,19 +228,19 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
 "hteam": "Barcelona",
-"time": " 1:30 AM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "ateam": "FC Porto",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -269,21 +269,11 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8687_small.png",
 "hteam": "Young Boys",
-"time": " 1:30 AM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10192_small.png",
 "ateam": "FK Crvena Zvezda",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&auth_key=1696439292-0-0-c30b29fba9f1fbdaff40f2053d99c81f&edge_slice=true&user_session_id=5b4ca6586009133639bc9bee0b2e5b39",
@@ -310,19 +300,19 @@
 "league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
 "hteam": "Lazio",
-"time": " 1:30 AM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "ateam": "Celtic",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -351,21 +341,11 @@
 "league": " MLS League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6397_small.png",
 "hteam": "Inter Miami CF",
-"time": " 7:00 AM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "7:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "ateam": "Chicago Fire FC",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?sub_m3u8=true&auth_key=1696439053-0-0-fe87a32c2d39191edb8c38f46ef110cd&user_session_id=c9f3b84ac2eac60b700b79e3e9a94d77&edge_slice=true",
