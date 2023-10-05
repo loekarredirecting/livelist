@@ -3,19 +3,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 "hteam": "West Ham",
-"time": " 11:15 PM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "11:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "ateam": "SC Freiburg",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -44,29 +44,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/676140_small.png",
 "hteam": "Olympiacos",
-"time": " 11:15 PM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "11:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8638_small.png",
 "ateam": "TSC Backa Topola",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1696526622-0-0-310ff97d6ddf376d65cd0df8cbe0770b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1696526622-0-0-310ff97d6ddf376d65cd0df8cbe0770b",
 "trylink": ""
 }
 ]
@@ -75,19 +65,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "hteam": "Brighton",
-"time": " 11:15 PM ",
-"date": "2023-10-05",
+"time": " live",
+"date": "11:15 PM ",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "ateam": "Marseille",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -102,12 +92,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1696526742-0-0-1ee46b18413ba22e15f34909e1198e99",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1696526742-0-0-1ee46b18413ba22e15f34909e1198e99",
 "trylink": ""
 }
 ]
@@ -116,29 +106,29 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8563_small.png",
 "hteam": "Ajax",
-"time": " 11:15 PM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "11:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8593_small.png",
 "ateam": "AEK Athens",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=65a22d218a19c30e4ffb1dfcc2c9b461&txTime=651f3822",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=65a22d218a19c30e4ffb1dfcc2c9b461&txTime=651f3822",
 "trylink": ""
 }
 ]
@@ -147,21 +137,11 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "hteam": "Sparta Prague",
-"time": " 11:15 PM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "11:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10247_small.png",
 "ateam": "Real Betis",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?sub_m3u8=true&user_session_id=b1b6e9f4007d6c53ba615e2dc2048465&edge_slice=true&auth_key=1696518613-0-0-179adc7fa0353b40445edc446606de47",
@@ -174,12 +154,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1696526922-0-0-33f607c537deb1f90b88a63c525f5a6a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-273736_lsd.m3u8?auth_key=1696526922-0-0-33f607c537deb1f90b88a63c525f5a6a",
 "trylink": ""
 }
 ]
@@ -188,19 +168,19 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
 "hteam": "Atalanta",
-"time": " 11:15 PM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "11:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "ateam": "Sporting CP",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -215,12 +195,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lhd.m3u8?txSecret=02bd2503ce468564ad1b020c3b0adc74&txTime=651f38d6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lsd.m3u8?txSecret=02bd2503ce468564ad1b020c3b0adc74&txTime=651f38d6",
 "trylink": ""
 }
 ]
@@ -229,29 +209,19 @@
 "league": " Europa Conference League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8106_small.png",
 "hteam": "Lille",
-"time": " 11:15 PM ",
-"date": "2023-10-05",
+"time": " live ",
+"date": "11:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "ateam": "Klaksvik",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
+"link": [ 
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379975_lhd.m3u8?txSecret=647e53f5e69f14441f4477180ecfb198&txTime=651f394e",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-379975_lsd.m3u8?txSecret=647e53f5e69f14441f4477180ecfb198&txTime=651f394e",
 "trylink": ""
 }
 ]
@@ -469,16 +439,6 @@
 "type": "Vietnam SD",
 "livelink": "0",
 "trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
 },
 {
 "type": "Soco HD",
