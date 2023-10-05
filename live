@@ -236,6 +236,26 @@
 "ateam": "Liverpool",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://work.ovo-line.com/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTQxOTA=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://64ajhu8whg3tsek2.cdnreinforce.net:8443/hls/ei0iqu6e13.m3u8?s=u1R3NNX4w6qselDrUb3tYw&e=1696552986",
+"trylink": "https://abolishstand.net/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
