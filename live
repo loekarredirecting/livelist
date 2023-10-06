@@ -54,8 +54,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 "hteam": "Udinese",
-"time": " 11:00 PM ",
-"date": "2023-10-06",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "ateam": "Empoli",
 "link": [
@@ -68,16 +68,6 @@
 "type": "English 2 HD",
 "livelink": "https://fdaskj.1stream.one/scripts/MTQyMTc=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -121,16 +111,6 @@
 "trylink": "https://freehdgames.xyz/"
 },
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&auth_key=1696605133-0-0-3cbc71d6e0a0598050b77acd410da7d0&user_session_id=fca4b1278af730ed406dcc18479b0208&edge_slice=true",
 "trylink": ""
@@ -170,16 +150,6 @@
 "type": "English 2 HD",
 "livelink": "https://fdaskj.1stream.one/scripts/MTQyMjA=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -223,16 +193,6 @@
 "trylink": "https://1stream.soccer/"
 },
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lhd.m3u8?user_session_id=84df5a3b19b7d2aeb31135b93d9d1f3b&edge_slice=true&auth_key=1696605373-0-0-3863ebbbc481d1556d621a901f1572d5&sub_m3u8=true",
 "trylink": ""
@@ -272,16 +232,6 @@
 "type": "English 2 HD",
 "livelink": "https://fdaskj.1stream.one/scripts/MTQyMjM=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
