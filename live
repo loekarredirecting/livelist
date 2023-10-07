@@ -288,6 +288,47 @@
 },
 {
 "league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"hteam": "Brentford",
+"time": " 8:30 PM ",
+"date": "2023-10-07",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+"ateam": "Man United",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
 "hteam": "Chelsea",
 "time": " 8:30 PM ",
@@ -376,47 +417,6 @@
 "date": "2023-10-07",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
 "ateam": "Fulham",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"hteam": "Brentford",
-"time": " 8:30 PM ",
-"date": "2023-10-07",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"ateam": "Man United",
 "link": [
 {
 "type": "Vietnam HD",
