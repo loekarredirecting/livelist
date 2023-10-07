@@ -273,6 +273,16 @@
 "type": "Soco SD",
 "livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1696687002-0-0-af6c788435074e7b6ea329882ae0b14a",
 "trylink": ""
+},
+{
+"type": "English HD(VPN)",
+"livelink": "https://us.score911.cc/epl_manu/index.m3u8",
+"trylink": "https://ggsport.tv/"
+},
+{
+"type": "Portugueses HD(VPN)",
+"livelink": "https://nl.score911.cc/au_optus3/index.m3u8",
+"trylink": "https://ggsport.tv/"
 }
 ]
 },
