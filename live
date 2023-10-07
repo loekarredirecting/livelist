@@ -463,8 +463,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Torino",
-"time": " 10:30 PM ",
-"date": "2023-10-07",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 "ateam": "Juventus",
 "link": [
@@ -490,12 +490,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=837f971ecd530c24b00e8adc5c421f46&txTime=6521cd8a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=837f971ecd530c24b00e8adc5c421f46&txTime=6521cd8a",
 "trylink": ""
 }
 ]
@@ -531,12 +531,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1696696302-0-0-682d616c63e6888a8b02c46eded97e33",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1696696302-0-0-682d616c63e6888a8b02c46eded97e33",
 "trylink": ""
 }
 ]
@@ -572,12 +572,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lhd.m3u8?auth_key=1696696362-0-0-2af04992cddbe2d3e6ec0a17db0bd4be",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lsd.m3u8?auth_key=1696696362-0-0-2af04992cddbe2d3e6ec0a17db0bd4be",
 "trylink": ""
 }
 ]
@@ -613,12 +613,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912038_lhd.m3u8?auth_key=1696696422-0-0-3864f0f8ca5a4d7b9f9eb8ada90a0663",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912038_lsd.m3u8?auth_key=1696696422-0-0-3864f0f8ca5a4d7b9f9eb8ada90a0663",
 "trylink": ""
 }
 ]
@@ -654,12 +654,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=c1f5d7be34e0af7cdc4e97130b9e2367&txTime=6521cef2",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=c1f5d7be34e0af7cdc4e97130b9e2367&txTime=6521cef2",
 "trylink": ""
 }
 ]
@@ -695,12 +695,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1696696482-0-0-8b626be0774f865a53092bfa688b39db",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-462413_lsd.m3u8?auth_key=1696696482-0-0-8b626be0774f865a53092bfa688b39db",
 "trylink": ""
 }
 ]
@@ -736,12 +736,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912027_lhd.m3u8?txSecret=c467549bf43003539554fcca95cf241d&txTime=6521cf6a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912027_lsd.m3u8?txSecret=c467549bf43003539554fcca95cf241d&txTime=6521cf6a",
 "trylink": ""
 }
 ]
@@ -777,12 +777,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912007_lhd.m3u8?txSecret=dc949ff15efa20123f2f44af087907f8&txTime=6521cfa6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912007_lsd.m3u8?txSecret=dc949ff15efa20123f2f44af087907f8&txTime=6521cfa6",
 "trylink": ""
 }
 ]
