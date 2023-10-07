@@ -1,36 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
-"hteam": "Nice",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"ateam": "Metz",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-489740_lhd.m3u8?sub_m3u8=true&auth_key=1696686613-0-0-7672bee9f5a73bdbe2dfe8288ea29f85&user_session_id=4d546d2c3f7924b630773f129f39b96e&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-489740_lsd.m3u8?sub_m3u8=true&auth_key=1696686613-0-0-7672bee9f5a73bdbe2dfe8288ea29f85&user_session_id=4d546d2c3f7924b630773f129f39b96e&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1696687482-0-0-54c76115c77f48dcfa8240112a43b24a",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1696687482-0-0-54c76115c77f48dcfa8240112a43b24a",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Torino",
@@ -224,14 +193,14 @@
 "ateam": "Genoa",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch1/live/ch1_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDU6MTU6NTIgUE0maGFzaF92YWx1ZT0ybmE5YktiMTVreERFdXpiNEFsUEd3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQyNTc=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
@@ -265,14 +234,14 @@
 "ateam": "Sevilla",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch4/live/ch4_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDU6MTg6NDQgUE0maGFzaF92YWx1ZT1yZTJMM2xuWk5JLzRLaEVtbDc3a1FRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTQyNTI=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
@@ -306,14 +275,14 @@
 "ateam": "Reims",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://chinguyu.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDU6MjA6MzAgUE0maGFzaF92YWx1ZT1oN0JNYUdGRXhGa243ZHBLQkRoYTh3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://chinguyu.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDU6MjA6MzAgUE0maGFzaF92YWx1ZT1oN0JNYUdGRXhGa243ZHBLQkRoYTh3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
 "type": "China HD",
@@ -347,14 +316,14 @@
 "ateam": "Inter Miami",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 1 HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTQyNzk=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTQyNzk=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
