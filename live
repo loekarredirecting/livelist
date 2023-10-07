@@ -1,139 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
-"hteam": "SV Darmstadt",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
-"ateam": "FC Augsburg",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lhd.m3u8?user_session_id=44a6145ea82ce899348ef4e3f65d7a00&sub_m3u8=true&edge_slice=true&auth_key=1696687693-0-0-a1e52a540c59d8f4c089f3484ccaa98a",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-362789_lsd.m3u8?user_session_id=44a6145ea82ce899348ef4e3f65d7a00&sub_m3u8=true&edge_slice=true&auth_key=1696687693-0-0-a1e52a540c59d8f4c089f3484ccaa98a",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912004_lhd.m3u8?auth_key=1696686762-0-0-e68f8c8be2c73fd805f6d0d3f865145c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912004_lsd.m3u8?auth_key=1696686762-0-0-e68f8c8be2c73fd805f6d0d3f865145c",
-"trylink": ""
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"hteam": "Union Berlin",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-"ateam": "Dortmund",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-718762_lhd.m3u8?sub_m3u8=true&auth_key=1696686073-0-0-f90b3dacaf5b73308d8ddeda43f97c52&edge_slice=true&user_session_id=d34d9f0c5d6da8fa82cd23bf44d46f96",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-718762_lsd.m3u8?sub_m3u8=true&auth_key=1696686073-0-0-f90b3dacaf5b73308d8ddeda43f97c52&edge_slice=true&user_session_id=d34d9f0c5d6da8fa82cd23bf44d46f96",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912056_lhd.m3u8?txSecret=a7e360b90ac1783153baa34a505203ff&txTime=6521a936",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912056_lsd.m3u8?txSecret=a7e360b90ac1783153baa34a505203ff&txTime=6521a936",
-"trylink": ""
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-"hteam": "Bochum",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
-"ateam": "RB Leipzig",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1696686133-0-0-9cdeeb677e6e3922fff3222645605f5c&sub_m3u8=true&edge_slice=true&user_session_id=89e248aec6ef1a58d1ac64fd9c4d134d",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?auth_key=1696686133-0-0-9cdeeb677e6e3922fff3222645605f5c&sub_m3u8=true&edge_slice=true&user_session_id=89e248aec6ef1a58d1ac64fd9c4d134d",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-434154_lhd.m3u8?auth_key=1696687602-0-0-2689e3601cd2c9569090421fe0e1f267",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-434154_lsd.m3u8?auth_key=1696687602-0-0-2689e3601cd2c9569090421fe0e1f267",
-"trylink": ""
-}
-]
-},
-{
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
-"hteam": "Wolfsburg",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-"ateam": "VfB Stuttgart",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702409_lhd.m3u8?edge_slice=true&auth_key=1696686193-0-0-9317cdb5db7e401d77a763a65c88f79c&sub_m3u8=true&user_session_id=9313e0798fdda32e935c91b9724ccb1b",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702409_lsd.m3u8?edge_slice=true&auth_key=1696686193-0-0-9317cdb5db7e401d77a763a65c88f79c&sub_m3u8=true&user_session_id=9313e0798fdda32e935c91b9724ccb1b",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912049_lhd.m3u8?txSecret=df9f99c6266bbea745344c007c4610c8&txTime=6521a9ae",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912049_lsd.m3u8?txSecret=df9f99c6266bbea745344c007c4610c8&txTime=6521a9ae",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "hteam": "Brentford",
@@ -469,13 +335,23 @@
 "ateam": "Juventus",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDM6NDQ6MDggUE0maGFzaF92YWx1ZT1nUStYQ1pFV2R3cTQ5b0lSM3lBUEV3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems5.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
