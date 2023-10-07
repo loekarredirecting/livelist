@@ -54,39 +54,39 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
 "hteam": "Girona",
-"time": " 6:30 PM ",
-"date": "2023-10-07",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Cadiz",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1696682473-0-0-82acbbcba46ce547da35ab7fe93a8ee5&user_session_id=114e4986f56a0c38de3769ce956622f4",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1696682473-0-0-82acbbcba46ce547da35ab7fe93a8ee5&user_session_id=114e4986f56a0c38de3769ce956622f4",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1696682562-0-0-9b2c061a8a412df4dc3be6c260d2e7da",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1696682562-0-0-9b2c061a8a412df4dc3be6c260d2e7da",
 "trylink": ""
 }
 ]
