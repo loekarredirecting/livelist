@@ -184,6 +184,16 @@
 "ateam": "Man United",
 "link": [
 {
+"type": "Super 1 HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-3glrw7h38edpqdy/chunklist_w326707607.m3u8",
+"trylink": ""
+},
+{
+"type": "Super 2 HD",
+"livelink": "https://weakgfbd.azureedge.net/live/usa/chunks.m3u8",
+"trylink": "https://weakspell.org/"
+},
+{
 "type": "Super Sports HD",
 "livelink": "https://chukkircvh.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvNy8yMDIzIDE6MTI6MTkgUE0maGFzaF92YWx1ZT1MZGNrRjFqU1hvbGozUCs3L01pbTRBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
 "trylink": "https://freehdgames.xyz/"
