@@ -105,39 +105,29 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "hteam": "Bologna",
-"time": " 7:30 PM ",
-"date": "2023-10-07",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "ateam": "Inter",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?auth_key=1696685413-0-0-57a4fb1b9f9e4444becfc611dc317ded&edge_slice=true&user_session_id=dd35c684b20e1f9e804e810009ef5ddb&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lsd.m3u8?auth_key=1696685413-0-0-57a4fb1b9f9e4444becfc611dc317ded&edge_slice=true&user_session_id=dd35c684b20e1f9e804e810009ef5ddb&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1696685622-0-0-5ca40b939ac2c491c56fd7b89e539a2f",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1696685622-0-0-5ca40b939ac2c491c56fd7b89e539a2f",
 "trylink": ""
 }
 ]
