@@ -372,19 +372,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "hteam": "FC Köln",
-"time": " 8:00 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
 "ateam": "Bayer Leverkusen",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -413,21 +413,11 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "hteam": "Real Sociedad",
-"time": " 8:45 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "8:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Atletico Madrid",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?auth_key=1696773374-0-0-9b734f1b1a71c06b117646b379efdcd9&sub_m3u8=true&edge_slice=true&user_session_id=79dd82470cee3dc7bfecf8ba75660def",
