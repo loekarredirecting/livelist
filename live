@@ -122,6 +122,11 @@
 "ateam": "Arsenal",
 "link": [
 {
+"type": "Sky Sports HD",
+"livelink": "https://givemereddit.cloud/hls/skymain/chunks.m3u8",
+"trylink": "https://givemereddit.eu/"
+},
+{
 "type": "TNT Sports HD",
 "livelink": "https://sportsleading.online/live/stream_4.m3u8",
 "trylink": ""
@@ -132,14 +137,19 @@
 "trylink": "https://freehdgames.xyz/"
 },
 {
-"type": "English 3 HD",
+"type": "English 1 HD",
 "livelink": "http://cdn1.cyclingnews.live/hls/Z2.m3u8",
 "trylink": "http://bikesports.live/ada/lol/08-oggi-liv-cityy-z2/"
 },
 {
-"type": "English 4 HD",
+"type": "English 2 HD",
 "livelink": "https://storage.googleapis.com/czgieandqqyzjie/mux_video_ts/index-1.m3u8",
 "trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://xwssgs.1stream.one/scripts/MTQzNDg=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
