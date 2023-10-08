@@ -1,46 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"hteam": "FC Köln",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-"ateam": "Bayer Leverkusen",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@nenSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-681230_lhd.m3u8?user_session_id=31fdf2f19ff892a068eb6e022fdd6244&sub_m3u8=true&auth_key=1696773314-0-0-d59a2927526c3650efe3d6772494b633&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-681230_lsd.m3u8?user_session_id=31fdf2f19ff892a068eb6e022fdd6244&sub_m3u8=true&auth_key=1696773314-0-0-d59a2927526c3650efe3d6772494b633&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1696770882-0-0-303eb6ab3f3be5c6882a93e647f6f290",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1696770882-0-0-303eb6ab3f3be5c6882a93e647f6f290",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "hteam": "Real Sociedad",
@@ -258,19 +217,19 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
 "hteam": "Roma",
-"time": " 10:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "ateam": "Cagliari",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -285,12 +244,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=54d855c2e735a9d746cc7ea07bdb067c&txTime=65231fbe",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-462413_lsd.m3u8?txSecret=54d855c2e735a9d746cc7ea07bdb067c&txTime=65231fbe",
 "trylink": ""
 }
 ]
