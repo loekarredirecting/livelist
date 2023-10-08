@@ -1,56 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
-"hteam": "Roma",
-"time": " live ",
-"date": "10:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"ateam": "Cagliari",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_5.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://chinguyu.site/live/abr_ch1/live/ch1_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDM6MzU6NDAgUE0maGFzaF92YWx1ZT1pdGZyQ1lCQkJXNjlmcXRWdytnaXBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
-"trylink": "https://freehdgames.xyz/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?edge_slice=true&auth_key=1696766173-0-0-4f99d6a3ec13e7e776a9bbaa4ecfa5d1&sub_m3u8=true&user_session_id=ecb74f0eb4580d92d7c1a772f9930193",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?edge_slice=true&auth_key=1696766173-0-0-4f99d6a3ec13e7e776a9bbaa4ecfa5d1&sub_m3u8=true&user_session_id=ecb74f0eb4580d92d7c1a772f9930193",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=54d855c2e735a9d746cc7ea07bdb067c&txTime=65231fbe",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-462413_lsd.m3u8?txSecret=54d855c2e735a9d746cc7ea07bdb067c&txTime=65231fbe",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "hteam": "Getafe",
@@ -167,8 +116,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "hteam": "Fiorentina",
-"time": " 1:15 AM ",
-"date": "2023-10-09",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "ateam": "Napoli",
 "link": [
@@ -184,13 +133,13 @@
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
+"trylink": ""
 },
 {
 "type": "China HD",
@@ -218,8 +167,8 @@
 "league": " Ligue 1",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "PSG",
-"time": " 1:15 AM ",
-"date": "2023-10-09",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "ateam": "Rennes",
 "link": [
@@ -232,16 +181,6 @@
 "type": "English 2 HD",
 "livelink": "https://chukkircvh.site/live/abr_ch2/live/ch2_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6NTg6MzkgUE0maGFzaF92YWx1ZT1RSXF5bVFZSjJmVUhMMEFTSGdNdzZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
 "trylink": "https://freehdgames.xyz/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
@@ -269,8 +208,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
 "hteam": "Barcelona",
-"time": " 1:30 AM ",
-"date": "2023-10-09",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "ateam": "Granada",
 "link": [
@@ -283,16 +222,6 @@
 "type": "English 2 HD",
 "livelink": "https://chukkircvh.site/live/abr_ch4/live/ch4_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6NTk6NTAgUE0maGFzaF92YWx1ZT1Va2pKVjVLbGVIeHUxL3h3Tzh1SWNRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
 "trylink": "https://freehdgames.xyz/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
