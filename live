@@ -1,41 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
-"hteam": "Salernitana",
-"time": " live ",
-"date": "5:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-"ateam": "monza",
-"link": [
-{
-"type": "Eng HD",
-"livelink": "https://chop.fordems.live/hls/for-dems4.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&auth_key=1696762933-0-0-78f0d3ab1727566958f8d9f9cfca89ef&edge_slice=true&user_session_id=dd6a55812d33523f226fba15bf849182",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?sub_m3u8=true&auth_key=1696762933-0-0-78f0d3ab1727566958f8d9f9cfca89ef&edge_slice=true&user_session_id=dd6a55812d33523f226fba15bf849182",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1696763082-0-0-4e333ca175ae73ded2d10e7cc093e8bb",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1696763082-0-0-4e333ca175ae73ded2d10e7cc093e8bb",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "hteam": "Le Havre",
@@ -178,6 +142,26 @@
 "ateam": "West Ham",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch6/live/ch6_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDEyOjI5OjIzIFBNJmhhc2hfdmFsdWU9NHk0eGY0TndaWk40RFU2eXA3Q05Ydz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny4yMzQmc3RybV9sZW49NQ==",
+"trylink": "https://freehdgames.xyz/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://work.312work312.pro/live/n-2/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
@@ -218,6 +202,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "ateam": "Wolverhampton",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch7/live/ch7_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDEyOjMzOjE1IFBNJmhhc2hfdmFsdWU9dit2cUNxRDRNV0FqTy9uRGY0VEJTdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny4yMzQmc3RybV9sZW49NQ==",
+"trylink": "https://freehdgames.xyz/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
@@ -271,12 +265,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912027_lhd.m3u8?auth_key=1696772022-0-0-a720bbfd5d1f9200ddefc112cbfaa572",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912027_lsd.m3u8?auth_key=1696772022-0-0-a720bbfd5d1f9200ddefc112cbfaa572",
 "trylink": ""
 }
 ]
