@@ -122,9 +122,14 @@
 "ateam": "Arsenal",
 "link": [
 {
-"type": "Sky Sports HD",
+"type": "Sky Sports 1 HD",
 "livelink": "https://givemereddit.cloud/hls/skymain/chunks.m3u8",
 "trylink": "https://givemereddit.eu/"
+},
+{
+"type": "Sky Sports 2 HD",
+"livelink": "https://sports.sportsembed.xyz/live/streamfree1.m3u8",
+"trylink": ""
 },
 {
 "type": "TNT Sports HD",
@@ -150,6 +155,11 @@
 "type": "English 3 HD",
 "livelink": "https://xwssgs.1stream.one/scripts/MTQzNDg=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://wsakskpa.azureedge.net/live/sspl/chunks.m3u8",
+"trylink": "https://weakspell.org/"
 },
 {
 "type": "Vietnam HD",
