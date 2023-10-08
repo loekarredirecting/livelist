@@ -9,6 +9,16 @@
 "ateam": "monza",
 "link": [
 {
+"type": "Eng HD",
+"livelink": "https://kbsn5pzmufwz5fc9.cdnministry.net:8443/hls/tvmaro5ikuoqw1.m3u8?s=j_FG7pYVoo5DVXNeGmgPdg&e=1696784515",
+"trylink": ""
+},
+{
+"type": "Eng HD",
+"livelink": "https://nizarstream.com/embed/22908",
+"trylink": "embed"
+}
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&auth_key=1696762933-0-0-78f0d3ab1727566958f8d9f9cfca89ef&edge_slice=true&user_session_id=dd6a55812d33523f226fba15bf849182",
 "trylink": ""
