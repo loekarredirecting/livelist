@@ -111,19 +111,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "hteam": "Liverpool",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "ateam": "Brighton",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDExOjUwOjQ0IEFNJmhhc2hfdmFsdWU9ZjBQMnVvVW1meGVYQzFXNjdNMHlRZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny4yMzQmc3RybV9sZW49NQ==",
+"trylink": "https://freehdgames.xyz/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://chop.fordems.live/hls/for-dems1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://work.312work312.pro/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -152,19 +172,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "hteam": "Newcastle",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "ateam": "West Ham",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -193,19 +213,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "hteam": "Aston Villa",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "ateam": "Wolverhampton",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vietnam SD",
-"livelink": "0",
+"livelink": "https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -234,21 +254,11 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
 "hteam": "Hellas Verona",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "ateam": "frosinone",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?user_session_id=4bf0ee6c4a05847d2914feb0db61d167&sub_m3u8=true&edge_slice=true&auth_key=1696766113-0-0-4ae0200c36762b6742ff80991c59af5b",
@@ -275,21 +285,11 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "hteam": "Atalanta",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "ateam": "Lazio",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1696766173-0-0-4f99d6a3ec13e7e776a9bbaa4ecfa5d1&sub_m3u8=true&user_session_id=d71d151e6250281daa17291733d05537&edge_slice=true",
@@ -302,12 +302,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=9800e3365f4967098f167b17bc107b0d&txTime=6522edd2",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=9800e3365f4967098f167b17bc107b0d&txTime=6522edd2",
 "trylink": ""
 }
 ]
@@ -316,21 +316,11 @@
 "league": " Ligue 1",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
 "hteam": "Toulouse",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "ateam": "Brest",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-306929_lhd.m3u8?edge_slice=true&auth_key=1696765993-0-0-335253857588929937f68082e754b2b1&user_session_id=81db13e1c62e99720a768b8ac3487db4&sub_m3u8=true",
@@ -343,12 +333,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lhd.m3u8?auth_key=1696770282-0-0-8780b41b5d54a5d660c622ae81af86f1",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lsd.m3u8?auth_key=1696770282-0-0-8780b41b5d54a5d660c622ae81af86f1",
 "trylink": ""
 }
 ]
@@ -357,21 +347,11 @@
 "league": " Ligue 1",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
 "hteam": "Lorient",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "ateam": "Lyon",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "0",
@@ -384,12 +364,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-434154_lhd.m3u8?auth_key=1696770402-0-0-b0abdf3f9d36cd516b43dd3dfcbcfb3e",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-434154_lsd.m3u8?auth_key=1696770402-0-0-b0abdf3f9d36cd516b43dd3dfcbcfb3e",
 "trylink": ""
 }
 ]
@@ -398,21 +378,11 @@
 "league": " Ligue 1",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "hteam": "Clermont Foot",
-"time": " 7:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "ateam": "montpellier",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-784735_lhd.m3u8?sub_m3u8=true&auth_key=1696766053-0-0-7ae669b76f7c222e9686401de592bc17&user_session_id=703fab23d3bba0966b9e70f889dfec58&edge_slice=true",
@@ -425,12 +395,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1696770642-0-0-cbc302c95f5494cce9c64525675d1ee4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1696770642-0-0-cbc302c95f5494cce9c64525675d1ee4",
 "trylink": ""
 }
 ]
@@ -466,12 +436,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1696770882-0-0-303eb6ab3f3be5c6882a93e647f6f290",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1696770882-0-0-303eb6ab3f3be5c6882a93e647f6f290",
 "trylink": ""
 }
 ]
@@ -507,12 +477,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lhd.m3u8?auth_key=1696770942-0-0-1866c8e528fdf57891ae485996455b1a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lsd.m3u8?auth_key=1696770942-0-0-1866c8e528fdf57891ae485996455b1a",
 "trylink": ""
 }
 ]
