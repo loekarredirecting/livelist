@@ -27,6 +27,16 @@
 "type": "Soco SD",
 "livelink": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1696763082-0-0-4e333ca175ae73ded2d10e7cc093e8bb",
 "trylink": ""
+},
+{
+"type": "Eng HD",
+"livelink": "https://kbsn5pzmufwz5fc9.cdnministry.net:8443/hls/tvmaro5ikuoqw1.m3u8?s=j_FG7pYVoo5DVXNeGmgPdg&e=1696784515",
+"trylink": ""
+},
+{
+"type": "Eng HD",
+"livelink": "https://nizarstream.com/embed/22908",
+"trylink": "embed"
 }
 ]
 },
