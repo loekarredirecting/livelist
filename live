@@ -137,7 +137,12 @@
 "trylink": ""
 },
 {
-"type": "Super Sports HD",
+"type": "Super Sports 1 HD",
+"livelink": "https://cdn3.reels2watch.com/hls/s2.m3u8",
+"trylink": "https://techclips.net/clip/s2.html"
+},
+{
+"type": "Super Sports 2 HD",
 "livelink": "https://chukkircvh.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDI6NDc6NDAgUE0maGFzaF92YWx1ZT1saHo1RUFtbHg3WjdFbEJGWU9Zeml3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
 "trylink": "https://freehdgames.xyz/"
 },
@@ -148,16 +153,11 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "https://storage.googleapis.com/czgieandqqyzjie/mux_video_ts/index-1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 3 HD",
 "livelink": "https://xwssgs.1stream.one/scripts/MTQzNDg=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
-"type": "English 4 HD",
+"type": "English 3 HD",
 "livelink": "https://wsakskpa.azureedge.net/live/sspl/chunks.m3u8",
 "trylink": "https://weakspell.org/"
 },
