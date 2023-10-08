@@ -350,21 +350,11 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "hteam": "FC Heidenheim",
-"time": " 12:00 AM ",
-"date": "2023-10-09",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
 "ateam": "Eintracht Frankfurt",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1696766713-0-0-848f5fb51b6200f14d490b04a5f6d45f&user_session_id=d199ac5f423011a3185d81165fefed10",
@@ -396,6 +386,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "ateam": "Napoli",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chinguyu.site/live/abr_ch1/live/ch1_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6NTc6NTIgUE0maGFzaF92YWx1ZT1LcUZ0bUVEOTE1bVBQSGFHUEJhTlBRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "0",
@@ -438,6 +438,16 @@
 "ateam": "Rennes",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch2/live/ch2_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6NTg6MzkgUE0maGFzaF92YWx1ZT1RSXF5bVFZSjJmVUhMMEFTSGdNdzZ3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "0",
 "trylink": ""
@@ -478,6 +488,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "ateam": "Granada",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chukkircvh.site/live/abr_ch4/live/ch4_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDIzIDQ6NTk6NTAgUE0maGFzaF92YWx1ZT1Va2pKVjVLbGVIeHUxL3h3Tzh1SWNRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg3LjIzNCZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "0",
