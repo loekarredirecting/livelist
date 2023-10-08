@@ -34,29 +34,19 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "hteam": "Le Havre",
-"time": " 5:30 PM ",
-"date": "2023-10-08",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "ateam": "Marseille",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?user_session_id=6fea882f2c901b7750e25ce5db84897e&sub_m3u8=true&edge_slice=true&auth_key=1696764913-0-0-b87607717042ee02345cbdf045bd4dba",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?user_session_id=6fea882f2c901b7750e25ce5db84897e&sub_m3u8=true&edge_slice=true&auth_key=1696764913-0-0-b87607717042ee02345cbdf045bd4dba",
 "trylink": ""
 },
 {
