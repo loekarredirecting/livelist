@@ -60,14 +60,14 @@
 "ateam": "Spain",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://freehdgames.lol/live/abr_ch11/live/ch11_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMyA0OjMwOjA1IFBNJmhhc2hfdmFsdWU9YnhRdlptUW9Mb1RyL2NvMXl4ZjVkUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4yNyZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
 "type": "China HD",
@@ -81,12 +81,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=e83b1c6275e0e55bc7bb7c78419b3363&txTime=65287086",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=e83b1c6275e0e55bc7bb7c78419b3363&txTime=65287086",
 "trylink": ""
 }
 ]
@@ -101,33 +101,23 @@
 "ateam": "Faroe Island",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_5.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
+"type": "English 2 HD",
+"livelink": "https://chinguyu.site/live/ch14/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMyA0OjMyOjExIFBNJmhhc2hfdmFsdWU9WVBWRFBCNi9RVTB6bCtMQkcyZEVhQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4yNyZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1697131182-0-0-aa5a9b268fc96d1ac2d0b969b27f5457",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1697131182-0-0-aa5a9b268fc96d1ac2d0b969b27f5457",
 "trylink": ""
 }
 ]
@@ -142,14 +132,14 @@
 "ateam": "Cyprus Island",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_2.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://chinguyu.site/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMyA0OjM0OjAwIFBNJmhhc2hfdmFsdWU9YThnWis4ZlNKbmpDTnpVUWMyN3BpZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4yNyZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
 "type": "China HD",
@@ -163,12 +153,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=8b203afab78bb23a6671a0d9f21151a3&txTime=65287176",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-427856_lsd.m3u8?txSecret=8b203afab78bb23a6671a0d9f21151a3&txTime=65287176",
 "trylink": ""
 }
 ]
@@ -183,14 +173,14 @@
 "ateam": "Croatia",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_3.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://chinguyu.site/live/abr_ch10/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyMyA0OjM1OjI4IFBNJmhhc2hfdmFsdWU9V21zMHQ0ODdCMTd6NXFrSXdXUWdzQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44MS4yNyZzdHJtX2xlbj01",
+"trylink": "https://freehdgames.xyz/"
 },
 {
 "type": "China HD",
@@ -204,12 +194,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=cc6b1ded55d57ce69636327574739587&txTime=652871ee",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lsd.m3u8?txSecret=cc6b1ded55d57ce69636327574739587&txTime=652871ee",
 "trylink": ""
 }
 ]
@@ -224,14 +214,14 @@
 "ateam": "Colombia",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_8.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTQ0NTY=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
@@ -241,16 +231,6 @@
 {
 "type": "China SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1697128814-0-0-64996f2f54491fa8a178767477d31101&edge_slice=true&sub_m3u8=true&user_session_id=b3e2c407ac60c2dd0dc8dbc26dd0549e",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
 "trylink": ""
 }
 ]
@@ -265,14 +245,14 @@
 "ateam": "Argentina",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
+"type": "English 1 HD",
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQ0NTc=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
@@ -286,12 +266,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1697131542-0-0-f2df7b00bc2e385c928ce2fafa263141",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1697131542-0-0-f2df7b00bc2e385c928ce2fafa263141",
 "trylink": ""
 }
 ]
@@ -306,14 +286,14 @@
 "ateam": "Brazil",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "English 2 HD",
+"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTQ0NTg=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
@@ -327,12 +307,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=5d54988aaa9ba75e68f4e61b54f94138&txTime=652872de",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=5d54988aaa9ba75e68f4e61b54f94138&txTime=652872de",
 "trylink": ""
 }
 ]
