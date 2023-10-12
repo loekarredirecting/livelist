@@ -1,41 +1,5 @@
 [
 {
-"league": " World Cup Qualification AFC ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-"hteam": "Macao",
-"time": " live ",
-"date": "4:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/4175_small.png",
-"ateam": "Myanmar",
-"link": [
-{
-"type": "MRTV HD",
-"livelink": "https://video-weaver.sin01.hls.ttvnw.net/v1/playlist/CrwFFpIWfe6VOtHCPNzJ-qWsYDJS9vmFvEC-OM40f8sNBYf45VE5WbiPcKJYwhrECDCuoC1PrmhOiCbPKsCvhqWql3MNN3wBte4HbJSwiFvxUVlcw4hnq6Jm59_hwkWCoIpo1Vk1gqsFdVbyNwPgktGTkIyx5wP4oCgtG2lrW4GZAG6_6anwpZv46tedq00pCu2xnSnmt8QZ1xvYpD-XGKea8LKCkqRvxc0f7CZRP7-Mk769u_fG9pTsvzf5fA7naqMixn1Gm9y37BT0erx_aPsDhxQY9nsbHoP_U_ryfq-Rn9ZFGmlW-_GfDnE1dhQXB_4_iE1QLD0HK5BVrsJLd73ZY0Y2a1AvmoWlp5-2brqtB8pXf3C3XZ9RxiHStrLcnBIeZUz6FF9rANF5Fh79KJTByk-WxS6V9WpHVI-i6N5wWN2cG-RzX8r0-VVD0mN-7ULQYWNkt93r548oqb7DXudqB9EJyrHTZf3uycpbCZx-B_nkxbVfFiF4gu4W_fuW9DwIAS7I2sQNCHgzK9Kp-NVuLYVwIRUo0tc0DY5714jEZHAdp4hfV8rNbOY9iA5_DBbufJQLzeIjRHuTBzEkbtCaA3YQ18RkQ_-3XlT4Cuc30jT9y2zTSzKlk4CCjIa7ajDBV1yuTUqel6fCdCT_hXaPtIX40sLl8ajzX1MPDmMKIj7vW_9xd1HHyfLW2HwSwiwiIzPNYC5Up3hczEgIlLhHk94UA0G6wQ2x89e0P3l_ASmOTolhrSX1nCNILJH6EAfwau6TjYI6AsCarNKWRHAqRn1dpeJHIB7tAw5NOwQLM5kzLGEkoCb1JzEojglcZcxDD1l-uj0lKAhwmKP1TDrMbshwQnRG5nXEm84-i2HvKlxAWOdp7fYQ5ZWhpma-oLGkYD9D1cEfbfwszbc41QvEJ7RatBUO_imedynhvxoMUJV3_9--y9ap0ZWLIAEqCXVzLXdlc3QtMjDeBw.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-239803_lhd.m3u8?sub_m3u8=true&auth_key=1697105473-0-0-3734f9611d0175fa84ddf481dc606790&user_session_id=f7bc8129c856c7129d91eb95b830768b&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-239803_lsd.m3u8?sub_m3u8=true&auth_key=1697105473-0-0-3734f9611d0175fa84ddf481dc606790&user_session_id=f7bc8129c856c7129d91eb95b830768b&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=068ced50ce6fd1b3a4d875effb5d9cce&txTime=65280d62",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=068ced50ce6fd1b3a4d875effb5d9cce&txTime=65280d62",
-"trylink": ""
-}
-]
-},
-{
 "league": "EURO Qualification",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
 "hteam": "Armenia",
