@@ -1,61 +1,10 @@
 [
 {
-"league": "EURO Qualification",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5795_small.png",
-"hteam": "Armenia",
-"time": " live ",
-"date": "10:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
-"ateam": "Latvia",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sports.freesportstime.com/live/streamfree1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://chop.fordems.live/hls/for-1.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001697126785-0-0-48088ac66e5e87e5d599b980053d7682",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "https://live.vbfast.xyz/171c0cbdd1eabc33f1dd12016d1c0acd/1697169569392/rchtwtx/rchtwtx@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lhd.m3u8?auth_key=1697128274-0-0-ea138bcedf7af899e8f3f30014e9b51c&sub_m3u8=true&edge_slice=true&user_session_id=519629531d31c4f7f26de98a895ac759",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lsd.m3u8?auth_key=1697128274-0-0-ea138bcedf7af899e8f3f30014e9b51c&sub_m3u8=true&edge_slice=true&user_session_id=519629531d31c4f7f26de98a895ac759",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=8a529b10dee0c25c66e813d29d5e92a5&txTime=65286aaa",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1697129682-0-0-cfafacc562d8951a17627bc3d008e252",
-"trylink": ""
-}
-]
-},
-{
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Taybannha.png",
 "hteam": "Scotland",
-"time": " 1:15 AM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Scotland.png",
 "ateam": "Spain",
 "link": [
@@ -95,8 +44,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Faroe_Islands.png",
 "hteam": "Poland",
-"time": " 1:15 AM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/balan.png",
 "ateam": "Faroe Island",
 "link": [
@@ -126,8 +75,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/sip.png",
 "hteam": "Noway",
-"time": " 1:15 AM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Norway.png",
 "ateam": "Cyprus Island",
 "link": [
@@ -167,8 +116,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Croatia.png",
 "hteam": "Turkey",
-"time": " 1:15 AM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Turkey.png",
 "ateam": "Croatia",
 "link": [
@@ -208,8 +157,8 @@
 "league": " FIFA World Cup ",
 "himg": "https://mygoaltv.xyz//team/Colombia.png",
 "hteam": "Uruguay",
-"time": " 3:00 AM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "3:00 AM",
 "aimg": "https://mygoaltv.xyz//team/Uruguay.png",
 "ateam": "Colombia",
 "link": [
@@ -239,8 +188,8 @@
 "league": " FIFA World Cup ",
 "himg": "https://mygoaltv.xyz//team/Argentina.png",
 "hteam": "Paraguay",
-"time": " 5:30 AM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "5:30 AM",
 "aimg": "https://mygoaltv.xyz//team/Paraguay.png",
 "ateam": "Argentina",
 "link": [
@@ -280,8 +229,8 @@
 "league": " World Cup Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
 "hteam": "Venezuela",
-"time": " 7:00 AM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "7:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5800_small.png",
 "ateam": "Brazil",
 "link": [
