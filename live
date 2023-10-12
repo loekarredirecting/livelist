@@ -9,6 +9,11 @@
 "ateam": "Myanmar",
 "link": [
 {
+"type": "MRTV HD",
+"livelink": "https://179720687.global.cdnfastest.com/live/sd-4jwq2ghekx7nm0v/chunklist_w1446469629.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-239803_lhd.m3u8?sub_m3u8=true&auth_key=1697105473-0-0-3734f9611d0175fa84ddf481dc606790&user_session_id=f7bc8129c856c7129d91eb95b830768b&edge_slice=true",
 "trylink": ""
@@ -25,7 +30,7 @@
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=068ced50ce6fd1b3a4d875effb5d9cce&txTime=65280d62",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=068ced50ce6fd1b3a4d875effb5d9cce&txTime=65280d62",
 "trylink": ""
 }
 ]
