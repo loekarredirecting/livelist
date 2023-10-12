@@ -3,21 +3,11 @@
 "league": " World Cup Qualification AFC ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
 "hteam": "Macao",
-"time": " 4:00 PM ",
-"date": "2023-10-12",
+"time": " live ",
+"date": "4:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/4175_small.png",
 "ateam": "Myanmar",
 "link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-239803_lhd.m3u8?sub_m3u8=true&auth_key=1697105473-0-0-3734f9611d0175fa84ddf481dc606790&user_session_id=f7bc8129c856c7129d91eb95b830768b&edge_slice=true",
@@ -30,12 +20,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=068ced50ce6fd1b3a4d875effb5d9cce&txTime=65280d62",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=068ced50ce6fd1b3a4d875effb5d9cce&txTime=65280d62",
 "trylink": ""
 }
 ]
