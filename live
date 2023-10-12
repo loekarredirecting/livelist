@@ -9,8 +9,18 @@
 "ateam": "Latvia",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://sports.freesportstime.com/live/streamfree1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chop.fordems.live/hls/for-1.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/playlist.m3u8",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001697126785-0-0-48088ac66e5e87e5d599b980053d7682",
 "trylink": ""
 },
 {
