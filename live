@@ -54,20 +54,20 @@
 "league": " Friendly ",
 "himg": "https://mygoaltv.xyz//team/Hanquoc.png",
 "hteam": "Tunisia",
-"time": " 5:30 PM ",
-"date": "2023-10-13",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Tunisia.png",
 "ateam": "South Korea",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": ""
+"type": "Vietnam 1 HD",
+"livelink": "https://live.vbfast.xyz/2d5de4dd2e4b3126ec3b4f2f0bec1fbb/1697236618997/en7hf6r/en7hf6r@720p.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
 },
 {
-"type": "Vietnam SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
+"type": "Vietnam 2 HD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001697193474-0-0-e538159f5cca75bccb0f73b655d20580",
+"trylink": ""
 },
 {
 "type": "China HD",
