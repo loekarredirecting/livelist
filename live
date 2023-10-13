@@ -60,6 +60,16 @@
 "trylink": "https://1stream.soccer/"
 },
 {
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/7346824a4ef7aae9f79f43ab9a310bee/1697200009492/z9nbpht/z9nbpht@720p.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001697156948-0-0-6b861f12a7083e77deef167d43266ae1",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&user_session_id=e09d00fdbd63608af557e852e2cb4548&auth_key=1697129174-0-0-bcfb03f269765fa7886c4815fa0b7eae&edge_slice=true",
 "trylink": ""
