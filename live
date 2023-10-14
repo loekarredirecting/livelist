@@ -1,104 +1,22 @@
 [
 {
 "league": " UEFA EURO ",
-"himg": "https://mygoaltv.xyz//team/northern_ireland.png",
-"hteam": "San Marino",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://mygoaltv.xyz//team/San-Marino.png",
-"ateam": "Northern Ireland",
-"link": [
-{
-"type": "Vietnam 1 HD",
-"livelink": "https://live.vbfast.xyz/eeff90d5459ce81e69517c791439681e/1697330583332/lhsazur/lhsazur@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam 2 HD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel9.m3u8?auth_key=3000001697287401-0-0-2a180092f8f4e2b7b93cb49a064338af",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1697291294-0-0-1346a176bec0fc32a0648ad20a914d96&user_session_id=76de4e8779fef08ca424e7ccaf04b6e5",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1697291294-0-0-1346a176bec0fc32a0648ad20a914d96&user_session_id=76de4e8779fef08ca424e7ccaf04b6e5",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1697291323-0-0-64e22b55b45e89552df8a2e22cd8c47c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1697291323-0-0-64e22b55b45e89552df8a2e22cd8c47c",
-"trylink": ""
-}
-]
-},
-{
-"league": " UEFA EURO ",
-"himg": "https://mygoaltv.xyz//team/Ukraine.png",
-"hteam": "North Macedonia",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://mygoaltv.xyz//team/Macedonia.png",
-"ateam": "Ukraine",
-"link": [
-{
-"type": "Vietnam 1 HD",
-"livelink": "https://live.vbfast.xyz/6f75c40b3ef5f629f30c8f53e31108c9/1697330675389/rchtwtx/rchtwtx@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam 2 HD",
-"livelink": "https://live.vbfast.xyz/34f39e99c07bf466b1b4a293be12efc4/1697330716642/trd02w8/trd02w8@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lhd.m3u8?user_session_id=486b61efad1ebac8ca2e02270f0344a6&sub_m3u8=true&auth_key=1697291174-0-0-6306c14f7a279d01ed2c6d9563b88682&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lsd.m3u8?user_session_id=486b61efad1ebac8ca2e02270f0344a6&sub_m3u8=true&auth_key=1697291174-0-0-6306c14f7a279d01ed2c6d9563b88682&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=939c4a4fdaab452ab6d3e3eefdebdb9a&txTime=652ae28b",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1697291443-0-0-c943a05d4281643d6e385487b011c073",
-"trylink": ""
-}
-]
-},
-{
-"league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Slovenia.png",
 "hteam": "Finland",
-"time": " 10:30 PM ",
-"date": "2023-10-14",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Finland.png",
 "ateam": "Slovenia",
 "link": [
 {
 "type": "Vietnam 1 HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/c9841b920f5e36fd557d8910743499ca/1697342127688/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://live.vbfast.xyz/d5eb3fceead500a71205a3cb6a465ca1/1697342149554/xqispup/xqispup@720p.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "China HD",
@@ -126,20 +44,20 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Bulgaria.png",
 "hteam": "Lithuania",
-"time": " 10:30 PM ",
-"date": "2023-10-14",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Lithuania.png",
 "ateam": "Bulgaria",
 "link": [
 {
 "type": "Vietnam 1 HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/7fc3392850129d7ef03662fc1974280b/1697342200495/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://live.vbfast.xyz/ebb56f245612869cf0d3384f51432ecc/1697342217456/r8ztat6/r8ztat6@720p.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "China HD",
