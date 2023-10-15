@@ -1,50 +1,9 @@
 [
 {
 "league": " UEFA EURO ",
-"himg": "https://mygoaltv.xyz//team/Georgia.png",
-"hteam": "Cyprus Island",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://mygoaltv.xyz//team/sip.png",
-"ateam": "Georgia",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/b8f62039832f940b559e722882bb40a6/1697416636578/rchtwtx/rchtwtx@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001697373462-0-0-729f5025f0373e17c75f0c9e4d57d18d",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1697376794-0-0-3ade42dc59fba215908ed41b7eae1d65&sub_m3u8=true&edge_slice=true&user_session_id=8d5897cf423f9fe7cf7f035a89ce17e5",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1697376794-0-0-3ade42dc59fba215908ed41b7eae1d65&sub_m3u8=true&edge_slice=true&user_session_id=8d5897cf423f9fe7cf7f035a89ce17e5",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1697376943-0-0-1efe8f5b887c79c2d333fc454116e545",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1697376943-0-0-1efe8f5b887c79c2d333fc454116e545",
-"trylink": ""
-}
-]
-},
-{
-"league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Thuysy.png",
 "hteam": "Belarus",
-"time": " 10:30 PM ",
+"time": " live ",
 "date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Belarus.png",
 "ateam": "Switzerland",
@@ -56,7 +15,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://chop.fordems.live/hls/for-1.m3u8",
 "trylink": ""
 },
 {
@@ -95,8 +54,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Czech.png",
 "hteam": "Faroe Island",
-"time": " 10:30 PM ",
-"date": "2023-10-15",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Faroe_Islands.png",
 "ateam": "Czech",
 "link": [
