@@ -54,8 +54,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Bosnia.png",
 "hteam": "Portugal",
-"time": " 1:15 AM ",
-"date": "2023-10-17",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Bodaonha.png",
 "ateam": "Bosnia and Herzegovina",
 "link": [
@@ -91,12 +91,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1697475043-0-0-6baa92df4ffca8b0532c00479f519eb4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1697475043-0-0-6baa92df4ffca8b0532c00479f519eb4",
 "trylink": ""
 }
 ]
@@ -105,8 +105,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Bi.png",
 "hteam": "Sweden",
-"time": " 1:15 AM ",
-"date": "2023-10-17",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Sweden.png",
 "ateam": "Belgium",
 "link": [
@@ -142,12 +142,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1697475103-0-0-8d2076e4612fd635a9c4903831b4eeac",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1697475103-0-0-8d2076e4612fd635a9c4903831b4eeac",
 "trylink": ""
 }
 ]
@@ -156,8 +156,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Hylap.png",
 "hteam": "Netherlands",
-"time": " 1:15 AM ",
-"date": "2023-10-17",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Halan.png",
 "ateam": "Greece",
 "link": [
@@ -193,12 +193,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912075_lhd.m3u8?auth_key=1697475163-0-0-bb6c923b589fbc91265a527f7caa5398",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912075_lsd.m3u8?auth_key=1697475163-0-0-bb6c923b589fbc91265a527f7caa5398",
 "trylink": ""
 }
 ]
@@ -207,8 +207,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Luxembourg.png",
 "hteam": "Slovakia",
-"time": " 1:15 AM ",
-"date": "2023-10-17",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Slovakia.png",
 "ateam": "Luxembourg",
 "link": [
@@ -234,22 +234,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?edge_slice=true&auth_key=1697475434-0-0-7f5d2fc58785ab053f93007dcac20391&user_session_id=0ea9ea8c0782ed31894b4d2045af71f7&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?edge_slice=true&auth_key=1697475434-0-0-7f5d2fc58785ab053f93007dcac20391&user_session_id=0ea9ea8c0782ed31894b4d2045af71f7&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1697475283-0-0-95deac66b0e657a01fbb36a88b22df0b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1697475283-0-0-95deac66b0e657a01fbb36a88b22df0b",
 "trylink": ""
 }
 ]
@@ -258,8 +258,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Iceland.png",
 "hteam": "Liechtenstein",
-"time": " 1:15 AM ",
-"date": "2023-10-17",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/liechtenstein.png",
 "ateam": "Iceland",
 "link": [
@@ -284,16 +284,6 @@
 "trylink": ""
 },
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
 "livelink": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1697469583-0-0-b52719a7356ce31a763d9567d3a8b70c",
 "trylink": ""
@@ -309,8 +299,8 @@
 "league": " UEFA EURO ",
 "himg": "https://mygoaltv.xyz//team/Gibraltar_FC.png",
 "hteam": "Ireland",
-"time": " 1:15 AM ",
-"date": "2023-10-17",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://mygoaltv.xyz//team/Ireland.png",
 "ateam": "Gibraltar",
 "link": [
@@ -332,16 +322,6 @@
 {
 "type": "Vietnam FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001697466653-0-0-c1074e5aee31dd4a33d2cb633c702b50",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
 "trylink": ""
 },
 {
