@@ -3,8 +3,8 @@
 "league": " MLS League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "hteam": "Charlotte CF",
-"time": " 6:30 AM ",
-"date": "2023-10-19",
+"time": " live ",
+"date": "6:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1323940_small.png",
 "ateam": "Inter Miami CF",
 "link": [
@@ -40,12 +40,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1697651983-0-0-c59a5b6129275dfab778737290b53508",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1697651983-0-0-c59a5b6129275dfab778737290b53508",
 "trylink": ""
 }
 ]
