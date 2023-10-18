@@ -105,8 +105,8 @@
 "league": " World Cup Qualification CONMEBOL ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5798_small.png",
 "hteam": "Argentina",
-"time": " 8:30 AM ",
-"date": "2023-10-18",
+"time": " live ",
+"date": "8:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
 "ateam": "Peru",
 "link": [
@@ -117,7 +117,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://bscfsdf.azzureedge.xyz/scripts/MTQ2NjY=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -148,6 +148,57 @@
 {
 "type": "Soco SD",
 "livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1697561743-0-0-06294534d336eff8cff05deab0f3ca9a",
+"trylink": ""
+}
+]
+},
+{
+"league": " MLS League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
+"hteam": "Charlotte CF",
+"time": " 6:30 AM ",
+"date": "2023-10-19",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/1323940_small.png",
+"ateam": "Inter Miami CF",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
 "trylink": ""
 }
 ]
