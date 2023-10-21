@@ -526,29 +526,19 @@
 "league": " Saudi Pro League ",
 "himg": "https://mygoaltv.xyz//team/al-nassr.png",
 "hteam": "Damac",
-"time": " 9:30 PM ",
-"date": "2023-10-21",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/no-logo.png",
 "ateam": "Al-Nassr",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/b0dc473761a32ad7ae33a1b7650c3133/1697943061748/wkatjcf/wkatjcf@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel18.m3u8?auth_key=3000001697899878-0-0-02b0e26387bab0b0f8985d5edc840606",
 "trylink": ""
 },
 {
@@ -577,29 +567,29 @@
 "league": " Ligue 1 ",
 "himg": "https://mygoaltv.xyz//team/psg.png",
 "hteam": "Strasbourg",
-"time": " 9:30 PM ",
-"date": "2023-10-21",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://mygoaltv.xyz//team/strasbourg.png",
 "ateam": "Paris Saint-Germain",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://livenflstream.xyz/playlist/stream_10.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://ss1.101streams.net/scripts/MTQ3NTE=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/2402036a647ed083667a998881166820/1697943010874/gmpmb95/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001697899831-0-0-5d728e4295521eaa3b2af93658931e91",
 "trylink": ""
 },
 {
