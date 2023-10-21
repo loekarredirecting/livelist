@@ -76,8 +76,8 @@
 },
 {
 "type": "English 4 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://tvavllso.azureedge.net/live/SkySportsPremier/chunks.m3u8",
+"trylink": "https://bestsolaris.com/"
 },
 {
 "type": "Vietnam 1 HD",
@@ -165,8 +165,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "hteam": "Atlético Madrid",
-"time": " 1:30 AM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "ateam": "Celta Vigo",
 "link": [
@@ -216,8 +216,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
 "hteam": "Marseille",
-"time": " 1:30 AM ",
-"date": "2023-10-18",
+"time": " live ",
+"date": "1:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "ateam": "Nice",
 "link": [
@@ -267,8 +267,8 @@
 "league": " MLS League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1323940_small.png",
 "hteam": "Inter Miami",
-"time": " 4:30 AM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "4:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
 "ateam": "Charlotte",
 "link": [
