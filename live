@@ -9,6 +9,16 @@
 "ateam": "Liverpool",
 "link": [
 {
+"type": "K+ Sports HD",
+"livelink": "https://livecdn.rumsport.com/stream/8/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "https://livecdn-iptv001.rumsport.com/stream/3390/index.m3u8",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "English 1 HD",
 "livelink": "https://sports.freesportstime.com/live/streamfree1.m3u8",
 "trylink": ""
