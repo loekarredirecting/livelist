@@ -334,14 +334,54 @@
 "trylink": "https://1stream.soccer/"
 },
 {
-"type": "Vietnam HD",
+"type": "English 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam 1 HD",
 "livelink": "https://live.vbfast.xyz/6cf91795c908b1bafe29f010c13bd26a/1697951511968/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
-"type": "Vietnam FHD",
+"type": "Vietnam 1 FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001697908328-0-0-19db751a1e419706ab1f9f757f07e431",
 "trylink": ""
+},
+{
+"type": "Vietnam 2 HD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China 1 HD",
+"livelink": "0",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 2 HD",
+"livelink": "0",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 3 HD",
+"livelink": "0",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 4 HD",
+"livelink": "0",
+"trylink": "https://m.360ba.co/"
 },
 {
 "type": "China HD",
