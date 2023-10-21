@@ -3,49 +3,59 @@
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/liverpool.png",
 "hteam": "Everton",
-"time": " 6:00 PM ",
-"date": "2023-10-21",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://mygoaltv.xyz//team/everton.png",
 "ateam": "Liverpool",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sports.freesportstime.com/live/streamfree1.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/33ce287c7b7f0df7cb907c88196b8068/1697929038871/r8ztat6/r8ztat6@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/7b7aeb0b6c9480703f93ce833b592734/1697929059641/majhccy/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Soco 1 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=a4ef54b8dc47b14b5fc2d095a3a3bb07&txTime=6534037f",
+"trylink": ""
+},
+{
+"type": "Soco 1 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=a4ef54b8dc47b14b5fc2d095a3a3bb07&txTime=6534037f",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912033_lhd.m3u8?txSecret=810d24a3ce67faf330e3936d8db85d91&txTime=653403f7",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912033_lsd.m3u8?txSecret=810d24a3ce67faf330e3936d8db85d91&txTime=653403f7",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=a5256987344142e61999a33dfdb475aa&auth_key=1697889194-0-0-567be564ca0187a862a4cb2eee88ac45&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=a5256987344142e61999a33dfdb475aa&auth_key=1697889194-0-0-567be564ca0187a862a4cb2eee88ac45&edge_slice=true",
 "trylink": ""
 }
 ]
