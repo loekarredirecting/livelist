@@ -84,39 +84,39 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "hteam": "Mallorca",
-"time": " 6:30 PM ",
-"date": "2023-10-21",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://mygoaltv.xyz//team/Mallorca.gif",
 "ateam": "Real Sociedad",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_7.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/db8f06efb37b2ae13d9bf758bb6f69bd/1697931847970/armrqlx/armrqlx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel9.m3u8?auth_key=3000001697888697-0-0-263a1dfdaa5d8b06bedf823cb78820d7",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1697892375-0-0-cded58f80022caca77e5617cf1631e7f&sub_m3u8=true&edge_slice=true&user_session_id=3e8f5e4024c8b3e99410a255e0803a89",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1697892375-0-0-cded58f80022caca77e5617cf1631e7f&sub_m3u8=true&edge_slice=true&user_session_id=3e8f5e4024c8b3e99410a255e0803a89",
 "trylink": ""
 },
 {
