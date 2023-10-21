@@ -1,46 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://mygoaltv.xyz//team/Torino.png",
-"hteam": "Inter Milan",
-"time": " live ",
-"date": "10:30 PM",
-"aimg": "https://mygoaltv.xyz//team/inter_milan.png",
-"ateam": "Torino",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/bba8d28981bd5899a1383a3e935adc43/1697947038410/xqispup/xqispup@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001697903863-0-0-8a68d075272b3606fcfd84144583888d",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lhd.m3u8?sub_m3u8=true&auth_key=1697905575-0-0-93ba5b13dc7b7758396705466f48216a&edge_slice=true&user_session_id=cefc17f48621a150c8a5f62df9ae3dcf",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lsd.m3u8?sub_m3u8=true&auth_key=1697905575-0-0-93ba5b13dc7b7758396705466f48216a&edge_slice=true&user_session_id=cefc17f48621a150c8a5f62df9ae3dcf",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-372746_lhd.m3u8?txSecret=453de8899bbb251660301755cb3af1cb&txTime=653447ef",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-372746_lsd.m3u8?txSecret=453de8899bbb251660301755cb3af1cb&txTime=653447ef",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://mygoaltv.xyz//team/chelsea.png",
 "hteam": "Arsenal",
@@ -267,8 +226,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
 "hteam": "Lazio",
-"time": " 1:15 AM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "1:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "ateam": "Sassuolo",
 "link": [
