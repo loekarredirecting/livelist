@@ -1,86 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://mygoaltv.xyz//team/liverpool.png",
-"hteam": "Everton",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://mygoaltv.xyz//team/everton.png",
-"ateam": "Liverpool",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sports.freesportstime.com/live/streamfree1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://sportsleading.online/live/stream_1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 3 HD",
-"livelink": "https://chop.fordems.live/hls/for-1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 4 HD",
-"livelink": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/33ce287c7b7f0df7cb907c88196b8068/1697929038871/r8ztat6/r8ztat6@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://live.vbfast.xyz/7b7aeb0b6c9480703f93ce833b592734/1697929059641/majhccy/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=a4ef54b8dc47b14b5fc2d095a3a3bb07&txTime=6534037f",
-"trylink": ""
-},
-{
-"type": "Soco 1 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=a4ef54b8dc47b14b5fc2d095a3a3bb07&txTime=6534037f",
-"trylink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912033_lhd.m3u8?txSecret=810d24a3ce67faf330e3936d8db85d91&txTime=653403f7",
-"trylink": ""
-},
-{
-"type": "Soco 2 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912033_lsd.m3u8?txSecret=810d24a3ce67faf330e3936d8db85d91&txTime=653403f7",
-"trylink": ""
-},
-{
-"type": "China 1 HD",
-"livelink": "https://tpull-360ba.skxlz.com/live/360ba_stream_813794_53.m3u8?txSecret=5825ae8e877a5af9693a3140d7e44b17&txTime=65350630",
-"trylink": "https://m.360ba.co/"
-},
-{
-"type": "China 2 HD",
-"livelink": "https://tpull-360ba.skxlz.com/live/360ba_stream_777344_1.m3u8?txSecret=b54524e7b97a2aa06376bf1aa4c208b5&txTime=653506B9",
-"trylink": "https://m.360ba.co/"
-},
-{
-"type": "China 3 HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?sub_m3u8=true&user_session_id=a5256987344142e61999a33dfdb475aa&auth_key=1697889194-0-0-567be564ca0187a862a4cb2eee88ac45&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China 3 SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?sub_m3u8=true&user_session_id=a5256987344142e61999a33dfdb475aa&auth_key=1697889194-0-0-567be564ca0187a862a4cb2eee88ac45&edge_slice=true",
-"trylink": ""
-}
-]
-},
-{
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Real-Sociedad.png",
 "hteam": "Mallorca",
@@ -192,23 +111,13 @@
 "ateam": "Wolfsburg",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/4d441b5d75ca03196686591271fa2b6c/1697938525490/9l7x9pa/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel20.m3u8?auth_key=3000001697895350-0-0-fe82e2718c27c85a21358e5a5c109602",
 "trylink": ""
 },
 {
@@ -243,6 +152,16 @@
 "ateam": "Darmstadt 98",
 "link": [
 {
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/06679152ab9bed743a727471a4f0886d/1697938658320/twtxkja/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel12.m3u8?auth_key=3000001697895472-0-0-0548f2c0df904bd3638868e246fd1e8b",
+"trylink": ""
+},
+{
 "type": "Soco HD",
 "livelink": "https://pull.niues.live/live/stream-104707_lhd.m3u8?auth_key=1697894803-0-0-bc74ab059ae9ab6aa11ae6b799178f45",
 "trylink": ""
@@ -263,6 +182,16 @@
 "aimg": "https://mygoaltv.xyz//team/stuttgart.png",
 "ateam": "Union Berlin",
 "link": [
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/862952ef936913ecf221777e746d32fd/1697938745281/y2f69yo/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel13.m3u8?auth_key=3000001697895559-0-0-11fd8d22d5779bfb2eef7c952aa0c0f8",
+"trylink": ""
+},
 {
 "type": "Soco HD",
 "livelink": "https://pull01.rrwes.live/live/stream-9912049_lhd.m3u8?txSecret=fbe9dfbbf70c3a348a0384d7901f71ab&txTime=6534185b",
@@ -285,23 +214,13 @@
 "ateam": "Hoffenheim",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/37242227183dc581bbe0d2908a3068dc/1697938802228/t7snhbq/t7snhbq@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel7.m3u8?auth_key=3000001697895620-0-0-e5baef70f1c2cf8d1f1bd46f44d062ae",
 "trylink": ""
 },
 {
@@ -336,23 +255,13 @@
 "ateam": "Freiburg",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5664fbe791e61222fb5bdfa1d1956f01/1697938872574/jggujqm/jggujqm@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001697895688-0-0-3ce91501f25df5ef9f9de59e0b976d36",
 "trylink": ""
 },
 {
