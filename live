@@ -449,22 +449,62 @@
 "trylink": ""
 },
 {
-"type": "Vietnam HD",
+"type": "English 3 HD",
+"livelink": "https://givemereddit.cloud/hls/btsport/chunks.m3u8",
+"trylink": "https://givemereddit.eu/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://ss1.101streams.net/scripts/MTQ3Mzc=/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "Vietnam 1 HD",
 "livelink": "https://live.vbfast.xyz/c7855ed7aa6f36d6c1dcb228e0ffd6e1/1697947159690/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
-"type": "Vietnam FHD",
+"type": "Vietnam 1 FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001697903976-0-0-37127eda76443b0b8dc1573e6d148d04",
 "trylink": ""
 },
 {
-"type": "China HD",
+"type": "Vietnam 2 HD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@trauSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam 2 SD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/trauHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "China 1 HD",
+"livelink": "https://tpull-360ba.skxlz.com/live/360ba_stream_813794_53.m3u8?txSecret=5545ee864d81574c9bfdab9c1b573770&txTime=6535488A",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 2 HD",
+"livelink": "https://tpull-360ba.skxlz.com/live/360ba_stream_813794_53.m3u8?txSecret=ffad02194ea9929d9fbbebccaa170507&txTime=65354A5F",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 3 HD",
+"livelink": "0",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 4 HD",
+"livelink": "0",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 5 HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?auth_key=1697905814-0-0-c169565759d69b6ce954978a21fa251a&sub_m3u8=true&user_session_id=ea02da8d9991cdf3204abe82f2e1f5f1&edge_slice=true",
 "trylink": ""
 },
 {
-"type": "China SD",
+"type": "China 5 SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?auth_key=1697905814-0-0-c169565759d69b6ce954978a21fa251a&sub_m3u8=true&user_session_id=ea02da8d9991cdf3204abe82f2e1f5f1&edge_slice=true",
 "trylink": ""
 },
