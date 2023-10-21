@@ -316,12 +316,22 @@
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
-"type": "China HD",
+"type": "China 1 HD",
+"livelink": "https://tpull-360ba.skxlz.com/live/360ba_stream_519981_1.m3u8?txSecret=6cb27f58254960e72ab203786ab219f7&txTime=65352B1F",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 2 HD",
+"livelink": "0",
+"trylink": "https://m.360ba.co/"
+},
+{
+"type": "China 3 HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?auth_key=1697899935-0-0-0af2fa24081be7dd2f789c616dde4ea7&sub_m3u8=true&user_session_id=361451714b0e442411ee9f44d06c2add&edge_slice=true",
 "trylink": ""
 },
 {
-"type": "China SD",
+"type": "China 3 SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?auth_key=1697899935-0-0-0af2fa24081be7dd2f789c616dde4ea7&sub_m3u8=true&user_session_id=361451714b0e442411ee9f44d06c2add&edge_slice=true",
 "trylink": ""
 },
