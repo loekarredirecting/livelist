@@ -555,29 +555,19 @@
 "league": " La Liga ",
 "himg": "https://mygoaltv.xyz//team/Getafe.png",
 "hteam": "Betis",
-"time": " 8:45 PM ",
-"date": "2023-10-21",
+"time": " live ",
+"date": "8:45 PM",
 "aimg": "https://mygoaltv.xyz//team/betis.png",
 "ateam": "Getafe",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/f2842b839758119f6f93a54fc82b053f/1697940713118/armrqlx/armrqlx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel9.m3u8?auth_key=3000001697897671-0-0-50037ce6ac5b8e386144aa265ab617e2",
 "trylink": ""
 },
 {
