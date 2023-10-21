@@ -71,12 +71,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?user_session_id=04782c0f56e1c9a4c3597797fc449743&edge_slice=true&sub_m3u8=true&auth_key=1697902095-0-0-1c36fcc328b3b63ff6e94f5def485a1f",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?user_session_id=04782c0f56e1c9a4c3597797fc449743&edge_slice=true&sub_m3u8=true&auth_key=1697902095-0-0-1c36fcc328b3b63ff6e94f5def485a1f",
 "trylink": ""
 },
 {
@@ -174,22 +174,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lhd.m3u8?auth_key=1697902335-0-0-fdb8a33b221f848741eaec1a9412702a&sub_m3u8=true&user_session_id=8f17122bdf899ed8a8aab1dd7b04ca76&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-574219_lsd.m3u8?auth_key=1697902335-0-0-fdb8a33b221f848741eaec1a9412702a&sub_m3u8=true&user_session_id=8f17122bdf899ed8a8aab1dd7b04ca76&edge_slice=true",
 "trylink": ""
 }
 ]
@@ -212,26 +202,6 @@
 "type": "Vietnam FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel14.m3u8?auth_key=3000001697895688-0-0-3ce91501f25df5ef9f9de59e0b976d36",
 "trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -253,6 +223,17 @@
 "type": "English 2 HD",
 "livelink": "https://chop.fordems.live/hls/for-1.m3u8",
 "trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://weakskjjx.azureedge.net/live/usa/chunks.m3u8",
+"trylink": "https://weakspell.org/"
+},
+
+{
+"type": "English 4 HD",
+"livelink": "https://givemereddit.cloud/hls/btsport/chunks.m3u8",
+"trylink": "https://givemereddit.eu/"
 },
 {
 "type": "Vietnam HD",
