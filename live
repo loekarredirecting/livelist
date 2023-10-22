@@ -314,12 +314,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1697991703-0-0-dc350b504c7a6fa8930e2c162384da2f",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1697991703-0-0-dc350b504c7a6fa8930e2c162384da2f",
 "trylink": ""
 }
 ]
