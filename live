@@ -471,12 +471,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
