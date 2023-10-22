@@ -1,76 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-"hteam": "Rennes",
-"time": " live ",
-"date": "5:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-"ateam": "Lorient",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_7.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ4NTE=/720p2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/eab02b90272388b554fdb299b00f73b2/1698013637631/as9xexm/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001697970454-0-0-b775f34ce67e8f6899aec8ae5f6546e7",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?sub_m3u8=true&user_session_id=5221e0cd7afe94f9c44170c08b382f3e&auth_key=1697974154-0-0-e8c3dceaaaffec06080a1989839966b6&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?sub_m3u8=true&user_session_id=5221e0cd7afe94f9c44170c08b382f3e&auth_key=1697974154-0-0-e8c3dceaaaffec06080a1989839966b6&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=9285b6fb4ffd587eb23187d2ed6287b9&txTime=653552e3",
-"trylink": ""
-},
-{
-"type": "Soco 1 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991140_lsd.m3u8?txSecret=9285b6fb4ffd587eb23187d2ed6287b9&txTime=653552e3",
-"trylink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1697975503-0-0-89b1ad03a41b5b02ba9dbac4b5f2c65d",
-"trylink": ""
-},
-{
-"type": "Soco 2 SD",
-"livelink": "https://pull.niues.live/live/stream-462413_lsd.m3u8?auth_key=1697975503-0-0-89b1ad03a41b5b02ba9dbac4b5f2c65d",
-"trylink": ""
-},
-{
-"type": "Soco 3 HD",
-"livelink": "https://pull.niues.live/live/stream-9912045_lhd.m3u8?auth_key=1697975503-0-0-f43fe325a301cfa1444d8cb48dcf6005",
-"trylink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://pull.niues.live/live/stream-9912045_lsd.m3u8?auth_key=1697975503-0-0-f43fe325a301cfa1444d8cb48dcf6005",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
 "hteam": "Rayo Vallecano",
@@ -410,8 +339,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
 "hteam": "Borussia M'Gladbach",
-"time": " 8:00 PM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "8:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "ateam": "FC Köln",
 "link": [
