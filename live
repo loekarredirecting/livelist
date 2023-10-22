@@ -84,48 +84,68 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "hteam": "Rennes",
-"time": " 5:30 PM ",
-"date": "2023-10-22",
+"time": " livve ",
+"date": "5:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "ateam": "Lorient",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_7.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ4NTE=/720p2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/eab02b90272388b554fdb299b00f73b2/1698013637631/as9xexm/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001697970454-0-0-b775f34ce67e8f6899aec8ae5f6546e7",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?sub_m3u8=true&user_session_id=5221e0cd7afe94f9c44170c08b382f3e&auth_key=1697974154-0-0-e8c3dceaaaffec06080a1989839966b6&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?sub_m3u8=true&user_session_id=5221e0cd7afe94f9c44170c08b382f3e&auth_key=1697974154-0-0-e8c3dceaaaffec06080a1989839966b6&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 SD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -142,22 +162,22 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_2.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQ4NDM=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/18c58204d41e41059e8c51209e8b6d1c/1698014572650/trd02w8/trd02w8@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001697971319-0-0-0d6976168df0c33b2708157c21afb0cf",
 "trylink": ""
 },
 {
