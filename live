@@ -202,6 +202,16 @@
 "trylink": "https://1stream.soccer/"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://weak.hiweak14.store/live/usa/storage.m3u8",
+"trylink": "https://weakspell.org/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://sports.freesportstime.com/live/streamfree1.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/c978e6aaba07164873173cfd4ac079b9/1698021322297/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -233,32 +243,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1697991463-0-0-cdd8517632ecb1e882201f3a17a83b9e",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1697991463-0-0-cdd8517632ecb1e882201f3a17a83b9e",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=843b42b4d740027e0d7f62eefef9a85f&txTime=65359267",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=843b42b4d740027e0d7f62eefef9a85f&txTime=65359267",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1697991643-0-0-7f09f4372fb0aee7e925000662611e2d",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1697991643-0-0-7f09f4372fb0aee7e925000662611e2d",
 "trylink": ""
 }
 ]
@@ -318,8 +328,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "hteam": "Genoa",
-"time": " 10:30 PM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
 "ateam": "Atalanta",
 "link": [
