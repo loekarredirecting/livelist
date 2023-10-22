@@ -1,66 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"hteam": "Almeria",
-"time": " live ",
-"date": "8:45 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-"ateam": "Girona",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_2.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ4NDQ=/caxi2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/c7d1696993289499c5ebe6dc00135bae/1698020811654/z9nbpht/z9nbpht@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001697977629-0-0-762427f5985bc30674e6b945b1a9a046",
-"trylink": ""
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1697987623-0-0-d552429a3d6271788e83f7356eb9fe3e",
-"trylink": ""
-},
-{
-"type": "Soco 1 SD",
-"livelink": "https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1697987623-0-0-d552429a3d6271788e83f7356eb9fe3e",
-"trylink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1697987623-0-0-d7fcbe2b78dd9966ddcb49c7f5080fbe",
-"trylink": ""
-},
-{
-"type": "Soco 2 SD",
-"livelink": "https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1697987623-0-0-d7fcbe2b78dd9966ddcb49c7f5080fbe",
-"trylink": ""
-},
-{
-"type": "Soco 3 HD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1697987623-0-0-06f90b6a99f0131f30abf3f65aa230af",
-"trylink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1697987623-0-0-06f90b6a99f0131f30abf3f65aa230af",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "hteam": "Metz",
@@ -365,12 +304,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=b9388e02813fe6e6971b4dd80730a47c&txTime=65359d6b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=b9388e02813fe6e6971b4dd80730a47c&txTime=65359d6b",
 "trylink": ""
 }
 ]
