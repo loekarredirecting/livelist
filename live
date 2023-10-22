@@ -157,6 +157,11 @@
 },
 {
 "type": "English 2 HD",
+"livelink": "https://chop.fordems.live/hls/for-3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 3 HD",
 "livelink": "0",
 "trylink": "https://1stream.soccer/"
 },
