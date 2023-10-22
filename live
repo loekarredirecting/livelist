@@ -155,8 +155,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
 "hteam": "Rayo Vallecano",
-"time": " 6:30 PM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "ateam": "Las Palmas",
 "link": [
@@ -191,12 +191,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -264,12 +284,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_4.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ4NDg=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -315,12 +335,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_7.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQ4NTI=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -366,7 +386,7 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_9.m3u8",
 "trylink": ""
 },
 {
@@ -417,7 +437,7 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_8.m3u8",
 "trylink": ""
 },
 {
@@ -468,7 +488,7 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_6.m3u8",
 "trylink": ""
 },
 {
@@ -519,12 +539,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_2.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ4NDQ=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -570,12 +590,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_7.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQ4NTM=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -621,12 +641,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQ4NDI=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -672,7 +692,7 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_6.m3u8",
 "trylink": ""
 },
 {
@@ -723,12 +743,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_4.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ4NDk=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -774,12 +794,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_2.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ4NDU=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -825,12 +845,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_3.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://ss1.101streams.net/scripts/MTQ4NTA=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -876,12 +896,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_7.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQ4NTQ=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
@@ -927,12 +947,12 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_2.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://fdaskj.1stream.one/scripts/MTQ4NDY=/caxi2.m3u8",
 "trylink": "https://1stream.soccer/"
 },
 {
