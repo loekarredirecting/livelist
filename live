@@ -1,56 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-"hteam": "Borussia M'Gladbach",
-"time": " live ",
-"date": "8:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
-"ateam": "FC Köln",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/48abdea7361b2689e9528d2d15ba2020/1698020772003/as9xexm/as9xexm@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001697977588-0-0-272fa9c4622bcd2a5b3e1feee73c4be1",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1697984295-0-0-d0ef32602395d531982eaa6cf0d7e444&user_session_id=50caadff83f2c22921c14fd53da2c1a8",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1697984295-0-0-d0ef32602395d531982eaa6cf0d7e444&user_session_id=50caadff83f2c22921c14fd53da2c1a8",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=f27552825e080188cd943c3cf6851b53&txTime=6535760b",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=f27552825e080188cd943c3cf6851b53&txTime=6535760b",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "hteam": "Almeria",
@@ -365,12 +314,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1697994463-0-0-30dc05bae087da8428588db30c6b1bb3",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1697994463-0-0-30dc05bae087da8428588db30c6b1bb3",
 "trylink": ""
 }
 ]
@@ -379,8 +328,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "hteam": "Deportivo Alaves",
-"time": " 11:00 PM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "ateam": "Villarreal",
 "link": [
