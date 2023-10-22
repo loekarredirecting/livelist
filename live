@@ -1,56 +1,5 @@
 [
 {
-"league": " MLS League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1323940_small.png",
-"hteam": "Inter Miami",
-"time": " live ",
-"date": "4:30 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/960720_small.png",
-"ateam": "Charlotte",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://livenflstream.xyz/playlist/stream_5.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://jkhdsfj.bfst.live/scripts/MTQ3NTQ=/caxi2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/c7c533b45017cc5e139aeb115fc716d1/1697951144020/z9nbpht/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001697907977-0-0-60dd0fa4fbd69ca70ccce079a6c49eb1",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lhd.m3u8?sub_m3u8=true&auth_key=1697910075-0-0-a87a17d0970a5d1b3785a24785500a51&user_session_id=4135174b705776e8f83d34ec24868f10&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746089_lsd.m3u8?sub_m3u8=true&auth_key=1697910075-0-0-a87a17d0970a5d1b3785a24785500a51&user_session_id=4135174b705776e8f83d34ec24868f10&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912049_lhd.m3u8?txSecret=b444d1e848410f4cd20be1e1cda59701&txTime=653441f9",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912049_lsd.m3u8?txSecret=b444d1e848410f4cd20be1e1cda59701&txTime=653441f9",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "hteam": "Monza",
