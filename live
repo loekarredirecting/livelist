@@ -1,76 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
-"hteam": "Rayo Vallecano",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"ateam": "Las Palmas",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_2.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://fdaskj.1stream.one/scripts/MTQ4NDM=/caxi2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/18c58204d41e41059e8c51209e8b6d1c/1698014572650/trd02w8/trd02w8@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001697971319-0-0-0d6976168df0c33b2708157c21afb0cf",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-698941_lhd.m3u8?sub_m3u8=true&user_session_id=1aa683b189a20c79b1da02f717e5c012&auth_key=1697975355-0-0-4b8ab55e5ff45594793185b9d8955858&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-698941_lsd.m3u8?sub_m3u8=true&user_session_id=1aa683b189a20c79b1da02f717e5c012&auth_key=1697975355-0-0-4b8ab55e5ff45594793185b9d8955858&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1697978923-0-0-8a4631afa385e187b56c8dc57d868a34",
-"trylink": ""
-},
-{
-"type": "Soco 1 SD",
-"livelink": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1697978923-0-0-8a4631afa385e187b56c8dc57d868a34",
-"trylink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://pull.niues.live/live/stream-9912062_lhd.m3u8?auth_key=1697978863-0-0-9f8baf3242ebd7a3b0b124cb3042391a",
-"trylink": ""
-},
-{
-"type": "Soco 2 SD",
-"livelink": "https://pull.niues.live/live/stream-9912062_lsd.m3u8?auth_key=1697978863-0-0-9f8baf3242ebd7a3b0b124cb3042391a",
-"trylink": ""
-},
-{
-"type": "Soco 3 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=c7e9e4904123d96c03f757c31becbcce&txTime=653560b7",
-"trylink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991117_lsd.m3u8?txSecret=c7e9e4904123d96c03f757c31becbcce&txTime=653560b7",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "hteam": "Frosinone",
@@ -506,8 +435,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "hteam": "Metz",
-"time": " 9:35 PM ",
-"date": "2023-10-22",
+"time": " live ",
+"date": "9:35 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
 "ateam": "Monaco",
 "link": [
@@ -839,12 +768,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?sub_m3u8=true&user_session_id=a925bf5a57b8b7173d404b415f2bee39&auth_key=1697987355-0-0-5ff5bfdae813a04812ce150d424248b1&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?sub_m3u8=true&user_session_id=a925bf5a57b8b7173d404b415f2bee39&auth_key=1697987355-0-0-5ff5bfdae813a04812ce150d424248b1&edge_slice=true",
 "trylink": ""
 },
 {
@@ -890,12 +819,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?edge_slice=true&auth_key=1697987955-0-0-bb574be7f7cb918d67e9c2ac366bfe9c&sub_m3u8=true&user_session_id=0963f0f3e244dcfe1228e948a80a3ebb",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?edge_slice=true&auth_key=1697987955-0-0-bb574be7f7cb918d67e9c2ac366bfe9c&sub_m3u8=true&user_session_id=0963f0f3e244dcfe1228e948a80a3ebb",
 "trylink": ""
 },
 {
