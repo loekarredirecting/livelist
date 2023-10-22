@@ -29,6 +29,16 @@
 "trylink": ""
 },
 {
+"type": "Vietnam 2 HD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam 2 SD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=6127dc21e26880f147432d4342f619f6&auth_key=1697973435-0-0-d410a70feb59619e41ce13d336b05415",
 "trylink": ""
