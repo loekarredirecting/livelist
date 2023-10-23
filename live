@@ -30,21 +30,41 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lhd.m3u8?sub_m3u8=true&user_session_id=45a23d98174b927dc89845746e9b23d8&auth_key=1698081375-0-0-082d84d7157ec8a583f6e250f8eb9164&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-956896_lsd.m3u8?sub_m3u8=true&user_session_id=45a23d98174b927dc89845746e9b23d8&auth_key=1698081375-0-0-082d84d7157ec8a583f6e250f8eb9164&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 SD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
