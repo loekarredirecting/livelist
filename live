@@ -455,32 +455,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-252503_lhd.m3u8?txSecret=e5dd239142b363d9d9565ba29901f412&txTime=65386628",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-252503_lsd.m3u8?txSecret=e5dd239142b363d9d9565ba29901f412&txTime=65386628",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1698177044-0-0-545b951063dc13d4a62a36bfad2e1bc8",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1698177044-0-0-545b951063dc13d4a62a36bfad2e1bc8",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1698177044-0-0-b09a2a2a743275b278f73e7129b890a6",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1698177044-0-0-b09a2a2a743275b278f73e7129b890a6",
 "trylink": ""
 }
 ]
@@ -526,32 +526,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-434154_lhd.m3u8?auth_key=1698176984-0-0-431d2235f9b0202a0f3583ec7f9dd20e",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-434154_lsd.m3u8?auth_key=1698176984-0-0-431d2235f9b0202a0f3583ec7f9dd20e",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lhd.m3u8?auth_key=1698177104-0-0-ee1329052c8369810350e320f37ca220",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lsd.m3u8?auth_key=1698177104-0-0-ee1329052c8369810350e320f37ca220",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-368492_lhd.m3u8?auth_key=1698177104-0-0-4b7d284ee1d7dffbc816271bf8028a8b",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-368492_lsd.m3u8?auth_key=1698177104-0-0-4b7d284ee1d7dffbc816271bf8028a8b",
 "trylink": ""
 }
 ]
