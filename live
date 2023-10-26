@@ -205,12 +205,165 @@
 },
 {
 "league": " Europa League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10247_small.png",
+"hteam": "rangers",
+"time": " 11:15 PM ",
+"date": "2023-10-26",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8548_small.png",
+"ateam": "Sparta Praha",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/4024_small.png",
+"hteam": "Sporting CP",
+"time": " 11:15 PM ",
+"date": "2023-10-26",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9768_small.png",
+"ateam": "Rakow Czestochowa",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10014_small.png",
 "hteam": "Atalanta",
 "time": " 11:15 PM ",
 "date": "2023-10-26",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "ateam": "Sturm Graz",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Europa League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9917_small.png",
+"hteam": "Hacken",
+"time": " 11:15 PM ",
+"date": "2023-10-26",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8428_small.png",
+"ateam": "Molde",
 "link": [
 {
 "type": "English 1 HD",
