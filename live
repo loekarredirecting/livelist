@@ -104,49 +104,49 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "hteam": "Las Palmas",
-"time": " 6:30 PM ",
-"date": "2023-10-28",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
 "ateam": "Almeria",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hls.streambtw.com/live/stream_10.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-3/chunks.m3u8",
+"trylink": "https://247ovo.com/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/17dbf798cb83d1a31116f71e74324477/1698535115721/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": ""https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001698491980-0-0-2f7b5093e85cc3aa654900e50206727e,
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?user_session_id=09fb92bb263401c2cfbbdc02406be2b0&edge_slice=true&auth_key=1698495855-0-0-d8f85e04b4d69fb98e8027725ca9bb89&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?user_session_id=09fb92bb263401c2cfbbdc02406be2b0&edge_slice=true&auth_key=1698495855-0-0-d8f85e04b4d69fb98e8027725ca9bb89&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912064_lhd.m3u8?auth_key=1698495799-0-0-68075fd5f4cbba82f30cc1088a4b34d0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912064_lsd.m3u8?auth_key=1698495799-0-0-68075fd5f4cbba82f30cc1088a4b34d0",
 "trylink": ""
 }
 ]
