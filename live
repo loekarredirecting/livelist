@@ -279,7 +279,7 @@
 },
 {
 "type": "English 4 HD",
-"livelink": "0",
+"livelink": "https://real.fordems.live/hls/for-6.m3u8",
 "trylink": ""
 },
 {
@@ -294,12 +294,12 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -324,22 +324,22 @@
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=1bfc704bf47258b36b9f172cabd0c545&txTime=653d6074",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=1bfc704bf47258b36b9f172cabd0c545&txTime=653d6074",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1698503264-0-0-3201ae2208f1e836ad5fcc340dcaba9d",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1698503264-0-0-3201ae2208f1e836ad5fcc340dcaba9d",
 "trylink": ""
 }
 ]
@@ -487,12 +487,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-410515_lhd.m3u8?auth_key=1698503264-0-0-321fa6857fbef0b68cf5c42ce9f984f7",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-410515_lsd.m3u8?auth_key=1698503264-0-0-321fa6857fbef0b68cf5c42ce9f984f7",
 "trylink": ""
 }
 ]
