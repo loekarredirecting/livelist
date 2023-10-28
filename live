@@ -1,188 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"hteam": "Real Madrid",
-"time": " live ",
-"date": "8:45 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"ateam": "Barcelona",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_e101.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-3/chunks.m3u8",
-"trylink": "https://247ovo.com/"
-},
-{
-"type": "English 3 HD",
-"livelink": "https://xwssgs.1stream.one/scripts/MTUwMzM=/caxi.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "English 4 HD",
-"livelink": "https://weak.hiweak14.store/live/lltv/storage.m3u8",
-"trylink": "https://weakspell.org/"
-},
-{
-"type": "English 5 HD",
-"livelink": "https://storage.googleapis.com/dieownjryuyrr/mux_video_ts/index-1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 6 HD",
-"livelink": "https://sports1.freesportstime.com/playlist/stream_10.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/df66a10de3d97cb4d585cc6a1a181c2b/1698539693772/lhsazur/lhsazur@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001698496465-0-0-879c23208e501709f2a47da144ec7ded",
-"trylink": ""
-},
-{
-"type": "Vebo HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?auth_key=1698499995-0-0-65d301ae7fccf46c684be88f9d6ae239&user_session_id=a29753c9e5de0300dab453dbd965603e&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?auth_key=1698499995-0-0-65d301ae7fccf46c684be88f9d6ae239&user_session_id=a29753c9e5de0300dab453dbd965603e&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=6120718b4f1818244d12ca6ecc6c2401&txTime=653d5480",
-"trylink": ""
-},
-{
-"type": "Soco 1 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=6120718b4f1818244d12ca6ecc6c2401&txTime=653d5480",
-"trylink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=b30b1a4545ac03d56c4981c4366dca20&txTime=653d54bc",
-"trylink": ""
-},
-{
-"type": "Soco 2 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=b30b1a4545ac03d56c4981c4366dca20&txTime=653d54bc",
-"trylink": ""
-},
-{
-"type": "Soco 3 HD",
-"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1698500204-0-0-a38de61587ab28c8569e76479f8421f3",
-"trylink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1698500204-0-0-a38de61587ab28c8569e76479f8421f3",
-"trylink": ""
-}
-]
-},
-{
-"league": " Saudi Professional League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/582749_small.png",
-"hteam": "Al Nassr FC",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"ateam": "Al-Fayha",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/bbae29f95a88dad8a3d1b7d1d95ee90f/1698546239535/vg4b678/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel19.m3u8?auth_key=3000001698503054-0-0-6196df2e008a9b91f2d85d70272e2db8",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=31e216ccfd774d7722946ebc624a1c36&txTime=653d6ec0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912064_lsd.m3u8?txSecret=31e216ccfd774d7722946ebc624a1c36&txTime=653d6ec0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-"hteam": "Lorient",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
-"ateam": "Reims",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://fdaskj.1stream.one/scripts/MTUwMzk=/720p2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://rmue2hq1pcliv.vcdn.com.vn/wkatjcf/index.m3u8?hdnts=exp=1698528834~acl=/wkatjcf*~hmac=907a0eba811cb382cdf724a1c4488661b98ff82a515f5d8 2c85b7771e78934b9",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel18.m3u8?auth_key=3000001698503665-0-0-1693e736f92e417ef216ec5414b7435a",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?edge_slice=true&user_session_id=a37a59d36fb0ec4dfe17eec29aba69f6&sub_m3u8=true&auth_key=1698507316-0-0-71db80b84979dc9584e4454671bd98ee",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lsd.m3u8?edge_slice=true&user_session_id=a37a59d36fb0ec4dfe17eec29aba69f6&sub_m3u8=true&auth_key=1698507316-0-0-71db80b84979dc9584e4454671bd98ee",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-359960_lhd.m3u8?auth_key=1698507404-0-0-eba3ddd33b455fc3ef752154f6d020a4",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-359960_lsd.m3u8?auth_key=1698507404-0-0-eba3ddd33b455fc3ef752154f6d020a4",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "hteam": "Torino",
@@ -249,8 +66,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "https://weak.hiweak14.store/live/sspl/storage.m3u8",
-"trylink": "https://weakspell.org/"
+"livelink": "https://sports1.freesportstime.com/playlist/streamfree1.m3u8",
+"trylink": ""
 },
 {
 "type": "English 3 HD",
@@ -294,22 +111,22 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912033_lhd.m3u8?txSecret=a3d851dafe786fff7bc7636ff918a1b0&txTime=653d77a8",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1698517064-0-0-11d5c537f4b9f3c8b22c6a69b0baf497",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912033_lsd.m3u8?txSecret=a3d851dafe786fff7bc7636ff918a1b0&txTime=653d77a8",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1698517064-0-0-11d5c537f4b9f3c8b22c6a69b0baf497",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=ca637a6f6c4c78f10c5d0a1839b6abd2&txTime=653d7820",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1698517124-0-0-721ed4509dd85129305b13fecd1eae4c",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912048_lsd.m3u8?txSecret=ca637a6f6c4c78f10c5d0a1839b6abd2&txTime=653d7820",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1698517124-0-0-721ed4509dd85129305b13fecd1eae4c",
 "trylink": ""
 },
 {
