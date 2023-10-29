@@ -548,6 +548,11 @@
 "ateam": "Man United",
 "link": [
 {
+"type": "Premier HD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch5.m3u8",
+"trylink": ""
+},
+{
 "type": "English 1 FHD",
 "livelink": "https://sportsleading.online/live/stream_1.m3u8",
 "trylink": ""
