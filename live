@@ -623,8 +623,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "hteam": "Real Sociedad",
-"time": " 9:45 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "9:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Rayo Vallecano",
 "link": [
@@ -635,8 +635,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://real.fordems.live/hls/for-5.m3u8",
+"trylink": "https://fordems.live/"
 },
 {
 "type": "Vietnam HD",
@@ -674,8 +674,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "hteam": "Man City",
-"time": " 10:00 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "10:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "ateam": "Man United",
 "link": [
@@ -686,18 +686,18 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://a55.azplay.me/hls/streama216121/index.m3u8?cst=2945d7f76b6f69423db3282624c617f8",
+"trylink": "https://emb.apl284.me/"
 },
 {
 "type": "English 3 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://uk3.ainakwalajeen.com:999/hls/skysme.m3u8?md5=FnVSVqtcT_6j4oR6WMOaWg&expires=1698598946",
+"trylink": "https://godzlive.com/"
 },
 {
 "type": "English 4 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://hdlivestream.pro/hls/pJXzQ36H5QX2/index.m3u8?st=vibZaK3A9CBfNaPfdyxvAQ&e=1698602447",
+"trylink": "https://ustream.pro/"
 },
 {
 "type": "English 5 HD",
@@ -718,6 +718,16 @@
 "type": "Vietnam FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001698579463-0-0-1d528f227f52b71af8ee4e0079d353f6",
 "trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China 1 HD",
@@ -741,32 +751,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1698593504-0-0-a2ee0282a61739b940b22eb55f410168",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1698593504-0-0-a2ee0282a61739b940b22eb55f410168",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912009_lhd.m3u8?txSecret=b5a54a8377cd2caf64e9248a38d533c2&txTime=653ec1e4",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912009_lsd.m3u8?txSecret=b5a54a8377cd2caf64e9248a38d533c2&txTime=653ec1e4",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=8275629f5cfd2c947e3d08be92b5fc1b&txTime=653ec220",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=8275629f5cfd2c947e3d08be92b5fc1b&txTime=653ec220",
 "trylink": ""
 }
 ]
