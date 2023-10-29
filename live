@@ -562,5 +562,158 @@
 "trylink": ""
 }
 ]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+"hteam": "Atalanta",
+"time": " 12:00 AM ",
+"date": "2023-10-31",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+"ateam": "Empoli",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+"hteam": "Fiorentina",
+"time": " 2:15 AM ",
+"date": "2023-10-31",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+"ateam": "Lazio",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
+"hteam": "Villarreal",
+"time": " 2:30 AM ",
+"date": "2023-10-31",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+"ateam": "Granada",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
 }
 ]
