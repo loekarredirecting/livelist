@@ -394,6 +394,16 @@
 "trylink": ""
 },
 {
+"type": "English 3 HD",
+"livelink": "https://vladrums.com/images/003.m3u8?md5=i8VZbkBUlxOaSTtSvw500g&expires=1698601514",
+"trylink": "https://vladrustov.sx/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://storage.googleapis.com/mbnnawjebqwdq/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://rmue2hq1pcliv.vcdn.com.vn/r8ztat6/index.m3u8?hdnts=exp=1698603952~acl=/r8ztat6*~hmac=1128f898f8753f705a9a8046fecb262844aee9ecd3bd9 56b75361f6f4c8a8c14",
 "trylink": "https://xlz.plvb.xyz/"
@@ -415,32 +425,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1698590984-0-0-7d1d12422e1a148a889145352e40b882",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1698590984-0-0-7d1d12422e1a148a889145352e40b882",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=d1331f4e23a890f89350f197e27be94b&txTime=653eb7d0",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lsd.m3u8?txSecret=d1331f4e23a890f89350f197e27be94b&txTime=653eb7d0",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1698591104-0-0-43f9b10f1b2b6e9c0823aa492c0b371b",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1698591104-0-0-43f9b10f1b2b6e9c0823aa492c0b371b",
 "trylink": ""
 }
 ]
