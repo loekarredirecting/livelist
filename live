@@ -1,56 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
-"hteam": "Frosinone",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
-"ateam": "Cagliari",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_5.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://jkhdsfj.bfst.live/scripts/MTUxMjE=/caxi2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/3d6637d642cc5db7a8d0000840344874/1698620534920/r8ztat6/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001698577347-0-0-31ee682d00eb261e7b31845942a65957",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-667757_lhd.m3u8?auth_key=1698580995-0-0-b26258e4de079aa65b20183d1a97602c&user_session_id=290e7f70cd0cae8ecd004625761c8d73&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-667757_lsd.m3u8?auth_key=1698580995-0-0-b26258e4de079aa65b20183d1a97602c&user_session_id=290e7f70cd0cae8ecd004625761c8d73&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1698581144-0-0-d93a750fac9d88fc60ceccc3f88152f1",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1698581144-0-0-d93a750fac9d88fc60ceccc3f88152f1",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
 "hteam": "PSG",
@@ -267,8 +216,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "hteam": "Luton Town",
-"time": " 8:30 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
 "ateam": "Aston Villa",
 "link": [
@@ -281,6 +230,16 @@
 "type": "English 2 HD",
 "livelink": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-3/chunks.m3u8",
 "trylink": "https://247ovo.com/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://vladrums.com/images/001.m3u8?md5=4zTKRS9GMA6laOcqJOIE5A&expires=1698600475",
+"trylink": "https://vladrustov.sx/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://cdn.wholive2.pro:8089/hls/5VSgcLZISHZ9/index.m3u8?st=vWj6JaPQJrgjhIrk5ml9HA&e=1698597471",
+"trylink": "https://wwwstream.pro/"
 },
 {
 "type": "Vietnam HD",
@@ -303,12 +262,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -318,8 +297,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "hteam": "Fulham",
-"time": " 8:30 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "ateam": "Brighton",
 "link": [
@@ -332,6 +311,16 @@
 "type": "English 2 HD",
 "livelink": "https://gtyhyhfjsdewqe.crystalnew.pro/live/n-4/chunks.m3u8",
 "trylink": "https://247ovo.com/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://vladrums.com/images/002.m3u8?md5=V9dUECYbDLnkk1wiJIf98Q&expires=1698601025",
+"trylink": "https://vladrustov.sx/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://cdn.wholive2.pro:8089/hls/m82EoI6QoFb/index.m3u8?st=golQimrTQgTcEeysk0ae6A&e=1698597875",
+"trylink": "https://wwwstream.pro/"
 },
 {
 "type": "Vietnam HD",
@@ -354,12 +343,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -369,8 +378,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "hteam": "Nottingham Forest",
-"time": " 8:30 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "ateam": "Liverpool",
 "link": [
@@ -405,12 +414,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -420,8 +449,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 "hteam": "Udinese",
-"time": " 8:30 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "ateam": "Monza",
 "link": [
@@ -471,8 +500,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "hteam": "Monaco",
-"time": " 8:30 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "ateam": "Lille",
 "link": [
@@ -522,8 +551,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
 "hteam": "Le Havre",
-"time": " 8:30 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "ateam": "Metz",
 "link": [
@@ -573,8 +602,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "hteam": "Toulouse",
-"time": " 8:30 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "ateam": "Montpellier",
 "link": [
@@ -651,12 +680,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?auth_key=1698588195-0-0-f79a79a2698e4f17826187ba4b5f5737&user_session_id=4c62817935c87a5cb7813571f3f88ba0&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?auth_key=1698588195-0-0-f79a79a2698e4f17826187ba4b5f5737&user_session_id=4c62817935c87a5cb7813571f3f88ba0&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -702,12 +731,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698588316-0-0-3fb40d74fc2e17095eb040488a1caa59&user_session_id=c22c04f4a4dee0aefcea79dbbc9fd105",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698588316-0-0-3fb40d74fc2e17095eb040488a1caa59&user_session_id=c22c04f4a4dee0aefcea79dbbc9fd105",
 "trylink": ""
 },
 {
@@ -772,22 +801,52 @@
 "trylink": ""
 },
 {
-"type": "China HD",
+"type": "China 1 HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698588375-0-0-49922a897b5fd2225f1d294180cdaa2d&user_session_id=7e8178760e616c5b42434fffb3fb0381",
+"trylink": ""
+},
+{
+"type": "China 1 SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698588375-0-0-49922a897b5fd2225f1d294180cdaa2d&user_session_id=7e8178760e616c5b42434fffb3fb0381",
+"trylink": ""
+},
+{
+"type": "China 2 HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?user_session_id=323d269ea883ed0a84e6508fb585608d&edge_slice=true&auth_key=1698588496-0-0-cf7f49738b627d4b5e47764e95e0d45b&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "China 2 SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?user_session_id=323d269ea883ed0a84e6508fb585608d&edge_slice=true&auth_key=1698588496-0-0-cf7f49738b627d4b5e47764e95e0d45b&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "China SD",
+"type": "Soco 1 SD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 2 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -824,12 +883,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lhd.m3u8?sub_m3u8=true&user_session_id=ef5be767e2da180fa39fd2225c9f3e8a&edge_slice=true&auth_key=1698588616-0-0-2b2c869f0f9d73d96ab186d6cd7d393c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-526770_lsd.m3u8?sub_m3u8=true&user_session_id=ef5be767e2da180fa39fd2225c9f3e8a&edge_slice=true&auth_key=1698588616-0-0-2b2c869f0f9d73d96ab186d6cd7d393c",
 "trylink": ""
 },
 {
@@ -875,12 +934,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-681230_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a8f316c3afb74ea2e81091332e8f7a70&auth_key=1698589396-0-0-5f387041b5cad901b43ecc5851857709",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-681230_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a8f316c3afb74ea2e81091332e8f7a70&auth_key=1698589396-0-0-5f387041b5cad901b43ecc5851857709",
 "trylink": ""
 },
 {
@@ -926,12 +985,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-520872_lhd.m3u8?edge_slice=true&auth_key=1698589456-0-0-51d856de3585031e45c63950d573f858&user_session_id=6258d240c44e18c70fd6af4a7074536f&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-520872_lsd.m3u8?edge_slice=true&auth_key=1698589456-0-0-51d856de3585031e45c63950d573f858&user_session_id=6258d240c44e18c70fd6af4a7074536f&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -977,12 +1036,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?auth_key=1698589576-0-0-cbe8cc79a2136a44d84b400cd6298d5c&sub_m3u8=true&edge_slice=true&user_session_id=d8c0401005a0770a236cc9b3e4102f8d",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?auth_key=1698589576-0-0-cbe8cc79a2136a44d84b400cd6298d5c&sub_m3u8=true&edge_slice=true&user_session_id=d8c0401005a0770a236cc9b3e4102f8d",
 "trylink": ""
 },
 {
@@ -1028,12 +1087,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-568588_lhd.m3u8?auth_key=1698589636-0-0-df58a61a8a9cfdb5344831a7a3157395&sub_m3u8=true&user_session_id=a805fa1c73f3b616680c3c774c4ca287&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-568588_lsd.m3u8?auth_key=1698589636-0-0-df58a61a8a9cfdb5344831a7a3157395&sub_m3u8=true&user_session_id=a805fa1c73f3b616680c3c774c4ca287&edge_slice=true",
 "trylink": ""
 },
 {
@@ -1079,12 +1138,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1698589696-0-0-6a8285605b970fb684674ef42120f823&user_session_id=d8aee5bb16d5aeac1cee34f0d7aa272b",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1698589696-0-0-6a8285605b970fb684674ef42120f823&user_session_id=d8aee5bb16d5aeac1cee34f0d7aa272b",
 "trylink": ""
 },
 {
@@ -1130,12 +1189,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1698589816-0-0-c5be1fbe37cc9870ce0fdf3ec561a28b&edge_slice=true&user_session_id=9953965653cfb87cbc092112989f219b&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1698589816-0-0-c5be1fbe37cc9870ce0fdf3ec561a28b&edge_slice=true&user_session_id=9953965653cfb87cbc092112989f219b&sub_m3u8=true",
 "trylink": ""
 },
 {
