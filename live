@@ -3,49 +3,49 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
 "hteam": "Frosinone",
-"time": " 6:00 PM ",
-"date": "2023-10-29",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
 "ateam": "Cagliari",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_5.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTUxMjE=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/3d6637d642cc5db7a8d0000840344874/1698620534920/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001698577347-0-0-31ee682d00eb261e7b31845942a65957",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-667757_lhd.m3u8?auth_key=1698580995-0-0-b26258e4de079aa65b20183d1a97602c&user_session_id=290e7f70cd0cae8ecd004625761c8d73&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-667757_lsd.m3u8?auth_key=1698580995-0-0-b26258e4de079aa65b20183d1a97602c&user_session_id=290e7f70cd0cae8ecd004625761c8d73&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1698581144-0-0-d93a750fac9d88fc60ceccc3f88152f1",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1698581144-0-0-d93a750fac9d88fc60ceccc3f88152f1",
 "trylink": ""
 }
 ]
