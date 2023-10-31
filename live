@@ -9,6 +9,16 @@
 "ateam": "Al Nassr FC",
 "link": [
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/d49d12422325152a7d074a056f9c318e/1698807214936/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
