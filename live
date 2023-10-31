@@ -1,56 +1,5 @@
 [
 {
-"league": " King's Cup ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"hteam": "Al-Ettifaq",
-"time": " live ",
-"date": "9:15 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101915_small.png",
-"ateam": "Al Nassr FC",
-"link": [
-{
-"type": "Vebo HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/d49d12422325152a7d074a056f9c318e/1698807214936/r8ztat6/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001698764039-0-0-c17a1942fcdd75808f6567245ecd7e7b",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912009_lhd.m3u8?txSecret=945d109665872784783354ad14dbd3aa&txTime=654168a4",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912009_lsd.m3u8?txSecret=945d109665872784783354ad14dbd3aa&txTime=654168a4",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1698767444-0-0-5f2570fd532bcbce42caee6f6855fe3b",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1698767444-0-0-5f2570fd532bcbce42caee6f6855fe3b",
-"trylink": ""
-}
-]
-},
-{
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "hteam": "RB Leipzig",
@@ -116,8 +65,8 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "hteam": "FC Heidenheim",
-"time": " 2:15 AM ",
-"date": "2023-11-01",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
 "ateam": "Borussia M'Gladbach",
 "link": [
@@ -147,8 +96,8 @@
 "league": " Coppa Italia ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "hteam": "Hellas Verona",
-"time": " 2:30 AM ",
-"date": "2023-11-01",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "ateam": "bologna",
 "link": [
@@ -160,16 +109,6 @@
 {
 "type": "Vietnam FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001698764759-0-0-49207dec4b0000271168295d282e76f5",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
 "trylink": ""
 },
 {
