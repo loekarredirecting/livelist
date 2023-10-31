@@ -52,6 +52,68 @@
 },
 {
 "league": " DFB Pokal ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
+"hteam": "RB Leipzig",
+"time": " 11:30 PM ",
+"date": "2023-10-31",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
+"ateam": "Wolfsburg",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698769276-0-0-9899317f8725d4f21dec92b65ce6ca7d&user_session_id=7919e261de8a0498bb9eb48ea9a1058e",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698769276-0-0-9899317f8725d4f21dec92b65ce6ca7d&user_session_id=7919e261de8a0498bb9eb48ea9a1058e",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1698769484-0-0-8c7a4c14f129563368f652569bd74263",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1698769484-0-0-8c7a4c14f129563368f652569bd74263",
+"trylink": ""
+}
+]
+},
+{
+"league": " DFB Pokal ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+"hteam": "Union Berlin",
+"time": " 11:30 PM ",
+"date": "2023-10-31",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
+"ateam": "VfB Stuttgart",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1698769336-0-0-81487de2668c030347a3717ae5fff3e0&sub_m3u8=true&user_session_id=ca25f342730ad241148b5a2548bd5649&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1698769336-0-0-81487de2668c030347a3717ae5fff3e0&sub_m3u8=true&user_session_id=ca25f342730ad241148b5a2548bd5649&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912011_lhd.m3u8?auth_key=1698769544-0-0-152b31036f7a740aa027ac9814a82744",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912011_lsd.m3u8?auth_key=1698769544-0-0-152b31036f7a740aa027ac9814a82744",
+"trylink": ""
+}
+]
+},
+{
+"league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "hteam": "FC Heidenheim",
 "time": " 2:15 AM ",
@@ -60,22 +122,22 @@
 "ateam": "Borussia M'Gladbach",
 "link": [
 {
-"type": "China HD",
-"livelink": "0",
+"type": "Soco 1 HD",
+"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1698769664-0-0-5d8957edbe22183937a5f994441f6536",
 "trylink": ""
 },
 {
-"type": "China SD",
-"livelink": "0",
+"type": "Soco 1 SD",
+"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1698769664-0-0-5d8957edbe22183937a5f994441f6536",
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 2 HD",
 "livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1698768524-0-0-7832caf72cd7e670307247f06b4e8562",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 2 SD",
 "livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1698768524-0-0-7832caf72cd7e670307247f06b4e8562",
 "trylink": ""
 }
