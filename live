@@ -3,24 +3,14 @@
 "league": " King's Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "hteam": "Al-Ettifaq",
-"time": " 9:15 PM ",
-"date": "2023-10-31",
+"time": " live ",
+"date": "9:15 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101915_small.png",
 "ateam": "Al Nassr FC",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/d49d12422325152a7d074a056f9c318e/1698807214936/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
@@ -30,22 +20,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912009_lhd.m3u8?txSecret=945d109665872784783354ad14dbd3aa&txTime=654168a4",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912009_lsd.m3u8?txSecret=945d109665872784783354ad14dbd3aa&txTime=654168a4",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1698767444-0-0-5f2570fd532bcbce42caee6f6855fe3b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1698767444-0-0-5f2570fd532bcbce42caee6f6855fe3b",
 "trylink": ""
 }
 ]
