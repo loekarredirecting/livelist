@@ -60,26 +60,6 @@
 "ateam": "Borussia M'Gladbach",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
 "livelink": "0",
 "trylink": ""
@@ -91,12 +71,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1698768524-0-0-7832caf72cd7e670307247f06b4e8562",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1698768524-0-0-7832caf72cd7e670307247f06b4e8562",
 "trylink": ""
 }
 ]
@@ -111,23 +91,13 @@
 "ateam": "bologna",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/040ba0ce91fc02a463a1a4e1df2c39a0/1698807945366/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001698764759-0-0-49207dec4b0000271168295d282e76f5",
 "trylink": ""
 },
 {
@@ -142,12 +112,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1698768404-0-0-88c2785f9beafbcc045f40f7893e63f8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1698768404-0-0-88c2785f9beafbcc045f40f7893e63f8",
 "trylink": ""
 }
 ]
