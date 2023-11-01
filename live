@@ -286,32 +286,32 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hls.streambtw.com/live/stream_12.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTUyMjI=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5f6da3253d46e8a56beb6210abf28573/1698909964851/wkatjcf/wkatjcf@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel18.m3u8?auth_key=3000001698866780-0-0-65c3035cb8ae42d41fbf8bc21a638608",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698870195-0-0-bdc2dc99f253cad4540d3d14fb190596&user_session_id=eab568c6049533254a21bba90285f569",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1698870195-0-0-bdc2dc99f253cad4540d3d14fb190596&user_session_id=eab568c6049533254a21bba90285f569",
 "trylink": ""
 },
 {
@@ -330,39 +330,39 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8271_small.png",
 "hteam": "Bayern München",
-"time": " 2:15 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Saarbrucken",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hls.streambtw.com/live/stream_10.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://hisoverline.crystalnew.pro/live/n-7/chunks.m3u8",
+"trylink": "https://247ovo.com/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/a4c3eba2b771a9a988b3514ee2f49d83/1698910184473/trd02w8/trd02w8@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001698867009-0-0-fc8cf60f6088f7386f3aeaa80a3a50df",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&user_session_id=c4b40bf2ec285849b02aad2281433088&sub_m3u8=true&auth_key=1698870435-0-0-6411a1062ffe3a011dca07ed9d959370",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?edge_slice=true&user_session_id=c4b40bf2ec285849b02aad2281433088&sub_m3u8=true&auth_key=1698870435-0-0-6411a1062ffe3a011dca07ed9d959370",
 "trylink": ""
 },
 {
@@ -381,50 +381,20 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/276267_small.png",
 "hteam": "Eintracht Frankfurt",
-"time": " 2:15 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "ateam": "Viktoria Köln 1904",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hls.streambtw.com/live/stream_11.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://fdaskj.101streams.online/scripts/MTUyMjA=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 }
 ]
 },
