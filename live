@@ -1,31 +1,10 @@
 [
 {
-"league": " Copa del Rey ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1567042_small.png",
-"hteam": "Sevilla",
-"time": " live ",
-"date": "9:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"ateam": "CD Quintanar",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel40.m3u8?auth_key=3000001698849689-0-0-3b4abdcb05bdafc8f11a94b5242f94d1",
-"trylink": ""
-}
-]
-},
-{
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "hteam": "TSG Hoffenheim",
-"time": " 11:30 PM ",
-"date": "2023-11-01",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
 "ateam": "Borussia Dortmund",
 "link": [
@@ -75,8 +54,8 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 "hteam": "Paderborn 07",
-"time": " 11:30 PM ",
-"date": "2023-11-01",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8460_small.png",
 "ateam": "SC Freiburg",
 "link": [
@@ -96,8 +75,8 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8086_small.png",
 "hteam": "Bayer Leverkusen",
-"time": " 11:30 PM ",
-"date": "2023-11-01",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "ateam": "Sandhausen",
 "link": [
@@ -147,8 +126,8 @@
 "league": " Copa del Rey ",
 "himg": "https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",
 "hteam": "Real Sociedad",
-"time": " 12:00 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Bunol",
 "link": [
