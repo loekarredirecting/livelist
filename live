@@ -61,12 +61,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1698869144-0-0-8e126a7e363e735b7acbc476667edc7e",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1698869144-0-0-8e126a7e363e735b7acbc476667edc7e",
 "trylink": ""
 }
 ]
@@ -75,8 +75,8 @@
 "league": " EFL Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "hteam": "Liverpool",
-"time": " 2:15 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "ateam": "AFC Bournemouth",
 "link": [
@@ -87,27 +87,27 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8",
+"trylink": "https://247ovo.com/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/6bdf53091b192009afea8346047023dd/1698909060096/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001698865879-0-0-7f1dbb16171a26ec53d6d3b4b0af1e01",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-572503_lhd.m3u8?user_session_id=917834f6c95b1fb924fef13c3155b8a6&auth_key=1698869475-0-0-a82a1202897267361fc4907bc7ca01e5&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-572503_lsd.m3u8?user_session_id=917834f6c95b1fb924fef13c3155b8a6&auth_key=1698869475-0-0-a82a1202897267361fc4907bc7ca01e5&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
@@ -126,29 +126,29 @@
 "league": " EFL Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "hteam": "Blackburn Rovers",
-"time": " 2:15 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8655_small.png",
 "ateam": "Chelsea",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_3.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://hisoverline.crystalnew.pro/live/n-3/chunks.m3u8",
+"trylink": "https://247ovo.com/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/0ba0ed791f31bdac2e7bccaaa5aca82f/1698909326403/en7hf6r/en7hf6r@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001698866142-0-0-d43e4564cd3e9af1ff232b4d1a655ea4",
 "trylink": ""
 },
 {
@@ -177,39 +177,39 @@
 "league": " EFL Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
 "hteam": "Burnley",
-"time": " 2:15 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
 "ateam": "Everton",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_4.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTUyMTY=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/874473108c727842a5ff99a4c70cdcdd/1698909492852/qtdmef4/qtdmef4@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001698866309-0-0-9002869b5000b3e532778daccccd88c9",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?auth_key=1698869835-0-0-8db6888608d58c51a0d05648461d2623&user_session_id=93dbcfe2ee4aeac51e73897a12572e2f&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?auth_key=1698869835-0-0-8db6888608d58c51a0d05648461d2623&user_session_id=93dbcfe2ee4aeac51e73897a12572e2f&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -228,29 +228,29 @@
 "league": " EFL Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9902_small.png",
 "hteam": "Fulham",
-"time": " 2:15 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "ateam": "Ipswich Town",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleasing.onlline/live/stream_6.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://fdaskj.101streams.online/scripts/MTUyMTU=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/f2ae9ed8be52e5e34323025762f9eb50/1698909676741/kqpqy3v/kqpqy3v@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001698866496-0-0-21a9b240eb3cb1f82444a5993bc7d4b4",
 "trylink": ""
 },
 {
@@ -279,8 +279,8 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8177_small.png",
 "hteam": "Mainz 05",
-"time": " 2:15 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:15 AM2",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
 "ateam": "Hertha BSC",
 "link": [
