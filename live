@@ -1,128 +1,5 @@
 [
 {
-"league": " DFB Pokal ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
-"hteam": "TSG Hoffenheim",
-"time": " live ",
-"date": "11:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
-"ateam": "Borussia Dortmund",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://sportsleading.online/live/stream_8.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://fdaskj.101streams.online/scripts/MTUyMTI=/caxi2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/f3db36ac310a4e487d7b96439905ab42/1698893068645/lhsazur/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001698849882-0-0-c22a163d93893b141144b2777afccde3",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?edge_slice=true&auth_key=1698853516-0-0-fa362c650b3c9e436908e68af4256f34&user_session_id=14b7e312a793f8611c79f17f18e09ab1&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?edge_slice=true&auth_key=1698853516-0-0-fa362c650b3c9e436908e68af4256f34&user_session_id=14b7e312a793f8611c79f17f18e09ab1&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1698852764-0-0-7c0b99e4cd8850a722672a6de5332aae",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-462413_lsd.m3u8?auth_key=1698852764-0-0-7c0b99e4cd8850a722672a6de5332aae",
-"trylink": ""
-}
-]
-},
-{
-"league": " DFB Pokal ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-"hteam": "Paderborn 07",
-"time": " live ",
-"date": "11:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8460_small.png",
-"ateam": "SC Freiburg",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
-"trylink": ""
-}
-]
-},
-{
-"league": " DFB Pokal ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8086_small.png",
-"hteam": "Bayer Leverkusen",
-"time": " live ",
-"date": "11:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"ateam": "Sandhausen",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_ch1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://fdaskj.101streams.online/scripts/MTUyMTE=/720p2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/b55bb2a1601d2b7abcf65315c7c1de21/1698893391354/as9xexm/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001698850206-0-0-99f309482fd11fd1667a737b469200d9",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?auth_key=1698853816-0-0-f15684a953315501ed89aafc60d74882&edge_slice=true&user_session_id=2115f242addbedda638f10474452eaca&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?auth_key=1698853816-0-0-f15684a953315501ed89aafc60d74882&edge_slice=true&user_session_id=2115f242addbedda638f10474452eaca&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1698853004-0-0-3bb923509815a261c7013b49a4ce7e83",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1698853004-0-0-3bb923509815a261c7013b49a4ce7e83",
-"trylink": ""
-}
-]
-},
-{
 "league": " Copa del Rey ",
 "himg": "https://www.fotmob.com/_next/static/media/team_fallback.3ae01170.png",
 "hteam": "Real Sociedad",
@@ -147,39 +24,39 @@
 "league": " EFL Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "hteam": "Arsenal",
-"time": " 2:00 AM ",
-"date": "2023-11-02",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "ateam": "West Ham",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_5.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
+"trylink": "https://247ovo.com/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/2c3bb35af3de1f3e969d438be5473864/1698908746613/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001698865565-0-0-ee0fb85e749b93cd6cd5e302963a22a7",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-669368_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1698869235-0-0-4e674b390f646449a11bef106aa38341&user_session_id=bd5fb196b965e582c166831f63576577",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-669368_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1698869235-0-0-4e674b390f646449a11bef106aa38341&user_session_id=bd5fb196b965e582c166831f63576577",
 "trylink": ""
 },
 {
@@ -205,7 +82,7 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://sportsleading.online/live/stream_2.m3u8",
 "trylink": ""
 },
 {
