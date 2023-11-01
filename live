@@ -3,29 +3,19 @@
 "league": " Copa del Rey ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1567042_small.png",
 "hteam": "Sevilla",
-"time": " 9:00 PM ",
-"date": "2023-11-01",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "ateam": "CD Quintanar",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
 "trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel40.m3u8?auth_key=3000001698848649-0-0-f0060e2675fc362d1da1b196d848e59d",
 "trylink": ""
 },
 {
