@@ -439,12 +439,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1698871545-0-0-8d2f3f9e83c14a7ee5d332b37e594aec",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1698871545-0-0-8d2f3f9e83c14a7ee5d332b37e594aec",
 "trylink": ""
 }
 ]
