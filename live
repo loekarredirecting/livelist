@@ -182,6 +182,46 @@
 "ateam": "Newcastle",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://givemereddit.cloud/hls/arsenal/chunks.m3u8",
+"trylink": "https://givemereddit.eu/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://xwssgs.101streams.online/scripts/MTUzMDA=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://weak.hiweak12.store/live/playliststreamsNBC/weak.m3u8",
+"trylink": ""
+},
+{
+"type": "English 5 HD",
+"livelink": "https://storage.googleapis.com/powdqhebqe/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 6 HD",
+"livelink": "https://sports1.freesportstime.com/playlist/streamfree1.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e0410ed6ebb1f90fa9aca9ab234cdbfc/1699155411975/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -202,12 +242,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -253,12 +313,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
@@ -273,6 +353,26 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Borussia Dortmund",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "0",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/22d2964e7326a36aff8156bb8f241e47/1699156563487/lhsazur/lhsazur@720p.m3u8",
@@ -294,12 +394,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
