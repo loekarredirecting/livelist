@@ -19,6 +19,16 @@
 "trylink": "https://1stream.soccer/"
 },
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/a9a4f879f4b61d7233441fa82656b23f/1699142737223/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -30,12 +40,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&auth_key=1699103236-0-0-aefaa3d60d791061a7150ab1ed964647&user_session_id=f879d36f5200a1cad9773ec5c8e72c34&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?sub_m3u8=true&auth_key=1699103236-0-0-aefaa3d60d791061a7150ab1ed964647&user_session_id=f879d36f5200a1cad9773ec5c8e72c34&edge_slice=true",
 "trylink": ""
 },
 {
