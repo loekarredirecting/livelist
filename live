@@ -176,21 +176,11 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "hteam": "Arsenal",
-"time": " 12:00 AM ",
-"date": "2023-11-05",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "ateam": "Newcastle",
 "link": [
-{
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e0410ed6ebb1f90fa9aca9ab234cdbfc/1699155411975/rchtwtx/rchtwtx@720p.m3u8",
@@ -227,8 +217,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "hteam": "Sevilla",
-"time": " 12:00 AM ",
-"date": "2023-11-05",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "ateam": "Celta Vigo",
 "link": [
@@ -278,21 +268,11 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "hteam": "Bayern Munchen",
-"time": " 12:00 AM ",
-"date": "2023-11-05",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Borussia Dortmund",
 "link": [
-{
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/22d2964e7326a36aff8156bb8f241e47/1699156563487/lhsazur/lhsazur@720p.m3u8",
