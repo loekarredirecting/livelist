@@ -356,6 +356,36 @@
 "trylink": "https://1stream.soccer/"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://weak.hiweak14.store/live/usa/storage.m3u8",
+"trylink": "https://weakspell.org/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://storage.googleapis.com/powdqhebqe/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 6 HD",
+"livelink": "https://sports1.freesportstime.com/playlist/streamfree5.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/18e2a7f833f479884fbd8a151622b157/1699151763886/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -367,22 +397,42 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?edge_slice=true&user_session_id=f810f9441f09655cf735cd4b44573c97&sub_m3u8=true&auth_key=1699112536-0-0-b91745e8cf60355c11beef136bc70a3d",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?edge_slice=true&user_session_id=f810f9441f09655cf735cd4b44573c97&sub_m3u8=true&auth_key=1699112536-0-0-b91745e8cf60355c11beef136bc70a3d",
 "trylink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "0",
+"type": "Soco 1 HD",
+"livelink": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1699112445-0-0-4ec46d18890bf0efdf459cdab7449eef",
 "trylink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0",
+"type": "Soco 1 SD",
+"livelink": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1699112445-0-0-4ec46d18890bf0efdf459cdab7449eef",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=e939cab332c998a6f71b774062370d6f&txTime=6546ae2d",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=e939cab332c998a6f71b774062370d6f&txTime=6546ae2d",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1699112985-0-0-446f0658c0d02d9c48f2805ee218cef3",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1699112985-0-0-446f0658c0d02d9c48f2805ee218cef3",
 "trylink": ""
 }
 ]
