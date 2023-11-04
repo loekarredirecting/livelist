@@ -294,12 +294,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?sub_m3u8=true&user_session_id=1d4c7024408748a55ba197b88fbb91db&edge_slice=true&auth_key=1699111036-0-0-18ba34607754f82ab4e414cb435c8a4c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?sub_m3u8=true&user_session_id=1d4c7024408748a55ba197b88fbb91db&edge_slice=true&auth_key=1699111036-0-0-18ba34607754f82ab4e414cb435c8a4c",
 "trylink": ""
 },
 {
@@ -330,7 +330,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z1HD/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -375,16 +375,6 @@
 "ateam": "Mainz 05",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e869a592d2cd554a32698ae4c5c7fd68/1699150535438/lmjxrrq/lmjxrrq@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -425,16 +415,6 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "ateam": "Union Berlin",
 "link": [
-{
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/3b60930898d2179d7275ea1a3a3fa986/1699150599630/armrqlx/armrqlx@720p.m3u8",
