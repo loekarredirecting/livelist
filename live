@@ -725,49 +725,49 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "hteam": "Mallorca",
-"time": " 9:45 PM ",
-"date": "2023-11-04",
+"time": " live ",
+"date": "9:45 PM",
 "aimg": "Real Betis",
 "ateam": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8",
+"trylink": "https://247ovo.com/"
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://fdaskj.101streams.online/scripts/MTUzMDU=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/adf70a35699d5630a79419b8b2931878/1699153605551/xqispup/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001699110430-0-0-f74f6a95392780be5359609dd29f6e85",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1699114036-0-0-acde082157559248a8b60580eeb7a8b5&edge_slice=true&sub_m3u8=true&user_session_id=83d5db5e24376cade7564474238689cf",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1699114036-0-0-acde082157559248a8b60580eeb7a8b5&edge_slice=true&sub_m3u8=true&user_session_id=83d5db5e24376cade7564474238689cf",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-342075_lhd.m3u8?txSecret=5473ba371ba7653787698bef927ca23a&txTime=6546b049",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-342075_lsd.m3u8?txSecret=5473ba371ba7653787698bef927ca23a&txTime=6546b049",
 "trylink": ""
 }
 ]
