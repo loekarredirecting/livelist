@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-"hteam": "Girona",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"ateam": "Osasuna",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8",
-"trylink": "https://247ovo.com/"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://fdaskj.101streams.online/scripts/MTUyOTc=/720p2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/bc8006ab5355aaede84d4c2c9d3bfa64/1699144242289/kqpqy3v/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001699101072-0-0-30f843e48ffdad7cbfbee6dec4006123",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lhd.m3u8?auth_key=1699104856-0-0-c5332738d9d4db7f78ac30aca7624275&user_session_id=d19b3f0c76438fa79252f85798a3fce6&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-693587_lsd.m3u8?auth_key=1699104856-0-0-c5332738d9d4db7f78ac30aca7624275&user_session_id=d19b3f0c76438fa79252f85798a3fce6&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-368492_lhd.m3u8?auth_key=1699104945-0-0-ed7824f8a70749a17d5c1d675550d8e4",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-368492_lsd.m3u8?auth_key=1699104945-0-0-ed7824f8a70749a17d5c1d675550d8e4",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "hteam": "Napoli",
@@ -455,6 +404,16 @@
 "type": "English 2 HD",
 "livelink": "https://fdaskj.101streams.online/scripts/MTUzMDE=/720p2.m3u8",
 "trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://weak.hiweak12.store/live/sp2/storage.m3u8",
+"trylink": "https://weakspell.org/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
