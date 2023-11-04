@@ -1,76 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-"hteam": "Napoli",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
-"ateam": "Salernitana",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8",
-"trylink": "https://247ovo.com/"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://fdaskj.101streams.online/scripts/MTUyOTg=/caxi2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/cfdae162690b80c6866b00403605b92e/1699144771187/qtdmef4/qtdmef4@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001699101590-0-0-5820593da9e8510ea65c590eefd84139",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lsd.m3u8?edge_slice=true&auth_key=1699098976-0-0-85ba36387f4ee2a633fd103e5f57a594&sub_m3u8=true&user_session_id=4146ee125f6226ba7722a6ef7b25291a",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lsd.m3u8?edge_slice=true&auth_key=1699098976-0-0-85ba36387f4ee2a633fd103e5f57a594&sub_m3u8=true&user_session_id=4146ee125f6226ba7722a6ef7b25291a",
-"trylink": ""
-},
-{
-"type": "Soco 1 HD",
-"livelink": "https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=731f8e0f97fd1a7e76ce151a2473935c&txTime=6546a3dd",
-"trylink": ""
-},
-{
-"type": "Soco 1 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-991117_lsd.m3u8?txSecret=731f8e0f97fd1a7e76ce151a2473935c&txTime=6546a3dd",
-"trylink": ""
-},
-{
-"type": "Soco 2 HD",
-"livelink": "https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1699110345-0-0-49686b63d3bddd01da2eec41e952111e",
-"trylink": ""
-},
-{
-"type": "Soco 2 SD",
-"livelink": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1699110345-0-0-49686b63d3bddd01da2eec41e952111e",
-"trylink": ""
-},
-{
-"type": "Soco 3 HD",
-"livelink": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1699110345-0-0-7a197afb9c0079cbc2b9f46c3ef3abda",
-"trylink": ""
-},
-{
-"type": "Soco 3 SD",
-"livelink": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1699110345-0-0-7a197afb9c0079cbc2b9f46c3ef3abda",
-"trylink": ""
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
 "hteam": "FC Augsburg",
@@ -816,8 +745,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "hteam": "Inter",
-"time": " 11:30 PM ",
-"date": "2023-11-04",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "ateam": "Atalanta",
 "link": [
