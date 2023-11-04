@@ -39,6 +39,16 @@
 "trylink": "https://1stream.soccer/"
 },
 {
+"type": "English 7 HD",
+"livelink": "https://sports1.freesportstime.com/playlist/streamfree1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 8 HD",
+"livelink": "https://temp.elroystoval.store/live/USANETWORK/caxi.m3u8",
+"trylink": "https://bestsolaris.com/"
+},
+{
 "type": "Vebo HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
@@ -69,13 +79,33 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "0",
+"type": "Soco 1 HD",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1699103085-0-0-03541e39f775674995a8f329fc5d4f5c",
 "trylink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0",
+"type": "Soco 1 SD",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1699103085-0-0-03541e39f775674995a8f329fc5d4f5c",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=6621cd84bf6b22ae68f6f0a852b265c9&txTime=65468c6d",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=6621cd84bf6b22ae68f6f0a852b265c9&txTime=65468c6d",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=ba98e7a18ca2cbac61de521e7e69ce09&txTime=65468c31",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=ba98e7a18ca2cbac61de521e7e69ce09&txTime=65468c31",
 "trylink": ""
 }
 ]
