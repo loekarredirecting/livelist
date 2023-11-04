@@ -263,32 +263,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1699122105-0-0-0c27fb476499dcbbf5d7d63cc63f62a8",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1699122105-0-0-0c27fb476499dcbbf5d7d63cc63f62a8",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1699122225-0-0-2a9393b97ac4eb5975a1d561582dc52f",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1699122225-0-0-2a9393b97ac4eb5975a1d561582dc52f",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=82473677ff833b5e4e1a56079d317016&txTime=6546d281",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lsd.m3u8?txSecret=82473677ff833b5e4e1a56079d317016&txTime=6546d281",
 "trylink": ""
 }
 ]
@@ -344,32 +344,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1699122225-0-0-a9e6ae8d95d730cdff571d1d1713c7e4",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1699122225-0-0-a9e6ae8d95d730cdff571d1d1713c7e4",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=bf8212f9d0c0d2c967753b7d96ad61c4&txTime=6546d2bd",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=bf8212f9d0c0d2c967753b7d96ad61c4&txTime=6546d2bd",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=be406b0c277dca2dfaf5ae7fab9a2356&txTime=6546d2f9",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=be406b0c277dca2dfaf5ae7fab9a2356&txTime=6546d2f9",
 "trylink": ""
 }
 ]
