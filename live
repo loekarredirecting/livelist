@@ -1,56 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
-"hteam": "Werder Bremen",
-"time": " live ",
-"date": "9:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
-"ateam": "Wolfsburg",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_10.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://fdaskj.101streams.online/scripts/MTU0MzQ=/720p2.m3u8",
-"trylink": "https://1stream.soccer/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/ea5b7a33c20986ca49363d56701a9e86/1699221984185/r8ztat6/r8ztat6@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001699178796-0-0-9a3b0c59863ddad842d479472eac70b5",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=4fe5ae54d308da6200a791f6ee4c2d72&sub_m3u8=true&auth_key=1699196896-0-0-3fab840a9fb8c76005160a3b7fe511bf&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=4fe5ae54d308da6200a791f6ee4c2d72&sub_m3u8=true&auth_key=1699196896-0-0-3fab840a9fb8c76005160a3b7fe511bf&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=57cb9025ce9d1b6c05b12247ccd94949&txTime=6547fe09",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911969_lsd.m3u8?txSecret=57cb9025ce9d1b6c05b12247ccd94949&txTime=6547fe09",
-"trylink": ""
-}
-]
-},
-{
 "league": " Laliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 "hteam": "Granada",
@@ -161,6 +110,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "ateam": "Luton Town",
 "link": [
+{
+"type": "Recommend Server 1 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-pxwrxlhx4wdlryk/chunklist_w2132163214.m3u8",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-pxwrxlhx4wdlryk/chunklist_w1414034038.m3u8",
+"trylink": ""
+},
 {
 "type": "English 1 HD",
 "livelink": "https://sportsleading.online/live/stream_1.m3u8",
