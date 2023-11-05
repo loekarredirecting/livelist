@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-"hteam": "Almeria",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-"ateam": "Deportivo Alaves",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8",
-"trylink": "https://247ovo.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/6b875278e775d96087fdb7d74111ae78/1699221600012/en7hf6r/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001699178429-0-0-a361bd6ca2e02c77844df157c2e0ffd1",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1699178836-0-0-555d18d2e010de64e74c80e6f9b5bb03&user_session_id=2503b191d190a0be1c5b58b65726d34c&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?auth_key=1699178836-0-0-555d18d2e010de64e74c80e6f9b5bb03&user_session_id=2503b191d190a0be1c5b58b65726d34c&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=e06d9dffe7affe7881d6b514c5df667b&txTime=6547e8b5",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=e06d9dffe7affe7881d6b514c5df667b&txTime=6547e8b5",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "hteam": "Aston Villa",
