@@ -19,6 +19,16 @@
 "trylink": ""
 },
 {
+"type": "Vebo 1 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-8yomo4hgwzx8q0j/chunklist_w144349582.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo 2 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-8yomo4hgwzx8q0j/chunklist_w659275110.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/4dc648d22a827d041583cb354856af6b/1699221502400/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -68,6 +78,16 @@
 "type": "English 2 HD",
 "livelink": "https://chopz.fordems.live/hls/for-4.m3u8",
 "trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
