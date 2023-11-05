@@ -177,32 +177,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1699195665-0-0-09cc0bc7b1b35205b1246156f9de4688",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1699195665-0-0-09cc0bc7b1b35205b1246156f9de4688",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=cfd7926c2e2a3797bbce5b3d49c3a184&txTime=6547f19d",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=cfd7926c2e2a3797bbce5b3d49c3a184&txTime=6547f19d",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1699195725-0-0-7c3576627cfd82791ab484e67e1fa29d",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1699195725-0-0-7c3576627cfd82791ab484e67e1fa29d",
 "trylink": ""
 }
 ]
