@@ -70,6 +70,11 @@
 "ateam": "Lyon",
 "link": [
 {
+"type": "Recommend Server FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-8yomo4hgdyjkq0j/chunklist_w1164525681.m3u8",
+"trylink": ""
+},
+{
 "type": "English 1 HD",
 "livelink": "https://hls.streambtw.com/live/stream_9.m3u8",
 "trylink": ""
@@ -78,16 +83,6 @@
 "type": "English 2 HD",
 "livelink": "https://chopz.fordems.live/hls/for-4.m3u8",
 "trylink": ""
-},
-{
-"type": "Vebo HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
