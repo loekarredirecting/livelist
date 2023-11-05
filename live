@@ -133,7 +133,7 @@
 {
 "type": "English 4 HD",
 "livelink": "https://jkhdsfj.bfst.live/scripts/MTU0MTk=/720p2.m3u8",
-"trylink": ""
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "English 5 HD",
@@ -223,8 +223,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://fdaskj.101streams.online/scripts/MTU0MjY=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
@@ -274,8 +274,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://fdaskj.101streams.online/scripts/MTU0MzA=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
@@ -319,16 +319,6 @@
 "ateam": "Strasbourg",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/1cda9699471bf6072da2320cf79c65ff/1699221875133/z9nbpht/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -350,12 +340,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=1081646006af9b038a93da8d41ba55be&txTime=6547f37d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lsd.m3u8?txSecret=1081646006af9b038a93da8d41ba55be&txTime=6547f37d",
 "trylink": ""
 }
 ]
@@ -369,16 +359,6 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "ateam": "Toulouse",
 "link": [
-{
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/83c9093cbeb8fd2d035161c8007feabf/1699221916454/as9xexm/index.m3u8",
