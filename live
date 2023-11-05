@@ -40,12 +40,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1699130400-0-0-7d633084547c5e778a0ebabaf05b4305",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1699130400-0-0-7d633084547c5e778a0ebabaf05b4305",
 "trylink": ""
 }
 ]
@@ -91,12 +91,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1699167652-0-0-4a84d5b705ac2af7c868ef7cf9540a15",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-259576_lsd.m3u8?auth_key=1699155165-0-0-baf152028cb1e056c7a5825747d03737",
 "trylink": ""
 }
 ]
@@ -192,12 +192,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
