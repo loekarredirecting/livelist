@@ -9,16 +9,6 @@
 "ateam": "Hellas Verona",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://chopz.fordems.live/hls/for-2.m3u8",
-"trylink": ""
-},
-{
 "type": "Vebo 1 FHD",
 "livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-8yomo4hgwzx8q0j/chunklist_w144349582.m3u8",
 "trylink": ""
@@ -26,6 +16,16 @@
 {
 "type": "Vebo 2 FHD",
 "livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-8yomo4hgwzx8q0j/chunklist_w659275110.m3u8",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chopz.fordems.live/hls/for-2.m3u8",
 "trylink": ""
 },
 {
@@ -203,12 +203,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1699187536-0-0-0b8ae1265c2428c34f018a0e9adcec83&edge_slice=true&sub_m3u8=true&user_session_id=5d4a4e9553cfd8ab30ca7ed5f38f889a",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1699187536-0-0-0b8ae1265c2428c34f018a0e9adcec83&edge_slice=true&sub_m3u8=true&user_session_id=5d4a4e9553cfd8ab30ca7ed5f38f889a",
 "trylink": ""
 },
 {
