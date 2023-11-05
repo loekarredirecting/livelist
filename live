@@ -1,61 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-"hteam": "Metz",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
-"ateam": "Lyon",
-"link": [
-{
-"type": "Recommend Server FHD",
-"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-8yomo4hgdyjkq0j/chunklist_w1164525681.m3u8",
-"trylink": ""
-},
-{
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_9.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://chopz.fordems.live/hls/for-4.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/8900021549597bdcdd90d40f72bf1173/1699221548232/r8ztat6/r8ztat6@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001699178376-0-0-9fec851943ece0834e5607997c907705",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-15983456_lhd.m3u8?sub_m3u8=true&user_session_id=5717902cc4d2fb583787c36e2a89c117&auth_key=1699183156-0-0-c9e17a55454f83513def641cfb16aae0&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-15983456_lsd.m3u8?sub_m3u8=true&user_session_id=5717902cc4d2fb583787c36e2a89c117&auth_key=1699183156-0-0-c9e17a55454f83513def641cfb16aae0&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1699167652-0-0-4a84d5b705ac2af7c868ef7cf9540a15",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-259576_lsd.m3u8?auth_key=1699155165-0-0-baf152028cb1e056c7a5825747d03737",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "hteam": "Almeria",
@@ -128,7 +72,7 @@
 {
 "type": "English 3 HD",
 "livelink": "https://weak.hiweak12.store/live/usa/storage.m3u8",
-"trylink": ""
+"trylink": "https://weakspell.org/"
 },
 {
 "type": "English 4 HD",
@@ -289,12 +233,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lhd.m3u8?auth_key=1699196596-0-0-760f7e69cde305e5f45e44951ea9178f&user_session_id=6624ea7c4bfbeaad44c37d3b3e353e6b&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1567980_lsd.m3u8?auth_key=1699196596-0-0-760f7e69cde305e5f45e44951ea9178f&user_session_id=6624ea7c4bfbeaad44c37d3b3e353e6b&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
@@ -330,12 +274,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?edge_slice=true&auth_key=1699196657-0-0-1a2843e6216dd68ae97bf192bc54cf40&sub_m3u8=true&user_session_id=38ebcbc8ca8f05d5a940b3371ca21d2b",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?edge_slice=true&auth_key=1699196657-0-0-1a2843e6216dd68ae97bf192bc54cf40&sub_m3u8=true&user_session_id=38ebcbc8ca8f05d5a940b3371ca21d2b",
 "trylink": ""
 },
 {
