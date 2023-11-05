@@ -339,8 +339,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "hteam": "Werder Bremen",
-"time": " 9:00 PM ",
-"date": "2023-11-05",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
 "ateam": "Wolfsburg",
 "link": [
@@ -351,8 +351,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://fdaskj.101streams.online/scripts/MTU0MzQ=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
@@ -366,12 +366,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=4fe5ae54d308da6200a791f6ee4c2d72&sub_m3u8=true&auth_key=1699196896-0-0-3fab840a9fb8c76005160a3b7fe511bf&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=4fe5ae54d308da6200a791f6ee4c2d72&sub_m3u8=true&auth_key=1699196896-0-0-3fab840a9fb8c76005160a3b7fe511bf&edge_slice=true",
 "trylink": ""
 },
 {
