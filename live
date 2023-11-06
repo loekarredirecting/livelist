@@ -3,39 +3,29 @@
 "league": " AFC Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/578655_small.png",
 "hteam": "Al Hilal",
-"time": " 8:30 PM ",
-"date": "2023-11-06",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
 "ateam": "Mumbai City FC",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/62aef32230df29bc2b2def99da8d25f1/1699321627177/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001699278395-0-0-45a6f7f1985fb4f42f5b02f59c3223de",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=92862f44ac8cdd57e8ee84b1241a93b2&auth_key=1699282096-0-0-9d16ba87f65aa6f522e2de0c5bb97b3f",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=92862f44ac8cdd57e8ee84b1241a93b2&auth_key=1699282096-0-0-9d16ba87f65aa6f522e2de0c5bb97b3f",
 "trylink": ""
 },
 {
