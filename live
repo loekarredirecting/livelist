@@ -1,67 +1,16 @@
 [
 {
-"league": " AFC Champions League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/578655_small.png",
-"hteam": "Al Hilal",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
-"ateam": "Mumbai City FC",
-"link": [
-{
-"type": "Vebo HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/62aef32230df29bc2b2def99da8d25f1/1699321627177/rchtwtx/rchtwtx@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001699278395-0-0-45a6f7f1985fb4f42f5b02f59c3223de",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=92862f44ac8cdd57e8ee84b1241a93b2&auth_key=1699282096-0-0-9d16ba87f65aa6f522e2de0c5bb97b3f",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=92862f44ac8cdd57e8ee84b1241a93b2&auth_key=1699282096-0-0-9d16ba87f65aa6f522e2de0c5bb97b3f",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=f413f1b9eaf5e3e6663bce2c1db4edf2&txTime=6549431d",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=f413f1b9eaf5e3e6663bce2c1db4edf2&txTime=6549431d",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
 "hteam": "Empoli",
-"time": " 12:00 AM ",
-"date": "2023-11-07",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 "ateam": "Frosinone",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8",
 "trylink": ""
 },
 {
