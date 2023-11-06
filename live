@@ -9,6 +9,16 @@
 "ateam": "Mumbai City FC",
 "link": [
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/62aef32230df29bc2b2def99da8d25f1/1699321627177/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -30,12 +40,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=f413f1b9eaf5e3e6663bce2c1db4edf2&txTime=6549431d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=f413f1b9eaf5e3e6663bce2c1db4edf2&txTime=6549431d",
 "trylink": ""
 }
 ]
