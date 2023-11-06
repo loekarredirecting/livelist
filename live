@@ -61,7 +61,7 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8",
 "trylink": ""
 },
 {
@@ -81,12 +81,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lhd.m3u8?user_session_id=a84ea65af130b9e7eb474c9456a30bb8&sub_m3u8=true&edge_slice=true&auth_key=1699301896-0-0-f4c08e703c0b8f92b223428197d78f43",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lsd.m3u8?user_session_id=a84ea65af130b9e7eb474c9456a30bb8&sub_m3u8=true&edge_slice=true&auth_key=1699301896-0-0-f4c08e703c0b8f92b223428197d78f43",
 "trylink": ""
 },
 {
@@ -121,13 +121,33 @@
 "trylink": "https://1stream.soccer/"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://chopz.fordems.live/hls/for-1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://sportsleading.online/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 5 HD",
+"livelink": "https://weak.hiweak12.store/live/sspl/weak.m3u8",
+"trylink": ""
+},
+{
+"type": "English 6 HD",
+"livelink": "https://sports1.freesportstime.com/playlist/streamfree1.m3u8",
+"trylink": ""
+},
+{
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
