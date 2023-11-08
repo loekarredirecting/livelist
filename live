@@ -238,7 +238,7 @@
 },
 {
 "type": "Recommend Server 2 HD",
-"livelink": "0",
+"livelink": "https://1485809576.global.cdnfastest.com/live/lampard.m3u8?expire=1735635000&sign=cdda78ccc36a6fa94c0796d752c69f75",
 "trylink": ""
 },
 {
@@ -343,6 +343,46 @@
 "ateam": "Arsenal",
 "link": [
 {
+"type": "Recommend Server 1 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/lutuannghia.m3u8?expire=1735635000&sign=bc7b8bb9ce276124be1b94acf5934958",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/lutuannghia.m3u8?expire=1735635000&sign=bc7b8bb9ce276124be1b94acf5934958",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 5 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 6 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/8c9728ac6832993cda48e5a8a2a3c641/1699498625630/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -363,12 +403,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=ac93012143c55b3cc5698f4e49514f0e&txTime=654c3c5d",
+"trylink": ""
+},
+{
+"type": "Soco 1 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lsd.m3u8?txSecret=ac93012143c55b3cc5698f4e49514f0e&txTime=654c3c5d",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
