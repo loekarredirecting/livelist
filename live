@@ -60,12 +60,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1699477425-0-0-e64fa041c0ebd0217d79f61a92703c69",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1699477425-0-0-e64fa041c0ebd0217d79f61a92703c69",
 "trylink": ""
 }
 ]
@@ -313,12 +313,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lhd.m3u8?auth_key=1699477485-0-0-562ad669010570a119bd762ed1890df1",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lsd.m3u8?auth_key=1699477485-0-0-562ad669010570a119bd762ed1890df1",
 "trylink": ""
 }
 ]
@@ -332,6 +332,26 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10264_small.png",
 "ateam": "Real Madrid",
 "link": [
+{
+"type": "Recommend Server 1 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/tonggiang.m3u8?expire=1735635000&sign=1f24412feda40500b9dbf6e0600acd9c",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/chudong.m3u8?expire=1735635000&sign=898a8fe0a893ea960881307d930c9bfa",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDg6MDk6MTYgUE0maGFzaF92YWx1ZT1xNmdFNkhsMTVNSzhmaXJkVi9LTUxnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAwOmFjNDA6NjEwOjMwNTA6OWIwOjJhZjQ6Zjg3MDpmYWE5JnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/87563caff761f3e9f12c8ee0a54e8535/1699498727804/trd02w8/index.m3u8",
@@ -354,12 +374,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=c20e720602e38f37b4ed8e8c3b01426b&txTime=654c3e01",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=c20e720602e38f37b4ed8e8c3b01426b&txTime=654c3e01",
 "trylink": ""
 }
 ]
