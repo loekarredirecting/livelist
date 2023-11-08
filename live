@@ -9,6 +9,46 @@
 "ateam": "Napoli",
 "link": [
 {
+"type": "Recommend Server 1 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/chudong.m3u8?expire=1735635000&sign=898a8fe0a893ea960881307d930c9bfa",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://dwpzlydn0oyy0.cloudfront.net/index_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch3/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDU6MTM6MzEgUE0maGFzaF92YWx1ZT1LNzlBU1JxZCtNeDh2RVNOV01qOXNBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAwOmFjNDA6NjEwOjMwNTA6OWIwOjJhZjQ6Zjg3MDpmYWE5JnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/b1d514566f15dc05fcd88e01722e8992/1699498392604/lmjxrrq/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -49,6 +89,36 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9772_small.png",
 "ateam": "Real Sociedad",
 "link": [
+{
+"type": "Recommend Server 1 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/truongthuan.m3u8?expire=1735635000&sign=d4150d17f89d4aa5317f93965abe3e56",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://d39li0yjf9qr92.cloudfront.net/index_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDU6MjM6NTMgUE0maGFzaF92YWx1ZT1LN0kyMUhHZFVlY2hHYVVnRHFTSkNRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAwOmFjNDA6NjEwOjMwNTA6OWIwOjJhZjQ6Zjg3MDpmYWE5JnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/cuonHD/playlist.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cuonSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/3e01abe495414f3e9e6e6c2fdf6f8b13/1699498453492/as9xexm/index.m3u8",
