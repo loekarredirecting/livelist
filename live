@@ -111,7 +111,7 @@
 },
 {
 "type": "English 5 HD",
-"livelink": "0",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-3glrw7h7weneqdy/chunklist_w478126836.m3u8",
 "trylink": ""
 },
 {
@@ -222,8 +222,18 @@
 },
 {
 "type": "English 5 HD",
-"livelink": "0",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-4jwq2ghe4d31m0v/chunklist_w613734961.m3u8",
 "trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "English 6 HD",
@@ -394,6 +404,26 @@
 "ateam": "Salzburg",
 "link": [
 {
+"type": "Recommend Server 1 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/tonggiang.m3u8?expire=1735635000&sign=1f24412feda40500b9dbf6e0600acd9c",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 HD",
+"livelink": "https://hls.streambtw.com/live/stream_e6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://chopz.fordems.live/hls/for-5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch6/live/ch6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOC8yMDIzIDg6MTM6MzMgUE0maGFzaF92YWx1ZT1YSWhkdm1paXI3RHQ3aC94ZlE1U0F3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yNDAwOmFjNDA6NjEwOjMwNTA6OWIwOjJhZjQ6Zjg3MDpmYWE5JnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/9001e8fc85a535015da4f86dd5597634/1699498786701/z9nbpht/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -415,12 +445,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1699477965-0-0-bfed2ae2e51e344cbd93e0be00f6945f",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1699477965-0-0-bfed2ae2e51e344cbd93e0be00f6945f",
 "trylink": ""
 }
 ]
