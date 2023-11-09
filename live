@@ -3,11 +3,21 @@
 "league": " Europa League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "hteam": "Liverpool",
-"time": " 12:15 AM ",
-"date": "2023-11-10",
+"time": " live ",
+"date": "12:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "ateam": "Toulouse",
 "link": [
+{
+"type": "Recommend Server 1 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/saitien.m3u8?expire=1735635000&sign=0f295213125cf3a307084ac8395d1d71",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 HD",
+"livelink": "0",
+"trylink": ""
+},
 {
 "type": "English 1 HD",
 "livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
@@ -15,27 +25,27 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvOS8yMDIzIDU6MTg6MjkgUE0maGFzaF92YWx1ZT1hWjduVytCY0xYOXkxMWQzUlJXWFhRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xMDguMTYyLjIyNi4xNDUmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lhd.m3u8?auth_key=1699553656-0-0-ddcad18a5e60e95bb4f88fc44dc1ba13&edge_slice=true&user_session_id=21c702317b55f99013e4b23b5c85913d&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-516701_lsd.m3u8?auth_key=1699553656-0-0-ddcad18a5e60e95bb4f88fc44dc1ba13&edge_slice=true&user_session_id=21c702317b55f99013e4b23b5c85913d&sub_m3u8=true",
 "trylink": ""
 },
 {
