@@ -3,14 +3,14 @@
 "league": " Saudi Professional League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
 "hteam": "Al-Taawoun",
-"time": " 9:30 PM ",
-"date": "2023-11-10",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",
 "ateam": "Al Hilal",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hls.streambtw.com/live/stream_e5.m3u8",
 "trylink": ""
 },
 {
