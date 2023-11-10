@@ -44,8 +44,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
 "hteam": "Salernitana",
-"time": " 12:00 AM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "ateam": "Sassuolo",
 "link": [
@@ -80,8 +80,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "hteam": "Wolfsburg",
-"time": " 2:00 AM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "ateam": "Borussia M'Gladbach",
 "link": [
@@ -116,8 +116,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
 "hteam": "Hellas Verona",
-"time": " 2:15 AM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "ateam": "genoa",
 "link": [
@@ -147,8 +147,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "hteam": "Celta Vigo",
-"time": " 2:30 AM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "ateam": "Athletic Club",
 "link": [
@@ -183,8 +183,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "hteam": "Nice",
-"time": " 2:30 AM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
 "ateam": "Montpellier",
 "link": [
@@ -194,23 +194,13 @@
 "trylink": "https://1stream.soccer/"
 },
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1699635825-0-0-7165b382222f74b4c7a02e4dcdd8e4b7",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1699635825-0-0-7165b382222f74b4c7a02e4dcdd8e4b7",
 "trylink": ""
 }
 ]
