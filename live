@@ -51,42 +51,27 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTU2NDA=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1699632856-0-0-94616740efb98cf2bceba0060bb467c4&sub_m3u8=true&user_session_id=2e7e5af95b7a30ef1b7ecfd06bb1c0d8&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1699632856-0-0-94616740efb98cf2bceba0060bb467c4&sub_m3u8=true&user_session_id=2e7e5af95b7a30ef1b7ecfd06bb1c0d8&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1699631865-0-0-d8adbdd7b8ee84aae76df501a0e8b0f9",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1699631865-0-0-d8adbdd7b8ee84aae76df501a0e8b0f9",
 "trylink": ""
 }
 ]
@@ -102,23 +87,111 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://gfdsw.mainmasterbig.net/scripts/MTU2NDU=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&auth_key=1699633277-0-0-ee34e7892c9d31f75b8d8a58b453f2cd&edge_slice=true&user_session_id=39c8084a27048c2815ff235ebcf321b8",
 "trylink": ""
 },
 {
-"type": "English 2 HD",
-"livelink": "0",
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?sub_m3u8=true&auth_key=1699633277-0-0-ee34e7892c9d31f75b8d8a58b453f2cd&edge_slice=true&user_session_id=39c8084a27048c2815ff235ebcf321b8",
 "trylink": ""
 },
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1699633185-0-0-7d4ddcb5d368f0462def096176e7d951",
+"trylink": ""
 },
 {
-"type": "Vietnam FHD",
-"livelink": "0",
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912008_lsd.m3u8?auth_key=1699633185-0-0-7d4ddcb5d368f0462def096176e7d951",
 "trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
+"hteam": "Hellas Verona",
+"time": " 2:15 AM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+"ateam": "genoa",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?user_session_id=df3a3a1e7aa72531fe6aed0ea5a3733a&edge_slice=true&auth_key=1699633337-0-0-fec9e8fc385fe4cae81b58d980951ba0&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?user_session_id=df3a3a1e7aa72531fe6aed0ea5a3733a&edge_slice=true&auth_key=1699633337-0-0-fec9e8fc385fe4cae81b58d980951ba0&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-410515_lhd.m3u8?auth_key=1699633425-0-0-03340cb3843f2a9ff7ceb9159f4789fa",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-410515_lsd.m3u8?auth_key=1699633425-0-0-03340cb3843f2a9ff7ceb9159f4789fa",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
+"hteam": "Celta Vigo",
+"time": " 2:30 AM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+"ateam": "Athletic Club",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTU2NDI=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1699633672-0-0-6e97ebf80e2ef3cbd19f152fbb7c0a79&user_session_id=bc5b8edce5d3b9a7d3547a9471eb8e70&sub_m3u8=true&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1699633672-0-0-6e97ebf80e2ef3cbd19f152fbb7c0a79&user_session_id=bc5b8edce5d3b9a7d3547a9471eb8e70&sub_m3u8=true&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-368492_lhd.m3u8?auth_key=1699633545-0-0-207ab058f05252fdf2fe3c6826b0a5ba",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-368492_lsd.m3u8?auth_key=1699633545-0-0-207ab058f05252fdf2fe3c6826b0a5ba",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
+"hteam": "Nice",
+"time": " 2:30 AM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
+"ateam": "Montpellier",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTU2NDQ=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
@@ -143,13 +216,13 @@
 ]
 },
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
-"hteam": "Hellas Verona",
-"time": " 2:15 AM ",
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+"hteam": "Tottenham Hotspur",
+"time": " 7:00 PM ",
 "date": "2023-11-11",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-"ateam": "genoa",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"ateam": "Wolverhampton",
 "link": [
 {
 "type": "English 1 HD",
@@ -195,12 +268,930 @@
 },
 {
 "league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-"hteam": "Celta Vigo",
-"time": " 2:30 AM ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+"hteam": "Girona",
+"time": " 7:30 PM ",
 "date": "2023-11-11",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-"ateam": "Athletic Club",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+"ateam": "Rayo Vallecano",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+"hteam": "AC Milan",
+"time": " 8:30 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"ateam": "Lecce",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
+"hteam": "TSG Hoffenheim",
+"time": " 9:00 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+"ateam": "FC Augsburg",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"hteam": "FC Heidenheim",
+"time": " 9:00 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
+"ateam": "Bayern München",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
+"hteam": "Mainz 05",
+"time": " 9:00 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
+"ateam": "SV Darmstadt",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
+"hteam": "Borussia Dortmund",
+"time": " 9:00 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
+"ateam": "VfB Stuttgart",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+"hteam": "Luton Town",
+"time": " 9:30 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+"ateam": "Man United",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+"hteam": "Burnley",
+"time": " 9:30 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
+"ateam": "Arsenal",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+"hteam": "Everton",
+"time": " 9:30 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+"ateam": "Crystal Palace",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
+"hteam": "Real Sociedad",
+"time": " 9:45 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
+"ateam": "Almeria",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
+"hteam": "PSG",
+"time": " 10:30 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"ateam": "Reims",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+"hteam": "Cagliari",
+"time": " 11:30 PM ",
+"date": "2023-11-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
+"ateam": "Juventus",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+"hteam": "Newcastle",
+"time": " 12:00 AM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+"ateam": "AFC Bournemouth",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
+"hteam": "Getafe",
+"time": " 12:00 AM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+"ateam": "Granada",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
+"hteam": "Las Palmas",
+"time": " 12:00 AM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
+"ateam": "Osasuna",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
+"hteam": "FC Köln",
+"time": " 12:00 AM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+"ateam": "VfL Bochum",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Saudi Professional League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
+"hteam": "Al Nassr FC",
+"time": " 12:30 AM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+"ateam": "Al-Wehda",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+"hteam": "Torino",
+"time": " 2:15 AM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
+"ateam": "Monza",
+"link": [
+{
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"hteam": "Valencia",
+"time": " 2:30 AM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
+"ateam": "Real Madrid",
 "link": [
 {
 "type": "English 1 HD",
@@ -246,12 +1237,12 @@
 },
 {
 "league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-"hteam": "Nice",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
+"hteam": "Monaco",
 "time": " 2:30 AM ",
-"date": "2023-11-11",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"ateam": "Montpellier",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+"ateam": "Le Havre",
 "link": [
 {
 "type": "English 1 HD",
