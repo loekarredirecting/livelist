@@ -9,23 +9,13 @@
 "ateam": "Al Hilal",
 "link": [
 {
-"type": "Recommend Server 1 HD",
+"type": "Recommend Server 1 FHD",
 "livelink": "https://1485809576.global.cdnfastest.com/live/duongchi.m3u8?expire=1735635000&sign=175ec107bf94ed24394526f365a92fc7",
 "trylink": ""
 },
 {
-"type": "Recommend Server 2 HD",
+"type": "Recommend Server 2 FHD",
 "livelink": "https://hls.streambtw.com/live/stream_e5.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
 "trylink": ""
 },
 {
