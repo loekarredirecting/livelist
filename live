@@ -9,13 +9,13 @@
 "ateam": "Al Hilal",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "https://hls.streambtw.com/live/stream_e5.m3u8",
+"type": "Recommend Server 1 HD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/duongchi.m3u8?expire=1735635000&sign=175ec107bf94ed24394526f365a92fc7",
 "trylink": ""
 },
 {
-"type": "English 2 HD",
-"livelink": "0",
+"type": "Recommend Server 2 HD",
+"livelink": "https://hls.streambtw.com/live/stream_e5.m3u8",
 "trylink": ""
 },
 {
@@ -30,22 +30,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?auth_key=1699631597-0-0-90becff2c553b6a396a422cdceaa0f81&edge_slice=true&sub_m3u8=true&user_session_id=4427ed38bd97b8f386e883e9212bb23c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?auth_key=1699631597-0-0-90becff2c553b6a396a422cdceaa0f81&edge_slice=true&sub_m3u8=true&user_session_id=4427ed38bd97b8f386e883e9212bb23c",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1699631865-0-0-d8adbdd7b8ee84aae76df501a0e8b0f9",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1699631865-0-0-d8adbdd7b8ee84aae76df501a0e8b0f9",
 "trylink": ""
 }
 ]
