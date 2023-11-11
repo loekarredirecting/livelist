@@ -15,7 +15,7 @@
 },
 {
 "type": "Recommend Server 2 FHD",
-"livelink": "0",
+"livelink": "https://1485809576.global.cdnfastest.com/live/lampard.m3u8?expire=1735635000&sign=cdda78ccc36a6fa94c0796d752c69f75",
 "trylink": ""
 },
 {
@@ -67,6 +67,36 @@
 "type": "China SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1699707077-0-0-c9c3f46ec5324292fe15c77ffb95e655&edge_slice=true&user_session_id=a1739c95f9bc15f7b8ccedcda0be3bd2&sub_m3u8=true",
 "trylink": ""
+},
+{
+"type": "Soco 1 HD",
+"livelink": "https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1699708125-0-0-8cd264af2e737856a0f678fb33acb6d9",
+"trylink": ""
+},
+{
+"type": "Soco 1 SD",
+"livelink": "https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1699708125-0-0-8cd264af2e737856a0f678fb33acb6d9",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=5e5c03a3e206ce1dcc99dd5ff6d04f0d&txTime=654fc585",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=5e5c03a3e206ce1dcc99dd5ff6d04f0d&txTime=654fc585",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=1a255a8b3ee141df5b606de8447e7fe9&txTime=654fc5c1",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912048_lsd.m3u8?txSecret=1a255a8b3ee141df5b606de8447e7fe9&txTime=654fc5c1",
+"trylink": ""
 }
 ]
 },
@@ -81,23 +111,13 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyAxMjoxODozOCBQTSZoYXNoX3ZhbHVlPXY4bThKakJqUWFsUVh6WDAwOUhodVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE2Mi4xNTguMTcwLjI0MCZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
 },
 {
 "type": "China HD",
