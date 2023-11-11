@@ -387,6 +387,26 @@
 "ateam": "Crystal Palace",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyAyOjQ1OjIwIFBNJmhhc2hfdmFsdWU9bUNnYVNHVUZ3N25YZVR2S2htL2dwdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjcwLjE0My40MCZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-3/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://ss1.101streams.net/scripts/MTU3MDE=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
 "type": "China HD",
 "livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-613431_lhd.m3u8?auth_key=1699714637-0-0-27a3c7bd070edf5dd19ded6a9af84506&edge_slice=true&sub_m3u8=true&user_session_id=84f59f8c3c732fafc03caee4a055ba29",
 "trylink": ""
