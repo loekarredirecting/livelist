@@ -431,11 +431,21 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "hteam": "Real Sociedad",
-"time": " 9:45 PM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "9:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Almeria",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTU3MDQ=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?sub_m3u8=true&auth_key=1699714697-0-0-eb3777265619d53fb39ee9c86bf56196&user_session_id=375ab27eb7adb84162a89689ccbbefcc&edge_slice=true",
