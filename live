@@ -29,6 +29,16 @@
 "trylink": ""
 },
 {
+"type": "K+ Sports HD",
+"livelink": "0",
+"trylink": "https://live-streamfootball.com/"
+},
+{
+"type": "K+ Sports FHD",
+"livelink": "0",
+"trylink": "https://live-streamfootball.com/"
+},
+{
 "type": "English 1 FHD",
 "livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
 "trylink": ""
@@ -155,8 +165,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "hteam": "AC Milan",
-"time": " 8:30 PM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "ateam": "Lecce",
 "link": [
