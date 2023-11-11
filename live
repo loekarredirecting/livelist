@@ -1,46 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"hteam": "Girona",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"ateam": "Rayo Vallecano",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyAxMjoxODozOCBQTSZoYXNoX3ZhbHVlPXY4bThKakJqUWFsUVh6WDAwOUhodVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE2Mi4xNTguMTcwLjI0MCZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1699709657-0-0-318b9a51ad9a06ee75085256f1eb7910&user_session_id=0bdcc2a835580c808938ac08af3c0930",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1699709657-0-0-318b9a51ad9a06ee75085256f1eb7910&user_session_id=0bdcc2a835580c808938ac08af3c0930",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1699709926-0-0-b59538e371a114f7b41799ac86bebb4c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-462413_lsd.m3u8?auth_key=1699709926-0-0-b59538e371a114f7b41799ac86bebb4c",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "hteam": "AC Milan",
@@ -387,32 +346,32 @@
 },
 {
 "type": "Soco 1 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912048_lhd.m3u8?txSecret=9ada1b0579eb308cd8d8419d2afa0600&txTime=654feb06",
 "trylink": ""
 },
 {
 "type": "Soco 1 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912048_lsd.m3u8?txSecret=9ada1b0579eb308cd8d8419d2afa0600&txTime=654feb06",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1699718266-0-0-a29dcdca4bfc27313da478bca1a8a376",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1699718266-0-0-a29dcdca4bfc27313da478bca1a8a376",
 "trylink": ""
 },
 {
 "type": "Soco 3 HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=e1e42dc00b8e88be6cbbed44053e194c&txTime=654feb06",
 "trylink": ""
 },
 {
 "type": "Soco 3 SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=e1e42dc00b8e88be6cbbed44053e194c&txTime=654feb06",
 "trylink": ""
 }
 ]
