@@ -285,12 +285,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912079_lhd.m3u8?auth_key=1699734046-0-0-3196510d61585b9d0c7981c5984b796f",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912079_lsd.m3u8?auth_key=1699734046-0-0-3196510d61585b9d0c7981c5984b796f",
 "trylink": ""
 }
 ]
@@ -326,12 +326,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lhd.m3u8?auth_key=1699735545-0-0-44c0735b724c01f145aa1aa26cb31af3",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lsd.m3u8?auth_key=1699735545-0-0-44c0735b724c01f145aa1aa26cb31af3",
 "trylink": ""
 }
 ]
@@ -352,7 +352,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -367,12 +367,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-434154_lhd.m3u8?auth_key=1699735425-0-0-9756f2b011ff0f70c3bb303d1ca75431",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-434154_lsd.m3u8?auth_key=1699735425-0-0-9756f2b011ff0f70c3bb303d1ca75431",
 "trylink": ""
 }
 ]
