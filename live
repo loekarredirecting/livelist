@@ -19,6 +19,16 @@
 "trylink": ""
 },
 {
+"type": "Recommend Server 3 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-k82rekh0kd55rep/chunklist_w1565513044.m3u8",
+"trylink": ""
+},
+{
+"type": "Recommend Server 4 FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
 "type": "English 1 FHD",
 "livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
 "trylink": ""
@@ -104,8 +114,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "hteam": "Girona",
-"time": " 7:30 PM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Rayo Vallecano",
 "link": [
@@ -152,42 +162,32 @@
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://gfdsw.mainmasterbig.net/scripts/MTU3MDg=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lhd.m3u8?sub_m3u8=true&auth_key=1699709357-0-0-e763b8399ee702e81daa4f94e21b063a&user_session_id=a070321dc23637845314a771aa60dce1&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-3378908_lsd.m3u8?sub_m3u8=true&auth_key=1699709357-0-0-e763b8399ee702e81daa4f94e21b063a&user_session_id=a070321dc23637845314a771aa60dce1&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-104707_lhd.m3u8?txSecret=73ea63de6326c488a414aa0ffd2ea6dd&txTime=654fc765",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-104707_lsd.m3u8?txSecret=73ea63de6326c488a414aa0ffd2ea6dd&txTime=654fc765",
 "trylink": ""
 }
 ]
