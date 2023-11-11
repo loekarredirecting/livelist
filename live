@@ -472,11 +472,31 @@
 "league": " Ligue 1",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 "hteam": "PSG",
-"time": " 10:30 PM ",
-"date": "2023-11-11",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
 "ateam": "Reims",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_11.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTEvMjAyMyAzOjQwOjQ3IFBNJmhhc2hfdmFsdWU9aDA2ZnJ6MTVxUU9vVGJLbjMvSzRYUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xNjMuNzgmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://ss1.101streams.net/scripts/MTU3MTE=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551370_lhd.m3u8?auth_key=1699714817-0-0-312e37d69c498730de02cac95838621b&sub_m3u8=true&edge_slice=true&user_session_id=185664b5cfa122338f78025e75b87132",
@@ -489,12 +509,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=f7f83ecaf3c6536581d9cfb1e27f7fc4&txTime=654ff51a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=f7f83ecaf3c6536581d9cfb1e27f7fc4&txTime=654ff51a",
 "trylink": ""
 }
 ]
