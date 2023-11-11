@@ -246,12 +246,12 @@
 "link": [
 {
 "type": "Recommend Server 1 FHD",
-"livelink": "https://1485809576.global.cdnfastest.com/live/saitien.m3u8?expire=1735635000&sign=0f295213125cf3a307084ac8395d1d71",
+"livelink": "https://1485809576.global.cdnfastest.com/live/lutuannghia.m3u8?expire=1735635000&sign=bc7b8bb9ce276124be1b94acf5934958",
 "trylink": ""
 },
 {
 "type": "Recommend Server 2 FHD",
-"livelink": "https://1485809576.global.cdnfastest.com/live/saitien.m3u8?expire=1735635000&sign=0f295213125cf3a307084ac8395d1d71",
+"livelink": "https://1485809576.global.cdnfastest.com/live/lutuannghia.m3u8?expire=1735635000&sign=bc7b8bb9ce276124be1b94acf5934958",
 "trylink": ""
 },
 {
@@ -295,13 +295,33 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "0",
+"type": "Soco 1 HD",
+"livelink": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1699718026-0-0-8ac22f39730ce70689e1cffdb00801e3",
 "trylink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0",
+"type": "Soco 1 SD",
+"livelink": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1699718026-0-0-8ac22f39730ce70689e1cffdb00801e3",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1699718086-0-0-06cd765124cd1219ae0d6ee16df82770",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1699718086-0-0-06cd765124cd1219ae0d6ee16df82770",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912085_lhd.m3u8?txSecret=69943131cbc96a92e84fe21b9a392892&txTime=654fea16",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912085_lsd.m3u8?txSecret=69943131cbc96a92e84fe21b9a392892&txTime=654fea16",
 "trylink": ""
 }
 ]
@@ -366,12 +386,32 @@
 "trylink": ""
 },
 {
-"type": "Soco HD",
+"type": "Soco 1 HD",
 "livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco SD",
+"type": "Soco 1 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 2 SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco 3 SD",
 "livelink": "0",
 "trylink": ""
 }
