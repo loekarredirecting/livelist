@@ -293,6 +293,36 @@
 "ateam": "West Ham",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/duongchi.m3u8?expire=1735635000&sign=175ec107bf94ed24394526f365a92fc7",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAxOjQ0OjM5IFBNJmhhc2hfdmFsdWU9RVBkYXhEQ2F5OXFkbTVjOU4wZVJ5UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xODkuODgmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-3/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://xhop.fordems.live/hls/for-3.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lhd.m3u8?auth_key=1699795878-0-0-1a3585ec2e51173e466d95aa384a41d6&sub_m3u8=true&user_session_id=b158788a5323e1e898f2d9186bdbc95f&edge_slice=true",
 "trylink": ""
