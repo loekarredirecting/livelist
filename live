@@ -9,6 +9,26 @@
 "ateam": "Napoli",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/saitien.m3u8?expire=1735635000&sign=0f295213125cf3a307084ac8395d1d71",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/sachsieu.m3u8?expire=1735635000&sign=d195d0c3fd9920893f242c8ecec2bb21",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch1/live/ch1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAxMTowOToyOCBBTSZoYXNoX3ZhbHVlPXcveXJ5NUM2M3VjeXZLRjY5aDZ6RlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTE3Mi42OS4xNjYuNjkmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?edge_slice=true&user_session_id=a2e74c68f53c0254b47615d58e3b2c0b&auth_key=1699790717-0-0-5ce6ae91ed6ef8c0136fbeb17e221082&sub_m3u8=true",
 "trylink": ""
