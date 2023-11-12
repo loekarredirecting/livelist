@@ -1,46 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
-"hteam": "Union Berlin",
-"time": " live ",
-"date": "9:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-"ateam": "Bayer Leverkusen",
-"link": [
-{
-"type": "Recommend Server 1 FHD",
-"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-pxwrxlhxkoj9ryk/chunklist_w1235670655.m3u8",
-"trylink": ""
-},
-{
-"type": "Recommend Server 2 FHD",
-"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-pxwrxlhxkoj9ryk/chunklist_w1373632784.m3u8",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?sub_m3u8=true&auth_key=1699802477-0-0-b2b4b3ef87c248cddd82ea08e51c1fcd&user_session_id=0fa17b35f2f60b2ee28942bf47abe158&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?sub_m3u8=true&auth_key=1699802477-0-0-b2b4b3ef87c248cddd82ea08e51c1fcd&user_session_id=0fa17b35f2f60b2ee28942bf47abe158&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-273736_lhd.m3u8?txSecret=176bf32c5a0a94fe4e0fc538b623de22&txTime=65513362",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-273736_lsd.m3u8?txSecret=176bf32c5a0a94fe4e0fc538b623de22&txTime=65513362",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Deportivo Alaves",
