@@ -15,7 +15,7 @@
 },
 {
 "type": "Recommend Server 2 FHD",
-"livelink": "0",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-6ypq3nh79d2gmd7/chunklist_w757789521.m3u8",
 "trylink": ""
 },
 {
@@ -86,7 +86,7 @@
 },
 {
 "type": "Recommend Server 2 FHD",
-"livelink": "0",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-3glrw7h38expqdy/chunklist_w1105962425.m3u8",
 "trylink": ""
 },
 {
@@ -228,7 +228,7 @@
 },
 {
 "type": "Recommend Server 2 FHD",
-"livelink": "0",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-ednm9wh2nljyryo/chunklist_w187256924.m3u8",
 "trylink": ""
 },
 {
@@ -289,7 +289,7 @@
 },
 {
 "type": "Recommend Server 2 FHD",
-"livelink": "0",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-pxwrxlhx6vewryk/chunklist_w1429194225.m3u8",
 "trylink": ""
 },
 {
@@ -334,6 +334,16 @@
 "ateam": "Udinese",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-dj2ryohew2xlq1z/chunklist_w722158969.m3u8",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-dj2ryohew2xlq1z/chunklist_w705750764.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&auth_key=1699796357-0-0-f8601ab70649388c1eaf322f13400d46&user_session_id=59d82d615a8be19276ac0442daf1299d&edge_slice=true",
 "trylink": ""
@@ -364,6 +374,11 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "ateam": "Clermont Foot",
 "link": [
+{
+"type": "Recommend Server 1 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-zp5rzgh6l3e6q82/chunklist_w1506063369.m3u8",
+"trylink": ""
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-608411_lhd.m3u8?edge_slice=true&auth_key=1699795997-0-0-507bb9a806b8063d71891e03c3bc7b6d&sub_m3u8=true&user_session_id=07d62defd83b940039c9b9a7c35bf2a3",
@@ -396,6 +411,16 @@
 "ateam": "Lille",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-ednm9wh235l5ryo/chunklist_w107078357.m3u8",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-ednm9wh235l5ryo/chunklist_w903766809.m3u8",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1699796057-0-0-a306a8c3540e46bd7a468de9e4ea764f&sub_m3u8=true&user_session_id=b2e8586b47ae0159efc2cb55d88159e5&edge_slice=true",
 "trylink": ""
@@ -427,6 +452,11 @@
 "ateam": "Metz",
 "link": [
 {
+"type": "Recommend Server FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-965mkyh2689wr1g/chunklist_w1737633009.m3u8",
+"trylink": ""
+},
+{
 "type": "Soco HD",
 "livelink": "https://pull.niues.live/live/stream-9912020_lhd.m3u8?auth_key=1699801786-0-0-5f072eb2166f0b7ca8df0683e2316ddd",
 "trylink": ""
@@ -447,6 +477,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
 "ateam": "Bayer Leverkusen",
 "link": [
+{
+"type": "Recommend Server 1 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-pxwrxlhxkoj9ryk/chunklist_w1235670655.m3u8",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-pxwrxlhxkoj9ryk/chunklist_w1373632784.m3u8",
+"trylink": ""
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?sub_m3u8=true&auth_key=1699802477-0-0-b2b4b3ef87c248cddd82ea08e51c1fcd&user_session_id=0fa17b35f2f60b2ee28942bf47abe158&edge_slice=true",
