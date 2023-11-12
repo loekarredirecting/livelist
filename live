@@ -80,33 +80,13 @@
 "ateam": "Aston Villa",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?sub_m3u8=true&auth_key=1699795337-0-0-35cff3be3628fce9cf78fa0b0736bb88&edge_slice=true&user_session_id=9d4821a24f9bf9af311abbc7b74944a5",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?sub_m3u8=true&auth_key=1699795337-0-0-35cff3be3628fce9cf78fa0b0736bb88&edge_slice=true&user_session_id=9d4821a24f9bf9af311abbc7b74944a5",
 "trylink": ""
 },
 {
@@ -131,33 +111,13 @@
 "ateam": "Brighton",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?auth_key=1699795398-0-0-70c970290f2974ea52bcd7b1b27001fb&sub_m3u8=true&user_session_id=b17ddde2d36c027a5e280dca94ab6e82&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lsd.m3u8?auth_key=1699795398-0-0-70c970290f2974ea52bcd7b1b27001fb&sub_m3u8=true&user_session_id=b17ddde2d36c027a5e280dca94ab6e82&edge_slice=true",
 "trylink": ""
 },
 {
@@ -182,33 +142,44 @@
 "ateam": "Liverpool",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1699795517-0-0-c1c07ee81de7d921d7c3645fabd1ac60&user_session_id=f9327247674ca70839fd408225081469",
 "trylink": ""
 },
 {
 "type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1699795517-0-0-c1c07ee81de7d921d7c3645fabd1ac60&user_session_id=f9327247674ca70839fd408225081469",
+"trylink": ""
+},
+{
+"type": "Soco HD",
 "livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+"hteam": "Nottingham Forest",
+"time": " 8:30 PM ",
+"date": "2023-11-12",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+"ateam": "West Ham",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lhd.m3u8?auth_key=1699795878-0-0-1a3585ec2e51173e466d95aa384a41d6&sub_m3u8=true&user_session_id=b158788a5323e1e898f2d9186bdbc95f&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-771031_lsd.m3u8?auth_key=1699795878-0-0-1a3585ec2e51173e466d95aa384a41d6&sub_m3u8=true&user_session_id=b158788a5323e1e898f2d9186bdbc95f&edge_slice=true",
 "trylink": ""
 },
 {
@@ -233,33 +204,13 @@
 "ateam": "Fiorentina",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-784735_lhd.m3u8?edge_slice=true&auth_key=1699796118-0-0-10d0a2e4d9c061a5519271ee9caa246a&sub_m3u8=true&user_session_id=a0f7a32691877a01fb6b1132210f3e35",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-784735_lsd.m3u8?edge_slice=true&auth_key=1699796118-0-0-10d0a2e4d9c061a5519271ee9caa246a&sub_m3u8=true&user_session_id=a0f7a32691877a01fb6b1132210f3e35",
 "trylink": ""
 },
 {
@@ -284,33 +235,13 @@
 "ateam": "Udinese",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?sub_m3u8=true&auth_key=1699796357-0-0-f8601ab70649388c1eaf322f13400d46&user_session_id=59d82d615a8be19276ac0442daf1299d&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lsd.m3u8?sub_m3u8=true&auth_key=1699796357-0-0-f8601ab70649388c1eaf322f13400d46&user_session_id=59d82d615a8be19276ac0442daf1299d&edge_slice=true",
 "trylink": ""
 },
 {
@@ -335,33 +266,13 @@
 "ateam": "Clermont Foot",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-608411_lhd.m3u8?edge_slice=true&auth_key=1699795997-0-0-507bb9a806b8063d71891e03c3bc7b6d&sub_m3u8=true&user_session_id=07d62defd83b940039c9b9a7c35bf2a3",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-608411_lsd.m3u8?edge_slice=true&auth_key=1699795997-0-0-507bb9a806b8063d71891e03c3bc7b6d&sub_m3u8=true&user_session_id=07d62defd83b940039c9b9a7c35bf2a3",
 "trylink": ""
 },
 {
@@ -386,33 +297,13 @@
 "ateam": "Lille",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1699796057-0-0-a306a8c3540e46bd7a468de9e4ea764f&sub_m3u8=true&user_session_id=b2e8586b47ae0159efc2cb55d88159e5&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?auth_key=1699796057-0-0-a306a8c3540e46bd7a468de9e4ea764f&sub_m3u8=true&user_session_id=b2e8586b47ae0159efc2cb55d88159e5&edge_slice=true",
 "trylink": ""
 },
 {
