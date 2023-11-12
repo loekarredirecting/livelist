@@ -354,6 +354,26 @@
 "ateam": "Fiorentina",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/vuonganh.m3u8?expire=1735635000&sign=52c104ef76b8840b963c5f1584ac3ae4",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAxOjQ2OjU5IFBNJmhhc2hfdmFsdWU9NkdTNndqRVlqSzBhV0ZTbDlSNnhudz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjY5LjE2NS4xMSZzdHJtX2xlbj01",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAxOjQ2OjQxIFBNJmhhc2hfdmFsdWU9aWVPWEYzSkgvRTEwemlEQlBUcHp2UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xNzAuMjM1JnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-784735_lhd.m3u8?edge_slice=true&auth_key=1699796118-0-0-10d0a2e4d9c061a5519271ee9caa246a&sub_m3u8=true&user_session_id=a0f7a32691877a01fb6b1132210f3e35",
 "trylink": ""
