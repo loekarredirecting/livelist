@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"hteam": "Deportivo Alaves",
-"time": " live ",
-"date": "9:45 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-"ateam": "Barcelona",
-"link": [
-{
-"type": "English 1 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAyOjU2OjIxIFBNJmhhc2hfdmFsdWU9ckNCQ3B1Yy85Q2ZUMHdCRVdIZnc0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xNzAuMTIxJnN0cm1fbGVuPTU=",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAyOjU1OjEyIFBNJmhhc2hfdmFsdWU9L0RrUDA1LzVUeG9YZXRUd3VlbFh4UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xNzAuMTE1JnN0cm1fbGVuPTU=",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vebo HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1699804217-0-0-b3402591581a6b70acf132c291635fec&user_session_id=818a55de2b9632c9fede5968779342b7&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1699804217-0-0-b3402591581a6b70acf132c291635fec&user_session_id=818a55de2b9632c9fede5968779342b7&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-427856_lhd.m3u8?txSecret=5253bce10c70cfab197698bbf8a18cde&txTime=65513ea2",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-427856_lsd.m3u8?txSecret=5253bce10c70cfab197698bbf8a18cde&txTime=65513ea2",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "Lyon",
@@ -279,11 +228,21 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
 "hteam": "SC Freiburg",
-"time": " 1:00 AM ",
-"date": "2023-11-13",
+"time": " live ",
+"date": "1:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
 "ateam": "RB Leipzig",
 "link": [
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z3HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z3SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-11237399_lhd.m3u8?user_session_id=aa1c2587d412afa471cc1d1a757d8c4d&auth_key=1699805237-0-0-0c54ba758aa666e99a7f3dc158c59d1f&sub_m3u8=true&edge_slice=true",
@@ -310,11 +269,21 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "hteam": "Frosinone",
-"time": " 2:15 AM ",
-"date": "2023-11-13",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
 "ateam": "Inter",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTU4MjE=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-568588_lhd.m3u8?sub_m3u8=true&user_session_id=ee93ddb84fe4a6835d06327fff490d5d&edge_slice=true&auth_key=1699805417-0-0-ad5e13f6141610e2bbdac2afb9f130b6",
@@ -341,8 +310,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "hteam": "Marseille",
-"time": " 2:15 AM ",
-"date": "2023-11-13",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "ateam": "Lens",
 "link": [
@@ -372,11 +341,21 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "hteam": "Villarreal",
-"time": " 2:30 AM ",
-"date": "2023-11-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "ateam": "Atlético Madrid",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTU4MTg=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
 {
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=4f0cc29544ebd7ab8c6835a733d9a5a3&auth_key=1699805177-0-0-1c98a65ade2e9d51c3573774e43e2782",
