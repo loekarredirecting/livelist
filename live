@@ -580,6 +580,16 @@
 "ateam": "Rennes",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1699804757-0-0-cdce556296085e10c378a0939c380c1b&sub_m3u8=true&edge_slice=true&user_session_id=00916238f7c3e8d346d064e5f8bb2375",
 "trylink": ""
@@ -619,6 +629,26 @@
 "type": "Recommend Server 1 FHD",
 "livelink": "https://live.fallax.xyz/hls/pr_1080p/index.m3u8",
 "trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 1 HD",
+"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAzOjQyOjMyIFBNJmhhc2hfdmFsdWU9T1pVQWdaLzJUMFBqVkR1NDQ0M1dMUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjcwLjE0Mi41NiZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAzOjQxOjM5IFBNJmhhc2hfdmFsdWU9a01mRFkvMEo3RXc2WEtjZS81UmRZdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xMDYuMjAmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
