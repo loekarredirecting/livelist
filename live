@@ -438,12 +438,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912020_lhd.m3u8?auth_key=1699801786-0-0-5f072eb2166f0b7ca8df0683e2316ddd",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912020_lsd.m3u8?auth_key=1699801786-0-0-5f072eb2166f0b7ca8df0683e2316ddd",
 "trylink": ""
 }
 ]
