@@ -161,6 +161,16 @@
 "trylink": ""
 },
 {
+"type": "Recommend Server 3 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/hd-en-zp5rzgh6kendq82/chunklist_w1965344837.m3u8",
+"trylink": ""
+},
+{
+"type": "Recommend Server 4 FHD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-zp5rzgh6kendq82/chunklist_w384736614.m3u8",
+"trylink": ""
+},
+{
 "type": "English 1 HD",
 "livelink": "https://hls.streambtw.com/live/stream_4.m3u8",
 "trylink": ""
@@ -513,39 +523,39 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Deportivo Alaves",
-"time": " 9:45 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "9:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "ateam": "Barcelona",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAyOjU2OjIxIFBNJmhhc2hfdmFsdWU9ckNCQ3B1Yy85Q2ZUMHdCRVdIZnc0QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xNzAuMTIxJnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAyOjU1OjEyIFBNJmhhc2hfdmFsdWU9L0RrUDA1LzVUeG9YZXRUd3VlbFh4UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xNzAuMTE1JnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may2HD/chunks.m3u8",
 "trylink": ""
 },
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lhd.m3u8?auth_key=1699804217-0-0-b3402591581a6b70acf132c291635fec&user_session_id=818a55de2b9632c9fede5968779342b7&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-466384_lsd.m3u8?auth_key=1699804217-0-0-b3402591581a6b70acf132c291635fec&user_session_id=818a55de2b9632c9fede5968779342b7&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
