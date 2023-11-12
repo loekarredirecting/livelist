@@ -111,12 +111,12 @@
 "trylink": ""
 },
 {
-"type": "Recommend Server 3 FHD",
+"type": "Recommend Server 3 HD",
 "livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-x7lm7ph36dlzm2w/chunklist_w33922671.m3u8",
 "trylink": ""
 },
 {
-"type": "Recommend Server 4 FHD",
+"type": "Recommend Server 3 FHD",
 "livelink": "0",
 "trylink": ""
 },
@@ -203,6 +203,16 @@
 "ateam": "Lazio",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyA0OjQxOjEyIFBNJmhhc2hfdmFsdWU9TTVUVFZjK2VCZ2huN0lTclpoOHdKQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjcwLjEyMy40JnN0cm1fbGVuPTU=",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyA0OjM5OjEzIFBNJmhhc2hfdmFsdWU9dXRVRG95SUZpakZpWUxrMVR1azVxUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjcwLjE0Ny41NSZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vebo HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/Z2HD/chunks.m3u8",
 "trylink": ""
@@ -238,8 +248,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "hteam": "Real Betis",
-"time": " 12:00 AM ",
-"date": "2023-11-13",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "ateam": "Sevilla",
 "link": [
