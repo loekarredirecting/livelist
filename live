@@ -427,16 +427,6 @@
 "ateam": "Metz",
 "link": [
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
 "livelink": "https://pull.niues.live/live/stream-9912020_lhd.m3u8?auth_key=1699801786-0-0-5f072eb2166f0b7ca8df0683e2316ddd",
 "trylink": ""
@@ -452,8 +442,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "hteam": "Union Berlin",
-"time": " 9:00 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
 "ateam": "Bayer Leverkusen",
 "link": [
