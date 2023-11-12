@@ -74,8 +74,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "hteam": "Fulham",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "ateam": "Aston Villa",
 "link": [
@@ -105,8 +105,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "hteam": "Sheffield",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
 "ateam": "Brighton",
 "link": [
@@ -136,8 +136,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "hteam": "Brentford",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "ateam": "Liverpool",
 "link": [
@@ -167,8 +167,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "hteam": "Nottingham Forest",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "ateam": "West Ham",
 "link": [
@@ -198,8 +198,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "hteam": "Bologna",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "ateam": "Fiorentina",
 "link": [
@@ -229,8 +229,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "hteam": "Atalanta",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "ateam": "Udinese",
 "link": [
@@ -260,8 +260,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "hteam": "Lorient",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "ateam": "Clermont Foot",
 "link": [
@@ -291,8 +291,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "hteam": "Toulouse",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "ateam": "Lille",
 "link": [
@@ -322,31 +322,11 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
 "hteam": "Nantes",
-"time": " 8:30 PM ",
-"date": "2023-11-12",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
 "ateam": "Metz",
 "link": [
-{
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
 {
 "type": "China HD",
 "livelink": "0",
