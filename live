@@ -376,12 +376,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-359960_lhd.m3u8?txSecret=b25dacd06030a73762ef794b2a52a3a2&txTime=6551301a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-359960_lsd.m3u8?txSecret=b25dacd06030a73762ef794b2a52a3a2&txTime=6551301a",
 "trylink": ""
 }
 ]
