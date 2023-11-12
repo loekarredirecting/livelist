@@ -1,36 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-"hteam": "Lyon",
-"time": " live ",
-"date": "10:35 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-"ateam": "Rennes",
-"link": [
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1699804757-0-0-cdce556296085e10c378a0939c380c1b&sub_m3u8=true&edge_slice=true&user_session_id=00916238f7c3e8d346d064e5f8bb2375",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?auth_key=1699804757-0-0-cdce556296085e10c378a0939c380c1b&sub_m3u8=true&edge_slice=true&user_session_id=00916238f7c3e8d346d064e5f8bb2375",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-310227_lhd.m3u8?auth_key=1699806166-0-0-197fd66dd54eb3c00d0ff6db969681d8",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-310227_lsd.m3u8?auth_key=1699806166-0-0-197fd66dd54eb3c00d0ff6db969681d8",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "hteam": "Man City",
