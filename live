@@ -222,6 +222,46 @@
 "ateam": "Liverpool",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/doitong1.m3u8?expire=1733055240&sign=79384b7469a4664d1c73e408af90497c",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/duongchi.m3u8?expire=1735635000&sign=175ec107bf94ed24394526f365a92fc7",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch6/live/ch6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAxOjQwOjM3IFBNJmhhc2hfdmFsdWU9RXZDbEdLREJnVE00S3ZvVkkyTlJNUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTcyLjY5LjE2Ni41MiZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://storage.googleapis.com/asdqwfweqqd/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1699795517-0-0-c1c07ee81de7d921d7c3645fabd1ac60&user_session_id=f9327247674ca70839fd408225081469",
 "trylink": ""
