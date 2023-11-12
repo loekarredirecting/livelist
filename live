@@ -80,6 +80,46 @@
 "ateam": "Aston Villa",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/doitong1.m3u8?expire=1733055240&sign=79384b7469a4664d1c73e408af90497c",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch11/live/ch11_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAxOjM0OjIwIFBNJmhhc2hfdmFsdWU9Y2FLM1pKQms3NXhwN0NsVUNJaENCUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MTYyLjE1OC4xODkuODgmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://storage.googleapis.com/bvxzcasadqw/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?sub_m3u8=true&auth_key=1699795337-0-0-35cff3be3628fce9cf78fa0b0736bb88&edge_slice=true&user_session_id=9d4821a24f9bf9af311abbc7b74944a5",
 "trylink": ""
