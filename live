@@ -448,33 +448,13 @@
 "ateam": "Bayer Leverkusen",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lhd.m3u8?sub_m3u8=true&auth_key=1699802477-0-0-b2b4b3ef87c248cddd82ea08e51c1fcd&user_session_id=0fa17b35f2f60b2ee28942bf47abe158&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-823405_lsd.m3u8?sub_m3u8=true&auth_key=1699802477-0-0-b2b4b3ef87c248cddd82ea08e51c1fcd&user_session_id=0fa17b35f2f60b2ee28942bf47abe158&edge_slice=true",
 "trylink": ""
 },
 {
