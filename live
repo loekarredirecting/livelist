@@ -111,6 +111,46 @@
 "ateam": "Brighton",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/saitien.m3u8?expire=1735635000&sign=0f295213125cf3a307084ac8395d1d71",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch8/live/ch8_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTIvMjAyMyAxOjI5OjU4IFBNJmhhc2hfdmFsdWU9QUlSMVlzMWl5dmpnWGRaS252bzJNZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MTA4LjE2Mi4yMjcuNzkmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://xhop.fordems.live/hls/for-4.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "China HD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?auth_key=1699795398-0-0-70c970290f2974ea52bcd7b1b27001fb&sub_m3u8=true&user_session_id=b17ddde2d36c027a5e280dca94ab6e82&edge_slice=true",
 "trylink": ""
