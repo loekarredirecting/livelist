@@ -479,5 +479,222 @@
 "trylink": ""
 }
 ]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/49437_small.png",
+"hteam": "Lithuania",
+"time": " 2:15 AM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8254_small.png",
+"ateam": "Montenegro",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",
+"hteam": "Portugal",
+"time": " 2:15 AM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
+"ateam": "Liechtenstein",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792_small.png",
+"hteam": "Bosnia and Herzegovina",
+"time": " 2:15 AM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10106_small.png",
+"ateam": "Luxembourg",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497_small.png",
+"hteam": "Iceland",
+"time": " 2:15 AM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
+"ateam": "Slovakia",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " World Cup Qualification CONMEBOL ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6706_small.png",
+"hteam": "Uruguay",
+"time": " 6:30 AM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5796_small.png",
+"ateam": "Argentina",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " World Cup Qualification CONMEBOL ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8258_small.png",
+"hteam": "Brazil",
+"time": " 6:30 AM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8256_small.png",
+"ateam": "Colombia",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " World Cup Qualification CONMEBOL ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9762_small.png",
+"hteam": "Paraguay",
+"time": " 7:00 AM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6724_small.png",
+"ateam": "Chile",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
 }
 ]
