@@ -9,6 +9,16 @@
 "ateam": "Japan",
 "link": [
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z2HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/13e3ddaf04333511929ca041010830ab/1700170129737/xqispup/xqispup@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
