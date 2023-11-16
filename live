@@ -9,6 +9,36 @@
 "ateam": "Cyprus",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://chopa.fordems.live/hls/for-1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hls.streambtw.com/live/stream_4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://play-s1.ezyproxy.com/live/may3HD/tracks-v1a1/mono.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo FHD",
+"livelink": "https://play-s1.ezyproxy.com/live/may3FHD/tracks-v1a1/mono.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/52343ba342c438d005cdf86e0a9ad908/1700190877452/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
