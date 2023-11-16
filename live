@@ -111,6 +111,16 @@
 "ateam": "Thailand",
 "link": [
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/918b69c70296a5e6f9991ed6fc411199/1700179100602/en7hf6r/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
