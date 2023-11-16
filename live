@@ -9,6 +9,11 @@
 "ateam": "Japan",
 "link": [
 {
+"type": "English HD",
+"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-ednm9wh7z12kryo/chunklist_w687934825.m3u8",
+"trylink": ""
+},
+{
 "type": "Recommend Server 1 FHD",
 "livelink": "https://1485809576.global.cdnfastest.com/live/ngulong.m3u8?expire=1735635000&sign=80b2b51770ed5a98b9b4fd22477b8fb5",
 "trylink": ""
