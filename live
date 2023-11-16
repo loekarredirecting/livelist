@@ -9,6 +9,16 @@
 "ateam": "Japan",
 "link": [
 {
+"type": "Recommend Server 1 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/ngulong.m3u8?expire=1735635000&sign=80b2b51770ed5a98b9b4fd22477b8fb5",
+"trylink": ""
+},
+{
+"type": "Recommend Server 2 FHD",
+"livelink": "https://1485809576.global.cdnfastest.com/live/hoangtin.m3u8?expire=1735635000&sign=41a9c95f1fbcd187d75478b2e5e9e089",
+"trylink": ""
+},
+{
 "type": "Vebo HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/Z2HD/chunks.m3u8",
 "trylink": ""
