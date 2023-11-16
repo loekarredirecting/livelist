@@ -64,49 +64,49 @@
 "league": " World Cup Qualification AFC ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
 "hteam": "Singapore",
-"time": " 5:30 PM ",
-"date": "2023-11-16",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5825_small.png",
 "ateam": "South Korea",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z3HD/playlist.m3u8",
 "trylink": ""
 },
 {
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z3SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/faafce14d6030900a27e1e2b3c7650b1/1700174261440/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700131083-0-0-8aaebc4eed3bb2bdf5a98cf4b6806848",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lhd.m3u8?sub_m3u8=true&auth_key=1700134277-0-0-9bf9c9d2aab5efdf6d9b582941158c57&edge_slice=true&user_session_id=0a4175681fc5cb5761fc4308ecde5730",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://49c1f938208318cdf8288bc36b62472a.livehwc3.cn/pull.juqihuo.com/live/stream-746198_lsd.m3u8?sub_m3u8=true&auth_key=1700134277-0-0-9bf9c9d2aab5efdf6d9b582941158c57&edge_slice=true&user_session_id=0a4175681fc5cb5761fc4308ecde5730",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=bd5e095b8f6fd0eb6034f73d65c4b864&txTime=655644a6",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-991117_lsd.m3u8?txSecret=bd5e095b8f6fd0eb6034f73d65c4b864&txTime=655644a6",
 "trylink": ""
 }
 ]
@@ -115,49 +115,49 @@
 "league": " World Cup Qualification AFC ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/230139_small.png",
 "hteam": "Vietnam",
-"time": " 5:30 PM ",
-"date": "2023-11-16",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5894_small.png",
 "ateam": "Philippines",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
+"type": "Vebo HD",
+"livelink": "https://play-s1.ezyproxy.com/live/may2HD/tracks-v1a1/mono.m3u8",
 "trylink": ""
 },
 {
-"type": "English 2 HD",
-"livelink": "0",
-"trylink": ""
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/b29ca8e7febbcfcd4c27d3d12276df4e/1700174354492/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001700131177-0-0-3d6ca62a6bd75477d2bdb2dfa6069a05",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-667757_lhd.m3u8?auth_key=1700134337-0-0-6830bfd3508a3bfd330c40b856787641&user_session_id=4b5df084bca52a9dc198bd3d897a9119&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ed60e6e67f460afe5345e98fff768af4.livehwc3.cn/pull.juqihuo.com/live/stream-667757_lsd.m3u8?auth_key=1700134337-0-0-6830bfd3508a3bfd330c40b856787641&user_session_id=4b5df084bca52a9dc198bd3d897a9119&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1700134606-0-0-fb9d9f8398e5586850519f489a636382",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1700134606-0-0-fb9d9f8398e5586850519f489a636382",
 "trylink": ""
 }
 ]
