@@ -19,6 +19,16 @@
 "trylink": "https://1stream.soccer/"
 },
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/a7e1c1b52774b4b3b4f66a5e29b14fb5/1700275117457/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -68,6 +78,16 @@
 "type": "English 2 HD",
 "livelink": "https://ss1.101streams.net/scripts/MTU5OTc=/caxi.m3u8",
 "trylink": "https://1stream.soccer/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/chaHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@chaSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
