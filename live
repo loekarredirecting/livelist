@@ -3,29 +3,59 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
 "hteam": "San Marino",
-"time": " 9:30 PM ",
-"date": "2023-11-17",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
 "ateam": "Kazakhstan",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTU5OTQ=/720p2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/7ece7d0f568bd305a3ccdaca627ae2c2/1700274198007/lhsazur/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700231019-0-0-100cfc13530692254d7b059e03961da5",
+"trylink": ""
+},
+{
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?user_session_id=c611496edc028ec56645688d73dd9818&edge_slice=true&sub_m3u8=true&auth_key=1700234417-0-0-8714a06061946d8550dbe9e64a771fae",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?user_session_id=c611496edc028ec56645688d73dd9818&edge_slice=true&sub_m3u8=true&auth_key=1700234417-0-0-8714a06061946d8550dbe9e64a771fae",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=436f4084d660a354254f9042b2925305&txTime=65579cce",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=436f4084d660a354254f9042b2925305&txTime=65579cce",
 "trylink": ""
 }
 ]
