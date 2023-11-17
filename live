@@ -141,5 +141,222 @@
 "trylink": ""
 }
 ]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
+"hteam": "San Marino",
+"time": " 9:30 PM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
+"ateam": "Kazakhstan",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
+"hteam": "Northern Ireland",
+"time": " 11:30 PM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
+"ateam": "Finland",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
+"hteam": "Albania",
+"time": " 11:30 PM ",
+"date": "2023-11-17",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10024_small.png",
+"ateam": "Moldova",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
+"hteam": "Malta",
+"time": " 2:15 AM ",
+"date": "2023-11-18",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8495_small.png",
+"ateam": "England",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
+"hteam": "North Macedonia",
+"time": " 2:15 AM ",
+"date": "2023-11-18",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260_small.png",
+"ateam": "Italy",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8568_small.png",
+"hteam": "Czechia",
+"time": " 2:15 AM ",
+"date": "2023-11-18",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
+"ateam": "Poland",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EURO Qualification ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
+"hteam": "Slovenia",
+"time": " 2:15 AM ",
+"date": "2023-11-18",
+"aimg": "Denmark",
+"ateam": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
 }
 ]
