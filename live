@@ -64,11 +64,21 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
 "hteam": "Northern Ireland",
-"time": " 11:30 PM ",
-"date": "2023-11-17",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
 "ateam": "Finland",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://dfggdfgdfg.mainmasterbig.net/scripts/MTU5OTY=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/84fb9e82e25b3e9afa4b1a0e2471e2e6/1700274537129/rchtwtx/index.m3u8",
@@ -105,8 +115,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
 "hteam": "Albania",
-"time": " 11:30 PM ",
-"date": "2023-11-17",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10024_small.png",
 "ateam": "Moldova",
 "link": [
