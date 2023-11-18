@@ -9,6 +9,16 @@
 "ateam": "Honduras",
 "link": [
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/0fca3f8d3ea6127223ea3067c54ec920/1700313256952/wkatjcf/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -16,16 +26,6 @@
 {
 "type": "Vietnam FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel18.m3u8?auth_key=3000001700270095-0-0-9e7477901ec520b6c57b330580803b41",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
 "trylink": ""
 },
 {
