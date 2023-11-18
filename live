@@ -3,39 +3,39 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6583_small.png",
 "hteam": "Wales",
-"time": " 8:30 PM ",
-"date": "2023-11-18",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5790_small.png",
 "ateam": "Armenia",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/274367364affda4da0447e8ae042ac95/1700356141101/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700312963-0-0-76612841155992b1c3be152a4b2f79c3",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1700316618-0-0-a798bcfc3cb0fdc2f9ead428cc44b371&sub_m3u8=true&edge_slice=true&user_session_id=69f89ff544721347f372dbeceabe4e79",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1700316618-0-0-a798bcfc3cb0fdc2f9ead428cc44b371&sub_m3u8=true&edge_slice=true&user_session_id=69f89ff544721347f372dbeceabe4e79",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912064_lhd.m3u8?auth_key=1700316826-0-0-d6a214f6c3129023a392cc8a8917c0e1",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912064_lsd.m3u8?auth_key=1700316826-0-0-d6a214f6c3129023a392cc8a8917c0e1",
 "trylink": ""
 }
 ]
@@ -51,12 +51,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/1f230864899116ff01ee06ffde8cadb6/1700356375099/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001700313204-0-0-02204f61a2ed4f9446771fed0f11ccc6",
 "trylink": ""
 },
 {
