@@ -19,6 +19,16 @@
 "trylink": "https://streams.score808.football/"
 },
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/soiHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@soiSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/274367364affda4da0447e8ae042ac95/1700356141101/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
