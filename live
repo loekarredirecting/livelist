@@ -1,163 +1,21 @@
 [
 {
 "league": " EURO Qualification ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8565_small.png",
-"hteam": "Montenegro",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/49437_small.png",
-"ateam": "Hungary",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch7/live/ch7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMyAxOjU0OjA5IFBNJmhhc2hfdmFsdWU9Vk1MWUxENzdBT0JhWlJVbGgweFNmdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "English 3 HD",
-"livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "English 4 HD",
-"livelink": "https://uk1.ainakwalajeen.com:999/hls/premieruk.m3u8?md5=1-Gl26HirM0Q7CIWiRBFLw&expires=1700410268",
-"trylink": "https://lovesomecommunity.com/"
-},
-{
-"type": "Vebo HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/58a316027e81e0dd5147e6dfa6789078/1700444093305/lhsazur/lhsazur@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700400909-0-0-9552dbcc9a833a8287ad04fa780ec30a",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?user_session_id=6e8f0259c7695933739c6bf85f387309&sub_m3u8=true&auth_key=1700404518-0-0-cbd79144ff6a99ac9931cf49bd1aa3cf&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?user_session_id=6e8f0259c7695933739c6bf85f387309&sub_m3u8=true&auth_key=1700404518-0-0-cbd79144ff6a99ac9931cf49bd1aa3cf&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1700404906-0-0-f8616aaf0eeb343bfbb7ad195f7b60cb",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1700404906-0-0-f8616aaf0eeb343bfbb7ad195f7b60cb",
-"trylink": ""
-}
-]
-},
-{
-"league": " EURO Qualification ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
-"hteam": "Bulgaria",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10150_small.png",
-"ateam": "Serbia",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMyAxOjU1OjEwIFBNJmhhc2hfdmFsdWU9Y3ZxWHQvZWZLT2VwSS9JYXhEekRsQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "English 3 HD",
-"livelink": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "English 4 HD",
-"livelink": "https://po2.ainakwalajeen.com:999/hls/hdchnl2.m3u8?md5=t8mLKb56W_rDzawD5_9Nxw&expires=1700409895",
-"trylink": "https://lovesomecommunity.com/"
-},
-{
-"type": "Vebo HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/Z1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/5c2c37bc3b9090cff714a263d7f6efc2/1700444127556/rchtwtx/rchtwtx@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001700401176-0-0-1004a5bd7f4b1cb370b6e03beb90b743",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-580311_lhd.m3u8?edge_slice=true&user_session_id=27d4cc3441d193d25a5fce98d5eabb0c&auth_key=1700404638-0-0-27016ac2694d83ea3f95213778968f9f&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-580311_lsd.m3u8?edge_slice=true&user_session_id=27d4cc3441d193d25a5fce98d5eabb0c&auth_key=1700404638-0-0-27016ac2694d83ea3f95213778968f9f&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=00d73938ce088d5bafac0755aaddbe18&txTime=655a6482",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=00d73938ce088d5bafac0755aaddbe18&txTime=655a6482",
-"trylink": ""
-}
-]
-},
-{
-"league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8263_small.png",
 "hteam": "Azerbaijan",
-"time": " 11:30 PM ",
-"date": "2023-11-19",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8566_small.png",
 "ateam": "Belgium",
 "link": [
 {
 "type": "English 1 HD",
-"livelink": "0",
+"livelink": "https://s9.noshwsmkm.com:999/hls/usafox1.m3u8?md5=ijiWqsufaFAEo_0RcUBYUw&expires=1700418521",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMyA0OjI3OjMxIFBNJmhhc2hfdmFsdWU9dzdaMXdGVHViN2dBbk5Nc0U5N1VSUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -169,6 +27,16 @@
 "type": "English 4 FHD",
 "livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
 "trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@phoSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
@@ -206,8 +74,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8520_small.png",
 "hteam": "Estonia",
-"time": " 11:30 PM ",
-"date": "2023-11-19",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8261_small.png",
 "ateam": "Sweden",
 "link": [
@@ -257,8 +125,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8361_small.png",
 "hteam": "Iceland",
-"time": " 2:15 AM ",
-"date": "2023-11-20",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8536_small.png",
 "ateam": "Portugal",
 "link": [
@@ -308,8 +176,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8498_small.png",
 "hteam": "Norway",
-"time": " 2:15 AM ",
-"date": "2023-11-20",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8492_small.png",
 "ateam": "Scotland",
 "link": [
@@ -359,8 +227,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6720_small.png",
 "hteam": "Georgia",
-"time": " 2:15 AM ",
-"date": "2023-11-20",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8268_small.png",
 "ateam": "Spain",
 "link": [
@@ -410,8 +278,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10106_small.png",
 "hteam": "Slovakia",
-"time": " 2:15 AM ",
-"date": "2023-11-20",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8497_small.png",
 "ateam": "Bosnia and Herzegovina",
 "link": [
@@ -461,8 +329,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5799_small.png",
 "hteam": "Luxembourg",
-"time": " 2:15 AM ",
-"date": "2023-11-20",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5792_small.png",
 "ateam": "Liechtenstein",
 "link": [
