@@ -9,6 +9,16 @@
 "ateam": "Hungary",
 "link": [
 {
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/58a316027e81e0dd5147e6dfa6789078/1700444093305/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -49,6 +59,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10150_small.png",
 "ateam": "Serbia",
 "link": [
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z1HD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/5c2c37bc3b9090cff714a263d7f6efc2/1700444127556/rchtwtx/rchtwtx@720p.m3u8",
