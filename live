@@ -3,89 +3,29 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8565_small.png",
 "hteam": "Montenegro",
-"time": " 8:30 PM ",
-"date": "2023-11-19",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/49437_small.png",
 "ateam": "Hungary",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/58a316027e81e0dd5147e6dfa6789078/1700444093305/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700400909-0-0-9552dbcc9a833a8287ad04fa780ec30a",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?user_session_id=6e8f0259c7695933739c6bf85f387309&sub_m3u8=true&auth_key=1700404518-0-0-cbd79144ff6a99ac9931cf49bd1aa3cf&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?user_session_id=6e8f0259c7695933739c6bf85f387309&sub_m3u8=true&auth_key=1700404518-0-0-cbd79144ff6a99ac9931cf49bd1aa3cf&edge_slice=true",
 "trylink": ""
 },
 {
@@ -104,29 +44,29 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8205_small.png",
 "hteam": "Bulgaria",
-"time": " 8:30 PM ",
-"date": "2023-11-19",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10150_small.png",
 "ateam": "Serbia",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5c2c37bc3b9090cff714a263d7f6efc2/1700444127556/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001700401176-0-0-1004a5bd7f4b1cb370b6e03beb90b743",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-580311_lhd.m3u8?edge_slice=true&user_session_id=27d4cc3441d193d25a5fce98d5eabb0c&auth_key=1700404638-0-0-27016ac2694d83ea3f95213778968f9f&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-580311_lsd.m3u8?edge_slice=true&user_session_id=27d4cc3441d193d25a5fce98d5eabb0c&auth_key=1700404638-0-0-27016ac2694d83ea3f95213778968f9f&sub_m3u8=true",
 "trylink": ""
 },
 {
