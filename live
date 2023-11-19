@@ -9,6 +9,26 @@
 "ateam": "Hungary",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch7/live/ch7/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMyAxOjU0OjA5IFBNJmhhc2hfdmFsdWU9Vk1MWUxENzdBT0JhWlJVbGgweFNmdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://usa.raino.site/hls/stream1.m3u8",
+"trylink": "https://embed4u.xyz/"
+},
+{
 "type": "Vebo HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
@@ -59,6 +79,26 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10150_small.png",
 "ateam": "Serbia",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTkvMjAyMyAxOjU1OjEwIFBNJmhhc2hfdmFsdWU9Y3ZxWHQvZWZLT2VwSS9JYXhEekRsQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://usa.raino.site/hls/stream2.m3u8",
+"trylink": "https://embed4u.xyz/"
+},
 {
 "type": "Vebo HD",
 "livelink": "https://1123139281.cdn.khmer-hd.com/Z1HD/chunks.m3u8",
