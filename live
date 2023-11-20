@@ -3,8 +3,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8260_small.png",
 "hteam": "England",
-"time": " 2:15 AM ",
-"date": "2023-11-21",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8491_small.png",
 "ateam": "North Macedonia",
 "link": [
@@ -15,8 +15,18 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-1/chunks.m3u8",
 "trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://gfdsw.mainmasterbig.net/scripts/MTYxNjY=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://live.fallax.xyz/hls/pr/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
 "type": "Vietnam HD",
@@ -54,8 +64,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6718_small.png",
 "hteam": "Italy",
-"time": " 2:15 AM ",
-"date": "2023-11-21",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8204_small.png",
 "ateam": "Ukraine",
 "link": [
@@ -66,8 +76,18 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-2/chunks.m3u8",
 "trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTYxNzA=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://live.fallax.xyz/hls2/it/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
 "type": "Vietnam HD",
@@ -105,8 +125,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10024_small.png",
 "hteam": "Faroe Islands",
-"time": " 2:15 AM ",
-"date": "2023-11-21",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8269_small.png",
 "ateam": "Albania",
 "link": [
@@ -117,7 +137,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-4/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -131,23 +151,13 @@
 "trylink": ""
 },
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=22fa0e117fbcaaf662be1b97dc37588b&txTime=655be212",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lsd.m3u8?txSecret=22fa0e117fbcaaf662be1b97dc37588b&txTime=655be212",
 "trylink": ""
 }
 ]
@@ -156,8 +166,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8496_small.png",
 "hteam": "Moldova",
-"time": " 2:15 AM ",
-"date": "2023-11-21",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5794_small.png",
 "ateam": "Czechia",
 "link": [
@@ -168,7 +178,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-3/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -193,12 +203,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912061_lhd.m3u8?auth_key=1700502586-0-0-5eeffe0010c0d90c29e6a19e638ff921",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912061_lsd.m3u8?auth_key=1700502586-0-0-5eeffe0010c0d90c29e6a19e638ff921",
 "trylink": ""
 }
 ]
@@ -207,8 +217,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10259_small.png",
 "hteam": "Denmark",
-"time": " 2:15 AM ",
-"date": "2023-11-21",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8238_small.png",
 "ateam": "Northern Ireland",
 "link": [
@@ -219,7 +229,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-5/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -234,12 +244,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-675292_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1f4113337b8a24d86f781f9e9c51a034&auth_key=1700502318-0-0-e42b4557f0d0a824439930b077958aaa",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-675292_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=1f4113337b8a24d86f781f9e9c51a034&auth_key=1700502318-0-0-e42b4557f0d0a824439930b077958aaa",
 "trylink": ""
 },
 {
@@ -258,8 +268,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6035_small.png",
 "hteam": "Finland",
-"time": " 2:15 AM ",
-"date": "2023-11-21",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7871_small.png",
 "ateam": "San Marino",
 "link": [
@@ -270,7 +280,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-7/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -285,22 +295,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&auth_key=1700502198-0-0-6f91bcb11c4f14514d2003d11b3f6ce4&user_session_id=9b1ee7ac547d9f3f51530e671ea5dc0e&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&auth_key=1700502198-0-0-6f91bcb11c4f14514d2003d11b3f6ce4&user_session_id=9b1ee7ac547d9f3f51530e671ea5dc0e&sub_m3u8=true",
 "trylink": ""
 }
 ]
@@ -309,8 +309,8 @@
 "league": " EURO Qualification ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5787_small.png",
 "hteam": "Kazakhstan",
-"time": " 2:15 AM ",
-"date": "2023-11-21",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8265_small.png",
 "ateam": "Slovenia",
 "link": [
@@ -321,7 +321,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://hisoverline.crystalnew.pro/live/n-6/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -346,12 +346,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lhd.m3u8?auth_key=1700502826-0-0-d7e8d5b14889983296ff2cbc8408e769",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lsd.m3u8?auth_key=1700502826-0-0-d7e8d5b14889983296ff2cbc8408e769",
 "trylink": ""
 }
 ]
