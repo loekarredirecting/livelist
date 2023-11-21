@@ -9,6 +9,16 @@
 "ateam": "Syria",
 "link": [
 {
+"type": "Vebo FHD",
+"livelink": "https://edge1.fastzip.xyz/live/may1FHD/tracks-v1a1/mono.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://edge1.fastzip.xyz/live/may1SD/tracks-v1a1/mono.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/912ff11cc3721d3dc429a63634517c50/1700605977257/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
