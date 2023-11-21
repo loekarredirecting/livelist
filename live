@@ -1,57 +1,6 @@
 [
 {
 "league": " World Cup Qualification AFC ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307_small.png",
-"hteam": "North Korea",
-"time": " live ",
-"date": "4:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6330_small.png",
-"ateam": "Myanmar",
-"link": [
-{
-"type": "Recommend Server 1 FHD",
-"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-y39mp1hzj70jmoj/chunklist_w1523167770.m3u8",
-"trylink": ""
-},
-{
-"type": "Recommend Server 2 FHD",
-"livelink": "https://1485809576.global.cdnfastest.com/live/tuninh.m3u8?expire=1735635000&sign=6e53f8a81491eb0620479631728cdb7b",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/372a67a44ed32d6f1e448e2edec31c6c/1700600479834/qtdmef4/qtdmef4@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001700557301-0-0-86f3dd58e1662687c81763a505231c57",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-580311_lhd.m3u8?edge_slice=true&auth_key=1700560998-0-0-16eb529a5d6a9b1cedcd9624305cce14&sub_m3u8=true&user_session_id=64a6540029ab48610ed2867b73d30962",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-580311_lsd.m3u8?edge_slice=true&auth_key=1700560998-0-0-16eb529a5d6a9b1cedcd9624305cce14&sub_m3u8=true&user_session_id=64a6540029ab48610ed2867b73d30962",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912062_lhd.m3u8?auth_key=1700561086-0-0-d62f1f46ae1fd18e5acc972ac7c3324c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912062_lsd.m3u8?auth_key=1700561086-0-0-d62f1f46ae1fd18e5acc972ac7c3324c",
-"trylink": ""
-}
-]
-},
-{
-"league": " World Cup Qualification AFC ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5822_small.png",
 "hteam": "South Korea",
 "time": " live ",
@@ -59,6 +8,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
 "ateam": "China",
 "link": [
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/myHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@mySD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/2dc4945c82dda82846799cf80b8b2d0b/1700605382093/lhsazur/lhsazur@720p.m3u8",
@@ -100,6 +59,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
 "ateam": "Singapore",
 "link": [
+{
+"type": "Vebo HD",
+"livelink": "https://edge1.fastzip.xyz/live/Z1HD/tracks-v1a1/mono.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://edge2.fastzip.xyz/live/Z1SD/tracks-v1a1/mono.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/664f2658354cb9926a7fa65b73a6fbd7/1700605725931/as9xexm/index.m3u8",
