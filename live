@@ -10,6 +10,78 @@
 "link": [
 {
 "type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/4e2201f39ec21b127cda32498da68329/1700703510853/lhsazur/lhsazur@720p.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700660330-0-0-0aa839f48a226a1935ef4a8b4765d113",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "https://9d167d86be9cd38bccd3f3051624addf.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?auth_key=1700664138-0-0-a61127868a5e2258280387273d502dda&sub_m3u8=true&user_session_id=9fe682f0d470d50dbc3673fff2132736&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://9d167d86be9cd38bccd3f3051624addf.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?auth_key=1700664138-0-0-a61127868a5e2258280387273d502dda&sub_m3u8=true&user_session_id=9fe682f0d470d50dbc3673fff2132736&edge_slice=true",
+"trylink": ""
+}
+]
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/4031_small.png",
+"hteam": "Villarreal",
+"time": " 2:30 AM ",
+"date": "2023-11-23",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
+"ateam": "Zamora",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/6dde07b815fdab75e497ef60d1aaab8a/1700703937503/vg4b678/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel19.m3u8?auth_key=3000001700660757-0-0-73e881db635a7f1ad71a4118496c8eaf",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1700664347-0-0-df45e1542dc6412a65657e64afd86d45",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1700664347-0-0-df45e1542dc6412a65657e64afd86d45",
+"trylink": ""
+}
+]
+},
+{
+"league": " Saudi Professional League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+"hteam": "Al Akhdoud",
+"time": " 12:30 AM ",
+"date": "2023-11-25",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/582759_small.png",
+"ateam": "Al Nassr FC",
+"link": [
+{
+"type": "Vietnam HD",
 "livelink": "0",
 "trylink": "https://xlz.plvb.xyz/"
 },
@@ -41,13 +113,95 @@
 ]
 },
 {
-"league": " Copa del Rey ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/4031_small.png",
-"hteam": "Villarreal",
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
+"hteam": "Bayern München",
+"time": " 2:00 AM ",
+"date": "2023-11-25",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"ateam": "FC Köln",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
+"hteam": "Granada",
 "time": " 2:30 AM ",
-"date": "2023-11-23",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"ateam": "Zamora",
+"date": "2023-11-25",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
+"ateam": "Deportivo Alaves",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+"hteam": "Monaco",
+"time": " 2:30 AM ",
+"date": "2023-11-25",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
+"ateam": "PSG",
 "link": [
 {
 "type": "Vietnam HD",
