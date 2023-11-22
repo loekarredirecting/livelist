@@ -61,6 +61,47 @@
 ]
 },
 {
+"league": " Women's League Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/258665_small.png",
+"hteam": "Man United Women (W)",
+"time": " 1:30 AM ",
+"date": "2023-11-23",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/954396_small.png",
+"ateam": "Liverpool Women (W)",
+"link": [
+{
+"type": "Vietnam HD",
+"livelink": "0",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
 "league": " Copa del Rey ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/4031_small.png",
 "hteam": "Villarreal",
