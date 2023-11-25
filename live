@@ -563,39 +563,39 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "hteam": "Almeria",
-"time": " 12:00 AM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "ateam": "Getafe",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5f7c50a70cbe42126c6e40a2c277361c/1700975207819/r8ztat6/r8ztat6@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001700932022-0-0-a8d2eed620383580fec7f859ddf2a5fa",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lhd.m3u8?auth_key=1700935458-0-0-b4d961fa99a10124ea2c701cfa5bbd84&sub_m3u8=true&user_session_id=9683816c1b30690bd9c17c8492aa4e79&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?auth_key=1700935458-0-0-b4d961fa99a10124ea2c701cfa5bbd84&sub_m3u8=true&user_session_id=9683816c1b30690bd9c17c8492aa4e79&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lhd.m3u8?auth_key=1700935607-0-0-fe4dca29c4724cc08e92af1aaf0fde1a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-359960_lsd.m3u8?auth_key=1700935607-0-0-fe4dca29c4724cc08e92af1aaf0fde1a",
 "trylink": ""
 }
 ]
