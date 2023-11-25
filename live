@@ -258,39 +258,39 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "hteam": "VfB Stuttgart",
-"time": " 12:00 AM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
 "ateam": "Frankfurt",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/53af83c06ade9785e437b49161c131c8/1700975397599/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001700932210-0-0-9f6a61aece11384ef6a4a03c342c4d81",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-613431_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d86879fc3d856e10ea98a3728cfbb020&auth_key=1700935878-0-0-81844d2ab0c0e61ddaed6c5218b22f75",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-613431_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=d86879fc3d856e10ea98a3728cfbb020&auth_key=1700935878-0-0-81844d2ab0c0e61ddaed6c5218b22f75",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912027_lhd.m3u8?auth_key=1700935787-0-0-3a2839e5f194c83b7c1241a13550d03b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912027_lsd.m3u8?auth_key=1700935787-0-0-3a2839e5f194c83b7c1241a13550d03b",
 "trylink": ""
 }
 ]
