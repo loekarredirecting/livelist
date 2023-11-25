@@ -1,46 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-"hteam": "Lens",
-"time": " live ",
-"date": "10:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-"ateam": "Clermont Foot",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/9e275326bcf6ab3886c051d7197dfc84/1700968705114/gmpmb95/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001700925529-0-0-d94dcde3ccdff2e4bf3b12e375d8de12",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1700929278-0-0-394c43ad7ac3f20ec277631a18eb9f72&edge_slice=true&sub_m3u8=true&user_session_id=f7e43238ab3b5b5bc51025238807c613",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?auth_key=1700929278-0-0-394c43ad7ac3f20ec277631a18eb9f72&edge_slice=true&sub_m3u8=true&user_session_id=f7e43238ab3b5b5bc51025238807c613",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-310227_lhd.m3u8?auth_key=1700929127-0-0-89b9110d770ec71542e13fd7846d374a",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-310227_lsd.m3u8?auth_key=1700929127-0-0-89b9110d770ec71542e13fd7846d374a",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "hteam": "Napoli",
@@ -278,8 +237,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "hteam": "Fiorentina",
-"time": " 2:15 AM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "ateam": "AC Milan",
 "link": [
@@ -329,8 +288,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "hteam": "Mallorca",
-"time": " 2:30 AM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "ateam": "Atlético Madrid",
 "link": [
@@ -380,8 +339,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
 "hteam": "Marseille",
-"time": " 2:30 AM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "ateam": "Strasbourg",
 "link": [
