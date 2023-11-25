@@ -202,6 +202,16 @@
 "ateam": "Borussia Dortmund",
 "link": [
 {
+"type": "English FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/mbundes2.m3u8?md5=I1gkBHWZXzZBM1Re7KVJbA&expires=1700928866",
+"trylink": "https://b4ucast.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e278dd1f9f31fc3ddf56cdae8177e4d2/1700953810314/trd02w8/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -242,6 +252,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
 "ateam": "SC Freiburg",
 "link": [
+{
+"type": "English FHD",
+"livelink": "https://hls.streambtw.com/live/stream_10.m3u8",
+"trylink": ""
+},
+{
+"type": "English HD",
+"livelink": "https://ofc2.ainakwalajeen.com:999/hls/mbundes6.m3u8?md5=MR2i8jR4ZD3YD4rHwJ50TA&expires=1700929071",
+"trylink": "https://b4ucast.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/14a20125ec2a87f1f482f337f10fdc3f/1700953933475/twtxkja/twtxkja@720p.m3u8",
@@ -284,6 +304,16 @@
 "ateam": "Union Berlin",
 "link": [
 {
+"type": "English FHD",
+"livelink": "https://hls.streambtw.com/live/stream_9.m3u8",
+"trylink": ""
+},
+{
+"type": "English HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/mbundes5.m3u8?md5=zPraGrqkjqqCHlhQluGfQA&expires=1700929236",
+"trylink": "https://b4ucast.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/97a11b8ae969a06f68c41118d0ce89b9/1700954122124/wkatjcf/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -325,6 +355,16 @@
 "ateam": "Werder Bremen",
 "link": [
 {
+"type": "English FHD",
+"livelink": "https://hls.streambtw.com/live/stream_12.m3u8",
+"trylink": ""
+},
+{
+"type": "English HD",
+"livelink": "https://s5.noshwsmkm.com:999/hls/mbundes3.m3u8?md5=nbf6NRu6iu2SMxD59-xWdw&expires=1700929376",
+"trylink": "https://b4ucast.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e5ebcfd7514d641839c9dfbbdaff8e25/1700954246284/armrqlx/armrqlx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -365,6 +405,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
 "ateam": "Wolfsburg",
 "link": [
+{
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_11.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://s6.noshwsmkm.com:999/hls/mbundes4.m3u8?md5=bkEFUSdPc4CJ1nH2GQJXkw&expires=1700929476",
+"trylink": "https://b4ucast.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/027b2615b2e7b977bef9234cdfbc1f58/1700954409224/t7snhbq/t7snhbq@720p.m3u8",
