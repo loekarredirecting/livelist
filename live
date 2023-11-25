@@ -145,11 +145,21 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "hteam": "Lazio",
-"time": " 8:30 PM ",
-"date": "2023-11-25",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
 "ateam": "Salernitana",
 "link": [
+{
+"type": "English FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English HD",
+"livelink": "https://worknew.crystalnew.pro/live/n-7/chunks.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/480969938735ecf0158d78450b6a894b/1700953579966/kqpqy3v/index.m3u8",
