@@ -1,56 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-"hteam": "Lazio",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-"ateam": "Salernitana",
-"link": [
-{
-"type": "English FHD",
-"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
-"trylink": ""
-},
-{
-"type": "English HD",
-"livelink": "https://worknew.crystalnew.pro/live/n-7/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/480969938735ecf0158d78450b6a894b/1700953579966/kqpqy3v/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001700910408-0-0-2b57e1f2ff9721dcaf507d58eb7b203f",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?sub_m3u8=true&auth_key=1700914038-0-0-6ea125e43ca17bcc6d3cfad8f1070105&edge_slice=true&user_session_id=369d5da0d5ee6eda6bfdc20a8f0c25bd",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lsd.m3u8?sub_m3u8=true&auth_key=1700914038-0-0-6ea125e43ca17bcc6d3cfad8f1070105&edge_slice=true&user_session_id=369d5da0d5ee6eda6bfdc20a8f0c25bd",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-104707_lhd.m3u8?txSecret=666cccd9d5f105438893b01f51b99d56&txTime=65622a1f",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-104707_lsd.m3u8?txSecret=666cccd9d5f105438893b01f51b99d56&txTime=65622a1f",
-"trylink": ""
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "hteam": "Borussia M'Gladbach",
