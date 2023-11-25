@@ -39,16 +39,6 @@
 "trylink": "https://candlesouth.net/"
 },
 {
-"type": "Vebo HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "0",
-"trylink": "https://player.4shares.live/"
-},
-{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/321c3377e581a720a08f86fea07fab5c/1700952501144/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -94,11 +84,31 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "hteam": "Barcelona",
-"time": " 7:30 PM ",
-"date": "2023-11-25",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "ateam": "Rayo Vallecano",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMyAxMjozNjoyNCBQTSZoYXNoX3ZhbHVlPXVmZnBRT0J0WkpPSlloZTcvU0FzSHc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODcuNDcmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s9.noshwsmkm.com:999/hls/do39.m3u8?md5=-b511-Yhdh2U0IGfL_ViVQ&expires=1700923100",
+"trylink": "https://jewelavid.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://fnzwrudkbaqspyjh.cdnrecruit.net:8443/hls/xdpq3ptcuts1qpp.m3u8?s=pkFkAZCuY7Xqx5qpZd644Q&e=1700937661",
+"trylink": "https://candlesouth.net/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/1dbe93ced23a25cfec48d969ed858e6f/1700953318291/gmpmb95/gmpmb95@720p.m3u8",
@@ -111,12 +121,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?edge_slice=true&auth_key=1700919138-0-0-8593c0138b3f0c52bb6769439b45cd10&sub_m3u8=true&user_session_id=95a92fa7c2164c5670702405b46656c4",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?edge_slice=true&auth_key=1700919138-0-0-8593c0138b3f0c52bb6769439b45cd10&sub_m3u8=true&user_session_id=95a92fa7c2164c5670702405b46656c4",
 "trylink": ""
 },
 {
