@@ -646,39 +646,39 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "hteam": "Lens",
-"time": " 10:30 PM ",
-"date": "2023-11-25",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "ateam": "Clermont Foot",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/9e275326bcf6ab3886c051d7197dfc84/1700968705114/gmpmb95/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001700925529-0-0-d94dcde3ccdff2e4bf3b12e375d8de12",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1700929278-0-0-394c43ad7ac3f20ec277631a18eb9f72&edge_slice=true&sub_m3u8=true&user_session_id=f7e43238ab3b5b5bc51025238807c613",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?auth_key=1700929278-0-0-394c43ad7ac3f20ec277631a18eb9f72&edge_slice=true&sub_m3u8=true&user_session_id=f7e43238ab3b5b5bc51025238807c613",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-310227_lhd.m3u8?auth_key=1700929127-0-0-89b9110d770ec71542e13fd7846d374a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-310227_lsd.m3u8?auth_key=1700929127-0-0-89b9110d770ec71542e13fd7846d374a",
 "trylink": ""
 }
 ]
@@ -694,12 +694,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/6d894c2f9a645a675a327ab7c6e11865/1700968837587/kqpqy3v/kqpqy3v@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001700925703-0-0-af965492f7a48a1e99016df7a28c5731",
 "trylink": ""
 },
 {
