@@ -1,66 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
-"hteam": "Barcelona",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"ateam": "Rayo Vallecano",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAyMyAxMjozNjoyNCBQTSZoYXNoX3ZhbHVlPXVmZnBRT0J0WkpPSlloZTcvU0FzSHc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODcuNDcmc3RybV9sZW49NQ==",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "English 3 HD",
-"livelink": "https://s9.noshwsmkm.com:999/hls/do39.m3u8?md5=-b511-Yhdh2U0IGfL_ViVQ&expires=1700923100",
-"trylink": "https://jewelavid.com/"
-},
-{
-"type": "English 4 HD",
-"livelink": "https://fnzwrudkbaqspyjh.cdnrecruit.net:8443/hls/xdpq3ptcuts1qpp.m3u8?s=pkFkAZCuY7Xqx5qpZd644Q&e=1700937661",
-"trylink": "https://candlesouth.net/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/1dbe93ced23a25cfec48d969ed858e6f/1700953318291/gmpmb95/gmpmb95@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001700910142-0-0-b26a69f00ca1c9faf3e85e6eabebba83",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lhd.m3u8?edge_slice=true&auth_key=1700919138-0-0-8593c0138b3f0c52bb6769439b45cd10&sub_m3u8=true&user_session_id=95a92fa7c2164c5670702405b46656c4",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-486118_lsd.m3u8?edge_slice=true&auth_key=1700919138-0-0-8593c0138b3f0c52bb6769439b45cd10&sub_m3u8=true&user_session_id=95a92fa7c2164c5670702405b46656c4",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-259576_lhd.m3u8?auth_key=1700913707-0-0-e5712f871200d249400476d40fd15802",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-259576_lsd.m3u8?auth_key=1700913707-0-0-e5712f871200d249400476d40fd15802",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "hteam": "Lazio",
@@ -666,39 +605,39 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 "hteam": "Celta Vigo",
-"time": " 9:45 PM ",
-"date": "2023-11-25",
+"time": " live ",
+"date": "9:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "ateam": "Valencia",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5c6c1913f9d0e92abbc77e2f3a6d3b28/1700967863315/z9nbpht/z9nbpht@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001700924718-0-0-4a7620f5e96ea65581793acf33e37df9",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ab1ac44c8f60d2647fe7650dca33725e&auth_key=1700928258-0-0-f09d614c02a6be34a7e14f29552a6f23",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-566370_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ab1ac44c8f60d2647fe7650dca33725e&auth_key=1700928258-0-0-f09d614c02a6be34a7e14f29552a6f23",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-237299_lhd.m3u8?txSecret=6f1d2e2abec2c7474413ec736a96ec69&txTime=6562620a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-237299_lsd.m3u8?txSecret=6f1d2e2abec2c7474413ec736a96ec69&txTime=6562620a",
 "trylink": ""
 }
 ]
