@@ -111,16 +111,6 @@
 "ateam": "Everton",
 "link": [
 {
-"type": "True Sports FHD",
-"livelink": "https://livecdn-bp-001.rumsport.com/stream/2/stream/2_hd/chunks.m3u8?x-sign=772e00dfc221ffce52226c27bf6dbf25&x-time=1701016080&is_vip=false&token=4e9039e1568fd43943dbf6a763f36c4612f25890",
-"trylink": ""
-},
-{
-"type": "True Sports HD",
-"livelink": "https://livecdn-bp.rumsport.com/stream/10/chunks.m3u8?x-sign=83e88a915f6d214a14f7aa5f84a89f29&x-time=1701016140&is_vip=false&token=4e9039e1568fd43943dbf6a763f36c4612f25890",
-"trylink": ""
-},
-{
 "type": "English 1 FHD",
 "livelink": "https://live.fallax.xyz/hls/pr/index.m3u8",
 "trylink": "https://soccerinhd.com/"
