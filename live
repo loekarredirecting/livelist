@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
-"hteam": "Osasuna",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-"ateam": "Villarreal",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMyAxOjM1OjA4IFBNJmhhc2hfdmFsdWU9TjNsdVJLNWxSYXkvcDdBZkNkSVczdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/3e8e3845f7d878cb2cd5ab401c7afcdc/1701037342103/gmpmb95/gmpmb95@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001700994165-0-0-c193f561032c4ce331d60b550f83cc3c",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&user_session_id=d1c4cad298b53767cde7dc8a8e456930&sub_m3u8=true&auth_key=1700997738-0-0-4a619f01d7b7586cd73319986e744afd",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&user_session_id=d1c4cad298b53767cde7dc8a8e456930&sub_m3u8=true&auth_key=1700997738-0-0-4a619f01d7b7586cd73319986e744afd",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=419950de152d9ad6e31270031be41297&txTime=65636c0c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=419950de152d9ad6e31270031be41297&txTime=65636c0c",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "hteam": "Aston Villa",
@@ -472,39 +421,39 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "Reims",
-"time": " 10:35 PM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "10:35 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 "ateam": "Rennes",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/68b3d8232f1026aaefe65b4718c7b26b/1701038817170/gmpmb95/gmpmb95@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001700995630-0-0-348ca27838c308acf0bc78b5047329a5",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lhd.m3u8?auth_key=1700999238-0-0-947f4e8e6f1ce065b5d91f53797bea99&user_session_id=8a152322308464a472814dcccd0fe48a&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-716626_lsd.m3u8?auth_key=1700999238-0-0-947f4e8e6f1ce065b5d91f53797bea99&user_session_id=8a152322308464a472814dcccd0fe48a&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1700999327-0-0-b31e50b96d35bd97061bc1fe408f2461",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1700999327-0-0-b31e50b96d35bd97061bc1fe408f2461",
 "trylink": ""
 }
 ]
