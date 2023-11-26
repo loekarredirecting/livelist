@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
-"hteam": "Sevilla",
-"time": " live ",
-"date": "9:45 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
-"ateam": "Real Sociedad",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://worknew.crystalnew.pro/live/n-2/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/5dbb71a0375c3a115ea8765a8aada95d/1701038657043/dyv7fis/dyv7fis@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001700995470-0-0-c1fb243cae8916645a70c84c3c59a5d0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=803bcd45a240b63a82463422b8b0226e&auth_key=1701011059-0-0-ba56d0a3020891279d319e851d0e648d",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=803bcd45a240b63a82463422b8b0226e&auth_key=1701011059-0-0-ba56d0a3020891279d319e851d0e648d",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1700999087-0-0-feb95b7623fdd227a55db0589374f27e",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1700999087-0-0-feb95b7623fdd227a55db0589374f27e",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "Reims",
@@ -349,8 +298,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Inter",
-"time": " 2:15 AM ",
-"date": "2023-11-27",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "ateam": "Juventus",
 "link": [
@@ -400,8 +349,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
 "hteam": "Lille",
-"time": " 2:15 AM ",
-"date": "2023-11-27",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "ateam": "Lyon",
 "link": [
@@ -451,8 +400,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
 "hteam": "Las Palmas",
-"time": " 2:30 AM ",
-"date": "2023-11-27",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
 "ateam": "Real Betis",
 "link": [
