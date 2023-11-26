@@ -9,6 +9,16 @@
 "ateam": "Cagliari",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch1/live/ch1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMyAxMToxNDoxMCBBTSZoYXNoX3ZhbHVlPUFXRnE4YlE5emxvVElZUFVyR1hPU3c9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODcuNDcmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/4cce39365f042e69907f2fef2fa995b8/1701036942011/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
