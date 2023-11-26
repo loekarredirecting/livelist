@@ -257,39 +257,49 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "hteam": "Udinese",
-"time": " 11:30 PM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "ateam": "Roma",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMyA0OjQwOjIwIFBNJmhhc2hfdmFsdWU9WmlzR2VXdjA0NzUza1NUL3hYSU9FUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/440281a302c21e529b4ed3f5f3530863/1701039530693/as9xexm/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001700996343-0-0-8f0819d6942f01a6fca6cc782869a2ce",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-744823_lhd.m3u8?auth_key=1701020238-0-0-f54cc76628c62f9c042442c00a28a842&user_session_id=494dbf96432856b836dbae1b0dd933d8&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-744823_lsd.m3u8?auth_key=1701020238-0-0-f54cc76628c62f9c042442c00a28a842&user_session_id=494dbf96432856b836dbae1b0dd933d8&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1700999987-0-0-88b48c4cb4df3466db1cbf7f07197f6f",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1700999987-0-0-88b48c4cb4df3466db1cbf7f07197f6f",
 "trylink": ""
 }
 ]
