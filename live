@@ -177,17 +177,17 @@
 },
 {
 "type": "Soco 1 SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=30f4adf59f0eb697901c54e9af91cfb7&txTime=65634f13",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=2f44fc2d7050d7279c028ba9f8f2b41f&txTime=6563a1d3",
 "trylink": ""
 },
 {
 "type": "Soco 2 HD",
-"livelink": "https://pull.niues.live/live/stream-9912085_lhd.m3u8?auth_key=1700998007-0-0-22a6d5a78bd10d0774d6c46d20e38901",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1701010367-0-0-c80d151bd1fd35a9cfd8d64182d0b4e7",
 "trylink": ""
 },
 {
 "type": "Soco 2 SD",
-"livelink": "https://pull.niues.live/live/stream-9912085_lsd.m3u8?auth_key=1700998007-0-0-22a6d5a78bd10d0774d6c46d20e38901",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1701010367-0-0-c80d151bd1fd35a9cfd8d64182d0b4e7",
 "trylink": ""
 }
 ]
