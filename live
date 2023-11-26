@@ -421,39 +421,49 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
 "hteam": "VfL Bochum",
-"time": " 9:00 PM ",
-"date": "2023-11-26",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
 "ateam": "FC Heidenheim",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch23.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/e679a901e6f207c1c09b937f0acfc637/1701038543580/as9xexm/as9xexm@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001700995357-0-0-928e89e88be0ef89767309a6da41755a",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1701010819-0-0-4854f88b1da4aa0cd2b1b86f66c0d756&sub_m3u8=true&user_session_id=4935b35b623771e6b608964369b6ff2b&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1701010819-0-0-4854f88b1da4aa0cd2b1b86f66c0d756&sub_m3u8=true&user_session_id=4935b35b623771e6b608964369b6ff2b&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lhd.m3u8?txSecret=b04c0e406cc9ba1dbc72ad5211748835&txTime=65637587",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lsd.m3u8?txSecret=b04c0e406cc9ba1dbc72ad5211748835&txTime=65637587",
 "trylink": ""
 }
 ]
@@ -469,12 +479,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5dbb71a0375c3a115ea8765a8aada95d/1701038657043/dyv7fis/dyv7fis@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001700995470-0-0-c1fb243cae8916645a70c84c3c59a5d0",
 "trylink": ""
 },
 {
@@ -489,12 +499,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1700999087-0-0-feb95b7623fdd227a55db0589374f27e",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1700999087-0-0-feb95b7623fdd227a55db0589374f27e",
 "trylink": ""
 }
 ]
