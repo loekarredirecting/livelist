@@ -112,32 +112,32 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/3e8e3845f7d878cb2cd5ab401c7afcdc/1701037342103/gmpmb95/gmpmb95@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001700994165-0-0-c193f561032c4ce331d60b550f83cc3c",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&user_session_id=d1c4cad298b53767cde7dc8a8e456930&sub_m3u8=true&auth_key=1700997738-0-0-4a619f01d7b7586cd73319986e744afd",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&user_session_id=d1c4cad298b53767cde7dc8a8e456930&sub_m3u8=true&auth_key=1700997738-0-0-4a619f01d7b7586cd73319986e744afd",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=419950de152d9ad6e31270031be41297&txTime=65636c0c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=419950de152d9ad6e31270031be41297&txTime=65636c0c",
 "trylink": ""
 }
 ]
