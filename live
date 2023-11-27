@@ -3,20 +3,20 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "hteam": "Lecce",
-"time": " 12:00 AM ",
-"date": "2023-11-28",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "ateam": "Hellas Verona",
 "link": [
 {
-"type": "English 1 HD",
-"livelink": "0",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
 "trylink": ""
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://worknew.crystalnew.pro/live/n-3/chunks.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
