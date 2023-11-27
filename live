@@ -60,6 +60,16 @@
 "ateam": "Al Nassr FC",
 "link": [
 {
+"type": "English 1 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/18194d6cbd62c7f64efd97f846fb9ed0/1701136639731/as9xexm/as9xexm@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -100,6 +110,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 "ateam": "Bologna",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://worknew.crystalnew.pro/live/n-3/chunks.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/814870640ef2f80beb8a60e749b906f3/1701136795304/qtdmef4/index.m3u8",
@@ -142,6 +162,16 @@
 "ateam": "Fulham",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://worknew.crystalnew.pro/live/n-1/chunks.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e9c080df3d6835fa3cc21706189ae5cd/1701136943651/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -182,6 +212,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "ateam": "Girona",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://worknew.crystalnew.pro/live/n-2/chunks.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e67cf36f61bde7c4ef17fd5060686336/1701137114627/lhsazur/index.m3u8",
