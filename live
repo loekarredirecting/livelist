@@ -355,6 +355,16 @@
 "ateam": "Young Boys",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://worknew.crystalnew.pro/live/n-6/chunks.m3u8",
+"trylink": "https://247ovo.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/a62de2949e4a43203c5ea971f61d1897/1701222343049/kqpqy3v/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -395,6 +405,26 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9773_small.png",
 "ateam": "Barcelona",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMyA3OjQzOjI0IFBNJmhhc2hfdmFsdWU9U0hLVHcrTTcxRjVuK3gxNnYxVlNSUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://storage.googleapis.com/bestingdseer3/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/bbtespn.m3u8?md5=BPYD4dkDn_7Vd99NPGoUUg&expires=1701207821",
+"trylink": "https://lovesomecommunity.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/7d71a961221be6a37dcce4fe4c29fa68/1701222484171/en7hf6r/en7hf6r@720p.m3u8",
