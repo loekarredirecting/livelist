@@ -50,6 +50,16 @@
 "ateam": "Lazio",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch1/live/ch1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMyA1OjIyOjU3IFBNJmhhc2hfdmFsdWU9K3VhS2xDUzB6S0ttRXJlSjh6dG0vdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/147803b92ba8f20309b13cec735412ef/1701221197474/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -90,6 +100,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9988_small.png",
 "ateam": "Shakhtar Donetsk",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch3/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMyA1OjIwOjU0IFBNJmhhc2hfdmFsdWU9SklxZmUxWkJ2K3lyYkU0eXVOUDd6UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/512445e7ea95e2f33d6578662f7169ef/1701221413277/as9xexm/index.m3u8",
