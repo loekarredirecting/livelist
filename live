@@ -172,6 +172,26 @@
 "ateam": "AC Milan",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch3/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMyA3OjMwOjU2IFBNJmhhc2hfdmFsdWU9RC9aYmdVY0w4TXJ6R1ZQRTcxRzdMdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s9.noshwsmkm.com:999/hls/bbtsp3.m3u8?md5=2q9LTkxFjRhUoFK76WFtPg&expires=1701207092",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://worknew.crystalnew.pro/live/n-4/chunks.m3u8",
+"trylink": "https://247ovo.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/9d2b18e30f7cb4145215ee213ffade73/1701221726175/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -212,6 +232,26 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "ateam": "PSG",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://live.fallax.xyz/hls/fr_1080p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 2 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 3 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMyA3OjM1OjA0IFBNJmhhc2hfdmFsdWU9UUQ1TmN2SjR4SE1ETnFsbjJ0OFdEUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s8.noshwsmkm.com:999/hls/bbtsp2.m3u8?md5=G6Dsw-VBzdWg4zvnS5fY2w&expires=1701207334",
+"trylink": "https://lovesomecommunity.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/87f22fd8d33c7b9971a6aa81dd27d803/1701221936351/r8ztat6/index.m3u8",
