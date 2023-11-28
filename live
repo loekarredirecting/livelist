@@ -1,108 +1,6 @@
 [
 {
 "league": " Champions League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-"hteam": "Celtic",
-"time": " live ",
-"date": "12:15 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9925_small.png",
-"ateam": "Lazio",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch1/live/ch1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMyA1OjIyOjU3IFBNJmhhc2hfdmFsdWU9K3VhS2xDUzB6S0ttRXJlSjh6dG0vdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/147803b92ba8f20309b13cec735412ef/1701221197474/r8ztat6/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001701178020-0-0-c8359d4cac26f282523ea02579c646e9",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?user_session_id=1f11bc34093438e5f804063cc1e00cb9&auth_key=1701181638-0-0-2d2a508a66242835264c397b23a100f4&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?user_session_id=1f11bc34093438e5f804063cc1e00cb9&auth_key=1701181638-0-0-2d2a508a66242835264c397b23a100f4&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1701181727-0-0-8e69b4d54840eab4b3132de7762e9fd4",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1701181727-0-0-8e69b4d54840eab4b3132de7762e9fd4",
-"trylink": ""
-}
-]
-},
-{
-"league": " Champions League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9728_small.png",
-"hteam": "Royal Antwerp",
-"time": " live ",
-"date": "12:15 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9988_small.png",
-"ateam": "Shakhtar Donetsk",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch3/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjgvMjAyMyA1OjIwOjU0IFBNJmhhc2hfdmFsdWU9SklxZmUxWkJ2K3lyYkU0eXVOUDd6UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ny40NyZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/512445e7ea95e2f33d6578662f7169ef/1701221413277/as9xexm/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001701178231-0-0-ba4801bd886c46ce400207de54e6b8d9",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lhd.m3u8?sub_m3u8=true&auth_key=1701181878-0-0-f5cee21ce8ea63007b0f8e05e55208c6&edge_slice=true&user_session_id=1dd42869d60c5ba7e59f1cca934b2c22",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-702514_lsd.m3u8?sub_m3u8=true&auth_key=1701181878-0-0-f5cee21ce8ea63007b0f8e05e55208c6&edge_slice=true&user_session_id=1dd42869d60c5ba7e59f1cca934b2c22",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-462413_lhd.m3u8?auth_key=1701181787-0-0-ef3edc9c570c252d3992875b1c5459f8",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-462413_lsd.m3u8?auth_key=1701181787-0-0-ef3edc9c570c252d3992875b1c5459f8",
-"trylink": ""
-}
-]
-},
-{
-"league": " Champions League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
 "hteam": "Atlético Madrid",
 "time": " live ",
@@ -253,6 +151,16 @@
 "trylink": "https://lovesomecommunity.com/"
 },
 {
+"type": "Vebo FHD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may3FHD/chunklist.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/87f22fd8d33c7b9971a6aa81dd27d803/1701221936351/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -312,6 +220,16 @@
 "type": "English 4 HD",
 "livelink": "https://s3.noshwsmkm.com:999/hls/bbtsp1.m3u8?md5=28kKUz4bJuRGPh1WC85_sw&expires=1701207619",
 "trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "Vebo FHD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/oldFHD/chunklist.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
