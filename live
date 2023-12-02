@@ -244,6 +244,46 @@
 "ateam": "Arsenal",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://live.fallax.xyz/hls/pr1_720p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 3 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr1/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s5.noshwsmkm.com:999/hls/superpremier.m3u8?md5=Zd4RIY2BXYd4_tF9reca-g&expires=1701535324",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDI6NDA6MjggUE0maGFzaF92YWx1ZT16dXpRK1o0dnA2NWJUazBVbVVKSTZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjE2Mi4yNDgmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 360 SD",
+"livelink": "https://live.fallax.xyz/hls/pr1_320p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1FHD/chunklist.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://obevcimanyd179314182.thapcam.link/live/may1SD/chunklist.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/86d8d1aa32d5a3c0ff677087cd699ed6/1701570303556/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
