@@ -162,6 +162,16 @@
 "ateam": "Borussia M'Gladbach",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch13.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/mbundes4.m3u8?md5=bxdsk-b_OAR_xC9o7XLiyA&expires=1701533698",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/b235ce4ba45eb788f920763df3931991/1701568473043/majhccy/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -173,12 +183,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?edge_slice=true&user_session_id=abf289bd7763dbec5dbf251775868a8b&sub_m3u8=true&auth_key=1701529981-0-0-743b4755bdf1f7fe797b7a5dfde90be7",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?edge_slice=true&user_session_id=abf289bd7763dbec5dbf251775868a8b&sub_m3u8=true&auth_key=1701529981-0-0-743b4755bdf1f7fe797b7a5dfde90be7",
 "trylink": ""
 },
 {
@@ -203,6 +213,16 @@
 "ateam": "RB Leipzig",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch12.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/mbundes3.m3u8?md5=Sg6PUSCamMOKYR5vDUDo4A&expires=1701533933",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/d9eea2668dc4a2f37aeeee0b8fa56d06/1701568536351/trd02w8/trd02w8@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -214,12 +234,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?user_session_id=813c75609faca6380a8f1e893210ba3c&edge_slice=true&sub_m3u8=true&auth_key=1701530462-0-0-97052d1352aa6b8771f94f14be72ab6f",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?user_session_id=813c75609faca6380a8f1e893210ba3c&edge_slice=true&sub_m3u8=true&auth_key=1701530462-0-0-97052d1352aa6b8771f94f14be72ab6f",
 "trylink": ""
 },
 {
