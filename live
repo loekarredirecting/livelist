@@ -478,23 +478,33 @@
 "ateam": "Lazio",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/0c58d68d190862ad5a9dd55d70054418/1701574155992/en7hf6r/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001701530970-0-0-222dc4a018db1da06a0250d7dbeb257b",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?edge_slice=true&auth_key=1701534603-0-0-9bc6c55b82134219ddec7926725633fe&sub_m3u8=true&user_session_id=856b549419ce3cf2f61d894ee184b086",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?edge_slice=true&auth_key=1701534603-0-0-9bc6c55b82134219ddec7926725633fe&sub_m3u8=true&user_session_id=856b549419ce3cf2f61d894ee184b086",
 "trylink": ""
 },
 {
@@ -519,23 +529,33 @@
 "ateam": "Nottingham Forest",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/93a0e88b6d2c5514b034910d2fc4797f/1701574342280/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001701531156-0-0-d593b80bdf60c676c66320bb042790a3",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lhd.m3u8?sub_m3u8=true&user_session_id=5c3e7ece2984279bf28f464629eb99c7&auth_key=1701534842-0-0-8eb2c360d44ec1515b12ed83f6ee51a6&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2376781_lsd.m3u8?sub_m3u8=true&user_session_id=5c3e7ece2984279bf28f464629eb99c7&auth_key=1701534842-0-0-8eb2c360d44ec1515b12ed83f6ee51a6&edge_slice=true",
 "trylink": ""
 },
 {
@@ -560,23 +580,33 @@
 "ateam": "Real Madrid",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/b2f3e302188a65f1ab6b7714be147110/1701574666624/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001701531481-0-0-66c21f631d17cf9ab818ba9ade2d16fd",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3d051ac70fa9dd890aa544913391f477&auth_key=1701535141-0-0-3949740ef0a3b0b7fe480a49210016cd",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3d051ac70fa9dd890aa544913391f477&auth_key=1701535141-0-0-3949740ef0a3b0b7fe480a49210016cd",
 "trylink": ""
 },
 {
@@ -601,13 +631,23 @@
 "ateam": "VfB Stuttgart",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
 "livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/cf2004fa23715ee66bd136d12dbdec87/1701574875573/as9xexm/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001701531688-0-0-66635ca86e7fcdcb09ae58891ce308f2",
 "trylink": ""
 },
 {
