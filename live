@@ -421,29 +421,39 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
 "hteam": "Lyon",
-"time": " 10:30 PM ",
-"date": "2023-12-02",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
 "ateam": "Lens",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch9/live/ch9_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDM6MjY6NDMgUE0maGFzaF92YWx1ZT13Z1g5c1g4b1IzN2w4S1lXM013bzJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1LjgxLjIzNiZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/050c6e39a3a790b8a73e1318375f0a97/1701573672300/kqpqy3v/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001701530484-0-0-ed2e7025056687bed11e580a10cee679",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1701533882-0-0-765e1377b4daa346d35079411c675dbc&user_session_id=bc3523a63590b266bfb158bbd182b464",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1701533882-0-0-765e1377b4daa346d35079411c675dbc&user_session_id=bc3523a63590b266bfb158bbd182b464",
 "trylink": ""
 },
 {
