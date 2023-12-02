@@ -190,16 +190,6 @@
 "type": "China SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?edge_slice=true&user_session_id=abf289bd7763dbec5dbf251775868a8b&sub_m3u8=true&auth_key=1701529981-0-0-743b4755bdf1f7fe797b7a5dfde90be7",
 "trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -241,16 +231,6 @@
 "type": "China SD",
 "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?user_session_id=813c75609faca6380a8f1e893210ba3c&edge_slice=true&sub_m3u8=true&auth_key=1701530462-0-0-97052d1352aa6b8771f94f14be72ab6f",
 "trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
 }
 ]
 },
@@ -258,39 +238,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "hteam": "Wolverhampton",
-"time": " 9:30 PM ",
-"date": "2023-12-02",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "ateam": "Arsenal",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/86d8d1aa32d5a3c0ff677087cd699ed6/1701570303556/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001701527116-0-0-f38de4d7f27f7534708e979aead2c8aa",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?auth_key=1701530821-0-0-dfe1a14a033458726c981bd725a04f47&edge_slice=true&user_session_id=13b1192614f5fa26ffb4466debec0ac9&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?auth_key=1701530821-0-0-dfe1a14a033458726c981bd725a04f47&edge_slice=true&user_session_id=13b1192614f5fa26ffb4466debec0ac9&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1701531048-0-0-c67cd4edaaebdba5f3726c2b89a75ad4",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1701531048-0-0-c67cd4edaaebdba5f3726c2b89a75ad4",
 "trylink": ""
 }
 ]
