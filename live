@@ -1,107 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-"hteam": "Lyon",
-"time": " live ",
-"date": "10:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-"ateam": "Lens",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch9/live/ch9_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDM6MjY6NDMgUE0maGFzaF92YWx1ZT13Z1g5c1g4b1IzN2w4S1lXM013bzJBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1LjgxLjIzNiZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/050c6e39a3a790b8a73e1318375f0a97/1701573672300/kqpqy3v/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001701530484-0-0-ed2e7025056687bed11e580a10cee679",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1701533882-0-0-765e1377b4daa346d35079411c675dbc&user_session_id=bc3523a63590b266bfb158bbd182b464",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-317957_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1701533882-0-0-765e1377b4daa346d35079411c675dbc&user_session_id=bc3523a63590b266bfb158bbd182b464",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912047_lhd.m3u8?txSecret=c7ee5abf7cff39439dc5173b35387404&txTime=656ba604",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912047_lsd.m3u8?txSecret=c7ee5abf7cff39439dc5173b35387404&txTime=656ba604",
-"trylink": ""
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
-"hteam": "Cagliari",
-"time": " live ",
-"date": "11:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
-"ateam": "Lazio",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDQ6Mzg6MTEgUE0maGFzaF92YWx1ZT1jd3dYQW9GbjlzVUtTQ0Q0RXpadUtRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1LjgxLjIzNiZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/0c58d68d190862ad5a9dd55d70054418/1701574155992/en7hf6r/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001701530970-0-0-222dc4a018db1da06a0250d7dbeb257b",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?edge_slice=true&auth_key=1701534603-0-0-9bc6c55b82134219ddec7926725633fe&sub_m3u8=true&user_session_id=856b549419ce3cf2f61d894ee184b086",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?edge_slice=true&auth_key=1701534603-0-0-9bc6c55b82134219ddec7926725633fe&sub_m3u8=true&user_session_id=856b549419ce3cf2f61d894ee184b086",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-237299_lhd.m3u8?auth_key=1701538668-0-0-345d1817962c0c9cd2363470931e1522",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-237299_lsd.m3u8?auth_key=1701538668-0-0-345d1817962c0c9cd2363470931e1522",
-"trylink": ""
-}
-]
-},
-{
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "hteam": "Everton",
@@ -248,8 +146,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "hteam": "Frosinone",
-"time": " 2:15 AM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
 "ateam": "AC Milan",
 "link": [
@@ -299,8 +197,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "hteam": "Man United",
-"time": " 2:30 AM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "ateam": "Newcastle",
 "link": [
@@ -380,8 +278,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
 "hteam": "Real Sociedad",
-"time": " 2:30 AM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Osasuna",
 "link": [
@@ -431,8 +329,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
 "hteam": "Nice",
-"time": " 2:30 AM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
 "ateam": "Nantes",
 "link": [
