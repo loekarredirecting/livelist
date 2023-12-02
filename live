@@ -103,82 +103,51 @@
 },
 {
 "league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-"hteam": "Union Berlin",
-"time": " 9:00 PM ",
-"date": "2023-12-02",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
-"ateam": "Bayern München",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
 "hteam": "Wolfsburg",
-"time": " 9:00 PM ",
-"date": "2023-12-02",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "ateam": "VfL Bochum",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch14.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/mbundes5.m3u8?md5=253Jt5jyJ6sjNzq8Irekww&expires=1701532874",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/e1719543d372a6b8fcc334406426080a/1701568370891/dyv7fis/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001701525150-0-0-00362c37d2e32e738109354d2bab4022",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?sub_m3u8=true&auth_key=1701529682-0-0-840e0a00ea53328993f71cee1151fd93&user_session_id=f34d2b3f43cf7a2688cb59893c2d9cc6&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?sub_m3u8=true&auth_key=1701529682-0-0-840e0a00ea53328993f71cee1151fd93&user_session_id=f34d2b3f43cf7a2688cb59893c2d9cc6&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1701529908-0-0-00619d314cecbea507917713f4ccfcc8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-400798_lsd.m3u8?auth_key=1701529908-0-0-00619d314cecbea507917713f4ccfcc8",
 "trylink": ""
 }
 ]
@@ -187,19 +156,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "hteam": "TSG Hoffenheim",
-"time": " 9:00 PM ",
-"date": "2023-12-02",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
 "ateam": "Borussia M'Gladbach",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/b235ce4ba45eb788f920763df3931991/1701568473043/majhccy/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001701525297-0-0-0ea7f1f350c12701d0159b45d20ac8b5",
 "trylink": ""
 },
 {
@@ -228,19 +197,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
 "hteam": "FC Heidenheim",
-"time": " 9:00 PM ",
-"date": "2023-12-02",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
 "ateam": "RB Leipzig",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/d9eea2668dc4a2f37aeeee0b8fa56d06/1701568536351/trd02w8/trd02w8@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001701525347-0-0-3284e6ca2649671370450342d51a4bc0",
 "trylink": ""
 },
 {
