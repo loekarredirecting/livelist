@@ -467,16 +467,6 @@
 "trylink": ""
 },
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
 "livelink": "0",
 "trylink": ""
@@ -498,13 +488,23 @@
 "ateam": "AC Milan",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/d7056600d9eb14f4e127cbeed7bb0c38/1701579784809/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001701536598-0-0-057dfe3a8cc32a2ec6952b726617316b",
 "trylink": ""
 },
 {
@@ -539,13 +539,53 @@
 "ateam": "Newcastle",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "0",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://live.fallax.xyz/hls/pr_720p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://live.fallax.xyz/hls/pr_320p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/f035d7891a92c5e0ef453c4ffc901a54/1701579847218/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001701536659-0-0-6e0291a8a46c7c4a507b9e84111ee70c",
 "trylink": ""
 },
 {
@@ -580,13 +620,23 @@
 "ateam": "Osasuna",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/6d62e675156e78df8fb81799e10090fc/1701579898522/r8ztat6/r8ztat6@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001701536711-0-0-699156b3be3608823e7d61f79a07ae9e",
 "trylink": ""
 },
 {
@@ -621,13 +671,23 @@
 "ateam": "Nantes",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
 "livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/52ae5b4d4af696297cfbc1b719239e9a/1701579952007/z9nbpht/z9nbpht@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001701536766-0-0-0c6d012dfce7edb742ed752c66d14f5b",
 "trylink": ""
 },
 {
