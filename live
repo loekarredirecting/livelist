@@ -370,19 +370,19 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "hteam": "Rayo Vallecano",
-"time": " 9:45 PM ",
-"date": "2023-12-02",
+"time": " live ",
+"date": "9:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "ateam": "Athletic Club",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/def15a4bbfe1951f0d14d93a092f3982/1701573310230/gmpmb95/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001701530128-0-0-053cd261c8c41a95a8d89f3e694a14cf",
 "trylink": ""
 },
 {
