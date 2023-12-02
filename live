@@ -1,56 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
-"hteam": "Empoli",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-"ateam": "Genoa",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch8/live/ch8_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDE6MzE6NTkgUE0maGFzaF92YWx1ZT1aVW5IblowNE4vRjkzckFJa0R2K2VBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNzIuNzAuMTQyLjE3MSZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/c946b5f3692ef683849f37cbf9f52deb/1701566913942/qtdmef4/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel10.m3u8?auth_key=3000001701523781-0-0-1b9746a6aea1974af907066c5602cf7e",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lhd.m3u8?auth_key=1701528242-0-0-d5db157547d289f1d295e26838872336&edge_slice=true&sub_m3u8=true&user_session_id=dec2649b0c7dee0bd705a7230aeb6f3d",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-5645612_lsd.m3u8?auth_key=1701528242-0-0-d5db157547d289f1d295e26838872336&edge_slice=true&sub_m3u8=true&user_session_id=dec2649b0c7dee0bd705a7230aeb6f3d",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912061_lhd.m3u8?auth_key=1701527508-0-0-e8897e2155be0b1d6db5aebd2668cfb9",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912061_lsd.m3u8?auth_key=1701527508-0-0-e8897e2155be0b1d6db5aebd2668cfb9",
-"trylink": ""
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
 "hteam": "Wolfsburg",
