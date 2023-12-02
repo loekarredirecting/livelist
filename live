@@ -325,6 +325,16 @@
 "ateam": "Brentford",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch6/live/ch6_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDM6MDI6MjIgUE0maGFzaF92YWx1ZT1zOHdYbDFXWFJOVlZWQmZ0TnIyZTZBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0xNjIuMTU4LjEwNi45OCZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/dcd5edf70ac37bb33a358ac5cf1d6702/1701571565844/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -336,12 +346,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lhd.m3u8?auth_key=1701532921-0-0-bed7162d09d4b74f099412256d3298f0&user_session_id=3a09f64bfc0e9b5054e67a2c78989e91&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2961254_lsd.m3u8?auth_key=1701532921-0-0-bed7162d09d4b74f099412256d3298f0&user_session_id=3a09f64bfc0e9b5054e67a2c78989e91&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -365,6 +375,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
 "ateam": "Burnley",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/hdchnl8.m3u8?md5=Q0Ha8KsXqEVkn5zUWta3yQ&expires=1701536922",
+"trylink": "https://lovesomecommunity.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/b2eb51fdeb8e3776c7fab6efe296e7ba/1701571691551/r8ztat6/index.m3u8",
