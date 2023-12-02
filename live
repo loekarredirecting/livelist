@@ -376,6 +376,16 @@
 "ateam": "Athletic Club",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMi8yMDIzIDM6MTk6NTEgUE0maGFzaF92YWx1ZT0wN3hrZzhVL3RFc1JSbnJNbVl6SmhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1LjgxLjIzNiZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/def15a4bbfe1951f0d14d93a092f3982/1701573310230/gmpmb95/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -387,22 +397,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?auth_key=1701533762-0-0-c47e872a0e00e1c5517d0c3e8a6c372b&sub_m3u8=true&user_session_id=a9235ec1514d8d80c623420d23a14a9f&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?auth_key=1701533762-0-0-c47e872a0e00e1c5517d0c3e8a6c372b&sub_m3u8=true&user_session_id=a9235ec1514d8d80c623420d23a14a9f&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=79e580de9c6a25544725611a6e8eb6ca&txTime=656b9e48",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=79e580de9c6a25544725611a6e8eb6ca&txTime=656b9e48",
 "trylink": ""
 }
 ]
