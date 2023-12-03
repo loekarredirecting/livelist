@@ -101,12 +101,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=6ee460a05389ab65b300451a16e895de&txTime=656cbd28",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911969_lsd.m3u8?txSecret=6ee460a05389ab65b300451a16e895de&txTime=656cbd28",
 "trylink": ""
 }
 ]
@@ -115,8 +115,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "hteam": "Deportivo Alaves",
-"time": " 7:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "ateam": "Mallorca",
 "link": [
@@ -127,8 +127,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://ss1.101streams.net/scripts/MTY3OTE=/caxi.m3u8",
+"trylink": "https://1stream.soccer/"
 },
 {
 "type": "Vietnam HD",
@@ -152,12 +152,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-104707_lhd.m3u8?txSecret=1dc789f9f80c7b02d5dcd9fe251ab04f&txTime=656cbda0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-104707_lsd.m3u8?txSecret=1dc789f9f80c7b02d5dcd9fe251ab04f&txTime=656cbda0",
 "trylink": ""
 }
 ]
