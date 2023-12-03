@@ -223,12 +223,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=36898284ad9ada741cdf047b48536d44&txTime=656cfa90",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1701623928-0-0-bbb63ce1c78155530a8dd90822bcd3de",
 "trylink": ""
 }
 ]
@@ -274,12 +274,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911957_lhd.m3u8?txSecret=78e7fa2b9b6f56e348af7a11163b4f8d&txTime=656cff04",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9911957_lsd.m3u8?txSecret=78e7fa2b9b6f56e348af7a11163b4f8d&txTime=656cff04",
 "trylink": ""
 }
 ]
@@ -351,8 +351,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
@@ -402,8 +402,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
@@ -427,12 +427,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912028_lhd.m3u8?txSecret=784563fdb6467e7e18d3624fe357483f&txTime=656cfec8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912028_lsd.m3u8?txSecret=784563fdb6467e7e18d3624fe357483f&txTime=656cfec8",
 "trylink": ""
 }
 ]
@@ -453,18 +453,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "English 3 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 4 HD",
-"livelink": "",
-"trylink": "https://lovesomecommunity.com/"
+"livelink": "https://live.fallax.xyz/hls/efl2_480p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
 "type": "Vietnam HD",
@@ -488,12 +478,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1701623808-0-0-47368defb61248131b754ccc9179ab8d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1701623808-0-0-47368defb61248131b754ccc9179ab8d",
 "trylink": ""
 }
 ]
@@ -539,12 +529,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912006_lhd.m3u8?auth_key=1701623688-0-0-b6227fd54336d04faa5411d53faf2778",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912006_lsd.m3u8?auth_key=1701623688-0-0-b6227fd54336d04faa5411d53faf2778",
 "trylink": ""
 }
 ]
@@ -565,8 +555,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://live.fallax.xyz/hls/liga_480p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
 "type": "Vietnam HD",
@@ -590,12 +580,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1701623628-0-0-8bf35aff1b62dcf02655635e2baf96ed",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1701623628-0-0-8bf35aff1b62dcf02655635e2baf96ed",
 "trylink": ""
 }
 ]
