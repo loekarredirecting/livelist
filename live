@@ -3,8 +3,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "hteam": "Bologna",
-"time": " 6:00 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "ateam": "Lecce",
 "link": [
@@ -30,12 +30,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1701605042-0-0-cdc939f8030483009902eb843d06fce7&edge_slice=true&sub_m3u8=true&user_session_id=404ba2b8fa6f5cdc2952b78747d40bae",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?auth_key=1701605042-0-0-cdc939f8030483009902eb843d06fce7&edge_slice=true&sub_m3u8=true&user_session_id=404ba2b8fa6f5cdc2952b78747d40bae",
 "trylink": ""
 },
 {
