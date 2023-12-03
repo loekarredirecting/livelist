@@ -1,56 +1,5 @@
 [
 {
-"league": " Bundesliga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
-"hteam": "SC Freiburg",
-"time": " live ",
-"date": "9:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-"ateam": "Mainz 05",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://headlinessportsfoot.com/chunklist/hlsch12.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/454f746f273d2bb3d0072ea6fb022d47/1701641278080/en7hf6r/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001701598091-0-0-1850aa73692eab57a08a1a46e8111faf",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?edge_slice=true&auth_key=1701612242-0-0-3ee36c5a6f0b6fbb64bbe4741e4979bd&user_session_id=1519c6029bedf09809917e47469536eb&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?edge_slice=true&auth_key=1701612242-0-0-3ee36c5a6f0b6fbb64bbe4741e4979bd&user_session_id=1519c6029bedf09809917e47469536eb&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=139607bd733bd7ce96a18ba37805d31b&txTime=656cdf60",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912035_lsd.m3u8?txSecret=139607bd733bd7ce96a18ba37805d31b&txTime=656cdf60",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "hteam": "Real Betis",
@@ -339,8 +288,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "hteam": "Villarreal",
-"time": " 12:00 AM ",
-"date": "2023-12-04",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "ateam": "Sevilla",
 "link": [
@@ -390,8 +339,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
 "hteam": "Eintracht Frankfurt",
-"time": " 1:00 AM ",
-"date": "2023-12-04",
+"time": " live ",
+"date": "1:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "ateam": "FC Augsburg",
 "link": [
@@ -441,8 +390,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "hteam": "Inter",
-"time": " 2:15 AM ",
-"date": "2023-12-04",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
 "ateam": "Napoli",
 "link": [
@@ -492,8 +441,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "hteam": "Rennes",
-"time": " 2:15 AM ",
-"date": "2023-12-04",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "ateam": "Marseille",
 "link": [
@@ -543,8 +492,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Atletico Madrid",
-"time": " 2:30 AM ",
-"date": "2023-12-04",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "ateam": "Barcelona",
 "link": [
