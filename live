@@ -288,8 +288,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
 "hteam": "Roma",
-"time": " 11:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "ateam": "Sassuolo",
 "link": [
@@ -376,12 +376,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-273766_lhd.m3u8?auth_key=1701624228-0-0-93a60747efdfcd3d29755d62dd6cdcd0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-273766_lsd.m3u8?auth_key=1701624228-0-0-93a60747efdfcd3d29755d62dd6cdcd0",
 "trylink": ""
 }
 ]
