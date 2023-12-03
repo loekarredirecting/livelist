@@ -308,8 +308,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "hteam": "Fulham",
-"time": " 8:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "ateam": "Liverpool",
 "link": [
@@ -320,28 +320,28 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://lingestingoren.latsyoving.xyz/live/n-2/chunks.m3u8",
+"trylink": "https://linecrystal.com/"
 },
 {
 "type": "English 3 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 4 HD",
-"livelink": "",
+"livelink": "https://s6.noshwsmkm.com:999/hls/superpremier.m3u8?md5=uXqCr-3Aigljvyo8OWvAfQ&expires=1701617444",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
-"type": "English 5 HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 4 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr1/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
-"type": "English 6 HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 5 HD",
+"livelink": "https://live.fallax.xyz/hls/pr1_720p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 360 SD",
+"livelink": "https://live.fallax.xyz/hls/pr1_320p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
 "type": "Vebo HD",
@@ -350,7 +350,7 @@
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
