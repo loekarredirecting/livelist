@@ -1,66 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
-"hteam": "PSG",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"ateam": "Le Havre",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_5.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://lingestingoren.latsyoving.xyz/live/n-7/chunks.m3u8",
-"trylink": "https://linecrystal.com/"
-},
-{
-"type": "English 3 HD",
-"livelink": "https://headlinessportsfoot.com/chunklist/hlsch2.m3u8",
-"trylink": ""
-},
-{
-"type": "English 4 HD",
-"livelink": "https://s4.noshwsmkm.com:999/hls/bbtsp2.m3u8?md5=bir0vZ_cdZkEeR3HGcYKgA&expires=1701609530",
-"trylink": "https://lovesomecommunity.com/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/279a045a619e9f5757710eefc770de80/1701640748321/en7hf6r/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001701597574-0-0-3c3cd7170ef5abae0a451d35c679b47a",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?auth_key=1701606902-0-0-23bcd8c6abe8a8db527e8ef06320b523&sub_m3u8=true&user_session_id=b0ba88a6bcdd1d0c07799f1636ec984e&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?auth_key=1701606902-0-0-23bcd8c6abe8a8db527e8ef06320b523&sub_m3u8=true&user_session_id=b0ba88a6bcdd1d0c07799f1636ec984e&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911969_lhd.m3u8?txSecret=6ee460a05389ab65b300451a16e895de&txTime=656cbd28",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9911969_lsd.m3u8?txSecret=6ee460a05389ab65b300451a16e895de&txTime=656cbd28",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "hteam": "Deportivo Alaves",
@@ -187,9 +126,9 @@
 "trylink": ""
 },
 {
-"type": "English 2 HD",
-"livelink": "https://lingestingoren.latsyoving.xyz/live/n-1/chunks.m3u8",
-"trylink": "https://linecrystal.com/"
+"type": "English 2 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr2_1080p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
 "type": "English 3 HD",
