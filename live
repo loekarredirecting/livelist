@@ -681,12 +681,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912003_lhd.m3u8?auth_key=1701618588-0-0-52ae2cd27ac257586f8fcaf37cd88aba",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912003_lsd.m3u8?auth_key=1701618588-0-0-52ae2cd27ac257586f8fcaf37cd88aba",
 "trylink": ""
 }
 ]
