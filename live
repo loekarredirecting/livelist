@@ -162,12 +162,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-351530_lhd.m3u8?auth_key=1701614988-0-0-fdc2ca4afc45b45a978c43990b917659",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-351530_lsd.m3u8?auth_key=1701614988-0-0-fdc2ca4afc45b45a978c43990b917659",
 "trylink": ""
 }
 ]
@@ -213,7 +213,7 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/Z2HD/playlist.m3u8",
 "trylink": ""
 },
 {
@@ -243,12 +243,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=4644c47f505f8da9931c548f91c62594&txTime=656cdb28",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1701614988-0-0-407e437b9ed5eb0ed381b5246b27a7ad",
 "trylink": ""
 }
 ]
@@ -268,7 +268,7 @@
 "trylink": ""
 },
 {
-"type": "English 2 HD",
+"type": "English 2 FHD",
 "livelink": "https://lingestingoren.latsyoving.xyz/live/n-2/chunks.m3u8",
 "trylink": "https://linecrystal.com/"
 },
@@ -294,7 +294,7 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
@@ -324,12 +324,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1701614748-0-0-09800671a06254589a7f97959b3c5579",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1701614748-0-0-09800671a06254589a7f97959b3c5579",
 "trylink": ""
 }
 ]
@@ -385,12 +385,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912015_lhd.m3u8?txSecret=e82c52f520a6bc7067decfebfbb3d4b5&txTime=656cdbdc",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1701614988-0-0-d255661b1709a675afaf040346d98111",
 "trylink": ""
 }
 ]
