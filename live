@@ -1,56 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-"hteam": "Bologna",
-"time": " live ",
-"date": "6:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-"ateam": "Lecce",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8",
-"trylink": ""
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/d0d5f0ac0413a455a34facd9a7b3a849/1701640706469/rchtwtx/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001701597521-0-0-594b61d01d7ab0b7addd866fc995272c",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lhd.m3u8?auth_key=1701605042-0-0-cdc939f8030483009902eb843d06fce7&edge_slice=true&sub_m3u8=true&user_session_id=404ba2b8fa6f5cdc2952b78747d40bae",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-658659_lsd.m3u8?auth_key=1701605042-0-0-cdc939f8030483009902eb843d06fce7&edge_slice=true&sub_m3u8=true&user_session_id=404ba2b8fa6f5cdc2952b78747d40bae",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1701605868-0-0-b9e6f3d1e2794f931dec4562e37f5172",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1701605868-0-0-b9e6f3d1e2794f931dec4562e37f5172",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "hteam": "PSG",
@@ -258,7 +207,7 @@
 "trylink": "https://soccerinhd.com/"
 },
 {
-"type": "English 360 HD",
+"type": "English 360 SD",
 "livelink": "https://live.fallax.xyz/hls/pr2_320p/index.m3u8",
 "trylink": "https://soccerinhd.com/"
 },
@@ -269,7 +218,7 @@
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@Z2SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -389,8 +338,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
 "hteam": "Crystal Palace",
-"time": " 8:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "ateam": "West Ham",
 "link": [
@@ -401,17 +350,17 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://lingestingoren.latsyoving.xyz/live/n-4/chunks.m3u8",
+"trylink": "https://linecrystal.com/"
 },
 {
 "type": "English 3 HD",
-"livelink": "0",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch8.m3u8",
 "trylink": ""
 },
 {
 "type": "English 4 HD",
-"livelink": "",
+"livelink": "https://s7.noshwsmkm.com:999/hls/skysme.m3u8?md5=NkaS0Fjw2wwUk1znbaH4lQ&expires=1701617806",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
@@ -450,8 +399,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "hteam": "Salernitana",
-"time": " 8:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "ateam": "Fiorentina",
 "link": [
@@ -462,8 +411,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://po2.ainakwalajeen.com:999/hls/bbtsp1.m3u8?md5=ascfiRsEhuUuuTJaFFiuyg&expires=1701617877",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
@@ -501,8 +450,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
 "hteam": "Hellas Verona",
-"time": " 8:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "ateam": "Udinese",
 "link": [
@@ -513,8 +462,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://s9.noshwsmkm.com:999/hls/hdchnl11.m3u8?md5=-3bv2GLQGg9fvlsR3WH9uw&expires=1701617964",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
@@ -552,8 +501,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
 "hteam": "Clermont Foot",
-"time": " 8:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "ateam": "Brest",
 "link": [
@@ -564,8 +513,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch11.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
@@ -603,8 +552,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "hteam": "Montpellier",
-"time": " 8:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
 "ateam": "Monaco",
 "link": [
@@ -615,8 +564,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch3.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
@@ -654,8 +603,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
 "hteam": "Lorient",
-"time": " 8:30 PM ",
-"date": "2023-12-03",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "ateam": "Toulouse",
 "link": [
@@ -666,8 +615,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8",
+"trylink": ""
 },
 {
 "type": "Vietnam HD",
