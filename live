@@ -50,6 +50,26 @@
 "ateam": "Wolverhampton",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/superfotball.m3u8?md5=lvRyg2qoa74vFdpCLFYsUQ&expires=1701812382",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://zzzzzzzzzzzzzzzz.fordems.live/live/zone-2/chunks.m3u8",
+"trylink": "https://flexsportx.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://storage.googleapis.com/onicertering2/mux_video_ts/index-1.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/039ecafdfef4642b87b5dcfd638daa32/1701831185167/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
