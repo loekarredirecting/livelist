@@ -444,37 +444,37 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch6/live/ch6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDc6NTM6NDIgUE0maGFzaF92YWx1ZT1sejhVUmpEZit3bkJpRjJBOXlqTU13PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
 "type": "English 3 HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "English 4 HD",
-"livelink": "",
+"livelink": "https://s8.noshwsmkm.com:999/hls/superpremier.m3u8?md5=UW8E6BTJD6EoXLUph2mfEg&expires=1701899634",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
-"type": "English 5 HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 4 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
-"type": "English 6 HD",
-"livelink": "0",
-"trylink": ""
+"type": "English 5 HD",
+"livelink": "https://live.fallax.xyz/hls/pr_720p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 360 SD",
+"livelink": "https://live.fallax.xyz/hls/pr_320p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -513,8 +513,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "hteam": "Man City",
-"time": " 2:45 AM ",
-"date": "2023-12-07",
+"time": " live ",
+"date": "2:45 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "ateam": "Aston Villa",
 "link": [
