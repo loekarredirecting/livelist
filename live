@@ -151,6 +151,16 @@
 "ateam": "Crystal Palace",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDg6MTU6MjUgUE0maGFzaF92YWx1ZT10cDhGQU4wSmJVZi9EOWttL1hCajZnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/2403d159c28250f12a7b0e8a8a6b9900/1701907414852/kqpqy3v/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -191,6 +201,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "ateam": "Fulham",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDg6MTQ6MjEgUE0maGFzaF92YWx1ZT1qbnllelFtTEErUXVpYUVldWZDVnVnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/652f55c58da99d73ee7b9e6ae27d8065/1701907448083/qtdmef4/index.m3u8",
