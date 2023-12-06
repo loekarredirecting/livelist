@@ -183,22 +183,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=02ea2bbd71ef208654455753387ae936&auth_key=1701895023-0-0-9e591a26339b5e62bd6ecf7df7c0530f",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=02ea2bbd71ef208654455753387ae936&auth_key=1701895023-0-0-9e591a26339b5e62bd6ecf7df7c0530f",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lhd.m3u8?txSecret=f986b03cb4c6c832c48bee6e5e52d52d&txTime=65712174",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lsd.m3u8?txSecret=f986b03cb4c6c832c48bee6e5e52d52d&txTime=65712174",
 "trylink": ""
 }
 ]
@@ -207,8 +207,8 @@
 "league": " DFB Pokal ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269_small.png",
 "hteam": "Borussia Dortmund",
-"time": " 2:15 AM ",
-"date": "2023-12-07",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "ateam": "VfB Stuttgart",
 "link": [
