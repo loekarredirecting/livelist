@@ -253,6 +253,11 @@
 "ateam": "VfB Stuttgart",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/8fc5ab4a19d15a30bba2ddf178e72c70/1701907482860/xqispup/xqispup@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -335,6 +340,11 @@
 "ateam": "Villarreal",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_9.m3u8",
+"trylink": ""
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/3dd6434b49ddb30f2c340bed4200f9fe/1701907551738/en7hf6r/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -376,6 +386,11 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10167_small.png",
 "ateam": "Fiorentina",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_11.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/e563f779e54f5e1c271aa7f2acafef96/1701907687980/armrqlx/armrqlx@720p.m3u8",
