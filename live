@@ -3,8 +3,8 @@
 "league": " Copa del Rey ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/351558_small.png",
 "hteam": "Real Sociedad",
-"time": " 9:30 PM ",
-"date": "2023-12-06",
+"time": " live ",
+"date": "9:30 PM ",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "CE Andratx",
 "link": [
@@ -16,26 +16,6 @@
 {
 "type": "Vietnam FHD",
 "livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001701864010-0-0-801b4f615ffbeb464708141ebc3efe1e",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
 "trylink": ""
 }
 ]
