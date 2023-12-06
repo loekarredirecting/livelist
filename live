@@ -432,11 +432,51 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "hteam": "Chelsea",
-"time": " 2:45 AM ",
-"date": "2023-12-07",
+"time": " live ",
+"date": "2:45 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "ateam": "Man United",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 6 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/ee3db766c9ee5b6b199b8cf159330126/1701907722792/rchtwtx/rchtwtx@720p.m3u8",
@@ -449,12 +489,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-613431_lhd.m3u8?edge_slice=true&user_session_id=44ab117e5f490cb1963d5aa0d9d2f9d9&auth_key=1701895863-0-0-0f0f094d981e5e003b3ef9cc71d6b9d9&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-613431_lsd.m3u8?edge_slice=true&user_session_id=44ab117e5f490cb1963d5aa0d9d2f9d9&auth_key=1701895863-0-0-0f0f094d981e5e003b3ef9cc71d6b9d9&sub_m3u8=true",
 "trylink": ""
 },
 {
