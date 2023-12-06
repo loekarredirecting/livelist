@@ -9,6 +9,16 @@
 "ateam": "Sheffield United",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "0",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/64345e1660160d7ae928b7dfcf713e5c/1701907342419/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -20,12 +30,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0e627ecbaa1944b1d27dd5800af5e23d&auth_key=1701893943-0-0-893b14d774000f0ddb515ca38e9f6b8c",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=0e627ecbaa1944b1d27dd5800af5e23d&auth_key=1701893943-0-0-893b14d774000f0ddb515ca38e9f6b8c",
 "trylink": ""
 },
 {
