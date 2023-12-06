@@ -15,8 +15,38 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/hdchnl8.m3u8?md5=6ovJWQi-5XFfkbNKlcdJKw&expires=1701897845",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://killeredw.site/live/abr_ch3/live/ch3/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDc6Mjg6MTggUE0maGFzaF92YWx1ZT1Td3JXRitLbXNXSmppQU5PQlFjbSt3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 4 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr3/index.m3u8",
+"trylink": ""
+},
+{
+"type": "English 5 HD",
+"livelink": "https://live.fallax.xyz/hls/pr3_720p/index.m3u8",
+"trylink": ""
+},
+{
+"type": "English 360 SD",
+"livelink": "https://live.fallax.xyz/hls/pr3_320p/index.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
