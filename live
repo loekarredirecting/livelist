@@ -519,6 +519,46 @@
 "ateam": "Aston Villa",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNi8yMDIzIDg6MDI6NDEgUE0maGFzaF92YWx1ZT1EMFB5VUE5c3hjUlJDQktqazQrcld3PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s2.noshwsmkm.com:999/hls/sky1nz.m3u8?md5=PXqtTTrZAitVfS0gGRFZpA&expires=1701900183",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr1/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://live.fallax.xyz/hls/pr1_720p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 360 SD",
+"livelink": "https://live.fallax.xyz/hls/pr1_320p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://1123139281.cdn.khmer-hd.com/oldHD/chunks.m3u8",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/c27f38ec0ca0ab196febbb73099ad922/1701907758309/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -530,12 +570,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-767255_lhd.m3u8?edge_slice=true&user_session_id=ddfb65b93d6aaa930829f63bb4a2f702&auth_key=1701896283-0-0-b8d0e283b7759a5afe29a496cc6633e7&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-767255_lsd.m3u8?edge_slice=true&user_session_id=ddfb65b93d6aaa930829f63bb4a2f702&auth_key=1701896283-0-0-b8d0e283b7759a5afe29a496cc6633e7&sub_m3u8=true",
 "trylink": ""
 },
 {
