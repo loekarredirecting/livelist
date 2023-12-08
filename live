@@ -1,6 +1,6 @@
 [
 {
-"league": " Saudi Professional League ",
+"league": " update ပေးဖို့ရန်လိုအပ်ပါသည် ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101917_small.png",
 "hteam": "Al Hilal",
 "time": " 9:30 PM ",
@@ -9,26 +9,6 @@
 "ateam": "Al Taee",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
 "livelink": "0",
 "trylink": ""
@@ -41,7 +21,7 @@
 ]
 },
 {
-"league": " Saudi Professional League ",
+"league": " update ပေးဖို့ရန်လိုအပ်ပါသည် ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "hteam": "Al Riyadh",
 "time": " 12:30 AM ",
@@ -50,26 +30,6 @@
 "ateam": "Al Nassr FC",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
 "livelink": "0",
 "trylink": ""
@@ -82,7 +42,7 @@
 ]
 },
 {
-"league": " Bundesliga ",
+"league": " update ပေးဖို့ရန်လိုအပ်ပါသည် ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
 "hteam": "VfL Bochum",
 "time": " 2:00 AM ",
@@ -91,26 +51,6 @@
 "ateam": "TSG Hoffenheim",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
 "livelink": "0",
 "trylink": ""
@@ -123,7 +63,7 @@
 ]
 },
 {
-"league": " Serie A ",
+"league": " update ပေးဖို့ရန်လိုအပ်ပါသည် ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "hteam": "Napoli",
 "time": " 2:15 AM ",
@@ -164,54 +104,13 @@
 ]
 },
 {
-"league": " Laliga ",
+"league": " update ပေးဖို့ရန်လိုအပ်ပါသည် ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
 "hteam": "Valencia",
 "time": " 2:30 AM ",
 "date": "2023-12-09",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10267_small.png",
 "ateam": "Getafe",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10249_small.png",
-"hteam": "Lens",
-"time": " 2:30 AM ",
-"date": "2023-12-09",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8588_small.png",
-"ateam": "Montpellier",
 "link": [
 {
 "type": "Vietnam HD",
