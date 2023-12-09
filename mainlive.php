@@ -381,39 +381,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
 "hteam": "Burnley",
-"time": " 9:30 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
 "ateam": "Brighton",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/1028930eb7467a7c2cacce87222ca8ff/1702175371781/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702132187-0-0-f4210993f258a65bb5d37c62f6c41227",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?sub_m3u8=true&user_session_id=630daff08c8b91bcae19281d3f9f7594&edge_slice=true&auth_key=1702135804-0-0-d86af146c33bbf0e02643f7df68c5461",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?sub_m3u8=true&user_session_id=630daff08c8b91bcae19281d3f9f7594&edge_slice=true&auth_key=1702135804-0-0-d86af146c33bbf0e02643f7df68c5461",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1702136028-0-0-25d342948af6e8adc6edea961baf78bd",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1702136028-0-0-25d342948af6e8adc6edea961baf78bd",
 "trylink": ""
 }
 ]
@@ -422,39 +422,39 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "hteam": "AFC Bournemouth",
-"time": " 9:30 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "ateam": "Man United",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/6975e5a73be82ecfd0d554f135708f88/1702175439822/rchtwtx/rchtwtx@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001702132290-0-0-52bda62b641f5cb51f5cbb2cc3a915d2",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=eef0c8d69a3cf0e072981dd259a55a6c&auth_key=1702135864-0-0-a836969c9747968b5e16906f10e990fb",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=eef0c8d69a3cf0e072981dd259a55a6c&auth_key=1702135864-0-0-a836969c9747968b5e16906f10e990fb",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912042_lhd.m3u8?txSecret=f591d3f97ca9365179a8247101855e6d&txTime=6574cf69",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912042_lsd.m3u8?txSecret=f591d3f97ca9365179a8247101855e6d&txTime=6574cf69",
 "trylink": ""
 }
 ]
@@ -463,19 +463,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
 "hteam": "Brentford",
-"time": " 9:30 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "ateam": "Sheffield United",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/90e3a7c97ec0b069a14bd71b2068f764/1702175531338/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001702132405-0-0-3eb7e5db5249386408637b676edf0f35",
 "trylink": ""
 },
 {
@@ -504,19 +504,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "hteam": "Nottingham Forest",
-"time": " 9:30 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "ateam": "Wolverhampton",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/40bc7f794adee42e5fe45c180b7e3875/1702175636101/kqpqy3v/kqpqy3v@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001702132450-0-0-619c5c83b231f578922834f3e8c222a1",
 "trylink": ""
 },
 {
