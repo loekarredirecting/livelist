@@ -306,6 +306,16 @@
 "ateam": "Brighton",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch6/live/ch6/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6NTk6MzkgUE0maGFzaF92YWx1ZT1rSVZ4UkVnU1FEenQwZlRqTTNxNi93PT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/1028930eb7467a7c2cacce87222ca8ff/1702175371781/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -428,6 +438,16 @@
 "ateam": "Sheffield United",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch9/live/ch9_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6MDA6MzYgUE0maGFzaF92YWx1ZT1WTEJkeFJZTDNhTzNwS2JlOGd0bmlBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/90e3a7c97ec0b069a14bd71b2068f764/1702175531338/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -469,6 +489,16 @@
 "ateam": "Wolverhampton",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_4.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch8/live/ch8/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6MDE6MjUgUE0maGFzaF92YWx1ZT0zUXp6anJoMGdFRnR1THczZjVBR0ZRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/40bc7f794adee42e5fe45c180b7e3875/1702175636101/kqpqy3v/kqpqy3v@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -509,6 +539,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
 "ateam": "Real Betis",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6MDI6MTcgUE0maGFzaF92YWx1ZT1nM08vYXNZTDlpbTJpclVDUm5QcXpRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/033eb743bc837e2af33d94e94f358026/1702176840433/gmpmb95/gmpmb95@720p.m3u8",
