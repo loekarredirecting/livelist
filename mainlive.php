@@ -217,39 +217,39 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
 "hteam": "SV Darmstadt",
-"time": " 9:00 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
 "ateam": "FC Heidenheim",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/4836eee4be969fe1fbb83656939e9bd9/1702174782410/twtxkja/twtxkja@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel12.m3u8?auth_key=3000001702131597-0-0-b77135d74c3be9eec0a0b1a79cc08c3a",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-767255_lhd.m3u8?sub_m3u8=true&user_session_id=d5d9a2178402f779d9db546d2c73d3fd&edge_slice=true&auth_key=1702135084-0-0-2a4aab7b6b74a7222b0f263082a8b9fa",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-767255_lsd.m3u8?sub_m3u8=true&user_session_id=d5d9a2178402f779d9db546d2c73d3fd&edge_slice=true&auth_key=1702135084-0-0-2a4aab7b6b74a7222b0f263082a8b9fa",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-342075_lhd.m3u8?txSecret=454a001934b448c7dc5c115e4eec0517&txTime=6574cba8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-342075_lsd.m3u8?txSecret=454a001934b448c7dc5c115e4eec0517&txTime=6574cba8",
 "trylink": ""
 }
 ]
