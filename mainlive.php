@@ -447,12 +447,12 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -491,11 +491,21 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
 "hteam": "Real Sociedad",
-"time": " 12:00 AM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8560_small.png",
 "ateam": "Villarreal",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDQ6NTc6MjcgUE0maGFzaF92YWx1ZT13cy9tSnBHNUZxWEtzU1VUZCsrTFpBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/5dc0cd70112a5f538034411d592feea5/1702180396414/en7hf6r/index.m3u8",
@@ -508,12 +518,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?auth_key=1702144384-0-0-bfd99b49b945fe3788e36ca513603380&edge_slice=true&user_session_id=97fbaa40c469cd3fca6688025695b8e4&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?auth_key=1702144384-0-0-bfd99b49b945fe3788e36ca513603380&edge_slice=true&user_session_id=97fbaa40c469cd3fca6688025695b8e4&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -532,11 +542,21 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "hteam": "RB Leipzig",
-"time": " 12:00 AM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
 "ateam": "Borussia Dortmund",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_9.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://s3.noshwsmkm.com:999/hls/mbundes1.m3u8?md5=jlqjveq00AyrKNrdI3E_Uw&expires=1702148383",
+"trylink": "https://b4ucast.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/d1ffe5827f7a418f7497535f01a9aff0/1702180451887/lhsazur/lhsazur@720p.m3u8",
@@ -549,12 +569,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?user_session_id=4b61f8411d72dcd77fabd08f1c5f5a6c&sub_m3u8=true&edge_slice=true&auth_key=1702144444-0-0-586d81f377acf718fe1c51cb657d4a42",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?user_session_id=4b61f8411d72dcd77fabd08f1c5f5a6c&sub_m3u8=true&edge_slice=true&auth_key=1702144444-0-0-586d81f377acf718fe1c51cb657d4a42",
 "trylink": ""
 },
 {
