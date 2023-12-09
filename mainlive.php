@@ -175,7 +175,7 @@
 {
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
-"hteam": "Bayern MÃ¼nchen",
+"hteam": "Bayern munchen",
 "time": " live ",
 "date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
@@ -193,22 +193,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?user_session_id=f38e13be575698020a8fc572da3c64d6&sub_m3u8=true&edge_slice=true&auth_key=1702134844-0-0-9ed3187c539c7e5ae91160d2e7055f8d",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?user_session_id=f38e13be575698020a8fc572da3c64d6&sub_m3u8=true&edge_slice=true&auth_key=1702134844-0-0-9ed3187c539c7e5ae91160d2e7055f8d",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1702134948-0-0-aa720e08200a45be656d8422633acfeb",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1702134948-0-0-aa720e08200a45be656d8422633acfeb",
 "trylink": ""
 }
 ]
