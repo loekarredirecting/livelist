@@ -176,19 +176,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
 "hteam": "Bayern MÃ¼nchen",
-"time": " 9:00 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Eintracht Frankfurt",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/bf443d0eb751bfc44eda10e31d9bd108/1702173786220/as9xexm/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001702130601-0-0-e69369f4834784a56ef6d645da17aeac",
 "trylink": ""
 },
 {
