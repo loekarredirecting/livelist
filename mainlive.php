@@ -561,7 +561,7 @@
 ]
 },
 {
-"league": " Bundesliga ",
+"league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "Monaco",
 "time": " live ",
