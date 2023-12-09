@@ -382,7 +382,7 @@
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912042_lsd.m3u8?txSecret=f591d3f97ca9365179a8247101855e6d&txTime=6574cf69",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1702138129-0-0-373327538f50067a56d92238304b5743",
 "trylink": ""
 }
 ]
