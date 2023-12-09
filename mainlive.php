@@ -1,86 +1,5 @@
 [
 {
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-"hteam": "Liverpool",
-"time": " live ",
-"date": "7:00 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
-"ateam": "Crystal Palace",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch1/live/ch1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDEyOjE5OjMwIFBNJmhhc2hfdmFsdWU9cm53UEhxUXQ4emgvNGt6WW1DVGdIQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4yNTMmc3RybV9sZW49NQ==",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "English 3 HD",
-"livelink": "https://weak.hiweak14.store/live/usa/storage.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "English 4 HD",
-"livelink": "https://po1.ainakwalajeen.com:999/hls/bbtsp1.m3u8?md5=36UlvN2gvtvSLJC3e7zinQ&expires=1702131589",
-"trylink": "https://lovesomecommunity.com/"
-},
-{
-"type": "English 5 HD",
-"livelink": "https://headlinessportsfoot.com/chunklist/hlsch1.m3u8",
-"trylink": ""
-},
-{
-"type": "English 6 HD",
-"livelink": "https://apisportvb90xltcbk.nsnd.live/live/sd-dn1m1ghpjddymoe/chunklist_w1130410551.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vebo HD",
-"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
-"trylink": ""
-},
-{
-"type": "Vebo SD",
-"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8",
-"trylink": "https://player.4shares.live/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/18deeafb0d83be81b60ef37866f15a24/1702167196892/rchtwtx/rchtwtx@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001702124011-0-0-e7e5a578349d9a9bc6c0b27de68e02a6",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=a069e0334c2035d25e2e5d5960d7a598&auth_key=1702127704-0-0-5839bb6e81c1be572a78bc9c47bc562f",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=a069e0334c2035d25e2e5d5960d7a598&auth_key=1702127704-0-0-5839bb6e81c1be572a78bc9c47bc562f",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912009_lhd.m3u8?txSecret=c263359953fc2f3d3ec019724a2e09a6&txTime=6574b03c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912009_lsd.m3u8?txSecret=c263359953fc2f3d3ec019724a2e09a6&txTime=6574b03c",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "hteam": "Las Palmas",
@@ -427,6 +346,46 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "ateam": "Man United",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch7/live/ch7_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6Mzk6MDggUE0maGFzaF92YWx1ZT1ScFpVUUFjQ3ZWaFlPZk9DNUxkR3dRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s7.noshwsmkm.com:999/hls/superpremier.m3u8?md5=NcEP3lbIaOUHoN8W_HniBw&expires=1702139991",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 5 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "English 6 HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/6975e5a73be82ecfd0d554f135708f88/1702175439822/rchtwtx/rchtwtx@720p.m3u8",
