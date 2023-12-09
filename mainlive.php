@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"hteam": "Real Madrid",
-"time": " live ",
-"date": "9:45 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"ateam": "Real Betis",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6MDI6MTcgUE0maGFzaF92YWx1ZT1nM08vYXNZTDlpbTJpclVDUm5QcXpRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/033eb743bc837e2af33d94e94f358026/1702176840433/gmpmb95/gmpmb95@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel15.m3u8?auth_key=3000001702133651-0-0-700735e7723ce77f2076215141f2aa7d",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lhd.m3u8?sub_m3u8=true&auth_key=1702137184-0-0-0a8d70a238d7f608e062343db90f7752&user_session_id=635fbbf94763cd8f2cc89c2b76afcf9c&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-540088_lsd.m3u8?sub_m3u8=true&auth_key=1702137184-0-0-0a8d70a238d7f608e062343db90f7752&user_session_id=635fbbf94763cd8f2cc89c2b76afcf9c&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=51ae8fd27c2b1d71b4b42c0c355f2daa&txTime=6574dd79",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-462413_lsd.m3u8?txSecret=51ae8fd27c2b1d71b4b42c0c355f2daa&txTime=6574dd79",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "Monaco",
@@ -223,12 +172,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912042_lhd.m3u8?txSecret=c014483250b4e39fe37135e179b664ca&txTime=6574e9a8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1702145928-0-0-e947786f969bc8de06245f149337d6ec",
 "trylink": ""
 }
 ]
@@ -274,12 +223,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912047_lhd.m3u8?auth_key=1702146048-0-0-10a0845f936b32467fb67327af2d3a99",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912047_lsd.m3u8?auth_key=1702146048-0-0-10a0845f936b32467fb67327af2d3a99",
 "trylink": ""
 }
 ]
@@ -325,12 +274,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lhd.m3u8?txSecret=f16392d183f32c79d73b84fd32b90481&txTime=6574f650",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912064_lsd.m3u8?txSecret=f16392d183f32c79d73b84fd32b90481&txTime=6574f650",
 "trylink": ""
 }
 ]
