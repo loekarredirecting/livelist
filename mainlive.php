@@ -275,6 +275,16 @@
 "trylink": "https://streams.score808.football/"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/do21.m3u8?md5=GgLEqG7OdZkbop1Zyp8iaw&expires=1702142737",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s7.noshwsmkm.com:999/hls/do32.m3u8?md5=0OCBn9sx3C5h8K2LTomSOA&expires=1702142718",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/1028930eb7467a7c2cacce87222ca8ff/1702175371781/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -332,7 +342,7 @@
 },
 {
 "type": "English 4 HD",
-"livelink": "https://s7.noshwsmkm.com:999/hls/superpremier.m3u8?md5=NcEP3lbIaOUHoN8W_HniBw&expires=1702139991",
+"livelink": "https://s5.noshwsmkm.com:999/hls/superpremier.m3u8?md5=avTJH8A3bQ9PXyVhUY-W9A&expires=1702143297",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
@@ -405,6 +415,16 @@
 "type": "English 2 HD",
 "livelink": "https://killeredw.site/live/abr_ch9/live/ch9_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6MDA6MzYgUE0maGFzaF92YWx1ZT1WTEJkeFJZTDNhTzNwS2JlOGd0bmlBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://working.latsyoving.xyz/live/n-3/chunks.m3u8",
+"trylink": "https://linecrystal.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s5.noshwsmkm.com:999/hls/hdchnl6.m3u8?md5=N7SzVozPF1C8UDJ5E27o8Q&expires=1702143181",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
