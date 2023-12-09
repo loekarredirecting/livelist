@@ -396,12 +396,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1702143133-0-0-9ff7df3a28f9e2406bc85aa420a1c75b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1702143133-0-0-9ff7df3a28f9e2406bc85aa420a1c75b",
 "trylink": ""
 }
 ]
@@ -410,11 +410,51 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
 "hteam": "Arsenal",
-"time": " 12:00 AM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "12:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
 "ateam": "Aston Villa",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch12/live/ch12/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDQ6NDE6NTIgUE0maGFzaF92YWx1ZT1XMHBnYlF4eC9jK3REdjZ4cWZ1MWhnPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s2.noshwsmkm.com:999/hls/do30.m3u8?md5=So9VAGmWQUBOy0jlwtO9Vg&expires=1702147633",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s3.noshwsmkm.com:999/hls/skysme.m3u8?md5=hMwPVln3lGftzih-WrGE2A&expires=1702147345",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://s6.noshwsmkm.com:999/hls/do31.m3u8?md5=ya2iovco-0_CZHJZgWn5dg&expires=1702147480",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://s6.noshwsmkm.com:999/hls/do2.m3u8?md5=Srsf4H_0NpWxACRG1QQahg&expires=1702147598",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/c74491d3224aafb1d00aea04cff3f629/1702180339270/rchtwtx/index.m3u8",
@@ -427,12 +467,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?sub_m3u8=true&auth_key=1702143484-0-0-1e45f73cbc7d10ab022846614fbfaafa&user_session_id=f04643386751d8cdacd6af76d7dacaea&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?sub_m3u8=true&auth_key=1702143484-0-0-1e45f73cbc7d10ab022846614fbfaafa&user_session_id=f04643386751d8cdacd6af76d7dacaea&edge_slice=true",
 "trylink": ""
 },
 {
