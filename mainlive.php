@@ -363,27 +363,27 @@
 },
 {
 "type": "English 4 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://givemereddit.cloud/hls/abr_skysport/hls/skysport_720p/chunks.m3u8",
+"trylink": "https://givemereddit.eu/"
 },
 {
 "type": "English 5 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://plpl12.teujyt.space/playlist/16975/afsvvvvv.101streams.online/caxi.m3u8",
+"trylink": "https://1stream.eu/"
 },
 {
 "type": "English 6 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://soccer.freesportstime.com/live/stream_1.m3u8",
+"trylink": "https://streamocean.online/"
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
