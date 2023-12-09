@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
-"hteam": "Las Palmas",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8306_small.png",
-"ateam": "Deportivo Alaves",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDEyOjQ4OjQ5IFBNJmhhc2hfdmFsdWU9cW9PdHYzK090NGc1bTZLYTlHNy9Qdz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4yNTMmc3RybV9sZW49NQ==",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/f763df1c9e73e076d9078e21bcb2cc8a/1702168821885/majhccy/majhccy@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001702125638-0-0-d18fd553801d6277677f66809f258e46",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-632730_lhd.m3u8?auth_key=1702129564-0-0-4244c74cfdf76ebfe9d456d13729b0e8&user_session_id=de39149ac7e2cca9e401288efb175145&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-632730_lsd.m3u8?auth_key=1702129564-0-0-4244c74cfdf76ebfe9d456d13729b0e8&user_session_id=de39149ac7e2cca9e401288efb175145&edge_slice=true&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1702129670-0-0-92e555505626169aa03eac61eea87d97",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-261808_lsd.m3u8?auth_key=1702129670-0-0-92e555505626169aa03eac61eea87d97",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
 "hteam": "Lazio",
@@ -100,6 +49,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "ateam": "Eintracht Frankfurt",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_10.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://headlinessportsfoot.com/chunklist/hlsch19.m3u8",
+"trylink": ""
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/bf443d0eb751bfc44eda10e31d9bd108/1702173786220/as9xexm/index.m3u8",
@@ -363,28 +322,28 @@
 },
 {
 "type": "English 2 HD",
+"livelink": "https://soccer.freesportstime.com/live/stream_1.m3u8",
+"trylink": "https://streamocean.online/"
+},
+{
+"type": "English 3 HD",
 "livelink": "https://killeredw.site/live/abr_ch7/live/ch7_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDI6Mzk6MDggUE0maGFzaF92YWx1ZT1ScFpVUUFjQ3ZWaFlPZk9DNUxkR3dRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
 "trylink": "https://streams.score808.football/"
 },
 {
-"type": "English 3 HD",
+"type": "English 4 HD",
 "livelink": "https://s7.noshwsmkm.com:999/hls/superpremier.m3u8?md5=NcEP3lbIaOUHoN8W_HniBw&expires=1702139991",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
-"type": "English 4 HD",
+"type": "English 5 HD",
 "livelink": "https://givemereddit.cloud/hls/abr_skysport/hls/skysport_720p/chunks.m3u8",
 "trylink": "https://givemereddit.eu/"
 },
 {
-"type": "English 5 HD",
-"livelink": "https://plpl12.teujyt.space/playlist/16975/afsvvvvv.101streams.online/caxi.m3u8",
-"trylink": "https://1stream.eu/"
-},
-{
 "type": "English 6 HD",
-"livelink": "https://soccer.freesportstime.com/live/stream_1.m3u8",
-"trylink": "https://streamocean.online/"
+"livelink": "https://s3.noshwsmkm.com:999/hls/do31.m3u8?md5=kUg-jK8B7Tb2qFvfpKHehg&expires=1702141805",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vebo HD",
