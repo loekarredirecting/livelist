@@ -550,12 +550,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-462413_lhd.m3u8?txSecret=51ae8fd27c2b1d71b4b42c0c355f2daa&txTime=6574dd79",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-462413_lsd.m3u8?txSecret=51ae8fd27c2b1d71b4b42c0c355f2daa&txTime=6574dd79",
 "trylink": ""
 }
 ]
@@ -564,29 +564,39 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
 "hteam": "Monaco",
-"time": " 10:30 PM ",
-"date": "2023-12-09",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "ateam": "Rennes",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch10/live/ch10_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIzIDM6NDg6MjggUE0maGFzaF92YWx1ZT1kZlZEZ1dJSXc4V3hyRFpucVRDdFdRPT0mdmFsaWRtaW51dGVzPTcyMCZpZD0yMDIuMTY1Ljg2LjI1MyZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://rmue2hq1pcliv.vcdn.com.vn/majhccy/index.m3u8?hdnts=exp=1702161624~acl=/majhccy*~hmac=dd34d1201fe4d2559563abad0f99fc8c7df31e10ec8e30040a 22e1b1105524a0",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001702136438-0-0-b84ea5f5138f203984c6c705b52dfd03",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?user_session_id=d5ad4d401763f2adb2a1cb7ea7199ac9&edge_slice=true&auth_key=1702140304-0-0-51d2fa62272f85858dc31f13fad3bdf4&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-789306_lhd.m3u8?user_session_id=d5ad4d401763f2adb2a1cb7ea7199ac9&edge_slice=true&auth_key=1702140304-0-0-51d2fa62272f85858dc31f13fad3bdf4&sub_m3u8=true",
 "trylink": ""
 },
 {
