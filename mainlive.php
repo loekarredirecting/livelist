@@ -601,12 +601,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-434982_lhd.m3u8?txSecret=2127530a491e17480d1747d6f9c8c732&txTime=6574dea8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-434982_lsd.m3u8?txSecret=2127530a491e17480d1747d6f9c8c732&txTime=6574dea8",
 "trylink": ""
 }
 ]
@@ -622,12 +622,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://rmue2hq1pcliv.vcdn.com.vn/as9xexm/index.m3u8?hdnts=exp=1702162233~acl=/as9xexm*~hmac=41203fe04cd7005e082f9c1462f93148339aece3959d494 a4bcd734ddf6b2b63",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001702137045-0-0-84baa5628a58afbe358c0a8b1bdf6437",
 "trylink": ""
 },
 {
@@ -663,12 +663,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/c74491d3224aafb1d00aea04cff3f629/1702180339270/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001702137154-0-0-204e12038f40e35aa380090ccc8ed39f",
 "trylink": ""
 },
 {
@@ -704,12 +704,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5dc0cd70112a5f538034411d592feea5/1702180396414/en7hf6r/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001702137208-0-0-7b09e0047aecd70ccc193dba10ae04e3",
 "trylink": ""
 },
 {
@@ -745,12 +745,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/d1ffe5827f7a418f7497535f01a9aff0/1702180451887/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702137265-0-0-122b56c9b3b0584e3e46671da1039551",
 "trylink": ""
 },
 {
