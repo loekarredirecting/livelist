@@ -243,6 +243,46 @@
 "ateam": "Luton Town",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/skysme.m3u8?md5=1fVZsaVojJi-nw7k1baJYg&expires=1702222930",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://killeredw.site/live/abr_ch11/live/ch11_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxOjQxOjQ4IFBNJmhhc2hfdmFsdWU9V1ZaT0EyakNldlVhT3hXRWlVVXY5QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s7.noshwsmkm.com:999/hls/do31.m3u8?md5=xK71Svx4SUokx9MkyRVvaA&expires=1702223018",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/do24.m3u8?md5=Xrj4AjZzfHh5HUzi2XQ-jQ&expires=1702223059",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/do21.m3u8?md5=UU4mat4oKXCkRd3u6s_uzQ&expires=1702223092",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 7 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/do3.m3u8?md5=TRysrS0ligqShTlyrkV7QQ&expires=1702223139",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/42df8f1a5efd5896b676522ec86d35fa/1702241525233/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
