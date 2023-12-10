@@ -278,11 +278,21 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "hteam": "Fiorentina",
-"time": " 2:15 AM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "ateam": "Roma",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://rdi756.bcdd.space/playlist/17070/afsvvvvv.101streams.online/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/b5d30ce06b1e6c7de0a44184c6bac9e8/1702242075447/lhsazur/index.m3u8",
@@ -319,11 +329,21 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "hteam": "Marseille",
-"time": " 2:15 AM ",
-"date": "2023-12-11",
+"time": " lIve ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "ateam": "Lorient",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://plpl12.teujyt.space/playlist/17075/afsvvvvv.101streams.online/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/3be51b19476e11e734a009955f9baeff/1702242119921/kqpqy3v/index.m3u8",
@@ -360,11 +380,21 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Girona",
-"time": " 2:30 AM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Barcelona",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://plpl12.teujyt.space/playlist/17068/afsvvvvv.101streams.online/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/231df4181da7c28b8e761e29ef10c3bd/1702242158810/rchtwtx/index.m3u8",
