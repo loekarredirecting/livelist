@@ -3,19 +3,19 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
 "hteam": "Torino",
-"time": " 6:00 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 "ateam": "Frosinone",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/59226ae37e9bc32187cd06d1c3a35638/1702241267413/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702198082-0-0-3c516fe82be268a882a98ed33fb99b69",
 "trylink": ""
 },
 {
@@ -30,12 +30,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1702204548-0-0-07472ecf519fb6b43db509563ef031c7",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1702204548-0-0-07472ecf519fb6b43db509563ef031c7",
 "trylink": ""
 }
 ]
