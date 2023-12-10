@@ -1,6 +1,6 @@
 [
 {
-"league": " LaLiga ",
+"league": " LaLiga a ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
 "hteam": "Athletic Club",
 "time": " live ",
@@ -284,16 +284,6 @@
 "ateam": "Cadiz",
 "link": [
 {
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://plpl111.fdhgfdha.space/playlist/17067/afsvvvvv.101streams.online/caxi.m3u8",
-"trylink": "https://1stream.eu/"
-},
-{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/966bb9aad8ba1994d6e5b6c7972753dd/1702242027312/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -329,8 +319,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
 "hteam": "Fiorentina",
-"time": " 2:15 AM ",
-"date": "2023-12-11",
+"time": "live ",
+"date": " 2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
 "ateam": "Roma",
 "link": [
@@ -370,8 +360,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "hteam": "Marseille",
-"time": " 2:15 AM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": " 2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "ateam": "Lorient",
 "link": [
@@ -411,8 +401,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
 "hteam": "Girona",
-"time": " 2:30 AM ",
-"date": "2023-12-11",
+"time": " live ",
+"date": " 2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "ateam": "Barcelona",
 "link": [
