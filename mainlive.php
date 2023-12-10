@@ -1,6 +1,6 @@
 [
 {
-"league": " Ngar Loe Ma tr Lee pal ",
+"league": " Ngar Loe Ma tr  ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
 "hteam": "Athletic Club",
 "time": " live ",
