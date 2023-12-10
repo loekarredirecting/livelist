@@ -3,39 +3,49 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
 "hteam": "Torino",
-"time": " 6:00 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9804_small.png",
 "ateam": "Frosinone",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxMToxMzowOSBBTSZoYXNoX3ZhbHVlPXpJMHhXaWlQY1ZxMlBqWVdNY3Myemc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODYuNjQmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/59226ae37e9bc32187cd06d1c3a35638/1702241267413/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702198082-0-0-3c516fe82be268a882a98ed33fb99b69",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1702213504-0-0-67f47ee5232a363b628df8dc67459846&user_session_id=ffa798d92e32c2f1bdc6b25e0b9362cb",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551866_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1702213504-0-0-67f47ee5232a363b628df8dc67459846&user_session_id=ffa798d92e32c2f1bdc6b25e0b9362cb",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lhd.m3u8?auth_key=1702204548-0-0-07472ecf519fb6b43db509563ef031c7",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912077_lsd.m3u8?auth_key=1702204548-0-0-07472ecf519fb6b43db509563ef031c7",
 "trylink": ""
 }
 ]
@@ -44,39 +54,49 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
 "hteam": "Reims",
-"time": " 6:30 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 "ateam": "Nice",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxMToyODowOSBBTSZoYXNoX3ZhbHVlPWFZdE1oQWd0Mm9sSU5FZmo0QzBTMlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODYuNjQmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/c3e87e4ccb8ef3b415be871908476383/1702241314143/as9xexm/as9xexm@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001702198127-0-0-580df21035e4497229a321ec014efdc6",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?auth_key=1702213564-0-0-dbbf086dd27b390f7785e4cc9eb437c2&user_session_id=4dce5505dd55a983a1025f4adbf4d487&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lsd.m3u8?auth_key=1702213564-0-0-dbbf086dd27b390f7785e4cc9eb437c2&user_session_id=4dce5505dd55a983a1025f4adbf4d487&sub_m3u8=true&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1702204728-0-0-d0e07f41f6e1d24a3bc12773e28d033c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-448539_ld.m3u8?auth_key=1702204728-0-0-d0e07f41f6e1d24a3bc12773e28d033",
 "trylink": ""
 }
 ]
