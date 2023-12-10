@@ -543,34 +543,74 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "hteam": "Newcastle",
-"time": " 11:00 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "ateam": "Tottenham Hotspur",
 "link": [
 {
-"type": "Vietnam HD",
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch11/live/ch11_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAzOjQ3OjAwIFBNJmhhc2hfdmFsdWU9ODBwT3dmNEQ5WnBDVE9uaEJ4d3Bydz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/do24.m3u8?md5=BRWiX73G-2RXtcCiWIg_Gg&expires=1702230512",
+"trylink": ""
+},
+{
+"type": "English 4 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/skysme.m3u8?md5=Xa8lkKvMpPAafh0YLnhxdg&expires=1702230447",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://givemereddit.cloud/hls/abr_skysport/hls/skysport_720p/chunks.m3u8",
+"trylink": "https://givemereddit.eu/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://plpl111.fdhgfdha.space/playlist/17062/redi512.kfitee.space/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "Vebo HD",
 "livelink": "0",
+"trylink": ""
+},
+{
+"type": "Vebo SD",
+"livelink": "0",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/71af8acde1009e0e6d2e630b86a3f670/1702241883232/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001702198694-0-0-3f97830cda6481aec7cffcca99639efe",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?user_session_id=30699afbdf2d0bc591343e7925d2918e&sub_m3u8=true&edge_slice=true&auth_key=1702226584-0-0-2c51a6c14cb2133a8eb3dd1e954644e1",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?user_session_id=30699afbdf2d0bc591343e7925d2918e&sub_m3u8=true&edge_slice=true&auth_key=1702226584-0-0-2c51a6c14cb2133a8eb3dd1e954644e1",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=860137acaf8ef2a276688cd8d9a92cf2&txTime=65763151",
 "trylink": ""
 },
 {
