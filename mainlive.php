@@ -318,19 +318,19 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
 "hteam": "Genoa",
-"time": " 8:30 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
 "ateam": "Monza",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/5ba9096182e9eab0a81930c547878db8/1702241567342/trd02w8/trd02w8@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001702198379-0-0-7ebf23fbb5e04130ca299161c541e56a",
 "trylink": ""
 },
 {
@@ -340,17 +340,17 @@
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912062_lhd.m3u8?auth_key=1702205868-0-0-25c34d8a7e4b3c7e3988383dd4f96292",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912062_lhd.m3u8?auth_key=1702205868-0-0-25c34d8a7e4b3c7e3988383dd4f96292",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912062_lsd.m3u8?auth_key=1702205868-0-0-25c34d8a7e4b3c7e3988383dd4f96292",
 "trylink": ""
 }
 ]
@@ -359,19 +359,19 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "hteam": "Lille",
-"time": " 8:30 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8639_small.png",
 "ateam": "Clermont Foot",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/e1a270c9a40eb3e2385d3f99c5cbaf09/1702241614361/dyv7fis/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel16.m3u8?auth_key=3000001702198426-0-0-2bf2e854295be60c0de23572927cd654",
 "trylink": ""
 },
 {
@@ -386,12 +386,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-490081_lhd.m3u8?auth_key=1702209889-0-0-571739d468276180bb179eb76f9406f9",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-490081_lSd.m3u8?auth_key=1702209889-0-0-571739d468276180bb179eb76f9406f9",
 "trylink": ""
 }
 ]
@@ -400,29 +400,29 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
 "hteam": "Brest",
-"time": " 8:30 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
 "ateam": "Metz",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/3a6fe922f58635ffa7fc83af7f9d198e/1702241655272/majhccy/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001702198467-0-0-4561091b6db177af82a4c6f9333a3109",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?sub_m3u8=true&auth_key=1702203544-0-0-110dd488efdfae447d2bf9b691cb3fcd&edge_slice=true&user_session_id=98e66606a8bfea3aa592543e422e1ad2",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?sub_m3u8=true&auth_key=1702203544-0-0-110dd488efdfae447d2bf9b691cb3fcd&edge_slice=true&user_session_id=98e66606a8bfea3aa592543e422e1ad2",
 "trylink": ""
 },
 {
@@ -441,19 +441,19 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
 "hteam": "Le Havre",
-"time": " 8:30 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "8:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "ateam": "Strasbourg",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/bb28ff8ce091b5f737e5894a886a9739/1702241703155/z9nbpht/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001702198515-0-0-6981accc99d745dff8cd0573937de27e",
 "trylink": ""
 },
 {
