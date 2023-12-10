@@ -624,29 +624,29 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
 "hteam": "Mainz 05",
-"time": " 11:00 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "11:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
 "ateam": "FC Köln",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/45df275d6ea5c8359dea0bb40d648a7a/1702241923773/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702198736-0-0-c734ea1a828a2f7347237d41af44dab1",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3ec839a1eb4ed4ac4711d84a80dffcbf&auth_key=1702203844-0-0-09aa29b68fd88097b7660424925b32d9",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=3ec839a1eb4ed4ac4711d84a80dffcbf&auth_key=1702203844-0-0-09aa29b68fd88097b7660424925b32d9",
 "trylink": ""
 },
 {
