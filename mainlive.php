@@ -121,6 +121,16 @@
 "trylink": "https://streams.score808.football/"
 },
 {
+"type": "English 3 HD",
+"livelink": "https://sportnext.online/hls/M2.m3u8",
+"trylink": "https://maxsports.site/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/hdchnl2.m3u8?md5=tZ0GW2McjoFyh6owolRQpQ&expires=1702218905",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/030ece0405a1b0a36cabea0e5013fcec/1702241369460/en7hf6r/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -132,12 +142,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1702215304-0-0-d5d8f4927ed75f205e36440c98c58283&sub_m3u8=true&edge_slice=true&user_session_id=c862a284e6b11af00fdc3e4d187bae7e",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1702215304-0-0-d5d8f4927ed75f205e36440c98c58283&sub_m3u8=true&edge_slice=true&user_session_id=c862a284e6b11af00fdc3e4d187bae7e",
 "trylink": ""
 },
 {
