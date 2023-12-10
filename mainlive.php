@@ -1,56 +1,5 @@
 [
 {
-"league": " Ligue 1 ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
-"hteam": "Reims",
-"time": " live ",
-"date": "6:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
-"ateam": "Nice",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxMToyODowOSBBTSZoYXNoX3ZhbHVlPWFZdE1oQWd0Mm9sSU5FZmo0QzBTMlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODYuNjQmc3RybV9sZW49NQ==",
-"trylink": "https://streams.score808.football/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/c3e87e4ccb8ef3b415be871908476383/1702241314143/as9xexm/as9xexm@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001702198127-0-0-580df21035e4497229a321ec014efdc6",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lhd.m3u8?auth_key=1702213564-0-0-dbbf086dd27b390f7785e4cc9eb437c2&user_session_id=4dce5505dd55a983a1025f4adbf4d487&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-435066_lsd.m3u8?auth_key=1702213564-0-0-dbbf086dd27b390f7785e4cc9eb437c2&user_session_id=4dce5505dd55a983a1025f4adbf4d487&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1702204728-0-0-d0e07f41f6e1d24a3bc12773e28d033c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-448539_ld.m3u8?auth_key=1702204728-0-0-d0e07f41f6e1d24a3bc12773e28d033",
-"trylink": ""
-}
-]
-},
-{
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "hteam": "Almeria",
@@ -507,6 +456,16 @@
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
 "ateam": "VfB Stuttgart",
 "link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_5.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/skysfott.m3u8?md5=BSuzaJEPqwWrg7Vho1m-8A&expires=1702224813",
+"trylink": "https://lovesomecommunity.com/"
+},
 {
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/4508c6d6beca3f5437378be8bf2a22c5/1702241748867/as9xexm/as9xexm@720p.m3u8",
