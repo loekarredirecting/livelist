@@ -9,6 +9,16 @@
 "ateam": "Frosinone",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxMToxMzowOSBBTSZoYXNoX3ZhbHVlPXpJMHhXaWlQY1ZxMlBqWVdNY3Myemc9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODYuNjQmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/59226ae37e9bc32187cd06d1c3a35638/1702241267413/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
@@ -44,19 +54,29 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
 "hteam": "Reims",
-"time": " 6:30 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "6:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
 "ateam": "Nice",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_8.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch5/live/ch5_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxMToyODowOSBBTSZoYXNoX3ZhbHVlPWFZdE1oQWd0Mm9sSU5FZmo0QzBTMlE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTIwMi4xNjUuODYuNjQmc3RybV9sZW49NQ==",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/c3e87e4ccb8ef3b415be871908476383/1702241314143/as9xexm/as9xexm@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001702198127-0-0-580df21035e4497229a321ec014efdc6",
 "trylink": ""
 },
 {
@@ -71,12 +91,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1702204728-0-0-d0e07f41f6e1d24a3bc12773e28d033c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-448539_ld.m3u8?auth_key=1702204728-0-0-d0e07f41f6e1d24a3bc12773e28d033",
 "trylink": ""
 }
 ]
