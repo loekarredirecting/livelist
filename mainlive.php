@@ -202,6 +202,26 @@
 "ateam": "Fulham",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxOjU0OjE5IFBNJmhhc2hfdmFsdWU9RzNkRkIyMmNwZWtrbUVOcm5qd0xlUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni42NCZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s5.noshwsmkm.com:999/hls/hdchnl7.m3u8?md5=QYiCOy-Dryt0v-cPm73dZg&expires=1702223704",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do33.m3u8?md5=HMu0adCtOyTJTpkgDGPZnQ&expires=1702223759",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
 "type": "Vietnam HD",
 "livelink": "https://live.vbfast.xyz/69a2c4a10512f362e72d4308e6c834c1/1702241483721/r8ztat6/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
