@@ -329,7 +329,7 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8689_small.png",
 "hteam": "Marseille",
-"time": " lIve ",
+"time": " live ",
 "date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "ateam": "Lorient",
