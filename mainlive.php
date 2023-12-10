@@ -580,12 +580,12 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
