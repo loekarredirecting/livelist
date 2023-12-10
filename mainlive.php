@@ -105,19 +105,29 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "hteam": "Almeria",
-"time": " 7:30 PM ",
-"date": "2023-12-10",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
 "ateam": "Atletico Madrid",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyMyAxMjozMzozMiBQTSZoYXNoX3ZhbHVlPUhjL1VrMm5yU0haTzB2bUN6YWNuQVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTI0MDA6YWM0MDo2MTA6ZmI0OjgxYzo2MGQ3OmYyY2I6ZDk3OSZzdHJtX2xlbj01",
+"trylink": "https://streams.score808.football/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/030ece0405a1b0a36cabea0e5013fcec/1702241369460/en7hf6r/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001702198187-0-0-37225904ee3d5230f3fd9307edff8ea9",
 "trylink": ""
 },
 {
@@ -132,12 +142,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lhd.m3u8?auth_key=1702209228-0-0-5c60217253de41f270c1f6367762d8cd",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-379816_lSd.m3u8?auth_key=1702209228-0-0-5c60217253de41f270c1f6367762d8cd",
 "trylink": ""
 }
 ]
