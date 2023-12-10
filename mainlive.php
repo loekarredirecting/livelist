@@ -1,6 +1,6 @@
 [
 {
-"league": " LaLiga a ",
+"league": " LaLiga  ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
 "hteam": "Athletic Club",
 "time": " live ",
