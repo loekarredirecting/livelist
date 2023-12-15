@@ -1,51 +1,10 @@
 [
 {
-"league": " Saudi Professional League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
-"hteam": "Al-Wehda",
-"time": " live ",
-"date": "9:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6354_small.png",
-"ateam": "Al Hilal",
-"link": [
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/263164433de10c40396fd969fbe38611/1702692493311/as9xexm/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001702649314-0-0-21e4c8b424af3050ccb34a5fd367b32e",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lhd.m3u8?auth_key=1702654805-0-0-165e2f3a2653bb11b2d759f73c8b73e6&user_session_id=d15cab0af577d1ff98f6fa50d6a08403&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lsd.m3u8?auth_key=1702654805-0-0-165e2f3a2653bb11b2d759f73c8b73e6&user_session_id=d15cab0af577d1ff98f6fa50d6a08403&sub_m3u8=true&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=b4d54349382b222735bcc1c3dc34e393&txTime=657cba0d",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-427562_lsd.m3u8?txSecret=d94afb02214a121d53eb87c51adce77c&txTime=657cbcdd",
-"trylink": ""
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9788_small.png",
 "hteam": "Werder Bremen",
-"time": " 2:00 AM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8697_small.png",
 "ateam": "Borussia M'Gladbach",
 "link": [
