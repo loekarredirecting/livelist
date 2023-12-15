@@ -15,8 +15,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://s5.noshwsmkm.com:999/hls/hdchnl11.m3u8?md5=7PVlvKfOtjQMnFUQvo6hMQ&expires=1702675411",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
@@ -30,22 +30,22 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=25ceedaf355b4b9e146aaef05d153f67&auth_key=1702652645-0-0-1a3d56edae8ec91d6cee9bc5343f37f9",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=25ceedaf355b4b9e146aaef05d153f67&auth_key=1702652645-0-0-1a3d56edae8ec91d6cee9bc5343f37f9",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lhd.m3u8?auth_key=1702671769-0-0-140e5f7e3e54f86d13a0b3203ddda912",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lsd.m3u8?auth_key=1702671769-0-0-140e5f7e3e54f86d13a0b3203ddda912",
 "trylink": ""
 }
 ]
@@ -54,8 +54,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
 "hteam": "Juventus",
-"time": " 2:15 AM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
 "ateam": "Genoa",
 "link": [
