@@ -91,12 +91,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-448539_lhd.m3u8?auth_key=1702671949-0-0-9f3ccacc4431f8b0c95baec6921cdec3",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-448539_lsd.m3u8?auth_key=1702671949-0-0-9f3ccacc4431f8b0c95baec6921cdec3",
 "trylink": ""
 }
 ]
@@ -142,12 +142,12 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "0",
+"livelink": "https://1123139281.cdn.khmer-hd.com/may1HD/chunks.m3u8",
 "trylink": ""
 },
 {
 "type": "Vebo SD",
-"livelink": "0",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8",
 "trylink": "https://player.4shares.live/"
 },
 {
@@ -162,12 +162,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b6dccaabca7cec35554770f4eec3167c&auth_key=1702653185-0-0-8736129781c651bea69b8a3d46c780c6",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=b6dccaabca7cec35554770f4eec3167c&auth_key=1702653185-0-0-8736129781c651bea69b8a3d46c780c6",
 "trylink": ""
 },
 {
@@ -186,8 +186,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
 "hteam": "Rayo Vallecano",
-"time": " 2:30 AM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
 "ateam": "Osasuna",
 "link": [
@@ -198,7 +198,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch2/live/ch2_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMyA3OjM0OjQxIFBNJmhhc2hfdmFsdWU9aDVrTjZycXpkSGl3SDg0YlhpWDI2QT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4xMTkmc3RybV9sZW49NQ==",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -237,8 +237,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
 "hteam": "Lyon",
-"time": " 2:30 AM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
 "ateam": "Monaco",
 "link": [
@@ -249,7 +249,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch4/live/ch4/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMyA3OjM1OjQxIFBNJmhhc2hfdmFsdWU9ZGRzTzhqdEJGdU1xTnNPblVUdW90UT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4xMTkmc3RybV9sZW49NQ==",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -264,12 +264,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-675292_lhd.m3u8?edge_slice=true&user_session_id=2e91f3f60e4eab32282648ccc53d12c9&auth_key=1702653545-0-0-2f7500d25c1f07ab1ec2b29be2ace2c2&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-675292_lsd.m3u8?edge_slice=true&user_session_id=2e91f3f60e4eab32282648ccc53d12c9&auth_key=1702653545-0-0-2f7500d25c1f07ab1ec2b29be2ace2c2&sub_m3u8=true",
 "trylink": ""
 },
 {
