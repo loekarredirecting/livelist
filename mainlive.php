@@ -1,6 +1,6 @@
 [
 {
-"league": "Hello Saudi Professional League ",
+"league": " Saudi Professional League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/2529_small.png",
 "hteam": "Al-Wehda",
 "time": " 9:30 PM ",
