@@ -30,12 +30,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=b4d54349382b222735bcc1c3dc34e393&txTime=657cba0d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-427562_lsd.m3u8?txSecret=d94afb02214a121d53eb87c51adce77c&txTime=657cbcdd",
 "trylink": ""
 }
 ]
