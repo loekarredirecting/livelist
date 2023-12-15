@@ -66,7 +66,7 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMyA3OjI3OjE4IFBNJmhhc2hfdmFsdWU9RDlKOUhrWVFQa2hxV20vUFRTOHlVZz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4xMTkmc3RybV9sZW49NQ==",
 "trylink": "https://streams.score808.football/"
 },
 {
@@ -81,12 +81,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1702653005-0-0-a62ab1d1403018235b680ebbb7e0ef64&edge_slice=true&user_session_id=7a62632bd50e61f52e16dc376b568448&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1702653005-0-0-a62ab1d1403018235b680ebbb7e0ef64&edge_slice=true&user_session_id=7a62632bd50e61f52e16dc376b568448&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -105,8 +105,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
 "hteam": "Tottenham Hotspur",
-"time": " 2:30 AM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "ateam": "Nottingham Forest",
 "link": [
@@ -117,28 +117,28 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://killeredw.site/live/abr_ch1/live/ch1/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMyA3OjI5OjA3IFBNJmhhc2hfdmFsdWU9ckxCNzRqV01XMmh2a3ZyN0ZHRVFuUT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4xMTkmc3RybV9sZW49NQ==",
 "trylink": "https://streams.score808.football/"
 },
 {
 "type": "English 3 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://po2.ainakwalajeen.com:999/hls/do10.m3u8?md5=13pbXMQ7Awjh6JdsVK1tNA&expires=1702675851",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "English 4 HD",
-"livelink": "",
+"livelink": "https://s5.noshwsmkm.com:999/hls/do4.m3u8?md5=j4vULGNDIM93uwuxfysnzw&expires=1702675789",
 "trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "English 5 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do31.m3u8?md5=ncUiMWFhhTpl3TbaMfKeOA&expires=1702675889",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "English 6 HD",
-"livelink": "0",
-"trylink": ""
+"livelink": "https://vladrums.com/hls/0010.m3u8?md5=cLpKUi4Aob83yLLWHfwRTQ&expires=1702682742",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vebo HD",
