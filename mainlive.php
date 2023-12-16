@@ -660,13 +660,23 @@
 "ateam": "Napoli",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://plpl12.teujyt.space/playlist/17274/red111.snflsb.space/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/df1ac4e34349273514c14396265e77f4/1702785381729/as9xexm/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel4.m3u8?auth_key=3000001702742194-0-0-37b0c790e89b33746936f93e58fd55d5",
 "trylink": ""
 },
 {
@@ -702,12 +712,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/b0a31c1da6f52a6a749fb0d8b4be22d9/1702785586446/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001702742398-0-0-4c79e35274762868a255ad26e4a1d323",
 "trylink": ""
 },
 {
@@ -743,22 +753,22 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/7149bacdbf92f7e8335d01fe7b03c949/1702785652304/r8ztat6/r8ztat6@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel6.m3u8?auth_key=3000001702742464-0-0-61f4367920becc061adfd500ba9654d0",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?sub_m3u8=true&auth_key=1702746185-0-0-05e0c31ac1d17ff4a65735a4f3baf502&user_session_id=7a5c5424ca6efd3b75e6b0149eb52694&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?sub_m3u8=true&auth_key=1702746185-0-0-05e0c31ac1d17ff4a65735a4f3baf502&user_session_id=7a5c5424ca6efd3b75e6b0149eb52694&edge_slice=true",
 "trylink": ""
 },
 {
@@ -784,12 +794,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/882c11565c5b60813a483239f6e59542/1702785728466/z9nbpht/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel17.m3u8?auth_key=3000001702742553-0-0-e70431869c70a07b775976c24065889b",
 "trylink": ""
 },
 {
@@ -825,12 +835,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/263c0ef5e836eece549391c21c025dc8/1702785876841/en7hf6r/en7hf6r@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001702742690-0-0-403fa7da5f2962445ac234377aa5f6ad",
 "trylink": ""
 },
 {
@@ -866,12 +876,12 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/52aa0526bd2c3d86b05f81c36c296713/1702785932561/lhsazur/lhsazur@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702742743-0-0-86f3ce35e63c2f58a50185b7b8610cc7",
 "trylink": ""
 },
 {
@@ -907,22 +917,22 @@
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/61359589aa05b3e79b512390b3d54ed2/1702785980745/xqispup/xqispup@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001702742803-0-0-ce186fb4afec23153a72cc2c3c34e915",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-784735_lhd.m3u8?auth_key=1702746425-0-0-8eb8bbb60cc30678b1059102a9bb0ffa&edge_slice=true&user_session_id=6621122676f682c6ae258dc4ee3c3c85&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-784735_lsd.m3u8?auth_key=1702746425-0-0-8eb8bbb60cc30678b1059102a9bb0ffa&edge_slice=true&user_session_id=6621122676f682c6ae258dc4ee3c3c85&sub_m3u8=true",
 "trylink": ""
 },
 {
