@@ -599,12 +599,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=476cea43bfc6eb7c3fa4b00ce06bdee4&txTime=657de25d",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=476cea43bfc6eb7c3fa4b00ce06bdee4&txTime=657de25d",
 "trylink": ""
 }
 ]
@@ -613,19 +613,19 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "hteam": "Nice",
-"time": " 10:30 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "10:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9831_small.png",
 "ateam": "Le Havre",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/f5a7fc86cf1f65ff5795cfae4201049c/1702782688254/kqpqy3v/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel3.m3u8?auth_key=3000001702739501-0-0-e9c8cd59fa035c5a84e10719d5a31539",
 "trylink": ""
 },
 {
