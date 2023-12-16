@@ -142,12 +142,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lhd.m3u8?txSecret=ff768ab019445de81734d15422b53dc0&txTime=657e0485",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912056_lsd.m3u8?txSecret=ff768ab019445de81734d15422b53dc0&txTime=657e0485",
 "trylink": ""
 }
 ]
@@ -193,12 +193,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-434982_lhd.m3u8?txSecret=b505dd1a8120782960d1ff28696adc41&txTime=657e06a1",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-434982_lsd.m3u8?txSecret=b505dd1a8120782960d1ff28696adc41&txTime=657e06a1",
 "trylink": ""
 }
 ]
@@ -244,12 +244,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-475494_lhd.m3u8?auth_key=1702740109-0-0-18ab030bbfcf70ebb25aa744e345c62a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-475494_lsd.m3u8?auth_key=1702740109-0-0-18ab030bbfcf70ebb25aa744e345c62a",
 "trylink": ""
 }
 ]
@@ -295,12 +295,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912061_lhd.m3u8?auth_key=1702740229-0-0-ba0a84ea8dad372460874927ca7472dd",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912061_lsd.m3u8?auth_key=1702740229-0-0-ba0a84ea8dad372460874927ca7472dd",
 "trylink": ""
 }
 ]
@@ -309,8 +309,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
 "hteam": "Luton Town",
-"time": " 9:30 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
 "ateam": "AFC Bournemouth",
 "link": [
@@ -321,8 +321,18 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://psls2w.aouydc.buzz/playlist/17267/redi1111vs.cloudcdn7.net/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://po2.ainakwalajeen.com:999/hls/do34.m3u8?md5=6EEOArTABnQ-F-8vDhXylw&expires=1702743443",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s3.noshwsmkm.com:999/hls/do30.m3u8?md5=Mv2mNxbVKuVqnPXTmo4i9Q&expires=1702743396",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
@@ -336,12 +346,12 @@
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lhd.m3u8?auth_key=1702740005-0-0-b4ebc5f4ff832a4203ef04fc457b6502&edge_slice=true&sub_m3u8=true&user_session_id=beeba50c0e6f9559ecc66ebf5a7ccacd",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-688595_lsd.m3u8?auth_key=1702740005-0-0-b4ebc5f4ff832a4203ef04fc457b6502&edge_slice=true&sub_m3u8=true&user_session_id=beeba50c0e6f9559ecc66ebf5a7ccacd",
 "trylink": ""
 },
 {
