@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-"hteam": "Granada",
-"time": " live ",
-"date": "7:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
-"ateam": "Celta Vigo",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://psls2w.aouydc.buzz/playlist/17269/redi1111vs.cloudcdn7.net/caxi.m3u8",
-"trylink": "https://1stream.eu/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/4aad558e39f458aed0544e42e306befe/1702768621312/trd02w8/trd02w8@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001702725437-0-0-f4a6dbefa439537db44ba6d5128f4775",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&auth_key=1702720925-0-0-335402a50d37bf2daaf3878f3040a8a2&user_session_id=74d6b349b1e238c96140ecf304ef10f0&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?sub_m3u8=true&auth_key=1702720925-0-0-335402a50d37bf2daaf3878f3040a8a2&user_session_id=74d6b349b1e238c96140ecf304ef10f0&edge_slice=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1702733749-0-0-aa7dc6c1c8f5d5e4e92b0a42cc9e8fb4",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1702733749-0-0-aa7dc6c1c8f5d5e4e92b0a42cc9e8fb4",
-"trylink": ""
-}
-]
-},
-{
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
 "hteam": "Frosinone",
@@ -407,13 +356,13 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "https://obevcimanyd179249207.thapcam.link/live/may1SD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8",
+"trylink": "https://watch.ezyproxy.com/"
 },
 {
 "type": "Vebo SD",
 "livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8",
-"trylink": "https://player.4shares.live/"
+"trylink": "https://watch.ezyproxy.com/"
 },
 {
 "type": "Vietnam HD",
@@ -488,13 +437,13 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "https://obevcimanyd179249207.thapcam.link/live/oldSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://watch.ezyproxy.com/"
 },
 {
 "type": "Vebo SD",
 "livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
+"trylink": "https://watch.ezyproxy.com/"
 },
 {
 "type": "Vietnam HD",
@@ -569,13 +518,13 @@
 },
 {
 "type": "Vebo HD",
-"livelink": "https://obevcimanyd179249207.thapcam.link/live/cuonSD/chunklist.m3u8",
-"trylink": "https://player.4shares.live/"
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cuonSD/playlist.m3u8",
+"trylink": "https://watch.ezyproxy.com/"
 },
 {
 "type": "Vebo SD",
 "livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cuonSD/playlist.m3u8",
-"trylink": "https://player.4shares.live/"
+"trylink": "https://watch.ezyproxy.com/"
 },
 {
 "type": "Vietnam HD",
