@@ -532,8 +532,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "hteam": "Fulham",
-"time": " 9:30 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "ateam": "Newcastle",
 "link": [
@@ -544,8 +544,38 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://plpl12.teujyt.space/playlist/17265/redi512.kfitee.space/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s5.noshwsmkm.com:999/hls/do23.m3u8?md5=gy0XZaqaiL_8kgg3IEBcZw&expires=1702745030",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s2.noshwsmkm.com:999/hls/do33.m3u8?md5=EFSWbWXkVugaLv2kA_iwsw&expires=1702744989",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://killeredw.site/live/abr_ch9/live/ch9_source/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMyAyOjQ1OjQ3IFBNJmhhc2hfdmFsdWU9NnVHNmE0WXR1VC9MQUJVTDJKZ296dz09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4xMTkmc3RybV9sZW49NQ==",
 "trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://usa.raino.site/hls/stream11.m3u8",
+"trylink": "https://embed4u.xyz/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://obevcimanyd179249207.thapcam.link/live/cuonSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@cuonSD/playlist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
