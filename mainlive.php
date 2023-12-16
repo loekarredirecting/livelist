@@ -451,8 +451,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
 "hteam": "Crystal Palace",
-"time": " 9:30 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
 "ateam": "Man City",
 "link": [
@@ -463,8 +463,38 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://plpl111.fdhgfdha.space/playlist/17264/afsvvvvv.101streams.online/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://s4.noshwsmkm.com:999/hls/do5.m3u8?md5=lEP15uD_4LpMqgkyzYDhYA&expires=1702744646",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://s2.noshwsmkm.com:999/hls/do9.m3u8?md5=oiJcTgrbPlfbSoEMKzVOdA&expires=1702744674",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://s6.noshwsmkm.com:999/hls/do10.m3u8?md5=W2EGPaFF8oP_GdSiGaOy2A&expires=1702744717",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://s7.noshwsmkm.com:999/hls/do20.m3u8?md5=bsyyab8NcfuKzGxKcR1tQg&expires=1702744754",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://obevcimanyd179249207.thapcam.link/live/oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@oldSD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
