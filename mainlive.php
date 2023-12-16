@@ -356,12 +356,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-991140_lhd.m3u8?txSecret=76949275d460e337820e660f5eef3fbe&txTime=657e0bc9",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912032_lsd.m3u8?auth_key=1702741549-0-0-19c0907816afc23ea9c5083987952b75",
 "trylink": ""
 }
 ]
@@ -437,12 +437,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-499765_lhd.m3u8?auth_key=1702741549-0-0-bd3c44e0351b0a61625446dc8aa8449a",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1702741549-0-0-36f64bf3df387317a178156959dc91fe",
 "trylink": ""
 }
 ]
@@ -518,12 +518,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1702741609-0-0-8bf8a041dec79495d225de098991928b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=1f6857ac4dc2da4ac361d446f841607c&txTime=657e0c7d",
 "trylink": ""
 }
 ]
@@ -599,12 +599,12 @@
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912078_lhd.m3u8?auth_key=1702741549-0-0-e8ec3fab0811dd5ef3249b71384c4959",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912078_lsd.m3u8?auth_key=1702741549-0-0-e8ec3fab0811dd5ef3249b71384c4959",
 "trylink": ""
 }
 ]
@@ -613,19 +613,19 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
 "hteam": "Atletico Madrid",
-"time": " 9:45 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:45 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
 "ateam": "Athletic Club",
 "link": [
 {
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/4d5312c41a942b2d5cd729eb75c137b0/1702781420749/trd02w8/trd02w8@720p.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001702738233-0-0-186b2cc2682bb0c3bc4e4dcd94afab80",
 "trylink": ""
 },
 {
