@@ -105,8 +105,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
 "hteam": "Borussia Dortmund",
-"time": " 9:00 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789_small.png",
 "ateam": "FC Augsburg",
 "link": [
@@ -117,8 +117,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://s6.noshwsmkm.com:999/hls/do12.m3u8?md5=2a2_gsFruIp-rdLFWXxBug&expires=1702742760",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
@@ -156,8 +156,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9911_small.png",
 "hteam": "Union Berlin",
-"time": " 9:00 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8149_small.png",
 "ateam": "VfL Bochum",
 "link": [
@@ -168,8 +168,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://usa.raino.site/hls/stream5.m3u8",
+"trylink": "https://embed4u.xyz/"
 },
 {
 "type": "Vietnam HD",
@@ -207,8 +207,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8262_small.png",
 "hteam": "Wolfsburg",
-"time": " 9:00 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8721_small.png",
 "ateam": "SV Darmstadt",
 "link": [
@@ -219,8 +219,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do13.m3u8?md5=D6xjpGcKJ9xDzdyFLhZBEA&expires=1702743097",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
@@ -258,8 +258,8 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9905_small.png",
 "hteam": "FC Heidenheim",
-"time": " 9:00 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/94937_small.png",
 "ateam": "Mainz 05",
 "link": [
@@ -270,8 +270,8 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
-"trylink": "https://streams.score808.football/"
+"livelink": "https://s3.noshwsmkm.com:999/hls/do14.m3u8?md5=srA-6me8RwBGCwHLM_wm1w&expires=1702743180",
+"trylink": "https://lovesomecommunity.com/"
 },
 {
 "type": "Vietnam HD",
