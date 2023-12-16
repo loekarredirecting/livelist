@@ -1,56 +1,5 @@
 [
 {
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-"hteam": "Frosinone",
-"time": " live ",
-"date": "8:30 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
-"ateam": "Lecce",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_7.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://psls2w.aouydc.buzz/playlist/17273/red111.snflsb.space/caxi.m3u8",
-"trylink": "https://1stream.eu/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/58e57205d7042232e48b05ba0cf36f81/1702768794408/majhccy/index.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel8.m3u8?auth_key=3000001702725607-0-0-78de370d317689ef197a7a0372e5946a",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1702733945-0-0-bfffb367f0c7688cd5c7a4e3f2e652e7&edge_slice=true&user_session_id=2aaac895be57c6e18185eebf2e17060b&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1702733945-0-0-bfffb367f0c7688cd5c7a4e3f2e652e7&edge_slice=true&user_session_id=2aaac895be57c6e18185eebf2e17060b&sub_m3u8=true",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912028_lhd.m3u8?auth_key=1702733809-0-0-4011ed38f2318e87189601081a08d325",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912028_lsd.m3u8?auth_key=1702733809-0-0-4011ed38f2318e87189601081a08d325",
-"trylink": ""
-}
-]
-},
-{
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8406_small.png",
 "hteam": "Borussia Dortmund",
