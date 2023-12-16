@@ -1,56 +1,5 @@
 [
 {
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8315_small.png",
-"hteam": "Atletico Madrid",
-"time": " live ",
-"date": "9:45 PM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"ateam": "Athletic Club",
-"link": [
-{
-"type": "English 1 FHD",
-"livelink": "https://hls.streambtw.com/live/stream_6.m3u8",
-"trylink": ""
-},
-{
-"type": "English 2 HD",
-"livelink": "https://psls2w.aouydc.buzz/playlist/17270/jcvjcks.cloudcdn5.com/caxi.m3u8",
-"trylink": "https://1stream.eu/"
-},
-{
-"type": "Vietnam HD",
-"livelink": "https://live.vbfast.xyz/4d5312c41a942b2d5cd729eb75c137b0/1702781420749/trd02w8/trd02w8@720p.m3u8",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel11.m3u8?auth_key=3000001702738233-0-0-186b2cc2682bb0c3bc4e4dcd94afab80",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?auth_key=1702742345-0-0-9b8ef31d634e6be16a9111512e7efd00&edge_slice=true&sub_m3u8=true&user_session_id=8d95554e9629c4fee0f0a5873bf05a83",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?auth_key=1702742345-0-0-9b8ef31d634e6be16a9111512e7efd00&edge_slice=true&sub_m3u8=true&user_session_id=8d95554e9629c4fee0f0a5873bf05a83",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=476cea43bfc6eb7c3fa4b00ce06bdee4&txTime=657de25d",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=476cea43bfc6eb7c3fa4b00ce06bdee4&txTime=657de25d",
-"trylink": ""
-}
-]
-},
-{
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9746_small.png",
 "hteam": "Nice",
