@@ -603,8 +603,8 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9875_small.png",
 "hteam": "Cagliari",
-"time": " 11:30 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "11:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
 "ateam": "Napoli",
 "link": [
