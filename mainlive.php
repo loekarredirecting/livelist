@@ -370,8 +370,8 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "hteam": "Sheffield United",
-"time": " 9:30 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "9:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
 "ateam": "Chelsea",
 "link": [
@@ -382,8 +382,38 @@
 },
 {
 "type": "English 2 HD",
-"livelink": "0",
+"livelink": "https://psls2w.aouydc.buzz/playlist/17266/red111.snflsb.space/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do32.m3u8?md5=9UaBI52zfTGbJcfaZ9iuMQ&expires=1702744162",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://po1.ainakwalajeen.com:999/hls/do37.m3u8?md5=vSd2zJ6mGwSPlfjJxEi9XA&expires=1702744213",
+"trylink": "https://lovesomecommunity.com/"
+},
+{
+"type": "English 5 HD",
+"livelink": "https://killeredw.site/live/abr_ch7/live/ch7_720p/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMyAyOjMxOjM4IFBNJmhhc2hfdmFsdWU9cXk0cUNPS3l2TGFraHR6TGc3TU9zQT09JnZhbGlkbWludXRlcz03MjAmaWQ9MjAyLjE2NS44Ni4xMTkmc3RybV9sZW49NQ==",
 "trylink": "https://streams.score808.football/"
+},
+{
+"type": "English 6 HD",
+"livelink": "https://usa.raino.site/hls/stream9.m3u8",
+"trylink": "https://embed4u.xyz/"
+},
+{
+"type": "Vebo HD",
+"livelink": "https://obevcimanyd179249207.thapcam.link/live/may1SD/chunklist.m3u8",
+"trylink": "https://player.4shares.live/"
+},
+{
+"type": "Vebo SD",
+"livelink": "https://vb90xltcvg.nsnd.live/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8",
+"trylink": "https://player.4shares.live/"
 },
 {
 "type": "Vietnam HD",
