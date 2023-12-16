@@ -3,8 +3,8 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "hteam": "Granada",
-"time": " 7:30 PM ",
-"date": "2023-12-16",
+"time": " live ",
+"date": "7:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
 "ateam": "Celta Vigo",
 "link": [
