@@ -2,33 +2,33 @@
 
     
     {
-        "league": " Bundesliga ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8358_small.png",
-        "hteam": "FC Köln",
+        "league": " Serie A ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+        "hteam": "Roma",
         "time": " live ",
-        "date": "9:00 PM",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8722_small.png",
-        "ateam": "SC Freiburg",
+        "date": "11:30 PM",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+        "ateam": "Bologna",
         "link": [
-            
+        
             {
                 "type": "China HD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lhd.m3u8?auth_key=1702807865-0-0-e910480ce4c32581a10dbef55005b066&user_session_id=9e70555b01b99e2a6adade5d27cbcded&sub_m3u8=true&edge_slice=true",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?sub_m3u8=true&auth_key=1702811705-0-0-9da018aaa59e2fe9b813c26d3785606d&edge_slice=true&user_session_id=f094f5284682da0969df3360f93593b7",
                 "trylink": ""
             },
             {
                 "type": "China SD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-8456863_lsd.m3u8?auth_key=1702807865-0-0-e910480ce4c32581a10dbef55005b066&user_session_id=9e70555b01b99e2a6adade5d27cbcded&sub_m3u8=true&edge_slice=true",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?sub_m3u8=true&auth_key=1702811705-0-0-9da018aaa59e2fe9b813c26d3785606d&edge_slice=true&user_session_id=f094f5284682da0969df3360f93593b7",
                 "trylink": ""
             },
             {
                 "type": "Soco HD",
-                "livelink": "0",
+                "livelink": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1702828609-0-0-eab0cf903e6cd625be66695717ffaa05",
                 "trylink": ""
             },
             {
                 "type": "Soco SD",
-                "livelink": "0",
+                "livelink": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1702828609-0-0-a16200aeb66de8a198a1db81af36edc2",
                 "trylink": ""
             }
         ]
