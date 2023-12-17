@@ -1,36 +1,5 @@
 [
-    {
-        "league": " LaLiga ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9865_small.png",
-        "hteam": "Mallorca",
-        "time": " live ",
-        "date": "7:30 PM",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-        "ateam": "Almeria",
-        "link": [
-        
-            {
-                "type": "China HD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lhd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=880fc2f5a38ab3f87e88c6522afcd20e&auth_key=1702819265-0-0-57107cd8707540a3cdd2af726c1c5cf5",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lsd.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=880fc2f5a38ab3f87e88c6522afcd20e&auth_key=1702819265-0-0-57107cd8707540a3cdd2af726c1c5cf5",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "https://pull.niues.live/live/stream-475494_lhd.m3u8?auth_key=1702819429-0-0-8e37e63d603cd8de47e7ba6172c80f6c",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "https://pull.niues.live/live/stream-475494_lsd.m3u8?auth_key=1702819429-0-0-8e37e63d603cd8de47e7ba6172c80f6c",
-                "trylink": ""
-            }
-        ]
-    },
+
     {
         "league": " Premier League",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
@@ -355,39 +324,29 @@
         "league": " Ligue 1 ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
         "hteam": "Clermont Foot",
-        "time": " 10:35 PM ",
-        "date": "2023-12-17",
+        "time": " live ",
+        "date": "10:35 PM",
         "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
         "ateam": "Marseille",
         "link": [
             {
-                "type": "Vietnam HD",
-                "livelink": "0",
-                "trylink": "https://xlz.plvb.xyz/"
-            },
-            {
-                "type": "Vietnam FHD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
                 "type": "China HD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637543_lhd.m3u8?sub_m3u8=true&auth_key=1702808105-0-0-3dce6375e09021b091465cf49a0e6d73&user_session_id=6cb24886839da0cd439472805348c8c0&edge_slice=true",
                 "trylink": ""
             },
             {
                 "type": "China SD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637543_lsd.m3u8?sub_m3u8=true&auth_key=1702808105-0-0-3dce6375e09021b091465cf49a0e6d73&user_session_id=6cb24886839da0cd439472805348c8c0&edge_slice=true",
                 "trylink": ""
             },
             {
                 "type": "Soco HD",
-                "livelink": "0",
+                "livelink": "https://pull.niues.live/live/stream-9912027_lhd.m3u8?auth_key=1702828309-0-0-1065d6358b5dd35e272b7d86de8a74f9",
                 "trylink": ""
             },
             {
                 "type": "Soco SD",
-                "livelink": "0",
+                "livelink": "https://pull.niues.live/live/stream-9912027_lsd.m3u8?auth_key=1702828309-0-0-af16065b06ac87c24cac7a082a8a8782",
                 "trylink": ""
             }
         ]
@@ -396,39 +355,30 @@
         "league": " Premier League",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
         "hteam": "Man United",
-        "time": " 11:00 PM ",
-        "date": "2023-12-17",
+        "time": " live ",
+        "date": "11:00 PM",
         "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
         "ateam": "Liverpool",
         "link": [
-            {
-                "type": "Vietnam HD",
-                "livelink": "0",
-                "trylink": "https://xlz.plvb.xyz/"
-            },
-            {
-                "type": "Vietnam FHD",
-                "livelink": "0",
-                "trylink": ""
-            },
+            
             {
                 "type": "China HD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?edge_slice=true&auth_key=1702826765-0-0-32a7e183e4f66cac7e0e6e41361d53fa&sub_m3u8=true&user_session_id=fafef2c59b8ee13bc246ac3cae231d2c",
                 "trylink": ""
             },
             {
                 "type": "China SD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?edge_slice=true&auth_key=1702826765-0-0-32a7e183e4f66cac7e0e6e41361d53fa&sub_m3u8=true&user_session_id=fafef2c59b8ee13bc246ac3cae231d2c",
                 "trylink": ""
             },
             {
                 "type": "Soco HD",
-                "livelink": "0",
+                "livelink": "https://pull01.rrwes.live/live/stream-9912041_lhd.m3u8?txSecret=a5c5a28d83bba0516d192acbdbc0902b&txTime=657f5a01",
                 "trylink": ""
             },
             {
                 "type": "Soco SD",
-                "livelink": "0",
+                "livelink": "https://pull01.rrwes.live/live/stream-9912041_lsd.m3u8?txSecret=25522830c66291c9e0888f4db4873f57&txTime=657f5a3d",
                 "trylink": ""
             }
         ]
@@ -437,39 +387,30 @@
         "league": " Bundesliga ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178_small.png",
         "hteam": "Eintracht Frankfurt",
-        "time": " 11:00 PM ",
-        "date": "2023-12-17",
+        "time": " live ",
+        "date": "11:00 PM",
         "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810_small.png",
         "ateam": "Bayer Leverkusen",
         "link": [
-            {
-                "type": "Vietnam HD",
-                "livelink": "0",
-                "trylink": "https://xlz.plvb.xyz/"
-            },
-            {
-                "type": "Vietnam FHD",
-                "livelink": "0",
-                "trylink": ""
-            },
+        
             {
                 "type": "China HD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c336a68da3fd1cbb80bdcebf0bca1923&auth_key=1702827905-0-0-b3346e51dd25c8495f8cebf85fbcef46",
                 "trylink": ""
             },
             {
                 "type": "China SD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=c336a68da3fd1cbb80bdcebf0bca1923&auth_key=1702827905-0-0-b3346e51dd25c8495f8cebf85fbcef46",
                 "trylink": ""
             },
             {
                 "type": "Soco HD",
-                "livelink": "0",
+                "livelink": "https://pull01.rrwes.live/live/stream-9912009_lhd.m3u8?txSecret=4d7f8812e19ef88c565fbf4745e95952&txTime=657f6019",
                 "trylink": ""
             },
             {
                 "type": "Soco SD",
-                "livelink": "0",
+                "livelink": "https://pull01.rrwes.live/live/stream-9912009_lsd.m3u8?txSecret=258b343ea6249a642750123c53555b46&txTime=657f6019",
                 "trylink": ""
             }
         ]
