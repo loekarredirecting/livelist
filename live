@@ -1,41 +1,61 @@
 [
 {
-"league": "Download Burmese TV Pro Version for more server Serie A ",
+"league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
 "hteam": "Salernitana",
-"time": " 2:15 AM ",
-"date": "2023-12-19",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
 "ateam": "Atalanta",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://live.fallax.xyz/hls/it_720p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 2 SD",
+"livelink": "https://live.fallax.xyz/hls/it_480p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 3 FHD",
+"livelink": "https://plpl12.teujyt.space/playlist/17411/redi1111vs.cloudcdn7.net/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://usa.raino.site/hls/stream2.m3u8",
+"trylink": "https://embed4u.xyz/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0", 
+"livelink": "https://live.vbfast.xyz/b3f98ab6e63e8d3c0ba9e74b6b3f2900/1702938289923/lhsazur/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001702895103-0-0-4233a12d9049bf882a72fe8449c762dc",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?auth_key=1702913225-0-0-bdfaf56321155638f520fa8b477bcd02&sub_m3u8=true&edge_slice=true&user_session_id=0ec553f9732c2506328a0edd04c9b34f",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?auth_key=1702913225-0-0-bdfaf56321155638f520fa8b477bcd02&sub_m3u8=true&edge_slice=true&user_session_id=0ec553f9732c2506328a0edd04c9b34f",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911977_lhd.m3u8?auth_key=1702914725-0-0-d5c99b64ed80cdf064f90a7335cb262b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9911977_lsd.m3u8?auth_key=1702914725-0-0-d5c99b64ed80cdf064f90a7335cb262b",
 "trylink": ""
 }
 ]
@@ -44,39 +64,59 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
 "hteam": "Deportivo Alaves",
-"time": " 2:30 AM ",
-"date": "2023-12-19",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "ateam": "Girona",
 "link": [
 {
+"type": "English 1 FHD",
+"livelink": "https://live.fallax.xyz/hls/liga_720p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 2 HD",
+"livelink": "https://live.fallax.xyz/hls/liga_480p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 3 FHD",
+"livelink": "https://rdi756.bcdd.space/playlist/17413/jcvjcks.cloudcdn5.com/caxi.m3u8",
+"trylink": "https://1stream.eu/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://usa.raino.site/hls/stream3.m3u8",
+"trylink": "https://embed4u.xyz/"
+},
+{
 "type": "Vietnam HD",
-"livelink": "0",
+"livelink": "https://live.vbfast.xyz/63c82e9aea3e419aeb7821d5ceee34bc/1702938338973/rchtwtx/index.m3u8",
 "trylink": "https://xlz.plvb.xyz/"
 },
 {
 "type": "Vietnam FHD",
-"livelink": "0",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel1.m3u8?auth_key=3000001702895150-0-0-4225e86b1717d1412222d22f7aa3cecb",
 "trylink": ""
 },
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lhd.m3u8?sub_m3u8=true&auth_key=1702913465-0-0-999248a5477121864b2a17a63dbe2656&user_session_id=f33cc27059fa7069bb1b91de0851e539&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lsd.m3u8?sub_m3u8=true&auth_key=1702913465-0-0-999248a5477121864b2a17a63dbe2656&user_session_id=f33cc27059fa7069bb1b91de0851e539&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1702914409-0-0-bef6512c412ce7c0293dee8400cfe082",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1702914409-0-0-bef6512c412ce7c0293dee8400cfe082",
 "trylink": ""
 }
 ]
