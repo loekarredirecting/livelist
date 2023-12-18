@@ -41,7 +41,7 @@
         ]
     },
     {
-        "league": "Hello LaLiga ",
+        "league": "Hell LaLiga ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
         "hteam": "Deportivo Alaves",
         "time": " 2:30 AM ",
