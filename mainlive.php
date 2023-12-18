@@ -1,6 +1,6 @@
 [
     {
-        "league": "Download Burmese TV Pro Version Serie AB ",
+        "league": "Download Burmese TV Pro Version Serie A ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
         "hteam": "Salernitana",
         "time": " 2:15 AM ",
