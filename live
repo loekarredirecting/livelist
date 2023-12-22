@@ -3,41 +3,31 @@
 "league": " Saudi Professional League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
 "hteam": "Al-Ettifaq",
-"time": " 9:30 PM ",
+"time": " live ",
 "date": "2023-12-22",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101915_small.png",
 "ateam": "Al Nassr FC",
 "link": [
 {
-"type": "Vietnam HD",
-"livelink": "0",
-"trylink": "https://xlz.plvb.xyz/"
-},
-{
-"type": "Vietnam FHD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
+                "type": "China HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?sub_m3u8=true&auth_key=1703259785-0-0-cdfe32b45d62ae62650efaf585a2f0d6&user_session_id=4d2653adcc0c699499158c5ccba85f04&edge_slice=true",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?sub_m3u8=true&auth_key=1703259785-0-0-cdfe32b45d62ae62650efaf585a2f0d6&user_session_id=4d2653adcc0c699499158c5ccba85f04&edge_slice=true",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1703242490-0-0-431ba6558f5f50bd177e6d77b020df61",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1703242490-0-0-5d9265898a805e6ba61ee9ca4d845e15",
+                "trylink": ""
+            }
 ]
 },
 {
