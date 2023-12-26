@@ -218,29 +218,29 @@
         "league": " Premier League ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
         "hteam": "Aston Villa",
-        "time": " 2:30 AM ",
+        "time": " live ",
         "date": "2023-12-27",
         "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
         "ateam": "Man United",
         "link": [
             {
                 "type": "China HD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lhd.m3u8?auth_key=1703604606-0-0-71b4dc274089b2d745de6878a94c6958&sub_m3u8=true&user_session_id=8e457e0d12bc323a2f32871ada769c9c&edge_slice=true",
                 "trylink": ""
             },
             {
                 "type": "China SD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lsd.m3u8?auth_key=1703604606-0-0-71b4dc274089b2d745de6878a94c6958&sub_m3u8=true&user_session_id=8e457e0d12bc323a2f32871ada769c9c&edge_slice=true",
                 "trylink": ""
             },
             {
                 "type": "Soco HD",
-                "livelink": "0",
+                "livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1703614910-0-0-42a36a54e45d3645641062d815143364",
                 "trylink": ""
             },
             {
                 "type": "Soco SD",
-                "livelink": "0",
+                "livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1703614910-0-0-42a36a54e45d3645641062d815143364",
                 "trylink": ""
             }
         ]
