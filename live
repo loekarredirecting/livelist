@@ -9,26 +9,26 @@
 "ateam": "Newcastle",
 "link": [
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
+                "type": "China HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?edge_slice=true&user_session_id=7340ecc43eb84a25a69a29506181bf5b&sub_m3u8=true&auth_key=1703595246-0-0-8b2309edf3289324500bd2c3f65d3990",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?edge_slice=true&user_session_id=7340ecc43eb84a25a69a29506181bf5b&sub_m3u8=true&auth_key=1703595246-0-0-8b2309edf3289324500bd2c3f65d3990",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1703595710-0-0-0830ffc3640c94091d2f8c5c1645452c",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1703595710-0-0-0830ffc3640c94091d2f8c5c1645452c",
+                "trylink": ""
+            }
+        ]
 },
 {
 "league": " Premier League ",
