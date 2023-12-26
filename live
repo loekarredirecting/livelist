@@ -187,19 +187,19 @@
         "league": " Saudi Professional League ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8577_small.png",
         "hteam": "Al Nassr FC",
-        "time": " 12:30 AM ",
-        "date": "2023-12-27",
+        "time": " live ",
+        "date": "12:30 AM",
         "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
         "ateam": "Al Ittihad",
         "link": [
             {
                 "type": "China HD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lhd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=a5281d2cca484ebc9e4034c50de138a9&auth_key=1703604906-0-0-cc61748bea54342c964c450f5df1f727",
                 "trylink": ""
             },
             {
                 "type": "China SD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-4569315_lsd.m3u8?edge_slice=true&sub_m3u8=true&user_session_id=a5281d2cca484ebc9e4034c50de138a9&auth_key=1703604906-0-0-cc61748bea54342c964c450f5df1f727",
                 "trylink": ""
             },
             {
