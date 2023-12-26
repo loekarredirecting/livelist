@@ -156,19 +156,19 @@
         "league": " Premier League ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
         "hteam": "Liverpool",
-        "time": " 12:00 AM ",
-        "date": "2023-12-27",
+        "time": " live ",
+        "date": "12:00 AM",
         "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
         "ateam": "Burnley",
         "link": [
             {
                 "type": "China HD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lhd.m3u8?sub_m3u8=true&user_session_id=31ba1a21e29b767eb737bfdf75c4d247&edge_slice=true&auth_key=1703604762-0-0-7ff8f430a79038d30f1ff6dd594d3438",
                 "trylink": ""
             },
             {
                 "type": "China SD",
-                "livelink": "0",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-2412304_lsd.m3u8?sub_m3u8=true&user_session_id=31ba1a21e29b767eb737bfdf75c4d247&edge_slice=true&auth_key=1703604762-0-0-7ff8f430a79038d30f1ff6dd594d3438",
                 "trylink": ""
             },
             {
