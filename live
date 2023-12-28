@@ -1,64 +1,64 @@
 [
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
-"hteam": "Tottenham Hotspur",
-"time": " 2:00 AM ",
-"date": "2023-12-29",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"ateam": "Brighton",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-"hteam": "West Ham",
-"time": " 2:45 AM ",
-"date": "2023-12-29",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
-"ateam": "Arsenal",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-}
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+        "hteam": "Tottenham Hotspur",
+        "time": " live ",
+        "date": "2:00 AM",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+        "ateam": "Brighton",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "https://pull.niues.live/live/stream-9912084_lhd.m3u8?auth_key=1703776970-0-0-3e89b73d21235f5f80045b19e8785858",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "https://pull.niues.live/live/stream-9912084_lsd.m3u8?auth_key=1703776970-0-0-3e89b73d21235f5f80045b19e8785858",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+        "hteam": "West Ham",
+        "time": " live ",
+        "date": "2:45 AM",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+        "ateam": "Arsenal",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lhd.m3u8?auth_key=1703776806-0-0-c703ecf8411595a0f040ca0bb98c37e5&user_session_id=cc73efbee58386a06f2c00fdebd0b894&edge_slice=true&sub_m3u8=true",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-637115_lsd.m3u8?auth_key=1703776806-0-0-c703ecf8411595a0f040ca0bb98c37e5&user_session_id=cc73efbee58386a06f2c00fdebd0b894&edge_slice=true&sub_m3u8=true",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1703777090-0-0-71ea3b570009abd3263df43b1867825f",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1703777090-0-0-71ea3b570009abd3263df43b1867825f",
+                "trylink": ""
+            }
+        ]
+    }
 ]
