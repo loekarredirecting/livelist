@@ -1,405 +1,375 @@
 [
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"hteam": "Lecce",
-"time": " 6:00 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
-"ateam": "Atalanta",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
-"hteam": "Chelsea",
-"time": " 7:00 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-"ateam": "Luton Town",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
-"hteam": "Empoli",
-"time": " 8:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
-"ateam": "Cagliari",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
-"hteam": "Bologna",
-"time": " 8:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-"ateam": "Udinese",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
-"hteam": "Burnley",
-"time": " 9:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
-"ateam": "Aston Villa",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
-"hteam": "Brentford",
-"time": " 9:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"ateam": "Crystal Palace",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
-"hteam": "Sheffield United",
-"time": " 9:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
-"ateam": "Man City",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"hteam": "Everton",
-"time": " 9:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
-"ateam": "Wolverhampton",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-"hteam": "Sassuolo",
-"time": " 11:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-"ateam": "AC Milan",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-"hteam": "Salernitana",
-"time": " 11:30 PM ",
-"date": "2023-12-30",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-"ateam": "Hellas Verona",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Premier League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
-"hteam": "Man United",
-"time": " 12:00 AM ",
-"date": "2023-12-31",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"ateam": "Nottingham Forest",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Saudi Professional League ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",
-"hteam": "Al Nassr FC",
-"time": " 12:30 AM ",
-"date": "2023-12-31",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
-"ateam": "Al-Taawoun",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"hteam": "Roma",
-"time": " 2:15 AM ",
-"date": "2023-12-31",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"ateam": "Juventus",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-}
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+        "hteam": "Chelsea",
+        "time": " live ",
+        "date": "7:00 PM",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+        "ateam": "Luton Town",
+        "link": [
+          
+            {
+                "type": "China HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lhd.m3u8?edge_slice=true&auth_key=1703937666-0-0-af07d957e4452104cdce61f3037f70c1&user_session_id=c8490902860b4563991c17d09b918522&sub_m3u8=true",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-308116_lsd.m3u8?edge_slice=true&auth_key=1703937666-0-0-af07d957e4452104cdce61f3037f70c1&user_session_id=c8490902860b4563991c17d09b918522&sub_m3u8=true",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1703940531-0-0-35c276cba46c31488961fb167d379971",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1703940531-0-0-d72acadb8ffe312fd216a8f7037e7bf7",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Serie A ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
+        "hteam": "Empoli",
+        "time": " live ",
+        "date": "8:30 PM",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
+        "ateam": "Cagliari",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lhd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1703947566-0-0-2094ff2b0ead464983b760cc72906b99&user_session_id=cc60b9438d8d2eda7e64d09d07cb8ae6",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lsd.m3u8?sub_m3u8=true&edge_slice=true&auth_key=1703947566-0-0-2094ff2b0ead464983b760cc72906b99&user_session_id=cc60b9438d8d2eda7e64d09d07cb8ae6",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Serie A ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+        "hteam": "Bologna",
+        "time": " live ",
+        "date": "8:30 PM",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+        "ateam": "Udinese",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lhd.m3u8?sub_m3u8=true&user_session_id=d5d6336b90e6df34eadeb460770c37d4&auth_key=1703937786-0-0-fb9862a4bac580d7b1715a471a359856&edge_slice=true",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-543840_lsd.m3u8?sub_m3u8=true&user_session_id=d5d6336b90e6df34eadeb460770c37d4&auth_key=1703937786-0-0-fb9862a4bac580d7b1715a471a359856&edge_slice=true",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+        "hteam": "Burnley",
+        "time": " 9:30 PM ",
+        "date": "2023-12-30",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
+        "ateam": "Aston Villa",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9826_small.png",
+        "hteam": "Brentford",
+        "time": " 9:30 PM ",
+        "date": "2023-12-30",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
+        "ateam": "Crystal Palace",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+        "hteam": "Sheffield United",
+        "time": " 9:30 PM ",
+        "date": "2023-12-30",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8657_small.png",
+        "ateam": "Man City",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
+        "hteam": "Everton",
+        "time": " 9:30 PM ",
+        "date": "2023-12-30",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+        "ateam": "Wolverhampton",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Serie A ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+        "hteam": "Sassuolo",
+        "time": " 11:30 PM ",
+        "date": "2023-12-30",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+        "ateam": "AC Milan",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Serie A ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+        "hteam": "Salernitana",
+        "time": " 11:30 PM ",
+        "date": "2023-12-30",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+        "ateam": "Hellas Verona",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Premier League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
+        "hteam": "Man United",
+        "time": " 12:00 AM ",
+        "date": "2023-12-31",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+        "ateam": "Nottingham Forest",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Saudi Professional League ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/205686_small.png",
+        "hteam": "Al Nassr FC",
+        "time": " 12:30 AM ",
+        "date": "2023-12-31",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/101918_small.png",
+        "ateam": "Al-Taawoun",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Serie A ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
+        "hteam": "Roma",
+        "time": " 2:15 AM ",
+        "date": "2023-12-31",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+        "ateam": "Juventus",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    }
 ]
