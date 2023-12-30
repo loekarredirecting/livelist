@@ -219,67 +219,67 @@
 ]
 },
     {
-        "league": " Serie A ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
-        "hteam": "Sassuolo",
-        "time": " 11:30 PM ",
-        "date": "2023-12-30",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-        "ateam": "AC Milan",
-        "link": [
-            {
-                "type": "China HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "0",
-                "trylink": ""
-            }
-        ]
-    },
-    {
-        "league": " Serie A ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
-        "hteam": "Salernitana",
-        "time": " 11:30 PM ",
-        "date": "2023-12-30",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
-        "ateam": "Hellas Verona",
-        "link": [
-            {
-                "type": "China HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "0",
-                "trylink": ""
-            }
-        ]
-    },
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"hteam": "Sassuolo",
+"time": " live ",
+"date": "11:30 PM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+"ateam": "AC Milan",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lhd.m3u8?auth_key=1703937546-0-0-2e94a73aca038c83428ddb834f40b1ae&edge_slice=true&user_session_id=89266c0fb5a5285a754f38ec57a270f8&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-459976_lsd.m3u8?auth_key=1703937546-0-0-2e94a73aca038c83428ddb834f40b1ae&edge_slice=true&user_session_id=89266c0fb5a5285a754f38ec57a270f8&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912032_lhd.m3u8?auth_key=1703951391-0-0-95334e2ea1a6ddd7d7a43159fd009800",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912032_lsd.m3u8?auth_key=1703951391-0-0-6482e0b157fa0e6ec7d6dcfca1b6da2c",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+"hteam": "Salernitana",
+"time": " live ",
+"date": "11:30 PM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6480_small.png",
+"ateam": "Hellas Verona",
+"link": [
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lhd.m3u8?auth_key=1703938926-0-0-5b3854e8ef4e8cea1f21443983a6d181&user_session_id=41a128692c180fe1790f4cb6e119f484&sub_m3u8=true&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-553612_lsd.m3u8?auth_key=1703938926-0-0-5b3854e8ef4e8cea1f21443983a6d181&user_session_id=41a128692c180fe1790f4cb6e119f484&sub_m3u8=true&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lhd.m3u8?txSecret=6d6820d036b1d762f011bc226e6ba3b8&txTime=659082e7",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull01.rrwes.live/live/stream-9912035_lsd.m3u8?txSecret=22366bf467e828ac25c5bdc6a015efe6&txTime=659082e7",
+"trylink": ""
+}
+]
+},
     {
         "league": " Premier League ",
         "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203_small.png",
