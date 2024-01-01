@@ -3,29 +3,29 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
 "hteam": "Newcastle",
-"time": " 2:30 AM ",
-"date": "2024-1-2",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
 "ateam": "Liverpool",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1704123426-0-0-ac02c98a30c9a41b7266b0b5eddb0c78&sub_m3u8=true&user_session_id=7d4fd09d72259a513314c48dc311c1af&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1704123426-0-0-ac02c98a30c9a41b7266b0b5eddb0c78&sub_m3u8=true&user_session_id=7d4fd09d72259a513314c48dc311c1af&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lhd.m3u8?txSecret=1caaddf411c6d8f390bbfd6565dffd62&txTime=65932317",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912019_lsd.m3u8?txSecret=11de382c33d30929a3562152236b5272&txTime=65932317",
 "trylink": ""
 }
 ]
