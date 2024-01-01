@@ -1,95 +1,95 @@
 [
-    {
-        "league": " Premier League ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-        "hteam": "Arsenal",
-        "time": " live ",
-        "date": "8:30 PM",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
-        "ateam": "Fulham",
-        "link": [
-            {
-                "type": "China HD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-259579_lhd.m3u8?sub_m3u8=true&user_session_id=9e0979d848562c21f3b1a18165c4c80e&auth_key=1704032166-0-0-648b4d4968e9972c19c3ed7477e36c2e&edge_slice=true",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-259579_lsd.m3u8?sub_m3u8=true&user_session_id=9e0979d848562c21f3b1a18165c4c80e&auth_key=1704032166-0-0-648b4d4968e9972c19c3ed7477e36c2e&edge_slice=true",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1704032391-0-0-eedaaa5a2257cfd472ab5f35377fc0bc",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1704032391-0-0-2b141ee1467660bac9f52aeda977d941",
-                "trylink": ""
-            }
-        ]
-    },
-    {
-        "league": " Premier League ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-        "hteam": "AFC Bournemouth",
-        "time": " live ",
-        "date": "8:30 PM",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
-        "ateam": "Tottenham Hotspur",
-        "link": [
-            {
-                "type": "China HD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?auth_key=1704032226-0-0-f350713d7f874b18c3974ef638eacc7f&sub_m3u8=true&user_session_id=b532217b633811d125d3a2d57f1bca12&edge_slice=true",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?auth_key=1704032226-0-0-f350713d7f874b18c3974ef638eacc7f&sub_m3u8=true&user_session_id=b532217b633811d125d3a2d57f1bca12&edge_slice=true",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "0",
-                "trylink": ""
-            }
-        ]
-    },
-    {
-        "league": " Friendlies ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
-        "hteam": "Thailand",
-        "time": " 11:30 AM ",
-        "date": "2024-1-1",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
-        "ateam": "Japan",
-        "link": [
-            {
-                "type": "China HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "0",
-                "trylink": ""
-            }
-        ]
-    }
+{
+"league": " Friendlies ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
+"hteam": "Thailand",
+"time": " 11:30 AM ",
+"date": "2024-1-1",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5788_small.png",
+"ateam": "Japan",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"hteam": "Newcastle",
+"time": " 2:30 AM ",
+"date": "2024-1-2",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+"ateam": "Liverpool",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+"hteam": "Rayo Vallecano",
+"time": " 10:30 PM ",
+"date": "2024-1-2",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8370_small.png",
+"ateam": "Getafe",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+}
 ]
