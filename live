@@ -1,219 +1,219 @@
 [
-{
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
-"hteam": "Cadiz",
-"time": " 10:30 PM ",
-"date": "2024-01-03",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
-"ateam": "Granada",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Coppa Italia ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
-"hteam": "Sassuolo",
-"time": " 11:30 PM ",
-"date": "2024-01-03",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
-"ateam": "Atalanta",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
-"hteam": "Mallorca",
-"time": " 12:45 AM ",
-"date": "2024-01-04",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
-"ateam": "Real Madrid",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
-"hteam": "Real Betis",
-"time": " 12:45 AM ",
-"date": "2024-01-04",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
-"ateam": "Celta Vigo",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Super Cup ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-"hteam": "Toulouse",
-"time": " 2:15 AM ",
-"date": "2024-01-04",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
-"ateam": "PSG",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " Coppa Italia ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-"hteam": "Cremonese",
-"time": " 2:30 AM ",
-"date": "2024-01-04",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
-"ateam": "Roma",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-},
-{
-"league": " LaLiga ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
-"hteam": "Atletico Madrid",
-"time": " 3:00 AM ",
-"date": "2024-01-04",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
-"ateam": "Girona",
-"link": [
-{
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
-"trylink": ""
-}
-]
-}
+    {
+        "league": " LaLiga ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7878_small.png",
+        "hteam": "Cadiz",
+        "time": " live ",
+        "date": "10:30 PM",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8385_small.png",
+        "ateam": "Granada",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lhd.m3u8?sub_m3u8=true&user_session_id=b6028b6dd0a3c0812fa77ebc62bf1a77&auth_key=1704299587-0-0-b4ba5c7f9197fad9b0d5ed1ef7df7f6a&edge_slice=true",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-492306_lsd.m3u8?sub_m3u8=true&user_session_id=b6028b6dd0a3c0812fa77ebc62bf1a77&auth_key=1704299587-0-0-b4ba5c7f9197fad9b0d5ed1ef7df7f6a&edge_slice=true",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Coppa Italia ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+        "hteam": "Sassuolo",
+        "time": " 11:30 PM ",
+        "date": "2024-01-03",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+        "ateam": "Atalanta",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " LaLiga ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+        "hteam": "Mallorca",
+        "time": " 12:45 AM ",
+        "date": "2024-01-04",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
+        "ateam": "Real Madrid",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " LaLiga ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
+        "hteam": "Real Betis",
+        "time": " 12:45 AM ",
+        "date": "2024-01-04",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+        "ateam": "Celta Vigo",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Super Cup ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+        "hteam": "Toulouse",
+        "time": " 2:15 AM ",
+        "date": "2024-01-04",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9941_small.png",
+        "ateam": "PSG",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " Coppa Italia ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+        "hteam": "Cremonese",
+        "time": " 2:30 AM ",
+        "date": "2024-01-04",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7801_small.png",
+        "ateam": "Roma",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    },
+    {
+        "league": " LaLiga ",
+        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+        "hteam": "Atletico Madrid",
+        "time": " 3:00 AM ",
+        "date": "2024-01-04",
+        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+        "ateam": "Girona",
+        "link": [
+            {
+                "type": "China HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "China SD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco HD",
+                "livelink": "0",
+                "trylink": ""
+            },
+            {
+                "type": "Soco SD",
+                "livelink": "0",
+                "trylink": ""
+            }
+        ]
+    }
 ]
