@@ -3,29 +3,29 @@
 "league": " FA Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
 "hteam": "Wolverhampton",
-"time": " 1:45 AM ",
-"date": "2024-01-06",
+"time": " live ",
+"date": "1:45 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
 "ateam": "Brentford",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?user_session_id=cfbaac68be39699f1d799069a8e54dd9&auth_key=1704477007-0-0-c968e5301c2fcc862a2f52187ac25984&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?user_session_id=cfbaac68be39699f1d799069a8e54dd9&auth_key=1704477007-0-0-c968e5301c2fcc862a2f52187ac25984&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1704475731-0-0-3e4e2324c0ed0355e192316cb2c9099c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1704475731-0-0-3e4e2324c0ed0355e192316cb2c9099c",
 "trylink": ""
 }
 ]
@@ -34,29 +34,29 @@
 "league": " FA Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "hteam": "Rotherham United",
-"time": " 2:00 AM ",
-"date": "2024-01-06",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8119_small.png",
 "ateam": "Fulham",
 "link": [
 {
-"type": "China HD",
-"livelink": "0",
+"type": "Soco 1 HD",
+"livelink": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1704477591-0-0-20755647291f34ab37021969b2ced089",
 "trylink": ""
 },
 {
-"type": "China SD",
-"livelink": "0",
+"type": "Soco 1 SD",
+"livelink": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1704477591-0-0-3469636446237d0a1d43d3a3f78293a0",
 "trylink": ""
 },
 {
-"type": "Soco HD",
-"livelink": "0",
+"type": "Soco 2 HD",
+"livelink": "https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1704475851-0-0-c64b96abe6cf5cf285b8712842a07735",
 "trylink": ""
 },
 {
-"type": "Soco SD",
-"livelink": "0",
+"type": "Soco 2 SD",
+"livelink": "https://pull.niues.live/live/stream-400798_lsd.m3u8?auth_key=1704475851-0-0-c64b96abe6cf5cf285b8712842a07735",
 "trylink": ""
 }
 ]
@@ -65,29 +65,30 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
 "hteam": "Genoa",
-"time": " 2:15 AM ",
-"date": "2024-01-06",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
 "ateam": "Bologna",
 "link": [
+
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lhd.m3u8?edge_slice=true&auth_key=1704475327-0-0-50d47e62ff47e6982afa6cab3df50c78&user_session_id=26d243329102faa68b2b3d44cc46671b&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lsd.m3u8?edge_slice=true&auth_key=1704475327-0-0-50d47e62ff47e6982afa6cab3df50c78&user_session_id=26d243329102faa68b2b3d44cc46671b&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1704475911-0-0-384f36b881471668bd2ba4852d15f1ee",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1704475911-0-0-384f36b881471668bd2ba4852d15f1ee",
 "trylink": ""
 }
 ]
@@ -96,29 +97,19 @@
 "league": " Coupe de France ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
 "hteam": "Clermont Foot",
-"time": " 2:15 AM ",
-"date": "2024-01-06",
+"time": " live ",
+"date": "2:15 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
 "ateam": "Metz",
 "link": [
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1704476031-0-0-d77d2b0e4b6da1c7a5e64b425f58a45c",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-261808_lsd.m3u8?auth_key=1704476031-0-0-d77d2b0e4b6da1c7a5e64b425f58a45c",
 "trylink": ""
 }
 ]
@@ -127,29 +118,30 @@
 "league": " FA Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
 "hteam": "Burnley",
-"time": " 2:30 AM ",
-"date": "2024-01-06",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
 "ateam": "Tottenham Hotspur",
 "link": [
+
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1704475447-0-0-7a4c8ed0dcc5eb5b3505ad5ac3465929&sub_m3u8=true&edge_slice=true&user_session_id=c63ef455aceeb334f22d96b22cd28120",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1704475447-0-0-7a4c8ed0dcc5eb5b3505ad5ac3465929&sub_m3u8=true&edge_slice=true&user_session_id=c63ef455aceeb334f22d96b22cd28120",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=2ef83b47b506363fb873a71b2052154d&txTime=65987054",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=036b8e9f81ef68ee6d5f5fb96ff7c40a&txTime=65987054",
 "trylink": ""
 }
 ]
