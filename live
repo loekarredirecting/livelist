@@ -1,147 +1,496 @@
 [
 {
-"league": " FA Cup ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937_small.png",
-"hteam": "Wolverhampton",
-"time": " live ",
-"date": "1:45 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8602_small.png",
-"ateam": "Brentford",
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8636_small.png",
+"hteam": "Hellas Verona",
+"time": " 6:00 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9876_small.png",
+"ateam": "Inter",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?user_session_id=cfbaac68be39699f1d799069a8e54dd9&auth_key=1704477007-0-0-c968e5301c2fcc862a2f52187ac25984&edge_slice=true&sub_m3u8=true",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?user_session_id=cfbaac68be39699f1d799069a8e54dd9&auth_key=1704477007-0-0-c968e5301c2fcc862a2f52187ac25984&edge_slice=true&sub_m3u8=true",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lhd.m3u8?auth_key=1704475731-0-0-3e4e2324c0ed0355e192316cb2c9099c",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912033_lsd.m3u8?auth_key=1704475731-0-0-3e4e2324c0ed0355e192316cb2c9099c",
+"livelink": "0",
 "trylink": ""
 }
 ]
 },
 {
 "league": " FA Cup ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-"hteam": "Rotherham United",
-"time": " live ",
-"date": "2:00 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8119_small.png",
-"ateam": "Fulham",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10004_small.png",
+"hteam": "Leicester",
+"time": " 7:00 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197_small.png",
+"ateam": "Millwall",
 "link": [
 {
-"type": "Soco 1 HD",
-"livelink": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1704477591-0-0-20755647291f34ab37021969b2ced089",
+"type": "China HD",
+"livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco 1 SD",
-"livelink": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1704477591-0-0-3469636446237d0a1d43d3a3f78293a0",
+"type": "China SD",
+"livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco 2 HD",
-"livelink": "https://pull.niues.live/live/stream-400798_lhd.m3u8?auth_key=1704475851-0-0-c64b96abe6cf5cf285b8712842a07735",
+"type": "Soco HD",
+"livelink": "0",
 "trylink": ""
 },
 {
-"type": "Soco 2 SD",
-"livelink": "https://pull.niues.live/live/stream-400798_lsd.m3u8?auth_key=1704475851-0-0-c64b96abe6cf5cf285b8712842a07735",
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Friendlies ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5819_small.png",
+"hteam": "South Korea",
+"time": " 7:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7804_small.png",
+"ateam": "Iraq",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " FA Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8472_small.png",
+"hteam": "Newcastle",
+"time": " 7:15 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+"ateam": "Sunderland",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
 "trylink": ""
 }
 ]
 },
 {
 "league": " Serie A ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-"hteam": "Genoa",
-"time": " live ",
-"date": "2:15 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10233_small.png",
-"ateam": "Bologna",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
+"hteam": "Monza",
+"time": " 8:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6504_small.png",
+"ateam": "Frosinone",
 "link": [
-
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lhd.m3u8?edge_slice=true&auth_key=1704475327-0-0-50d47e62ff47e6982afa6cab3df50c78&user_session_id=26d243329102faa68b2b3d44cc46671b&sub_m3u8=true",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lsd.m3u8?edge_slice=true&auth_key=1704475327-0-0-50d47e62ff47e6982afa6cab3df50c78&user_session_id=26d243329102faa68b2b3d44cc46671b&sub_m3u8=true",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912050_lhd.m3u8?auth_key=1704475911-0-0-384f36b881471668bd2ba4852d15f1ee",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912050_lsd.m3u8?auth_key=1704475911-0-0-384f36b881471668bd2ba4852d15f1ee",
-"trylink": ""
-}
-]
-},
-{
-"league": " Coupe de France ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8550_small.png",
-"hteam": "Clermont Foot",
-"time": " live ",
-"date": "2:15 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-"ateam": "Metz",
-"link": [
-{
-"type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-261808_lhd.m3u8?auth_key=1704476031-0-0-d77d2b0e4b6da1c7a5e64b425f58a45c",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-261808_lsd.m3u8?auth_key=1704476031-0-0-d77d2b0e4b6da1c7a5e64b425f58a45c",
+"livelink": "0",
 "trylink": ""
 }
 ]
 },
 {
 "league": " FA Cup ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-"hteam": "Burnley",
-"time": " live ",
-"date": "2:30 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191.png",
-"ateam": "Tottenham Hotspur",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10194_small.png",
+"hteam": "Brighton",
+"time": " 9:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204_small.png",
+"ateam": "Stoke City",
 "link": [
-
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?auth_key=1704475447-0-0-7a4c8ed0dcc5eb5b3505ad5ac3465929&sub_m3u8=true&edge_slice=true&user_session_id=c63ef455aceeb334f22d96b22cd28120",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?auth_key=1704475447-0-0-7a4c8ed0dcc5eb5b3505ad5ac3465929&sub_m3u8=true&edge_slice=true&user_session_id=c63ef455aceeb334f22d96b22cd28120",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lhd.m3u8?txSecret=2ef83b47b506363fb873a71b2052154d&txTime=65987054",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull01.rrwes.live/live/stream-9912038_lsd.m3u8?txSecret=036b8e9f81ef68ee6d5f5fb96ff7c40a&txTime=65987054",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " FA Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10172_small.png",
+"hteam": "AFC Bournemouth",
+"time": " 9:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8678_small.png",
+"ateam": "QPR",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8206_small.png",
+"hteam": "Atletico Madrid",
+"time": " 9:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+"ateam": "Lugo",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8558_small.png",
+"hteam": "Getafe",
+"time": " 10:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8305_small.png",
+"ateam": "espanyol",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9888_small.png",
+"hteam": "Cagliari",
+"time": " 11:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8529_small.png",
+"ateam": "Lecce",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10268_small.png",
+"hteam": "Girona",
+"time": " 11:30 PM ",
+"date": "2024-01-06",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/7732_small.png",
+"ateam": "Elche",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " FA CUP ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"hteam": "Preston",
+"time": " 12:00 AM ",
+"date": "2024-01-07",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8411_small.png",
+"ateam": "Chelsea",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " FA Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
+"hteam": "Aston Villa",
+"time": " 12:00 AM ",
+"date": "2024-01-07",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10252_small.png",
+"ateam": "Middlesbrough",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
+"hteam": "Real Betis",
+"time": " 1:30 AM ",
+"date": "2024-01-07",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8603_small.png",
+"ateam": "Deportivo Alaves",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Serie A ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7943_small.png",
+"hteam": "Fiorentina",
+"time": " 2:15 AM ",
+"date": "2024-01-07",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+"ateam": "Sassuolo",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Copa del Rey ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/189685_small.png",
+"hteam": "Real Madrid",
+"time": " 3:00 AM ",
+"date": "2024-01-07",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"ateam": "Arandina CF",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
 "trylink": ""
 }
 ]
