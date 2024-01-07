@@ -65,29 +65,29 @@
 "league": " Serie A ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8534_small.png",
 "hteam": "AC Milan",
-"time": " 6:00 PM ",
-"date": "2024-01-07",
+"time": " live ",
+"date": "6:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
 "ateam": "Empoli",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lhd.m3u8?sub_m3u8=true&auth_key=1704628027-0-0-c6d90258bc3f82f6f0b7e2b23059ebe4&edge_slice=true&user_session_id=46944f7e11140e0605a500f9f7ae2b79",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-558696_lsd.m3u8?sub_m3u8=true&auth_key=1704628027-0-0-c6d90258bc3f82f6f0b7e2b23059ebe4&edge_slice=true&user_session_id=46944f7e11140e0605a500f9f7ae2b79",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912078_lhd.m3u8?txSecret=8869baf166185fe01ec87b7290dad483&txTime=659ada2b",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull01.rrwes.live/live/stream-9912078_lsd.m3u8?txSecret=8869baf166185fe01ec87b7290dad483&txTime=659ada2b",
 "trylink": ""
 }
 ]
