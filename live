@@ -3,29 +3,29 @@
 "league": " Copa del Rey ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/189624_small.png",
 "hteam": "Celta Vigo",
-"time": " 5:30 PM ",
-"date": "2024-01-07",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9910_small.png",
 "ateam": "SD Amorebieta",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lhd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1704627187-0-0-d9992fe86ba5b24554d6223c32a0c486&user_session_id=c321b06c3ff957eb54a1960a06ff15f3",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-411882_lsd.m3u8?edge_slice=true&sub_m3u8=true&auth_key=1704627187-0-0-d9992fe86ba5b24554d6223c32a0c486&user_session_id=c321b06c3ff957eb54a1960a06ff15f3",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lhd.m3u8?auth_key=1704627411-0-0-d2378e20f935f66c0dcc094608233ee8",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912042_lsd.m3u8?auth_key=1704627411-0-0-d2378e20f935f66c0dcc094608233ee8",
 "trylink": ""
 }
 ]
@@ -34,29 +34,29 @@
 "league": " Copa del Rey ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7876_small.png",
 "hteam": "Mallorca",
-"time": " 5:30 PM ",
-"date": "2024-01-07",
+"time": " live ",
+"date": "5:30 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8661_small.png",
 "ateam": "Burgos",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lhd.m3u8?sub_m3u8=true&auth_key=1704627067-0-0-e4afb562f174465bef58deaf914b78fb&user_session_id=48e19d1d84398e6ff5464044baa517b5&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-534857_lsd.m3u8?sub_m3u8=true&auth_key=1704627067-0-0-e4afb562f174465bef58deaf914b78fb&user_session_id=48e19d1d84398e6ff5464044baa517b5&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912025_lhd.m3u8?auth_key=1704627651-0-0-af42362ae9e67aa0aefedba75bc07d27",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912025_lsd.m3u8?auth_key=1704627651-0-0-af42362ae9e67aa0aefedba75bc07d27",
 "trylink": ""
 }
 ]
