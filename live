@@ -3,29 +3,29 @@
 "league": " FA Cup ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8528_small.png",
 "hteam": "Man United",
-"time": " 2:45 AM ",
-"date": "2024-01-09",
+"time": " live ",
+"date": "2:45 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
 "ateam": "Wigan Athletic",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1704725527-0-0-5b23fbaf5429e7b95f529ca0d4a45170&user_session_id=4869a332230c6a2da2210e63fb276f7a&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1704725527-0-0-5b23fbaf5429e7b95f529ca0d4a45170&user_session_id=4869a332230c6a2da2210e63fb276f7a&edge_slice=true&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1704725692-0-0-4502b2403803d77e757d1a0e8041cc64",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "0",
+"livelink": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1704725692-0-0-af9f33a1d334c4ab49edf919e79b35b6",
 "trylink": ""
 }
 ]
