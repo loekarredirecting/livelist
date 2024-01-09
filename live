@@ -1,31 +1,93 @@
 [
 {
-"league": " FA Cup ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8528_small.png",
-"hteam": "Man United",
-"time": " live ",
-"date": "2:45 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
-"ateam": "Wigan Athletic",
+"league": " Friendlies ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6715_small.png",
+"hteam": "Jordan",
+"time": " 6:00 PM ",
+"date": "2024-01-09",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/5816_small.png",
+"ateam": "Japan",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?auth_key=1704725527-0-0-5b23fbaf5429e7b95f529ca0d4a45170&user_session_id=4869a332230c6a2da2210e63fb276f7a&edge_slice=true&sub_m3u8=true",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?auth_key=1704725527-0-0-5b23fbaf5429e7b95f529ca0d4a45170&user_session_id=4869a332230c6a2da2210e63fb276f7a&edge_slice=true&sub_m3u8=true",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1704725692-0-0-4502b2403803d77e757d1a0e8041cc64",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1704725692-0-0-af9f33a1d334c4ab49edf919e79b35b6",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EFL Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
+"hteam": "Chelsea",
+"time": " 2:30 AM ",
+"date": "2024-01-10",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+"ateam": "Middlesbrough",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Coppa Italia ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
+"hteam": "Bologna",
+"time": " 2:30 AM ",
+"date": "2024-01-10",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
+"ateam": "Fiorentina",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
 "trylink": ""
 }
 ]
