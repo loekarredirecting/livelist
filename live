@@ -1,64 +1,126 @@
 [
-    {
-        "league": " EFL Cup ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8549_small.png",
-        "hteam": "Chelsea",
-        "time": " live ",
-        "date": "2:30 AM",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
-        "ateam": "Middlesbrough",
-        "link": [
-            {
-                "type": "China HD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lhd.m3u8?auth_key=1704811387-0-0-828c119b6298500fcb1fa545d49e6596&user_session_id=2290527db6c743ffe5e40a4bbeefaf0f&sub_m3u8=true&edge_slice=true",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-746673_lsd.m3u8?auth_key=1704811387-0-0-828c119b6298500fcb1fa545d49e6596&user_session_id=2290527db6c743ffe5e40a4bbeefaf0f&sub_m3u8=true&edge_slice=true",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=85c0734593fd3b51413c11d7c0978417&txTime=659da270",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "https://pull01.rrwes.live/live/stream-201313_lsd.m3u8?txSecret=3ab555b1da3c62021ba8708fbc26cbe8&txTime=659da270",
-                "trylink": ""
-            }
-        ]
-    },
-    {
-        "league": " Coppa Italia ",
-        "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8535_small.png",
-        "hteam": "Bologna",
-        "time": " live ",
-        "date": "2:30 AM",
-        "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9857_small.png",
-        "ateam": "Fiorentina",
-        "link": [
-            {
-                "type": "China HD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lhd.m3u8?edge_slice=true&user_session_id=8a944b2f55c1eacb1b17175e95698dda&sub_m3u8=true&auth_key=1704811447-0-0-ad5e3b75b26590691ed1282ab4cd4d30",
-                "trylink": ""
-            },
-            {
-                "type": "China SD",
-                "livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-1345860_lsd.m3u8?edge_slice=true&user_session_id=8a944b2f55c1eacb1b17175e95698dda&sub_m3u8=true&auth_key=1704811447-0-0-ad5e3b75b26590691ed1282ab4cd4d30",
-                "trylink": ""
-            },
-            {
-                "type": "Soco HD",
-                "livelink": "0",
-                "trylink": ""
-            },
-            {
-                "type": "Soco SD",
-                "livelink": "0",
-                "trylink": ""
-            }
-        ]
-    }
+{
+"league": " Coppa Italia ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8543_small.png",
+"hteam": "Roma",
+"time": " 11:30 PM ",
+"date": "2024-01-10",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+"ateam": "Lazio",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Super Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633_small.png",
+"hteam": "Atletico Madrid",
+"time": " 1:30 AM ",
+"date": "2024-01-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+"ateam": "Real Madrid",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " EFL Cup ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+"hteam": "Fulham",
+"time": " 2:30 AM ",
+"date": "2024-01-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
+"ateam": "Liverpool",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Coppa Italia ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
+"hteam": "Atalanta",
+"time": " 2:30 AM ",
+"date": "2024-01-11",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8524_small.png",
+"ateam": "AC Milan",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+}
 ]
