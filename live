@@ -3,19 +3,19 @@
 "league": " Bundesliga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
 "hteam": "TSG Hoffenheim",
-"time": " 2:00 AM ",
-"date": "2024-01-13",
+"time": " live ",
+"date": "2:00 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
 "ateam": "Bayern München",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lhd.m3u8?auth_key=1705074007-0-0-cbb39720ff48a53179813a04cd73cf0e&edge_slice=true&user_session_id=cfd5bf398b354a63505ed125a05eacc7&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-676985_lsd.m3u8?auth_key=1705074007-0-0-cbb39720ff48a53179813a04cd73cf0e&edge_slice=true&user_session_id=cfd5bf398b354a63505ed125a05eacc7&sub_m3u8=true",
 "trylink": ""
 },
 {
@@ -34,19 +34,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
 "hteam": "Luton Town",
-"time": " 2:15 AM ",
-"date": "2024-01-13",
+"time": " live ",
+"date": "2:15 AM ",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
 "ateam": "Burnley",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lhd.m3u8?auth_key=1705074127-0-0-36aae05e49eb364ff066ec4c80b6b20a&sub_m3u8=true&edge_slice=true&user_session_id=b02b16f626d9dbb9934076ea4cdcca47",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-643519_lsd.m3u8?auth_key=1705074127-0-0-36aae05e49eb364ff066ec4c80b6b20a&sub_m3u8=true&edge_slice=true&user_session_id=b02b16f626d9dbb9934076ea4cdcca47",
 "trylink": ""
 },
 {
@@ -65,19 +65,19 @@
 "league": " LaLiga ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
 "hteam": "Deportivo Alaves",
-"time": " 2:30 AM ",
-"date": "2024-01-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
 "ateam": "Sevilla",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-613431_lhd.m3u8?sub_m3u8=true&user_session_id=e13d6745b08032600443e99e7a6adc90&auth_key=1705074247-0-0-2f239b3bb4bd877db6d760fbfdeffb60&edge_slice=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-613431_lsd.m3u8?sub_m3u8=true&user_session_id=e13d6745b08032600443e99e7a6adc90&auth_key=1705074247-0-0-2f239b3bb4bd877db6d760fbfdeffb60&edge_slice=true",
 "trylink": ""
 },
 {
@@ -96,8 +96,8 @@
 "league": " Ligue 1 ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
 "hteam": "Strasbourg",
-"time": " 2:30 AM ",
-"date": "2024-01-13",
+"time": " live ",
+"date": "2:30 AM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
 "ateam": "Marseille",
 "link": [
