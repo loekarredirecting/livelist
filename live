@@ -1,52 +1,114 @@
 [
 {
-"league": " Super Cup ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
-"hteam": "Osasuna",
-"time": " live ",
-"date": "1:30 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8371_small.png",
-"ateam": "Barcelona",
+"league": " Bundesliga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
+"hteam": "TSG Hoffenheim",
+"time": " 2:00 AM ",
+"date": "2024-01-13",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8226_small.png",
+"ateam": "Bayern München",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lhd.m3u8?sub_m3u8=true&user_session_id=93f9005ac84317371222076ef4c96d08&edge_slice=true&auth_key=1704983107-0-0-6e59e8810228756e657e97e9973d8aa8",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-500894_lsd.m3u8?sub_m3u8=true&user_session_id=93f9005ac84317371222076ef4c96d08&edge_slice=true&auth_key=1704983107-0-0-6e59e8810228756e657e97e9973d8aa8",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco HD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lhd.m3u8?auth_key=1704982852-0-0-ed51735ea2d03427d8d715b2d05e99ba",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "Soco SD",
-"livelink": "https://pull.niues.live/live/stream-9912080_lsd.m3u8?auth_key=1704982852-0-0-5d43f77cba7f74cdfa9c45778a6f3888",
+"livelink": "0",
 "trylink": ""
 }
 ]
 },
 {
-"league": " Coppa Italia ",
-"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9885_small.png",
-"hteam": "Frosinone",
-"time": " live ",
-"date": "2:30 AM",
-"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9891_small.png",
-"ateam": "Juventus",
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8191_small.png",
+"hteam": "Luton Town",
+"time": " 2:15 AM ",
+"date": "2024-01-13",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8346_small.png",
+"ateam": "Burnley",
 "link": [
 {
 "type": "China HD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lhd.m3u8?edge_slice=true&auth_key=1704983227-0-0-2f16656a0cf2c24c6976215b85dee366&user_session_id=a59deb6e05cd83193423a6078b489c9e&sub_m3u8=true",
+"livelink": "0",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-710099_lsd.m3u8?edge_slice=true&auth_key=1704983227-0-0-2f16656a0cf2c24c6976215b85dee366&user_session_id=a59deb6e05cd83193423a6078b489c9e&sub_m3u8=true",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " LaLiga ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+"hteam": "Deportivo Alaves",
+"time": " 2:30 AM ",
+"date": "2024-01-13",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9866_small.png",
+"ateam": "Sevilla",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "0",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8592_small.png",
+"hteam": "Strasbourg",
+"time": " 2:30 AM ",
+"date": "2024-01-13",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+"ateam": "Marseille",
+"link": [
+{
+"type": "China HD",
+"livelink": "0",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "0",
 "trylink": ""
 },
 {
