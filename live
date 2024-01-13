@@ -3,19 +3,19 @@
 "league": " Premier League ",
 "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
 "hteam": "Fulham",
-"time": " 7:00 PM ",
-"date": "2024-01-13",
+"time": " live ",
+"date": "7:00 PM",
 "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
 "ateam": "Chelsea",
 "link": [
 {
 "type": "China HD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lhd.m3u8?user_session_id=c968e94fd2b68f215196595e6c17d6a6&edge_slice=true&auth_key=1705149428-0-0-d14cc985a45650531d3808279f698551&sub_m3u8=true",
 "trylink": ""
 },
 {
 "type": "China SD",
-"livelink": "0",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-551899_lsd.m3u8?user_session_id=c968e94fd2b68f215196595e6c17d6a6&edge_slice=true&auth_key=1705149428-0-0-d14cc985a45650531d3808279f698551&sub_m3u8=true",
 "trylink": ""
 },
 {
