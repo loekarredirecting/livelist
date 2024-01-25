@@ -4,28 +4,13 @@
 "himg": "https://play-lh.googleusercontent.com/MkEasZGpvJCWzxTQlIYA_Bo69Jhxpf6ffwoB70_kszLc1J6jNCkYBoIOVOGFkMajkss=w480-h960-rw",
 "hteam": "Burmese TV Pro",
 "time": " live ",
-"date": "2024-01-25",
+"date": "To Download",
 "aimg": "https://play-lh.googleusercontent.com/MkEasZGpvJCWzxTQlIYA_Bo69Jhxpf6ffwoB70_kszLc1J6jNCkYBoIOVOGFkMajkss=w480-h960-rw",
 "ateam": "Burmese TV Pro",
 "link": [
 {
-"type": "China HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "China SD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco HD",
-"livelink": "0",
-"trylink": ""
-},
-{
-"type": "Soco SD",
-"livelink": "0",
+"type": "Download Playstore Link",
+"livelink": "https://play.google.com/store/apps/details?id=com.pro.burmese_tv",
 "trylink": ""
 }
 ]
