@@ -10,7 +10,12 @@
 "link": [
 {
 "type": "BM Link",
-"livelink": "https://live.damstounas.xyz/hls/liga/index.m3u8",
+"livelink": "https://live.damstounas.xyz/hls/liga_480p/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "BM 2 Link",
+"livelink": "https://live.damstounas.xyz/hls/index.m3u8",
 "trylink": "https://soccerinhd.com/"
 },
 {
